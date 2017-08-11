@@ -1,5 +1,0 @@
-# Updated 08/11/17 07:19 by GenisysPro 1.1dev2164fd9
-# victim name | ban date | banned by | banned until | reason
-
-46|2017-08-11 07:19:24 +0800|lihaoyy|Forever|Banned by an operator.
-259|2017-08-11 07:19:54 +0800|lihaoyy|Forever|Banned by an operator.

@@ -1,52 +1,16 @@
 ---
-134:65:127:world:
-  kind: B
-  name: 锁链头盔
-  count: "1"
-  money: "0"
-  id: "302"
-134:65:128:world:
-  kind: B
-  name: 锁链胸甲
-  count: "1"
-  money: "0"
-  id: "303"
-134:65:129:world:
-  kind: B
-  name: 锁链护腿
-  count: "1"
-  money: "0"
-  id: "304"
-134:65:130:world:
-  kind: B
-  name: 锁链靴子
-  count: "1"
-  money: "0"
-  id: "305"
 134:66:128:world:
   kind: B
   name: §7石镐
   count: "1"
   money: "0"
   id: "274"
-134:66:127:world:
-  kind: B
-  name: §7石剑
-  count: "1"
-  money: "0"
-  id: "272"
 134:66:129:world:
   kind: B
   name: §7石铲
   count: "1"
   money: "0"
   id: "273"
-134:66:130:world:
-  kind: B
-  name: §7石斧
-  count: "1"
-  money: "0"
-  id: "275"
 149:71:114:zy:
   kind: A
   name: §6金锭
@@ -78,12 +42,6 @@
   count: "1"
   money: "100"
   id: "263"
-146:66:102:world:
-  kind: B
-  name: §6牛排
-  count: "1"
-  money: "50"
-  id: "364"
 148:66:102:world:
   kind: B
   name: §6面包
@@ -197,12 +155,6 @@
   count: "16"
   money: "250"
   id: "172"
-144:66:102:world:
-  kind: B
-  name: §f白色混凝土§c店主推荐特价
-  count: "64"
-  money: "200"
-  id: "236"
 10002:69:9996:th:
   kind: E
   name: §a§l副腐竹
@@ -587,7 +539,7 @@
 118:66:68:th:
   kind: C
   name: handsome
-  count: 93
+  count: 85
   money: "50"
   if: 100
   id: "332"
