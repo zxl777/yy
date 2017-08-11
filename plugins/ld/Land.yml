@@ -1,0 +1,1944 @@
+---
+0:
+  ID: 0
+  startX: 81
+  endX: 203
+  startZ: 68
+  endZ: 198
+  price: 1560900
+  owner: lihaoyy
+  level: world
+  invitee:
+    power777888: true
+    §a欢迎来到§6Y§4Y§3服§2务§5器: true
+  expires: ~
+1:
+  ID: 1
+  startX: 125
+  endX: 130
+  startZ: 126
+  endZ: 131
+  price: 1600
+  owner: lihaoyy
+  level: zy
+  invitee: []
+  expires: ~
+2:
+  ID: 2
+  startX: 125
+  endX: 130
+  startZ: 125
+  endZ: 130
+  price: 1600
+  owner: lihaoyy
+  level: nether
+  invitee: []
+  expires: ~
+4:
+  ID: 4
+  startX: 253
+  endX: 278
+  startZ: 121
+  endZ: 141
+  price: 45600
+  owner: 100_hjs
+  level: world
+  invitee: []
+  expires: ~
+5:
+  ID: 5
+  startX: 210
+  endX: 242
+  startZ: 71
+  endZ: 108
+  price: 111600
+  owner: 100_aries
+  level: world
+  invitee: []
+  expires: ~
+6:
+  ID: 6
+  startX: 203
+  endX: 222
+  startZ: 109
+  endZ: 138
+  price: 50400
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+7:
+  ID: 7
+  startX: 264
+  endX: 266
+  startZ: 77
+  endZ: 79
+  price: 100
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+8:
+  ID: 8
+  startX: 264
+  endX: 266
+  startZ: 81
+  endZ: 83
+  price: 100
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+9:
+  ID: 9
+  startX: 116
+  endX: 149
+  startZ: 155
+  endZ: 188
+  price: 102400
+  owner: 100_hjs
+  level: th
+  invitee:
+    TKECT: true
+  expires: ~
+10:
+  ID: 10
+  startX: 20
+  endX: 188
+  startZ: 198
+  endZ: 324
+  price: 2087500
+  owner: power777888
+  level: world
+  invitee:
+    §a现代别墅区: true
+    kwkkwk123: true
+  expires: ~
+11:
+  ID: 11
+  startX: 154
+  endX: 189
+  startZ: 154
+  endZ: 189
+  price: 115600
+  owner: power777888
+  level: th
+  invitee:
+    InhumanClock458: true
+  expires: ~
+12:
+  ID: 12
+  startX: 323
+  endX: 325
+  startZ: 280
+  endZ: 282
+  price: 100
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+13:
+  ID: 13
+  startX: -49
+  endX: -5
+  startZ: 121
+  endZ: 163
+  price: 176300
+  owner: power777888
+  level: world
+  invitee:
+    InhumanClock458: true
+    Meng_shine: true
+    kiritoxxx: true
+    Kiritoxxx: true
+  expires: ~
+14:
+  ID: 14
+  startX: 524
+  endX: 554
+  startZ: 179
+  endZ: 229
+  price: 142100
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+16:
+  ID: 16
+  startX: 187
+  endX: 327
+  startZ: 372
+  endZ: 495
+  price: 1695800
+  owner: lihaoyy
+  level: hub
+  invitee: []
+  expires: ~
+17:
+  ID: 17
+  startX: 9955
+  endX: 9970
+  startZ: 9947
+  endZ: 9964
+  price: 22400
+  owner: power777888
+  level: world
+  invitee:
+    ? §a——————————————————————————————————————————————————————————————————————————————————§cPoke§fBall§e小屋§a—————————————————————————————————————————————————————————————————————————————————————
+    : true
+  expires: ~
+18:
+  ID: 18
+  startX: -83
+  endX: -81
+  startZ: 312
+  endZ: 314
+  price: 100
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+19:
+  ID: 19
+  startX: -84
+  endX: -80
+  startZ: 309
+  endZ: 315
+  price: 1500
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+20:
+  ID: 20
+  startX: 148
+  endX: 152
+  startZ: 113
+  endZ: 120
+  price: 1800
+  owner: power777888
+  level: zy
+  invitee: []
+  expires: ~
+21:
+  ID: 21
+  startX: 21
+  endX: 77
+  startZ: -4
+  endZ: 150
+  price: 841500
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+22:
+  ID: 22
+  startX: 82
+  endX: 334
+  startZ: -90
+  endZ: 65
+  price: 3865400
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+23:
+  ID: 23
+  startX: 133
+  endX: 152
+  startZ: 177
+  endZ: 197
+  price: 34200
+  owner: power777888
+  level: zy
+  invitee:
+    kwkkwk123: true
+  expires: ~
+24:
+  ID: 24
+  startX: 102
+  endX: 110
+  startZ: 155
+  endZ: 172
+  price: 11200
+  owner: snowball0913
+  level: th
+  invitee:
+    JeffXiang: true
+    kwkkwk123: true
+  expires: ~
+25:
+  ID: 25
+  startX: 102
+  endX: 110
+  startZ: 171
+  endZ: 188
+  price: 11200
+  owner: snowball0913
+  level: th
+  invitee:
+    JeffXiang: true
+  expires: ~
+26:
+  ID: 26
+  startX: 119
+  endX: 127
+  startZ: 201
+  endZ: 211
+  price: 6300
+  owner: snowball0913
+  level: zy
+  invitee: []
+  expires: ~
+27:
+  ID: 27
+  startX: 76
+  endX: 111
+  startZ: 76
+  endZ: 111
+  price: 115600
+  owner: JeffXiang
+  level: th
+  invitee:
+    kwkkwk123: true
+    snowball0913: true
+    renhui: true
+    JeweledSaucer62: true
+  expires: ~
+28:
+  ID: 28
+  startX: 97
+  endX: 103
+  startZ: 155
+  endZ: 172
+  price: 8000
+  owner: snowball0913
+  level: th
+  invitee:
+    JeffXiang: true
+  expires: ~
+29:
+  ID: 29
+  startX: 80
+  endX: 92
+  startZ: 224
+  endZ: 229
+  price: 4400
+  owner: snowball0913
+  level: zy
+  invitee: []
+  expires: ~
+30:
+  ID: 30
+  startX: 92
+  endX: 96
+  startZ: 172
+  endZ: 176
+  price: 900
+  owner: snowball0913
+  level: zy
+  invitee: []
+  expires: ~
+31:
+  ID: 31
+  startX: 115
+  endX: 150
+  startZ: 115
+  endZ: 149
+  price: 112200
+  owner: power777888
+  level: th
+  invitee: []
+  expires: ~
+32:
+  ID: 32
+  startX: 46
+  endX: 66
+  startZ: 157
+  endZ: 184
+  price: 49400
+  owner: Monon
+  level: world
+  invitee: []
+  expires: ~
+33:
+  ID: 33
+  startX: 104
+  endX: 117
+  startZ: 143
+  endZ: 156
+  price: 14400
+  owner: shishen_xiaohuo
+  level: zy
+  invitee: []
+  expires: ~
+34:
+  ID: 34
+  startX: 171
+  endX: 287
+  startZ: 506
+  endZ: 572
+  price: 747500
+  owner: kwkkwk123
+  level: world
+  invitee:
+    kwkkw123: true
+  expires: ~
+35:
+  ID: 35
+  startX: 38
+  endX: 71
+  startZ: 77
+  endZ: 110
+  price: 102400
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+36:
+  ID: 36
+  startX: 125
+  endX: 130
+  startZ: 125
+  endZ: 130
+  price: 1600
+  owner: lihaoyy
+  level: __MACOSX
+  invitee: []
+  expires: ~
+37:
+  ID: 37
+  startX: 38
+  endX: 71
+  startZ: 116
+  endZ: 150
+  price: 105600
+  owner: JeffXiang
+  level: th
+  invitee: []
+  expires: ~
+38:
+  ID: 38
+  startX: 163
+  endX: 165
+  startZ: 95
+  endZ: 97
+  price: 100
+  owner: lihaoyy
+  level: th
+  invitee: []
+  expires: ~
+39:
+  ID: 39
+  startX: 124
+  endX: 126
+  startZ: 103
+  endZ: 105
+  price: 100
+  owner: wojiaoxangxu
+  level: th
+  invitee: []
+  expires: ~
+40:
+  ID: 40
+  startX: 128
+  endX: 130
+  startZ: 56
+  endZ: 58
+  price: 100
+  owner: wojiaoxangxu
+  level: th
+  invitee: []
+  expires: ~
+41:
+  ID: 41
+  startX: 77
+  endX: 102
+  startZ: 155
+  endZ: 188
+  price: 76800
+  owner: JeffXiang
+  level: th
+  invitee:
+    snowball0913: true
+  expires: ~
+42:
+  ID: 42
+  startX: 155
+  endX: 188
+  startZ: 76
+  endZ: 109
+  price: 102400
+  owner: snowball0913
+  level: th
+  invitee: []
+  expires: ~
+45:
+  ID: 45
+  startX: 115
+  endX: 150
+  startZ: 193
+  endZ: 225
+  price: 105400
+  owner: lihaoyy
+  level: th
+  invitee: []
+  expires: ~
+46:
+  ID: 46
+  startX: 76
+  endX: 110
+  startZ: 38
+  endZ: 71
+  price: 105600
+  owner: JeffXiang
+  level: th
+  invitee:
+    Summer: true
+    TKECT: true
+    snowball0913: true
+  expires: ~
+47:
+  ID: 47
+  startX: 123
+  endX: 125
+  startZ: 53
+  endZ: 55
+  price: 100
+  owner: handsome
+  level: th
+  invitee: []
+  expires: ~
+48:
+  ID: 48
+  startX: 116
+  endX: 149
+  startZ: -1
+  endZ: 32
+  price: 102400
+  owner: JeffXiang
+  level: th
+  invitee:
+    TKECT: true
+    Summer: true
+  expires: ~
+49:
+  ID: 49
+  startX: 172
+  endX: 180
+  startZ: 4
+  endZ: 12
+  price: 4900
+  owner: nixiang
+  level: th
+  invitee: []
+  expires: ~
+51:
+  ID: 51
+  startX: 155
+  endX: 188
+  startZ: 38
+  endZ: 71
+  price: 102400
+  owner: Kiritoxxx
+  level: th
+  invitee: []
+  expires: ~
+52:
+  ID: 52
+  startX: 194
+  endX: 227
+  startZ: 38
+  endZ: 71
+  price: 102400
+  owner: sam
+  level: th
+  invitee: []
+  expires: ~
+53:
+  ID: 53
+  startX: 77
+  endX: 110
+  startZ: -1
+  endZ: 32
+  price: 102400
+  owner: JeffXiang
+  level: th
+  invitee:
+    Summer: true
+  expires: ~
+54:
+  ID: 54
+  startX: -1
+  endX: 32
+  startZ: 38
+  endZ: 71
+  price: 102400
+  owner: Jacky1029
+  level: th
+  invitee:
+    muge: true
+    wuge: true
+  expires: ~
+56:
+  ID: 56
+  startX: 116
+  endX: 149
+  startZ: -78
+  endZ: -45
+  price: 102400
+  owner: hezichen
+  level: th
+  invitee: []
+  expires: ~
+57:
+  ID: 57
+  startX: 118
+  endX: 133
+  startZ: 48
+  endZ: 69
+  price: 28000
+  owner: handsome
+  level: th
+  invitee: []
+  expires: ~
+59:
+  ID: 59
+  startX: -1
+  endX: 33
+  startZ: 76
+  endZ: 111
+  price: 112200
+  owner: zhangjunyi666
+  level: th
+  invitee: []
+  expires: ~
+60:
+  ID: 60
+  startX: -39
+  endX: -6
+  startZ: 38
+  endZ: 71
+  price: 102400
+  owner: Green_Sky
+  level: th
+  invitee:
+    UrbanHitman13: true
+  expires: ~
+61:
+  ID: 61
+  startX: -78
+  endX: -45
+  startZ: 38
+  endZ: 71
+  price: 102400
+  owner: lanzhi
+  level: th
+  invitee:
+    caonima: true
+    lxx: true
+    boom: true
+  expires: ~
+62:
+  ID: 62
+  startX: -75
+  endX: -43
+  startZ: 77
+  endZ: 110
+  price: 99200
+  owner: lxx
+  level: th
+  invitee:
+    caonima: true
+    lanzhi: true
+  expires: ~
+63:
+  ID: 63
+  startX: 234
+  endX: 237
+  startZ: 207
+  endZ: 210
+  price: 400
+  owner: LiBai906609
+  level: world
+  invitee: []
+  expires: ~
+65:
+  ID: 65
+  startX: 94
+  endX: 110
+  startZ: -23
+  endZ: -6
+  price: 24000
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+66:
+  ID: 66
+  startX: 193
+  endX: 228
+  startZ: 154
+  endZ: 190
+  price: 119000
+  owner: a2209140013
+  level: th
+  invitee: []
+  expires: ~
+67:
+  ID: 67
+  startX: 147
+  endX: 150
+  startZ: 37
+  endZ: 72
+  price: 6800
+  owner: VeryGosling4799
+  level: th
+  invitee: []
+  expires: ~
+68:
+  ID: 68
+  startX: 7
+  endX: 9
+  startZ: 29
+  endZ: 31
+  price: 100
+  owner: PaidParsley3371
+  level: world
+  invitee: []
+  expires: ~
+69:
+  ID: 69
+  startX: 155
+  endX: 188
+  startZ: -78
+  endZ: -45
+  price: 102400
+  owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+70:
+  ID: 70
+  startX: 16
+  endX: 25
+  startZ: 11
+  endZ: 20
+  price: 6400
+  owner: weiqi_520
+  level: ender
+  invitee: []
+  expires: ~
+71:
+  ID: 71
+  startX: -117
+  endX: -84
+  startZ: 37
+  endZ: 71
+  price: 105600
+  owner: caonima
+  level: th
+  invitee:
+    lxx: true
+    lanzhi: true
+  expires: ~
+72:
+  ID: 72
+  startX: -120
+  endX: -86
+  startZ: 77
+  endZ: 110
+  price: 105600
+  owner: caonima
+  level: th
+  invitee:
+    lxx: true
+    lanzhi: true
+    speedyhhaha: true
+    speedyhhahaha: true
+    Speedyhhahaha: true
+  expires: ~
+73:
+  ID: 73
+  startX: 194
+  endX: 200
+  startZ: 77
+  endZ: 83
+  price: 2500
+  owner: snowball0913
+  level: th
+  invitee: []
+  expires: ~
+74:
+  ID: 74
+  startX: -131
+  endX: -75
+  startZ: 47
+  endZ: 94
+  price: 253000
+  owner: power777888
+  level: world
+  invitee:
+    ? '--------------------------------------------------------------------------------------------------PVE--------------------------------------------------------'
+    : true
+    '-------------------------------': true
+    '-----------------': true
+  expires: ~
+75:
+  ID: 75
+  startX: 115
+  endX: 150
+  startZ: 76
+  endZ: 110
+  price: 112200
+  owner: power777888
+  level: th
+  invitee:
+    Green_Sky: true
+  expires: ~
+77:
+  ID: 77
+  startX: 105
+  endX: 107
+  startZ: -115
+  endZ: -113
+  price: 100
+  owner: WitherSteve666
+  level: world
+  invitee: []
+  expires: ~
+78:
+  ID: 78
+  startX: 27
+  endX: 32
+  startZ: 116
+  endZ: 125
+  price: 3200
+  owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+79:
+  ID: 79
+  startX: 40
+  endX: 46
+  startZ: -79
+  endZ: -73
+  price: 2500
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+80:
+  ID: 80
+  startX: 22
+  endX: 28
+  startZ: 116
+  endZ: 122
+  price: 2500
+  owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+81:
+  ID: 81
+  startX: 21
+  endX: 23
+  startZ: 116
+  endZ: 120
+  price: 300
+  owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+83:
+  ID: 83
+  startX: 193
+  endX: 195
+  startZ: 129
+  endZ: 131
+  price: 100
+  owner: LiBai906609
+  level: zy
+  invitee: []
+  expires: ~
+84:
+  ID: 84
+  startX: 77
+  endX: 110
+  startZ: -78
+  endZ: -45
+  price: 102400
+  owner: JeffXiang
+  level: th
+  invitee:
+    Summer: true
+  expires: ~
+85:
+  ID: 85
+  startX: 116
+  endX: 149
+  startZ: -117
+  endZ: -84
+  price: 102400
+  owner: JeffXiang
+  level: th
+  invitee: []
+  expires: ~
+86:
+  ID: 86
+  startX: 155
+  endX: 188
+  startZ: -117
+  endZ: -84
+  price: 102400
+  owner: Speedyhhahaha
+  level: th
+  invitee: []
+  expires: ~
+87:
+  ID: 87
+  startX: 193
+  endX: 227
+  startZ: -1
+  endZ: 32
+  price: 105600
+  owner: JeffXiang
+  level: th
+  invitee:
+    Summer: true
+  expires: ~
+88:
+  ID: 88
+  startX: 194
+  endX: 227
+  startZ: -38
+  endZ: -6
+  price: 99200
+  owner: JeffXiang
+  level: th
+  invitee: []
+  expires: ~
+89:
+  ID: 89
+  startX: 194
+  endX: 227
+  startZ: -78
+  endZ: -45
+  price: 102400
+  owner: Zihang
+  level: th
+  invitee:
+    samS: true
+  expires: ~
+90:
+  ID: 90
+  startX: 215
+  endX: 221
+  startZ: 215
+  endZ: 217
+  price: 500
+  owner: peter
+  level: world
+  invitee: []
+  expires: ~
+91:
+  ID: 91
+  startX: 246
+  endX: 248
+  startZ: 240
+  endZ: 242
+  price: 100
+  owner: cjb
+  level: world
+  invitee: []
+  expires: ~
+92:
+  ID: 92
+  startX: 260
+  endX: 262
+  startZ: 225
+  endZ: 227
+  price: 100
+  owner: cjb
+  level: world
+  invitee: []
+  expires: ~
+93:
+  ID: 93
+  startX: -39
+  endX: -6
+  startZ: 77
+  endZ: 110
+  price: 102400
+  owner: BoomyEvening859
+  level: th
+  invitee:
+    lanzhi: true
+  expires: ~
+94:
+  ID: 94
+  startX: 131
+  endX: 145
+  startZ: 46
+  endZ: 59
+  price: 15600
+  owner: handsome
+  level: th
+  invitee: []
+  expires: ~
+95:
+  ID: 95
+  startX: 9
+  endX: 11
+  startZ: 34
+  endZ: 36
+  price: 100
+  owner: WitherSteve666
+  level: world
+  invitee: []
+  expires: ~
+97:
+  ID: 97
+  startX: 194
+  endX: 227
+  startZ: -117
+  endZ: -84
+  price: 102400
+  owner: JeffXiang
+  level: th
+  invitee: []
+  expires: ~
+98:
+  ID: 98
+  startX: -239
+  endX: -208
+  startZ: 210
+  endZ: 241
+  price: 90000
+  owner: Zihang
+  level: world
+  invitee: []
+  expires: ~
+99:
+  ID: 99
+  startX: 112
+  endX: 115
+  startZ: 92
+  endZ: 152
+  price: 11800
+  owner: JeffXiang
+  level: th
+  invitee: []
+  expires: ~
+100:
+  ID: 100
+  startX: 116
+  endX: 121
+  startZ: 38
+  endZ: 49
+  price: 4000
+  owner: handsome
+  level: th
+  invitee: []
+  expires: ~
+101:
+  ID: 101
+  startX: 22
+  endX: 27
+  startZ: 123
+  endZ: 125
+  price: 400
+  owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+102:
+  ID: 102
+  startX: 101
+  endX: 108
+  startZ: 103
+  endZ: 110
+  price: 3600
+  owner: Qian_Summer
+  level: zy
+  invitee: []
+  expires: ~
+103:
+  ID: 103
+  startX: 77
+  endX: 98
+  startZ: -39
+  endZ: -24
+  price: 28000
+  owner: XUOUYANG10
+  level: th
+  invitee: []
+  expires: ~
+104:
+  ID: 104
+  startX: 221
+  endX: 225
+  startZ: 133
+  endZ: 139
+  price: 1500
+  owner: GrainedCanvas10
+  level: th
+  invitee: []
+  expires: ~
+105:
+  ID: 105
+  startX: 116
+  endX: 149
+  startZ: -39
+  endZ: -6
+  price: 102400
+  owner: A790434290
+  level: th
+  invitee: []
+  expires: ~
+106:
+  ID: 106
+  startX: 100
+  endX: 108
+  startZ: 133
+  endZ: 140
+  price: 4200
+  owner: renhui
+  level: zy
+  invitee: []
+  expires: ~
+107:
+  ID: 107
+  startX: 143
+  endX: 156
+  startZ: 108
+  endZ: 123
+  price: 16800
+  owner: power777888
+  level: zy
+  invitee: []
+  expires: ~
+108:
+  ID: 108
+  startX: 194
+  endX: 197
+  startZ: 83
+  endZ: 87
+  price: 600
+  owner: Alex
+  level: th
+  invitee: []
+  expires: ~
+109:
+  ID: 109
+  startX: 140
+  endX: 142
+  startZ: 115
+  endZ: 117
+  price: 100
+  owner: handsome
+  level: zy
+  invitee: []
+  expires: ~
+110:
+  ID: 110
+  startX: 141
+  endX: 143
+  startZ: 115
+  endZ: 117
+  price: 100
+  owner: handsome
+  level: zy
+  invitee: []
+  expires: ~
+111:
+  ID: 111
+  startX: 137
+  endX: 140
+  startZ: 125
+  endZ: 128
+  price: 400
+  owner: handsome
+  level: zy
+  invitee: []
+  expires: ~
+112:
+  ID: 112
+  startX: 138
+  endX: 140
+  startZ: 140
+  endZ: 143
+  price: 200
+  owner: handsome
+  level: zy
+  invitee: []
+  expires: ~
+113:
+  ID: 113
+  startX: 137
+  endX: 139
+  startZ: 139
+  endZ: 141
+  price: 100
+  owner: handsome
+  level: zy
+  invitee: []
+  expires: ~
+114:
+  ID: 114
+  startX: 77
+  endX: 110
+  startZ: -117
+  endZ: -84
+  price: 102400
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+115:
+  ID: 115
+  startX: 99
+  endX: 110
+  startZ: -39
+  endZ: -28
+  price: 10000
+  owner: weiqi_520
+  level: th
+  invitee: []
+  expires: ~
+116:
+  ID: 116
+  startX: -228
+  endX: -218
+  startZ: 207
+  endZ: 210
+  price: 1800
+  owner: Zihang
+  level: world
+  invitee: []
+  expires: ~
+117:
+  ID: 117
+  startX: -229
+  endX: -227
+  startZ: 206
+  endZ: 211
+  price: 400
+  owner: Zihang
+  level: world
+  invitee: []
+  expires: ~
+118:
+  ID: 118
+  startX: 233
+  endX: 240
+  startZ: 116
+  endZ: 149
+  price: 19200
+  owner: xwg
+  level: th
+  invitee: []
+  expires: ~
+119:
+  ID: 119
+  startX: 122
+  endX: 124
+  startZ: -108
+  endZ: -106
+  price: 100
+  owner: jack
+  level: world
+  invitee: []
+  expires: ~
+120:
+  ID: 120
+  startX: 122
+  endX: 124
+  startZ: -107
+  endZ: -105
+  price: 100
+  owner: jack
+  level: world
+  invitee: []
+  expires: ~
+122:
+  ID: 122
+  startX: 106
+  endX: 114
+  startZ: 158
+  endZ: 166
+  price: 4900
+  owner: yulizhe
+  level: zy
+  invitee: []
+  expires: ~
+123:
+  ID: 123
+  startX: 38
+  endX: 71
+  startZ: -1
+  endZ: 32
+  price: 102400
+  owner: Green_Sky
+  level: th
+  invitee: []
+  expires: ~
+124:
+  ID: 124
+  startX: 38
+  endX: 71
+  startZ: -39
+  endZ: -6
+  price: 102400
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+125:
+  ID: 125
+  startX: 120
+  endX: 126
+  startZ: -111
+  endZ: -107
+  price: 1500
+  owner: jack
+  level: world
+  invitee: []
+  expires: ~
+126:
+  ID: 126
+  startX: 100
+  endX: 107
+  startZ: 158
+  endZ: 165
+  price: 3600
+  owner: yulizhe
+  level: zy
+  invitee: []
+  expires: ~
+127:
+  ID: 127
+  startX: 116
+  endX: 149
+  startZ: -156
+  endZ: -123
+  price: 102400
+  owner: LiBai906609
+  level: th
+  invitee: []
+  expires: ~
+128:
+  ID: 128
+  startX: 78
+  endX: 98
+  startZ: 81
+  endZ: 83
+  price: 1900
+  owner: yulizhe
+  level: zy
+  invitee: []
+  expires: ~
+129:
+  ID: 129
+  startX: 76
+  endX: 111
+  startZ: 115
+  endZ: 150
+  price: 115600
+  owner: lihaoyy
+  level: th
+  invitee:
+    lihaoyy: true
+    Jacky1029: true
+    wuge: true
+  expires: ~
+130:
+  ID: 130
+  startX: 138
+  endX: 140
+  startZ: 139
+  endZ: 141
+  price: 100
+  owner: handsome
+  level: zy
+  invitee: []
+  expires: ~
+131:
+  ID: 131
+  startX: 112
+  endX: 118
+  startZ: 111
+  endZ: 117
+  price: 2500
+  owner: yulizhe
+  level: zy
+  invitee: []
+  expires: ~
+132:
+  ID: 132
+  startX: 92
+  endX: 95
+  startZ: -24
+  endZ: -6
+  price: 3400
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+134:
+  ID: 134
+  startX: 194
+  endX: 201
+  startZ: 103
+  endZ: 110
+  price: 3600
+  owner: yulizhe
+  level: th
+  invitee: []
+  expires: ~
+135:
+  ID: 135
+  startX: 194
+  endX: 202
+  startZ: 96
+  endZ: 104
+  price: 4900
+  owner: yulizhe
+  level: th
+  invitee: []
+  expires: ~
+136:
+  ID: 136
+  startX: 15
+  endX: 32
+  startZ: 131
+  endZ: 149
+  price: 27200
+  owner: jack
+  level: th
+  invitee: []
+  expires: ~
+137:
+  ID: 137
+  startX: 14
+  endX: 33
+  startZ: 130
+  endZ: 150
+  price: 34200
+  owner: jack
+  level: th
+  invitee: []
+  expires: ~
+138:
+  ID: 138
+  startX: 37
+  endX: 72
+  startZ: -79
+  endZ: -44
+  price: 115600
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+139:
+  ID: 139
+  startX: 154
+  endX: 189
+  startZ: -157
+  endZ: -122
+  price: 115600
+  owner: renhui
+  level: th
+  invitee: []
+  expires: ~
+140:
+  ID: 140
+  startX: 47
+  endX: 58
+  startZ: -69
+  endZ: -57
+  price: 11000
+  owner: xue_hua
+  level: world
+  invitee: []
+  expires: ~
+141:
+  ID: 141
+  startX: 97
+  endX: 110
+  startZ: 91
+  endZ: 104
+  price: 14400
+  owner: ganweihao1887418
+  level: zy
+  invitee: []
+  expires: ~
+142:
+  ID: 142
+  startX: -199
+  endX: -166
+  startZ: 77
+  endZ: 110
+  price: 102400
+  owner: jack
+  level: th
+  invitee: []
+  expires: ~
+143:
+  ID: 143
+  startX: 117
+  endX: 134
+  startZ: 84
+  endZ: 96
+  price: 17600
+  owner: xxx44
+  level: zy
+  invitee: []
+  expires: ~
+144:
+  ID: 144
+  startX: -6
+  endX: 1
+  startZ: -26
+  endZ: -16
+  price: 5400
+  owner: wahaha_haha
+  level: world
+  invitee: []
+  expires: ~
+145:
+  ID: 145
+  startX: 83
+  endX: 97
+  startZ: 129
+  endZ: 144
+  price: 18200
+  owner: renhui
+  level: zy
+  invitee: []
+  expires: ~
+146:
+  ID: 146
+  startX: 75
+  endX: 86
+  startZ: 126
+  endZ: 147
+  price: 20000
+  owner: renhui
+  level: zy
+  invitee: []
+  expires: ~
+147:
+  ID: 147
+  startX: 81
+  endX: 97
+  startZ: 160
+  endZ: 177
+  price: 24000
+  owner: shishen_xiaohuo
+  level: zy
+  invitee: []
+  expires: ~
+148:
+  ID: 148
+  startX: -197
+  endX: -187
+  startZ: 196
+  endZ: 206
+  price: 8100
+  owner: Zihang
+  level: world
+  invitee: []
+  expires: ~
+149:
+  ID: 149
+  startX: -187
+  endX: -175
+  startZ: 222
+  endZ: 235
+  price: 13200
+  owner: yulizhe
+  level: world
+  invitee: []
+  expires: ~
+151:
+  ID: 151
+  startX: 9695
+  endX: 10122
+  startZ: 19699
+  endZ: 20217
+  price: 22024200
+  owner: power777888
+  level: world
+  invitee:
+    Speedyhhaha: true
+    Speedyhhahaha: true
+    kwkkwk123: true
+  expires: ~
+152:
+  ID: 152
+  startX: 138
+  endX: 153
+  startZ: 120
+  endZ: 135
+  price: 19600
+  owner: mao
+  level: nether
+  invitee: []
+  expires: ~
+153:
+  ID: 153
+  startX: 194
+  endX: 227
+  startZ: -39
+  endZ: -6
+  price: 102400
+  owner: Speedyhhahaha
+  level: th
+  invitee: []
+  expires: ~
+154:
+  ID: 154
+  startX: 194
+  endX: 224
+  startZ: -156
+  endZ: -123
+  price: 92800
+  owner: Dream
+  level: th
+  invitee: []
+  expires: ~
+155:
+  ID: 155
+  startX: 45
+  endX: 60
+  startZ: -71
+  endZ: -69
+  price: 1400
+  owner: xue_hua
+  level: world
+  invitee: []
+  expires: ~
+156:
+  ID: 156
+  startX: 37
+  endX: 73
+  startZ: 36
+  endZ: 72
+  price: 122500
+  owner: power777888
+  level: th
+  invitee:
+    kwkkwk123: true
+    JeweledSaucer62: true
+  expires: ~
+157:
+  ID: 157
+  startX: 106
+  endX: 110
+  startZ: -156
+  endZ: -152
+  price: 900
+  owner: jjuojm
+  level: th
+  invitee: []
+  expires: ~
+158:
+  ID: 158
+  startX: 194
+  endX: 227
+  startZ: 116
+  endZ: 149
+  price: 102400
+  owner: Leon93352001
+  level: th
+  invitee: []
+  expires: ~
+159:
+  ID: 159
+  startX: 155
+  endX: 188
+  startZ: -1
+  endZ: 32
+  price: 102400
+  owner: Leon93352001
+  level: th
+  invitee: []
+  expires: ~
+160:
+  ID: 160
+  startX: 196
+  endX: 198
+  startZ: 231
+  endZ: 233
+  price: 100
+  owner: mao
+  level: world
+  invitee: []
+  expires: ~
+161:
+  ID: 161
+  startX: 208
+  endX: 210
+  startZ: 82
+  endZ: 87
+  price: 400
+  owner: mao
+  level: world
+  invitee: []
+  expires: ~
+162:
+  ID: 162
+  startX: 77
+  endX: 110
+  startZ: -156
+  endZ: -123
+  price: 102400
+  owner: Speedyhhahaha
+  level: th
+  invitee: []
+  expires: ~
+163:
+  ID: 163
+  startX: 205
+  endX: 207
+  startZ: 79
+  endZ: 81
+  price: 100
+  owner: mao
+  level: world
+  invitee: []
+  expires: ~
+164:
+  ID: 164
+  startX: 111
+  endX: 113
+  startZ: 96
+  endZ: 98
+  price: 100
+  owner: mao
+  level: zy
+  invitee: []
+  expires: ~
+165:
+  ID: 165
+  startX: 75
+  endX: 93
+  startZ: 179
+  endZ: 197
+  price: 28900
+  owner: power777888
+  level: zy
+  invitee: []
+  expires: ~
+166:
+  ID: 166
+  startX: 91
+  endX: 93
+  startZ: 197
+  endZ: 199
+  price: 100
+  owner: mao
+  level: zy
+  invitee: []
+  expires: ~
+167:
+  ID: 167
+  startX: 203
+  endX: 221
+  startZ: 146
+  endZ: 168
+  price: 35700
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
+168:
+  ID: 168
+  startX: 6
+  endX: 20
+  startZ: 99
+  endZ: 116
+  price: 20800
+  owner: mao
+  level: world
+  invitee: []
+  expires: ~
+169:
+  ID: 169
+  startX: 61
+  endX: 63
+  startZ: -70
+  endZ: -56
+  price: 1300
+  owner: xue_hua
+  level: world
+  invitee: []
+  expires: ~
+170:
+  ID: 170
+  startX: 4
+  endX: 21
+  startZ: 80
+  endZ: 99
+  price: 28800
+  owner: mao
+  level: world
+  invitee: []
+  expires: ~
+171:
+  ID: 171
+  startX: -133
+  endX: -131
+  startZ: 92
+  endZ: 94
+  price: 100
+  owner: mao
+  level: world
+  invitee: []
+  expires: ~
+172:
+  ID: 172
+  startX: 35
+  endX: 37
+  startZ: 69
+  endZ: 71
+  price: 100
+  owner: mao
+  level: th
+  invitee: []
+  expires: ~
+173:
+  ID: 173
+  startX: -210
+  endX: -202
+  startZ: 247
+  endZ: 255
+  price: 4900
+  owner: Zihang
+  level: world
+  invitee: []
+  expires: ~
+174:
+  ID: 174
+  startX: -187
+  endX: -180
+  startZ: 216
+  endZ: 223
+  price: 3600
+  owner: yulizhe
+  level: world
+  invitee: []
+  expires: ~
+175:
+  ID: 175
+  startX: 77
+  endX: 111
+  startZ: 188
+  endZ: 219
+  price: 99000
+  owner: power777888
+  level: th
+  invitee: []
+  expires: ~
+176:
+  ID: 176
+  startX: -30
+  endX: -23
+  startZ: 27
+  endZ: 34
+  price: 3600
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+177:
+  ID: 177
+  startX: 8
+  endX: 10
+  startZ: 28
+  endZ: 30
+  price: 100
+  owner: lihaoyy
+  level: world
+  invitee: []
+  expires: ~
+178:
+  ID: 178
+  startX: 32
+  endX: 72
+  startZ: 153
+  endZ: 189
+  price: 136500
+  owner: lihaoyy
+  level: th
+  invitee: []
+  expires: ~
+179:
+  ID: 179
+  startX: -160
+  endX: -125
+  startZ: 76
+  endZ: 111
+  price: 115600
+  owner: Zi_Jian
+  level: th
+  invitee: []
+  expires: ~
+180:
+  ID: 180
+  startX: 1
+  endX: 3
+  startZ: -260
+  endZ: -258
+  price: 100
+  owner: lihaoyy
+  level: th
+  invitee: []
+  expires: ~
+181:
+  ID: 181
+  startX: 4
+  endX: 6
+  startZ: -260
+  endZ: -258
+  price: 100
+  owner: lihaoyy
+  level: th
+  invitee: []
+  expires: ~
+182:
+  ID: 182
+  startX: -2
+  endX: 0
+  startZ: -262
+  endZ: -260
+  price: 100
+  owner: mao
+  level: th
+  invitee: []
+  expires: ~
+183:
+  ID: 183
+  startX: 154
+  endX: 189
+  startZ: 115
+  endZ: 150
+  price: 115600
+  owner: power777888
+  level: th
+  invitee: []
+  expires: ~
+184:
+  ID: 184
+  startX: 233
+  endX: 240
+  startZ: 77
+  endZ: 110
+  price: 19200
+  owner: wja
+  level: th
+  invitee: []
+  expires: ~
+...

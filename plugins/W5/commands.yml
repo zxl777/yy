@@ -1,0 +1,10 @@
+---
+MainCommand:
+  command: w5
+  permission: op
+  description: §bW5五子棋设置
+UserCommand:
+  command: 五子棋
+  permission: "true"
+  description: §bW5五子棋数据
+...

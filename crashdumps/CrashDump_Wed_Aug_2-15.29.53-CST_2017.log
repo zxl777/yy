@@ -1,0 +1,43 @@
+GenisysPro Crash Dump Wed Aug 2 15:29:53 CST 2017
+
+Error: Constant pocketmine\PATH already defined
+File: /src/pocketmine/PocketMine
+Line: 92
+Type: E_NOTICE
+
+Code:
+[83] 
+[84] 	/*
+[85] 	 * Startup code. Do not look at it, it may harm you.
+[86] 	 * Most of them are hacks to fix date-related bugs, or basic functions used after this
+[87] 	 * This is the only non-class based file on this project.
+[88] 	 * Enjoy it as much as I did writing it. I don't want to do it again.
+[89] 	 */
+[90] 
+[91] 	if(\Phar::running(true) !== ""){
+[92] 		@define('pocketmine\PATH', \Phar::running(true) . "/");
+[93] 	}else{
+[94] 		@define('pocketmine\PATH', \getcwd() . DIRECTORY_SEPARATOR);
+[95] 	}
+[96] 
+[97] 	if(version_compare("7.0", PHP_VERSION) > 0){
+[98] 		echo "[CRITICAL] You must use PHP >= 7.0" . PHP_EOL;
+[99] 		echo "[CRITICAL] Please use the installer provided on the homepage." . PHP_EOL;
+[100] 		exit(1);
+[101] 	}
+[102] 
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+GenisysPro version: 2164fd927a9d58cb71d85fe55a50e1327a5bbe12 [Protocol 113; API 3.0.1]
+uname -a: Linux iZ2ze87gj89xj2f4vxw8tkZ 4.4.0-85-generic #108-Ubuntu SMP Mon Jul 3 17:23:59 UTC 2017 x86_64
+PHP version: 7.0.3
+Zend version: 3.0.0
+OS : Linux, linux
+
+Server uptime: 0 seconds
+Number of loaded worlds: 0
+Players online: 0/20
+
+Loaded plugins:

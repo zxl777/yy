@@ -1,0 +1,14 @@
+---
+有加有减:
+  add: 1
+  reduce: 1
+  checkcount: 0
+规定数量:
+  add: follow
+  reduce: 0
+  checkcount: 15
+跟随数量:
+  add: follow
+  reduce: follow
+  checkcount: 0
+...

@@ -1,0 +1,594 @@
+---
+134:65:127:world:
+  kind: B
+  name: 锁链头盔
+  count: "1"
+  money: "0"
+  id: "302"
+134:65:128:world:
+  kind: B
+  name: 锁链胸甲
+  count: "1"
+  money: "0"
+  id: "303"
+134:65:129:world:
+  kind: B
+  name: 锁链护腿
+  count: "1"
+  money: "0"
+  id: "304"
+134:65:130:world:
+  kind: B
+  name: 锁链靴子
+  count: "1"
+  money: "0"
+  id: "305"
+134:66:128:world:
+  kind: B
+  name: §7石镐
+  count: "1"
+  money: "0"
+  id: "274"
+134:66:127:world:
+  kind: B
+  name: §7石剑
+  count: "1"
+  money: "0"
+  id: "272"
+134:66:129:world:
+  kind: B
+  name: §7石铲
+  count: "1"
+  money: "0"
+  id: "273"
+134:66:130:world:
+  kind: B
+  name: §7石斧
+  count: "1"
+  money: "0"
+  id: "275"
+149:71:114:zy:
+  kind: A
+  name: §6金锭
+  need: "14"
+  count: "1"
+  id: "266"
+149:71:115:zy:
+  kind: sell
+  count: "1"
+  money: "200"
+  id: "265"
+149:71:116:zy:
+  kind: sell
+  count: "1"
+  money: "500"
+  id: "266"
+149:71:117:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "264"
+149:71:118:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "388"
+149:70:115:zy:
+  kind: sell
+  count: "1"
+  money: "100"
+  id: "263"
+146:66:102:world:
+  kind: B
+  name: §6牛排
+  count: "1"
+  money: "50"
+  id: "364"
+148:66:102:world:
+  kind: B
+  name: §6面包
+  count: "1"
+  money: "30"
+  id: "297"
+149:71:113:zy:
+  kind: A
+  name: §7铁锭
+  need: "15"
+  count: "1"
+  id: "265"
+158:66:102:world:
+  kind: B
+  name: §e火把
+  count: "64"
+  money: "200"
+  id: "50"
+160:66:102:world:
+  kind: B
+  name: §8基岩
+  count: "5"
+  money: "50000"
+  id: "7"
+162:66:102:world:
+  kind: B
+  name: §5黑曜石
+  count: "5"
+  money: "2000"
+  id: "49"
+149:71:119:zy:
+  kind: sell
+  count: "64"
+  money: "200"
+  id: "4"
+146:66:103:world:
+  kind: B
+  name: 橡木
+  count: "16"
+  money: "200"
+  id: "17"
+148:66:103:world:
+  kind: B
+  name: 云杉木
+  count: "16"
+  money: "200"
+  id: "17:1"
+150:66:103:world:
+  kind: B
+  name: §f白桦木
+  count: "16"
+  money: "200"
+  id: "17:2"
+152:66:103:world:
+  kind: B
+  name: 从林木
+  count: "16"
+  money: "200"
+  id: "17:3"
+154:66:103:world:
+  kind: B
+  name: 相思木
+  count: "16"
+  money: "200"
+  id: "162"
+150:66:102:world:
+  kind: B
+  name: 煤炭
+  count: "1"
+  money: "120"
+  id: "263"
+152:66:102:world:
+  kind: B
+  name: §7铁锭
+  count: "1"
+  money: "250"
+  id: "265"
+154:66:102:world:
+  kind: B
+  name: §6金锭
+  count: "1"
+  money: "600"
+  id: "266"
+156:66:102:world:
+  kind: B
+  name: §b钻石
+  count: "1"
+  money: "1100"
+  id: "264"
+156:66:103:world:
+  kind: B
+  name: §8圆石
+  count: "64"
+  money: "250"
+  id: "4"
+158:66:103:world:
+  kind: B
+  name: §7石头
+  count: "64"
+  money: "300"
+  id: "1"
+160:66:103:world:
+  kind: B
+  name: §7粘土
+  count: "16"
+  money: "200"
+  id: "82"
+162:66:103:world:
+  kind: B
+  name: §c硬化粘土
+  count: "16"
+  money: "250"
+  id: "172"
+144:66:102:world:
+  kind: B
+  name: §f白色混凝土§c店主推荐特价
+  count: "64"
+  money: "200"
+  id: "236"
+10002:69:9996:th:
+  kind: E
+  name: §a§l副腐竹
+  money: "99999999"
+154:66:107:world:
+  kind: B
+  name: §a甘蔗
+  count: "1"
+  money: "30"
+  id: "338"
+150:66:107:world:
+  kind: B
+  name: §a小麦
+  count: "1"
+  money: "50"
+  id: "296"
+146:66:107:world:
+  kind: B
+  name: 土豆
+  count: "1"
+  money: "50"
+  id: "392"
+148:66:107:world:
+  kind: B
+  name: §a胡萝卜
+  count: "1"
+  money: "60"
+  id: "391"
+152:66:107:world:
+  kind: B
+  name: §a甜菜根
+  count: "1"
+  money: "30"
+  id: "457"
+146:66:110:world:
+  kind: B
+  name: §e沙子
+  count: "64"
+  money: "200"
+  id: "12"
+148:66:110:world:
+  kind: B
+  name: §7沙砾
+  count: "64"
+  money: "200"
+  id: "13"
+150:66:110:world:
+  kind: B
+  name: §c红沙
+  count: "64"
+  money: "500"
+  id: "12:1"
+152:66:110:world:
+  kind: B
+  name: §e砂石
+  count: "64"
+  money: "600"
+  id: "24"
+154:66:110:world:
+  kind: B
+  name: §c红砂石
+  count: "64"
+  money: "1000"
+  id: "179"
+156:66:110:world:
+  kind: B
+  name: §7石砖
+  count: "64"
+  money: "400"
+  id: "98"
+158:66:110:world:
+  kind: B
+  name: §c红砖
+  count: "64"
+  money: "500"
+  id: "45"
+146:66:120:world:
+  kind: B
+  name: §1生怪箱
+  count: "1"
+  money: "30000"
+  id: "52"
+148:66:120:world:
+  kind: B
+  name: §d龙蛋
+  count: "1"
+  money: "50000"
+  id: "122"
+150:66:120:world:
+  kind: B
+  name: §d传送门框架
+  count: "1"
+  money: "20000"
+  id: "120"
+154:66:120:world:
+  kind: B
+  name: §7基岩
+  count: "1"
+  money: "20000"
+  id: "7"
+156:66:120:world:
+  kind: B
+  name: §b下界反应核
+  count: "1"
+  money: "100000"
+  id: "247"
+158:66:120:world:
+  kind: B
+  name: §e亮的红石灯
+  count: "1"
+  money: "10000"
+  id: "124"
+160:66:120:world:
+  kind: B
+  name: §6燃烧的熔炉
+  count: "1"
+  money: "10000"
+  id: "62"
+162:66:120:world:
+  kind: B
+  name: §d地狱传送门
+  count: "1"
+  money: "20000"
+  id: "90"
+155:66:117:world:
+  kind: E
+  name: §a帅X
+  money: "3000"
+154:66:117:world:
+  kind: E
+  name: §b我是男的
+  money: "0"
+153:66:117:world:
+  kind: E
+  name: §d我是女的
+  money: "0"
+152:66:117:world:
+  kind: E
+  name: §e建筑师
+  money: "20000"
+151:66:117:world:
+  kind: E
+  name: §6-老司机-
+  money: "50000"
+150:66:117:world:
+  kind: E
+  name: §6富豪
+  money: "300000"
+149:66:117:world:
+  kind: E
+  name: §e§l§oSVIP
+  money: "100000"
+155:65:117:world:
+  kind: E
+  name: §kaa
+  money: "100"
+156:66:107:world:
+  kind: B
+  name: §c地狱疙瘩
+  count: "1"
+  money: "200"
+  id: "372"
+162:66:107:world:
+  kind: B
+  name: §e炼药台
+  count: "1"
+  money: "1000"
+  id: "379"
+158:66:107:world:
+  kind: B
+  name: §c发酵蜘蛛眼
+  count: "1"
+  money: "200"
+  id: "376"
+160:66:107:world:
+  kind: B
+  name: §e烈焰粉
+  count: "1"
+  money: "100"
+  id: "377"
+149:65:117:world:
+  kind: E
+  name: §c§oVIP
+  money: "60000"
+152:74:117:world:
+  kind: B
+  name: §e弓
+  count: "1"
+  money: "1000"
+  id: "261"
+148:65:117:world:
+  kind: E
+  name: §a副腐竹
+  money: "999999999"
+151:74:117:world:
+  kind: B
+  name: §7箭
+  count: "64"
+  money: "500"
+  id: "262"
+106:71:149:zy:
+  kind: C
+  name: power777888
+  count: 34
+  money: "100"
+  if: 100
+  id: "264"
+145:66:102:world:
+  kind: B
+  name: §b海晶灯§c店主推荐特价
+  count: "1"
+  money: "50"
+  id: "169"
+152:66:120:world:
+  kind: B
+  name: §7隐形基岩
+  count: "1"
+  money: "50000"
+  id: "95"
+146:66:116:world:
+  kind: D
+  name: 速度
+  time: "99999"
+  lv: "2"
+  money: "2000"
+  id: "1"
+148:66:116:world:
+  kind: D
+  name: "0"
+  time: "99999"
+  lv: "1"
+  money: "5000"
+  id: "5"
+150:66:116:world:
+  kind: D
+  name: 跳跃
+  time: "99999"
+  lv: "1"
+  money: "5000"
+  id: "8"
+152:66:116:world:
+  kind: D
+  name: 抗性提升
+  time: "99999"
+  lv: "1"
+  money: "6000"
+  id: "11"
+154:66:116:world:
+  kind: D
+  name: 夜视
+  time: "99999"
+  lv: "1"
+  money: "2000"
+  id: "16"
+156:66:116:world:
+  kind: D
+  name: 生命恢复
+  time: "99999"
+  lv: "1"
+  money: "10000"
+  id: "10"
+158:66:116:world:
+  kind: D
+  name: 你再也不会死了
+  time: "999999999999"
+  lv: "5"
+  money: "500000"
+  id: "11"
+160:66:116:world:
+  kind: D
+  name: 一击秒杀
+  time: "99999"
+  lv: "9999"
+  money: "100000"
+  id: "5"
+162:66:116:world:
+  kind: D
+  name: 生命提升
+  time: "99999"
+  lv: "4"
+  money: "20000"
+  id: "21"
+102:71:137:zy:
+  kind: C
+  name: renhui
+  count: 41
+  money: "1100"
+  if: 100
+  id: "264"
+102:71:136:zy:
+  kind: C
+  name: renhui
+  count: 39
+  money: "1100"
+  if: 100
+  id: "264"
+153:65:117:world:
+  kind: E
+  name: §3牛X
+  money: "5000"
+152:65:117:world:
+  kind: E
+  name: §4你打我啊
+  money: "5000"
+148:66:117:world:
+  kind: E
+  name: §6帅气的腐竹
+  money: "999999999"
+151:65:117:world:
+  kind: E
+  name: §c好久没装*了
+  money: "10000"
+150:65:117:world:
+  kind: E
+  name: §c主§f播§b§l
+  money: "10000000"
+146:67:106:world:
+  kind: sell
+  count: "1"
+  money: "40"
+  id: "392"
+148:67:106:world:
+  kind: sell
+  count: "1"
+  money: "50"
+  id: "391"
+150:67:106:world:
+  kind: sell
+  count: "1"
+  money: "40"
+  id: "296"
+152:67:106:world:
+  kind: sell
+  count: "1"
+  money: "20"
+  id: "457"
+154:67:107:world:
+  kind: sell
+  count: "1"
+  money: "20"
+  id: "338"
+156:67:106:world:
+  kind: sell
+  count: "1"
+  money: "180"
+  id: "372"
+91:75:165:zy:
+  kind: C
+  name: shishen_xiaohuo
+  count: 0
+  money: "5000"
+  if: 100
+  id: "313"
+91:75:168:zy:
+  kind: C
+  name: shishen_xiaohuo
+  count: 0
+  money: "6000"
+  if: 100
+  id: "310"
+91:75:166:zy:
+  kind: C
+  name: shishen_xiaohuo
+  count: 0
+  money: "7000"
+  if: 100
+  id: "312"
+91:75:167:zy:
+  kind: C
+  name: shishen_xiaohuo
+  count: 0
+  money: "6000"
+  if: 100
+  id: "311"
+86:71:138:zy:
+  kind: C
+  name: renhui
+  count: 9
+  money: "1000"
+  if: 100
+  id: "264"
+118:66:68:th:
+  kind: C
+  name: handsome
+  count: 93
+  money: "50"
+  if: 100
+  id: "332"
+...

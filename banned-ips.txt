@@ -1,0 +1,6 @@
+# Updated 08/11/17 10:47 by GenisysPro 1.1dev2164fd9
+# victim name | ban date | banned by | banned until | reason
+
+111.249.75.70|2017-08-10 17:50:51 +0800|power777888|Forever|Banned by an operator.
+223.104.175.70|2017-08-10 17:53:53 +0800|power777888|Forever|Banned by an operator.
+58.217.246.27|2017-08-11 10:47:46 +0800|power777888|Forever|Banned by an operator.
