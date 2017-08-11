@@ -1,7 +1,33 @@
-# Updated 08/11/17 21:26 by GenisysPro 1.1dev2164fd9
+# Updated 08/12/17 00:16 by GenisysPro 1.1dev2164fd9
 # victim name | ban date | banned by | banned until | reason
 
 yang|2017-08-11 14:47:45 +0800|power777888|Forever|Banned by an operator.
 urbanhitman13|2017-08-11 14:43:56 +0800|power777888|Forever|Banned by an operator.
 ren|2017-08-11 14:47:43 +0800|power777888|Forever|Banned by an operator.
 worldfire0503|2017-08-11 21:26:02 +0800|power777888|Forever|Banned by an operator.
+mao|2017-08-11 23:24:45 +0800|power777888|Forever|Banned by an operator.
+lihaoyy|2017-08-12 00:00:37 +0800|power777888|Forever|Banned by an operator.
+jack|2017-08-12 00:04:58 +0800|power777888|Forever|Banned by an operator.
+jacky1029|2017-08-12 00:05:13 +0800|power777888|Forever|Banned by an operator.
+jeffxiang|2017-08-12 00:05:45 +0800|power777888|Forever|Banned by an operator.
+kirito|2017-08-12 00:06:01 +0800|power777888|Forever|Banned by an operator.
+kwkkwk123|2017-08-12 00:06:28 +0800|power777888|Forever|Banned by an operator.
+lxx|2017-08-12 00:06:54 +0800|power777888|Forever|Banned by an operator.
+lwunl|2017-08-12 00:07:04 +0800|power777888|Forever|Banned by an operator.
+sams|2017-08-12 00:07:16 +0800|power777888|Forever|Banned by an operator.
+scream|2017-08-12 00:07:31 +0800|power777888|Forever|Banned by an operator.
+snowball0913|2017-08-12 00:07:46 +0800|power777888|Forever|Banned by an operator.
+lanzhi|2017-08-12 00:08:16 +0800|power777888|Forever|Banned by an operator.
+speedyhaha|2017-08-12 00:08:32 +0800|power777888|Forever|Banned by an operator.
+wuyihan|2017-08-12 00:08:45 +0800|power777888|Forever|Banned by an operator.
+wojiaoyangxu|2017-08-12 00:09:09 +0800|power777888|Forever|Banned by an operator.
+yy|2017-08-12 00:09:39 +0800|power777888|Forever|Banned by an operator.
+uitsrustl|2017-08-12 00:10:01 +0800|power777888|Forever|Banned by an operator.
+tkect|2017-08-12 00:10:12 +0800|power777888|Forever|Banned by an operator.
+pyi6666|2017-08-12 00:10:34 +0800|power777888|Forever|Banned by an operator.
+lancer|2017-08-12 00:10:47 +0800|power777888|Forever|Banned by an operator.
+glory|2017-08-12 00:11:06 +0800|power777888|Forever|Banned by an operator.
+caonima|2017-08-12 00:11:16 +0800|power777888|Forever|Banned by an operator.
+brianng|2017-08-12 00:11:37 +0800|power777888|Forever|Banned by an operator.
+zi_jian|2017-08-12 00:16:03 +0800|power777888|Forever|Banned by an operator.
+power777888|2017-08-12 00:16:40 +0800|power777888|Forever|Banned by an operator.
