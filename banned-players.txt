@@ -1,8 +1,8 @@
-# Updated 08/12/17 13:43 by GenisysPro 1.1devcb61a69
+# Updated 08/12/17 17:32 by GenisysPro 1.1devcb61a69
 # victim name | ban date | banned by | banned until | reason
 
 yang|2017-08-11 14:47:45 +0800|power777888|Forever|Banned by an operator.
 urbanhitman13|2017-08-11 14:43:56 +0800|power777888|Forever|Banned by an operator.
 ren|2017-08-11 14:47:43 +0800|power777888|Forever|Banned by an operator.
 worldfire0503|2017-08-12 13:13:50 +0800|power777888|Forever|Banned by an operator.
-power777888|2017-08-12 13:35:40 +0800|lihaoyy|Forever|Banned by an operator.
+jack|2017-08-12 17:32:56 +0800|lihaoyy|Forever|Banned by an operator.
