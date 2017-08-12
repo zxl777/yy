@@ -1,3 +1,4 @@
-# Updated 08/11/17 14:47 by GenisysPro 1.1dev2164fd9
+# Updated 08/12/17 13:30 by GenisysPro 1.1devcb61a69
 # victim name | ban date | banned by | banned until | reason
 
+180.106.57.229|2017-08-12 13:30:42 +0800|power777888|Forever|Banned by an operator.

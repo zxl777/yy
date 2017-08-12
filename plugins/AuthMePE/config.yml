@@ -30,7 +30,7 @@ force-spawn: true
 # 允许玩家输入错误的密码几次.
 tries-allowed-to-enter-password: 3
 # 如果错误达到封号次数.那么应该封号几分钟? (分钟为单位)
-time-unban-after-tries-ban-minutes: 2
+time-unban-after-tries-ban-minutes: 20
 
 # 对没有登陆的玩家进行隐身?
 vanish-nonloggedin-players: false
