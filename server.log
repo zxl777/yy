@@ -1,230 +1,248 @@
-2017-08-12 [06:32:57] [Server thread/INFO]: blue_sky[/111.249.56.187:60640] [ClientID: 7834207641549802882] logged in with entity id 13698 at (world, 128, -0.7685, 128)
-2017-08-12 [06:33:16] [Server thread/INFO]: blue_sky[/111.249.56.187:60640] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [06:33:47] [Server thread/INFO]: blue_sk[/111.249.56.187:60640] [ClientID: 7834207641549802882] logged in with entity id 14059 at (world, 128, 64, 128)
-2017-08-12 [06:33:57] [Server thread/INFO]: blue_sk[/111.249.56.187:60640] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [06:34:35] [Server thread/INFO]: power777888[/111.249.56.187:60640] logged out due to You are banned
-2017-08-12 [06:35:03] [Server thread/INFO]: power777888[/111.249.56.187:60640] logged out due to You are banned
-2017-08-12 [06:35:54] [Server thread/NOTICE]: Player data not found for "lohappy", creating new profile
-2017-08-12 [06:35:54] [Server thread/INFO]: lohappy[/111.249.56.187:60640] [ClientID: 7834207641549802882] logged in with entity id 14420 at (world, 128, 0, 128)
-2017-08-12 [06:36:06] [Server thread/INFO]: lohappy[/111.249.56.187:60640] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [06:36:47] [Server thread/NOTICE]: Player data not found for "lohooy", creating new profile
-2017-08-12 [06:36:47] [Server thread/INFO]: lohooy[/111.249.56.187:60640] [ClientID: 7834207641549802882] logged in with entity id 14781 at (world, 128, 0, 128)
-2017-08-12 [06:36:58] [Server thread/INFO]: lohooy[/111.249.56.187:60640] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [06:43:48] [Server thread/INFO]: InhumanClock458[/116.241.12.40:63258] [ClientID: 7328806086564002730] logged in with entity id 15142 at (world, 127.7792, 64, 124.1229)
-2017-08-12 [06:44:05] [Server thread/INFO]: InhumanClock458[/116.241.12.40:63258] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [06:44:13] [Server thread/INFO]: InhumanClock458[/116.241.12.40:63258] [ClientID: 7328806086564002730] logged in with entity id 15503 at (world, 128, -0.0784, 128)
-2017-08-12 [06:44:29] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 has logged in.
-2017-08-12 [06:44:29] [Server thread/INFO]: [AuthMePE] 玩家 InhumanClock458 登录了游戏。
-2017-08-12 [06:44:29] [Server thread/INFO]: - InhumanClock458 is now online!
-2017-08-12 [06:44:29] [Server thread/INFO]: - InhumanClock458 现在上线了!
-2017-08-12 [06:44:31] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [06:45:29] [Server thread/INFO]: [富豪]InhumanClock458 : WTF
-2017-08-12 [06:45:35] [Server thread/INFO]: Worldfire0503[/111.132.231.26:58674] logged out due to You are banned
-2017-08-12 [06:46:06] [Server thread/INFO]: Worldfire0503[/111.132.231.26:58674] logged out due to You are banned
-2017-08-12 [06:46:11] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [06:46:30] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [06:46:45] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [06:48:06] [Server thread/INFO]: InhumanClock458 died
-2017-08-12 [06:49:17] [Server thread/INFO]: blue_sky[/111.249.56.187:55039] [ClientID: 5903278655021412276] logged in with entity id 15870 at (world, 128, -2.6946, 128)
-2017-08-12 [06:49:31] [Server thread/INFO]: blue_sky[/111.249.56.187:55039] logged out due to client disconnect
-2017-08-12 [06:49:38] [Server thread/INFO]: [富豪]InhumanClock458 : 誰知道為什麼會這樣子
-2017-08-12 [06:49:47] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [06:49:59] [Server thread/INFO]: [富豪]InhumanClock458 : 有夠瞎
-2017-08-12 [06:52:41] [Server thread/INFO]: - InhumanClock458 is now offline!
-2017-08-12 [06:52:41] [Server thread/INFO]: - InhumanClock458 离开了游戏!
-2017-08-12 [06:52:41] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 has logged out.
-2017-08-12 [06:52:41] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 离开了游戏.
-2017-08-12 [06:52:41] [Server thread/INFO]: InhumanClock458[/116.241.12.40:63258] logged out due to client disconnect
-2017-08-12 [06:59:33] [Server thread/INFO]: InhumanClock458[/116.241.12.40:62197] [ClientID: 7328806086564002730] logged in with entity id 16353 at (world, 125.1794, 73, 119.1095)
-2017-08-12 [06:59:35] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 has logged in.
-2017-08-12 [06:59:35] [Server thread/INFO]: [AuthMePE] 玩家 InhumanClock458 登录了游戏。
-2017-08-12 [06:59:35] [Server thread/INFO]: - InhumanClock458 is now online!
-2017-08-12 [06:59:35] [Server thread/INFO]: - InhumanClock458 现在上线了!
-2017-08-12 [06:59:38] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [07:00:24] [Server thread/INFO]: Leon93352001[/27.223.103.138:21796] [ClientID: 1131473859350666500] logged in with entity id 16711 at (world, 146.9418, 65, 119.3603)
-2017-08-12 [07:00:31] [Server thread/INFO]: Leon93352001[/27.223.103.138:21796] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:00:52] [Server thread/INFO]: Leon93352001[/27.223.103.138:21796] [ClientID: 1131473859350666500] logged in with entity id 16838 at (world, 128, -1.5926, 128)
-2017-08-12 [07:00:59] [Server thread/INFO]: Leon93352001[/27.223.103.138:21796] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:01:24] [Server thread/INFO]: Leon93352001[/27.223.103.138:21796] [ClientID: 1131473859350666500] logged in with entity id 16839 at (world, 128, -0.2336, 128)
-2017-08-12 [07:01:31] [Server thread/INFO]: Leon93352001[/27.223.103.138:21796] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:03:14] [Server thread/INFO]: lihaoyy[/59.45.128.220:64034] logged out due to You are banned
-2017-08-12 [07:03:18] [Server thread/INFO]: blue_sky[/111.249.56.187:49379] [ClientID: 5903278655021412276] logged in with entity id 16841 at (world, 128, -3.3463, 128)
-2017-08-12 [07:03:37] [Server thread/INFO]: blue_sky[/111.249.56.187:49379] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [07:03:40] [Server thread/INFO]: lihaoyy[/59.45.128.220:64034] logged out due to You are banned
-2017-08-12 [07:03:59] [Server thread/INFO]: blue_sky[/111.249.56.187:49379] [ClientID: 5903278655021412276] logged in with entity id 17322 at (world, 128, -0.0784, 128)
-2017-08-12 [07:04:07] [Server thread/INFO]: lihaoyy8[/59.45.128.220:64034] [ClientID: -5747510323413524081] logged in with entity id 17323 at (world, 125.5935, 65, 135.229)
-2017-08-12 [07:04:14] [Server thread/INFO]: [AuthMePE] Player lihaoyy8 has logged in.
-2017-08-12 [07:04:14] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy8 登录了游戏。
-2017-08-12 [07:04:14] [Server thread/INFO]: - lihaoyy8 is now online!
-2017-08-12 [07:04:14] [Server thread/INFO]: - lihaoyy8 现在上线了!
-2017-08-12 [07:04:15] [Server thread/INFO]: - lihaoyy8 is now offline!
-2017-08-12 [07:04:15] [Server thread/INFO]: - lihaoyy8 离开了游戏!
-2017-08-12 [07:04:15] [Server thread/INFO]: [AuthMePE] Player lihaoyy8 has logged out.
-2017-08-12 [07:04:15] [Server thread/INFO]: [AuthMePE] Player lihaoyy8 离开了游戏.
-2017-08-12 [07:04:15] [Server thread/INFO]: lihaoyy8[/59.45.128.220:64034] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:04:17] [Server thread/INFO]: blue_sky[/111.249.56.187:49379] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [07:04:30] [Server thread/INFO]: blue_sky[/111.249.56.187:49379] [ClientID: 5903278655021412276] logged in with entity id 17324 at (world, 128, -0.2336, 128)
-2017-08-12 [07:04:42] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [07:04:48] [Server thread/INFO]: blue_sky[/111.249.56.187:49379] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [07:04:57] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [07:04:59] [Server thread/INFO]: shazjwks01O@1kla[/59.45.128.220:64034] logged out due to Invalid name!
-2017-08-12 [07:06:04] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [07:06:36] [Server thread/INFO]: shazjwks01O@1kla[/117.136.5.103:33975] logged out due to Invalid name!
-2017-08-12 [07:06:55] [Server thread/NOTICE]: Player data not found for "shazjwks01owlw", creating new profile
-2017-08-12 [07:06:55] [Server thread/INFO]: shazjwks01Owlw[/117.136.5.103:33975] [ClientID: -5747510323413524081] logged in with entity id 17325 at (world, 128, 0, 128)
-2017-08-12 [07:07:03] [Server thread/INFO]: shazjwks01Owlw[/117.136.5.103:33975] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:07:29] [Server thread/INFO]: jack[/27.194.80.83:61443] logged out due to You are banned
-2017-08-12 [07:12:33] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] [ClientID: -1316834757957150286] logged in with entity id 17683 at (world, 215.2067, 62.6776, 115.0079)
-2017-08-12 [07:12:43] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:13:02] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] [ClientID: -1316834757957150286] logged in with entity id 18043 at (world, 128, 0, 128)
-2017-08-12 [07:13:10] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:13:32] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] [ClientID: -1316834757957150286] logged in with entity id 18044 at (world, 128.0372, -0.4642, 128.1752)
-2017-08-12 [07:13:40] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:13:59] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] [ClientID: -1316834757957150286] logged in with entity id 18045 at (world, 128.0119, -0.0784, 128.0558)
-2017-08-12 [07:14:07] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7224] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:14:17] [Server thread/INFO]: - InhumanClock458 is now offline!
-2017-08-12 [07:14:17] [Server thread/INFO]: - InhumanClock458 离开了游戏!
-2017-08-12 [07:14:17] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 has logged out.
-2017-08-12 [07:14:17] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 离开了游戏.
-2017-08-12 [07:14:17] [Server thread/INFO]: InhumanClock458[/116.241.12.40:62197] logged out due to client disconnect
-2017-08-12 [07:14:29] [Server thread/INFO]: InhumanClock458[/116.241.12.40:62197] [ClientID: 7328806086564002730] logged in with entity id 18046 at (world, 130.0313, 75.7103, 297.347)
-2017-08-12 [07:14:31] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 has logged in.
-2017-08-12 [07:14:31] [Server thread/INFO]: [AuthMePE] 玩家 InhumanClock458 登录了游戏。
-2017-08-12 [07:14:31] [Server thread/INFO]: - InhumanClock458 is now online!
-2017-08-12 [07:14:31] [Server thread/INFO]: - InhumanClock458 现在上线了!
-2017-08-12 [07:14:35] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [07:14:39] [Server thread/WARNING]: InhumanClock458 moved too fast, reverting movement
-2017-08-12 [07:14:41] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [07:14:46] [Server thread/WARNING]: InhumanClock458 moved too fast, reverting movement
-2017-08-12 [07:14:47] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [07:14:52] [Server thread/WARNING]: InhumanClock458 moved too fast, reverting movement
-2017-08-12 [07:14:54] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [07:15:00] [Server thread/WARNING]: InhumanClock458 moved too fast, reverting movement
-2017-08-12 [07:15:01] [Server thread/INFO]: InhumanClock458 fell out of the world
-2017-08-12 [07:15:03] [Server thread/INFO]: - InhumanClock458 is now offline!
-2017-08-12 [07:15:03] [Server thread/INFO]: - InhumanClock458 离开了游戏!
-2017-08-12 [07:15:03] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 has logged out.
-2017-08-12 [07:15:03] [Server thread/INFO]: [AuthMePE] Player InhumanClock458 离开了游戏.
-2017-08-12 [07:15:03] [Server thread/INFO]: InhumanClock458[/116.241.12.40:62197] logged out due to client disconnect
-2017-08-12 [07:16:00] [Server thread/NOTICE]: Player data not found for "jack1", creating new profile
-2017-08-12 [07:16:00] [Server thread/INFO]: jack1[/27.194.80.83:50919] [ClientID: -8095282852013630052] logged in with entity id 18047 at (world, 128, 0, 128)
-2017-08-12 [07:16:08] [Server thread/INFO]: jack1[/27.194.80.83:50919] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:16:27] [Server thread/INFO]: jack1[/27.194.80.83:50919] [ClientID: -8095282852013630052] logged in with entity id 18528 at (world, 128, -0.7685, 128)
-2017-08-12 [07:16:34] [Server thread/INFO]: jack1[/27.194.80.83:50919] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:17:41] [Server thread/INFO]: jack1[/27.194.80.83:50919] [ClientID: -8095282852013630052] logged in with entity id 18529 at (world, 128, -0.0784, 128)
-2017-08-12 [07:17:49] [Server thread/INFO]: jack1[/27.194.80.83:50919] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:18:54] [Server thread/INFO]: jack1[/27.194.80.83:50919] [ClientID: -8095282852013630052] logged in with entity id 19010 at (world, 128, -2.6946, 128)
-2017-08-12 [07:19:02] [Server thread/INFO]: jack1[/27.194.80.83:50919] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:19:34] [Server thread/NOTICE]: Player data not found for "jack123", creating new profile
-2017-08-12 [07:19:34] [Server thread/INFO]: jack123[/27.194.80.83:50919] [ClientID: -8095282852013630052] logged in with entity id 19491 at (world, 128, 0, 128)
-2017-08-12 [07:19:36] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:8122] [ClientID: -1316834757957150286] logged in with entity id 19795 at (world, 128, -0.0784, 128)
-2017-08-12 [07:19:41] [Server thread/INFO]: jack123[/27.194.80.83:50919] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:19:45] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:8122] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:21:22] [Server thread/INFO]: Kiritoxxx[/58.217.246.199:18810] [ClientID: -7579297536867559576] logged in with entity id 19973 at (th, 169.0302, 69, 43.0078)
-2017-08-12 [07:21:29] [Server thread/INFO]: Kiritoxxx[/58.217.246.199:18810] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:21:36] [Server thread/INFO]: Kiritoxxx[/58.217.246.199:18810] [ClientID: -7579297536867559576] logged in with entity id 20331 at (world, 128, -0.0784, 128)
-2017-08-12 [07:21:43] [Server thread/INFO]: [AuthMePE] Player Kiritoxxx has logged in.
-2017-08-12 [07:21:43] [Server thread/INFO]: [AuthMePE] 玩家 Kiritoxxx 登录了游戏。
-2017-08-12 [07:21:43] [Server thread/INFO]: - Kiritoxxx is now online!
-2017-08-12 [07:21:43] [Server thread/INFO]: - Kiritoxxx 现在上线了!
-2017-08-12 [07:21:43] [Server thread/INFO]: - Kiritoxxx is now offline!
-2017-08-12 [07:21:43] [Server thread/INFO]: - Kiritoxxx 离开了游戏!
-2017-08-12 [07:21:43] [Server thread/INFO]: [AuthMePE] Player Kiritoxxx has logged out.
-2017-08-12 [07:21:43] [Server thread/INFO]: [AuthMePE] Player Kiritoxxx 离开了游戏.
-2017-08-12 [07:21:43] [Server thread/INFO]: Kiritoxxx[/58.217.246.199:18810] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:23:19] [Server thread/INFO]: ahsa11[/1.180.233.141:33910] [ClientID: -6500022226055682996] logged in with entity id 20332 at (world, 128, 64, 128)
-2017-08-12 [07:23:30] [Server thread/INFO]: ahsa11[/1.180.233.141:33910] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:23:50] [Server thread/INFO]: Glory[/223.81.204.221:53612] logged out due to You are banned
-2017-08-12 [07:24:48] [Server thread/INFO]: Kiritoxxx[/58.217.246.199:27985] [ClientID: -7579297536867559576] logged in with entity id 20690 at (world, 128, -0.4642, 128)
-2017-08-12 [07:24:50] [Server thread/INFO]: [AuthMePE] Player Kiritoxxx has logged in.
-2017-08-12 [07:24:50] [Server thread/INFO]: [AuthMePE] 玩家 Kiritoxxx 登录了游戏。
-2017-08-12 [07:24:50] [Server thread/INFO]: - Kiritoxxx is now online!
-2017-08-12 [07:24:50] [Server thread/INFO]: - Kiritoxxx 现在上线了!
-2017-08-12 [07:24:53] [Server thread/INFO]: Kiritoxxx fell out of the world
-2017-08-12 [07:24:59] [Server thread/INFO]: Kiritoxxx fell out of the world
-2017-08-12 [07:25:03] [Server thread/INFO]: Kiritoxxx fell out of the world
-2017-08-12 [07:25:09] [Server thread/INFO]: Kiritoxxx fell out of the world
-2017-08-12 [07:25:16] [Server thread/INFO]: - Kiritoxxx is now offline!
-2017-08-12 [07:25:16] [Server thread/INFO]: - Kiritoxxx 离开了游戏!
-2017-08-12 [07:25:16] [Server thread/INFO]: [AuthMePE] Player Kiritoxxx has logged out.
-2017-08-12 [07:25:16] [Server thread/INFO]: [AuthMePE] Player Kiritoxxx 离开了游戏.
-2017-08-12 [07:25:16] [Server thread/INFO]: Kiritoxxx[/58.217.246.199:27985] logged out due to client disconnect
-2017-08-12 [07:28:50] [Server thread/INFO]: Glory[/223.81.204.221:53617] logged out due to You are banned
-2017-08-12 [07:29:09] [Server thread/INFO]: Glory[/223.81.204.221:53617] logged out due to You are banned
-2017-08-12 [07:30:40] [Server thread/INFO]: jack123[/27.194.80.83:50919] [ClientID: -8095282852013630052] logged in with entity id 21048 at (world, 128, -0.7685, 128)
-2017-08-12 [07:30:49] [Server thread/INFO]: jack123[/27.194.80.83:50919] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:33:06] [Server thread/INFO]: blue_sky[/111.249.56.187:56478] [ClientID: 5903278655021412276] logged in with entity id 21529 at (world, 128, -2.1096, 128)
-2017-08-12 [07:33:25] [Server thread/INFO]: blue_sky[/111.249.56.187:56478] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [07:33:36] [Server thread/INFO]: A790434290[/183.249.217.252:16709] [ClientID: 5710296914851668358] logged in with entity id 22010 at (world, 128, 64, 128)
-2017-08-12 [07:33:46] [Server thread/INFO]: A790434290[/183.249.217.252:16709] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:34:11] [Server thread/INFO]: A790434290[/183.249.217.252:16709] [ClientID: 5710296914851668358] logged in with entity id 22011 at (world, 128, -2.6946, 128)
-2017-08-12 [07:34:20] [Server thread/INFO]: A790434290[/183.249.217.252:16709] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:37:14] [Server thread/INFO]: xue_hua[/121.207.222.125:27275] [ClientID: -362118094303492591] logged in with entity id 22012 at (world, 127.2062, 64, 127.1902)
-2017-08-12 [07:37:17] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged in.
-2017-08-12 [07:37:17] [Server thread/INFO]: [AuthMePE] 玩家 xue_hua 登录了游戏。
-2017-08-12 [07:37:17] [Server thread/INFO]: - xue_hua is now online!
-2017-08-12 [07:37:17] [Server thread/INFO]: - xue_hua 现在上线了!
-2017-08-12 [07:37:20] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:37:25] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:37:30] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:37:35] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:37:48] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:37:56] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:37:59] [Server thread/INFO]: - xue_hua is now offline!
-2017-08-12 [07:37:59] [Server thread/INFO]: - xue_hua 离开了游戏!
-2017-08-12 [07:37:59] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged out.
-2017-08-12 [07:37:59] [Server thread/INFO]: [AuthMePE] Player xue_hua 离开了游戏.
-2017-08-12 [07:37:59] [Server thread/INFO]: xue_hua[/121.207.222.125:27275] logged out due to client disconnect
-2017-08-12 [07:38:09] [Server thread/INFO]: xue_hua[/121.207.222.125:27275] [ClientID: -362118094303492591] logged in with entity id 22420 at (world, 130.3508, -40, 119.7886)
-2017-08-12 [07:38:11] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged in.
-2017-08-12 [07:38:11] [Server thread/INFO]: [AuthMePE] 玩家 xue_hua 登录了游戏。
-2017-08-12 [07:38:11] [Server thread/INFO]: - xue_hua is now online!
-2017-08-12 [07:38:11] [Server thread/INFO]: - xue_hua 现在上线了!
-2017-08-12 [07:38:12] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:38:17] [Server thread/INFO]: xue_hua fell out of the world
-2017-08-12 [07:38:18] [Server thread/INFO]: - xue_hua is now offline!
-2017-08-12 [07:38:18] [Server thread/INFO]: - xue_hua 离开了游戏!
-2017-08-12 [07:38:18] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged out.
-2017-08-12 [07:38:18] [Server thread/INFO]: [AuthMePE] Player xue_hua 离开了游戏.
-2017-08-12 [07:38:18] [Server thread/INFO]: xue_hua[/121.207.222.125:27275] logged out due to client disconnect
-2017-08-12 [07:55:45] [Server thread/INFO]: Zi_Jian[/222.64.214.167:59497] logged out due to You are banned
-2017-08-12 [07:55:59] [Server thread/INFO]: blue_sky[/111.249.56.187:63352] [ClientID: 5903278655021412276] logged in with entity id 22421 at (world, 128, -0.4642, 128)
-2017-08-12 [07:56:05] [Server thread/INFO]: Zi_Jian[/222.64.214.167:59497] logged out due to You are banned
-2017-08-12 [07:56:09] [Server thread/INFO]: blue_sky[/111.249.56.187:63352] logged out due to client disconnect
-2017-08-12 [07:56:12] [Server thread/INFO]: Zi_Jian[/222.64.214.167:59497] logged out due to You are banned
-2017-08-12 [07:57:11] [Server thread/INFO]: wuge[/113.73.43.242:61153] [ClientID: -7760030538589010939] logged in with entity id 22902 at (world, 128, -2.6946, 128)
-2017-08-12 [07:57:30] [Server thread/INFO]: wuge[/113.73.43.242:61153] logged out due to Kicked by admin. Reason: Time out!
-2017-08-12 [07:58:08] [Server thread/INFO]: xu[/144.52.41.22:60205] logged out due to Invalid name!
-2017-08-12 [07:58:29] [Server thread/INFO]: jack123[/27.194.80.83:56698] [ClientID: -8095282852013630052] logged in with entity id 23218 at (world, 128, -2.6946, 128)
-2017-08-12 [07:58:36] [Server thread/INFO]: Zi_Jian[/222.64.214.167:59497] logged out due to You are banned
-2017-08-12 [07:58:40] [Server thread/INFO]: xu[/144.52.41.22:60205] logged out due to Invalid name!
-2017-08-12 [07:58:41] [Server thread/INFO]: jack123[/27.194.80.83:56698] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:59:00] [Server thread/INFO]: jack[/27.194.80.83:56698] logged out due to You are banned
-2017-08-12 [07:59:03] [Server thread/INFO]: DreamTale[/144.52.41.22:60205] [ClientID: -1465219337351510455] logged in with entity id 23699 at (world, 128, 64, 128)
-2017-08-12 [07:59:10] [Server thread/INFO]: DreamTale[/144.52.41.22:60205] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:59:28] [Server thread/INFO]: xuou1[/180.106.57.229:64687] [ClientID: 6442718915170225522] logged in with entity id 23700 at (world, 126.166, 64, 125.3779)
-2017-08-12 [07:59:35] [Server thread/INFO]: xuou1[/180.106.57.229:64687] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [07:59:50] [Server thread/INFO]: xuou1[/180.106.57.229:64687] [ClientID: 6442718915170225522] logged in with entity id 23701 at (world, 128, 0, 128)
-2017-08-12 [07:59:56] [Server thread/INFO]: [AuthMePE] Player xuou1 has logged in.
-2017-08-12 [07:59:56] [Server thread/INFO]: [AuthMePE] 玩家 xuou1 登录了游戏。
-2017-08-12 [07:59:56] [Server thread/INFO]: - xuou1 is now online!
-2017-08-12 [07:59:56] [Server thread/INFO]: - xuou1 现在上线了!
-2017-08-12 [07:59:56] [Server thread/INFO]: - xuou1 is now offline!
-2017-08-12 [07:59:56] [Server thread/INFO]: - xuou1 离开了游戏!
-2017-08-12 [07:59:56] [Server thread/INFO]: [AuthMePE] Player xuou1 has logged out.
-2017-08-12 [07:59:56] [Server thread/INFO]: [AuthMePE] Player xuou1 离开了游戏.
-2017-08-12 [07:59:56] [Server thread/INFO]: xuou1[/180.106.57.229:64687] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [08:00:02] [Server thread/INFO]: Zi_Jian[/222.64.214.167:59497] logged out due to You are banned
-2017-08-12 [08:04:55] [Server thread/INFO]: UrbanHitman14[/111.249.56.187:57448] [ClientID: 5903278655021412276] logged in with entity id 23702 at (th, 110.7446, 65.4998, 143.2918)
-2017-08-12 [08:05:05] [Server thread/INFO]: UrbanHitman14[/111.249.56.187:57448] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [08:07:29] [Server thread/INFO]: samS[/60.212.73.178:26614] logged out due to You are banned
-2017-08-12 [08:11:54] [Server thread/INFO]: Leon93352001[/27.223.103.138:32186] [ClientID: 1131473859350666500] logged in with entity id 24190 at (world, 128, -2.6946, 128)
-2017-08-12 [08:12:02] [Server thread/INFO]: Leon93352001[/27.223.103.138:32186] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [08:12:25] [Server thread/INFO]: Leon93352001[/27.223.103.138:32186] [ClientID: 1131473859350666500] logged in with entity id 24671 at (world, 128, -2.6946, 128)
-2017-08-12 [08:12:33] [Server thread/INFO]: Leon93352001[/27.223.103.138:32186] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [08:19:54] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7681] [ClientID: -1316834757957150286] logged in with entity id 24672 at (world, 128, -0.2336, 128)
-2017-08-12 [08:20:04] [Server thread/INFO]: Zhanshen_Red[/117.10.62.166:7681] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [08:21:16] [Server thread/INFO]: Steve[/120.229.230.205:17479] [ClientID: 9036961298353523006] logged in with entity id 25030 at (world, 128, -0.0784, 128)
-2017-08-12 [08:21:25] [Server thread/INFO]: Steve[/120.229.230.205:17479] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-12 [08:22:11] [Server thread/INFO]: jack1[/27.194.80.83:62946] [ClientID: -8095282852013630052] logged in with entity id 25388 at (world, 128, -2.6946, 128)
-2017-08-12 [08:22:19] [Server thread/INFO]: jack1[/27.194.80.83:62946] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [08:26:06] [Server thread/INFO]: zhang914[/112.26.78.130:60516] [ClientID: -3344274655442958674] logged in with entity id 25869 at (world, 120.6959, 64.5, 123.7941)
+2017-08-12 [08:26:17] [Server thread/INFO]: zhang914[/112.26.78.130:60516] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [08:26:49] [Server thread/INFO]: zhang914[/112.26.78.130:60516] [ClientID: -3344274655442958674] logged in with entity id 26227 at (world, 128, 0, 128)
+2017-08-12 [08:27:00] [Server thread/INFO]: zhang914[/112.26.78.130:60516] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [08:27:34] [Server thread/INFO]: zhang914[/112.26.78.130:60516] [ClientID: -3344274655442958674] logged in with entity id 26585 at (world, 128, -0.2336, 128)
+2017-08-12 [08:27:45] [Server thread/INFO]: zhang914[/112.26.78.130:60516] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [08:33:41] [Server thread/INFO]: Jacky1029[/183.179.52.22:57244] logged out due to You are banned
+2017-08-12 [08:34:00] [Server thread/INFO]: Jacky1029[/183.179.52.22:57244] logged out due to You are banned
+2017-08-12 [08:35:10] [Server thread/INFO]: ddd[/70.48.50.71:51656] logged out due to client disconnect
+2017-08-12 [08:48:36] [Server thread/INFO]: tung[/183.28.5.70:22500] [ClientID: 5951401022358610268] logged in with entity id 26943 at (world, 191.3131, 67.0244, 138.7822)
+2017-08-12 [08:48:39] [Server thread/INFO]: [AuthMePE] Player tung has logged in.
+2017-08-12 [08:48:39] [Server thread/INFO]: [AuthMePE] 玩家 tung 登录了游戏。
+2017-08-12 [08:48:39] [Server thread/INFO]: - tung is now online!
+2017-08-12 [08:48:39] [Server thread/INFO]: - tung 现在上线了!
+2017-08-12 [08:48:41] [Server thread/WARNING]: tung moved too fast, reverting movement
+2017-08-12 [08:48:43] [Server thread/WARNING]: tung moved too fast, reverting movement
+2017-08-12 [08:48:43] [Server thread/INFO]: tung fell out of the world
+2017-08-12 [08:48:49] [Server thread/INFO]: tung fell out of the world
+2017-08-12 [08:48:56] [Server thread/INFO]: tung fell out of the world
+2017-08-12 [08:48:58] [Server thread/INFO]: - tung is now offline!
+2017-08-12 [08:48:58] [Server thread/INFO]: - tung 离开了游戏!
+2017-08-12 [08:48:58] [Server thread/INFO]: [AuthMePE] Player tung has logged out.
+2017-08-12 [08:48:58] [Server thread/INFO]: [AuthMePE] Player tung 离开了游戏.
+2017-08-12 [08:48:58] [Server thread/INFO]: tung[/183.28.5.70:22500] logged out due to client disconnect
+2017-08-12 [08:49:34] [Server thread/INFO]: tung[/183.28.5.70:22500] [ClientID: 5951401022358610268] logged in with entity id 27453 at (world, 128, -10.8065, 128)
+2017-08-12 [08:49:36] [Server thread/INFO]: [AuthMePE] Player tung has logged in.
+2017-08-12 [08:49:36] [Server thread/INFO]: [AuthMePE] 玩家 tung 登录了游戏。
+2017-08-12 [08:49:36] [Server thread/INFO]: - tung is now online!
+2017-08-12 [08:49:36] [Server thread/INFO]: - tung 现在上线了!
+2017-08-12 [08:49:39] [Server thread/WARNING]: tung moved too fast, reverting movement
+2017-08-12 [08:49:39] [Server thread/INFO]: tung fell out of the world
+2017-08-12 [08:49:45] [Server thread/WARNING]: tung moved too fast, reverting movement
+2017-08-12 [08:49:47] [Server thread/WARNING]: tung moved too fast, reverting movement
+2017-08-12 [08:49:48] [Server thread/INFO]: tung fell out of the world
+2017-08-12 [08:49:48] [Server thread/INFO]: - tung is now offline!
+2017-08-12 [08:49:48] [Server thread/INFO]: - tung 离开了游戏!
+2017-08-12 [08:49:48] [Server thread/INFO]: [AuthMePE] Player tung has logged out.
+2017-08-12 [08:49:48] [Server thread/INFO]: [AuthMePE] Player tung 离开了游戏.
+2017-08-12 [08:49:48] [Server thread/INFO]: tung[/183.28.5.70:22500] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [08:55:50] [Server thread/INFO]: BoomyEvening859[/144.0.25.238:28629] [ClientID: 9128926694242013087] logged in with entity id 27936 at (world, 134.3445, 65, 132.7842)
+2017-08-12 [08:55:52] [Server thread/INFO]: [AuthMePE] Player BoomyEvening859 has logged in.
+2017-08-12 [08:55:52] [Server thread/INFO]: [AuthMePE] 玩家 BoomyEvening859 登录了游戏。
+2017-08-12 [08:55:52] [Server thread/INFO]: - BoomyEvening859 is now online!
+2017-08-12 [08:55:52] [Server thread/INFO]: - BoomyEvening859 现在上线了!
+2017-08-12 [08:55:55] [Server thread/INFO]: BoomyEvening859 fell out of the world
+2017-08-12 [08:56:01] [Server thread/INFO]: BoomyEvening859 fell out of the world
+2017-08-12 [08:56:07] [Server thread/INFO]: - BoomyEvening859 is now offline!
+2017-08-12 [08:56:07] [Server thread/INFO]: - BoomyEvening859 离开了游戏!
+2017-08-12 [08:56:07] [Server thread/INFO]: [AuthMePE] Player BoomyEvening859 has logged out.
+2017-08-12 [08:56:07] [Server thread/INFO]: [AuthMePE] Player BoomyEvening859 离开了游戏.
+2017-08-12 [08:56:07] [Server thread/INFO]: BoomyEvening859[/144.0.25.238:28629] logged out due to client disconnect
+2017-08-12 [08:56:49] [Server thread/INFO]: A790434290[/183.249.217.252:14529] [ClientID: 5710296914851668358] logged in with entity id 28295 at (world, 128, -2.6946, 128)
+2017-08-12 [08:56:58] [Server thread/INFO]: A790434290[/183.249.217.252:14529] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:02:46] [Server thread/INFO]: ben[/111.251.200.64:55680] [ClientID: 1548997299155693403] logged in with entity id 28611 at (world, 7.7999, 43, -89.7)
+2017-08-12 [09:02:57] [Server thread/INFO]: ben[/111.251.200.64:55680] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:03:12] [Server thread/INFO]: ben[/111.251.200.64:55680] [ClientID: 1548997299155693403] logged in with entity id 29093 at (world, 128, 0, 128)
+2017-08-12 [09:03:21] [Server thread/INFO]: [AuthMePE] Player ben has logged in.
+2017-08-12 [09:03:21] [Server thread/INFO]: [AuthMePE] 玩家 ben 登录了游戏。
+2017-08-12 [09:03:21] [Server thread/INFO]: - ben is now online!
+2017-08-12 [09:03:21] [Server thread/INFO]: - ben 现在上线了!
+2017-08-12 [09:03:22] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:03:27] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:03:32] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:03:37] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:03:42] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:03:52] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:03:55] [Server thread/INFO]: - ben is now offline!
+2017-08-12 [09:03:55] [Server thread/INFO]: - ben 离开了游戏!
+2017-08-12 [09:03:55] [Server thread/INFO]: [AuthMePE] Player ben has logged out.
+2017-08-12 [09:03:55] [Server thread/INFO]: [AuthMePE] Player ben 离开了游戏.
+2017-08-12 [09:03:55] [Server thread/INFO]: ben[/111.251.200.64:55680] logged out due to client disconnect
+2017-08-12 [09:04:27] [Server thread/INFO]: ben[/111.251.200.64:55680] [ClientID: 1548997299155693403] logged in with entity id 29099 at (world, 128, -40, 128)
+2017-08-12 [09:04:32] [Server thread/INFO]: [AuthMePE] Player ben has logged in.
+2017-08-12 [09:04:32] [Server thread/INFO]: [AuthMePE] 玩家 ben 登录了游戏。
+2017-08-12 [09:04:32] [Server thread/INFO]: - ben is now online!
+2017-08-12 [09:04:32] [Server thread/INFO]: - ben 现在上线了!
+2017-08-12 [09:04:36] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:04:40] [Server thread/INFO]: ben fell out of the world
+2017-08-12 [09:05:20] [Server thread/INFO]: ben fell from a high place
+2017-08-12 [09:05:22] [Server thread/INFO]: - ben is now offline!
+2017-08-12 [09:05:22] [Server thread/INFO]: - ben 离开了游戏!
+2017-08-12 [09:05:22] [Server thread/INFO]: [AuthMePE] Player ben has logged out.
+2017-08-12 [09:05:22] [Server thread/INFO]: [AuthMePE] Player ben 离开了游戏.
+2017-08-12 [09:05:22] [Server thread/INFO]: ben[/111.251.200.64:55680] logged out due to client disconnect
+2017-08-12 [09:06:28] [Server thread/INFO]: Xiaodou3114[/115.198.133.18:29357] [ClientID: 7511613807203481272] logged in with entity id 30033 at (world, 126.0666, 64, 117.4845)
+2017-08-12 [09:06:37] [Server thread/INFO]: Xiaodou3114[/115.198.133.18:29357] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:07:03] [Server thread/INFO]: Xiaodou3114[/115.198.133.18:29357] [ClientID: 7511613807203481272] logged in with entity id 30392 at (world, 128, 0, 128)
+2017-08-12 [09:07:10] [Server thread/INFO]: Xiaodou3114[/115.198.133.18:29357] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:11:33] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30394 at (th, 90.1872, 70.0625, 102.1123)
+2017-08-12 [09:11:40] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:11:48] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30759 at (world, 128, 0, 128)
+2017-08-12 [09:11:55] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:12:12] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30760 at (world, 128, -0.2336, 128)
+2017-08-12 [09:12:20] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:12:37] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30761 at (world, 128, -0.4642, 128)
+2017-08-12 [09:12:44] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:13:01] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30762 at (world, 128, -0.2336, 128)
+2017-08-12 [09:13:09] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:13:26] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30763 at (world, 128, -0.2336, 128)
+2017-08-12 [09:13:33] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:13:55] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] [ClientID: -2548620852810375058] logged in with entity id 30764 at (world, 128, -0.0784, 128)
+2017-08-12 [09:14:02] [Server thread/INFO]: JeweledSaucer62[/221.3.98.190:55405] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:19:40] [Server thread/INFO]: jack1[/27.194.80.83:49943] [ClientID: -8095282852013630052] logged in with entity id 30765 at (world, 128, -2.6946, 128)
+2017-08-12 [09:19:49] [Server thread/INFO]: jack1[/27.194.80.83:49943] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:22:34] [Server thread/INFO]: xielei[/39.181.197.141:56515] [ClientID: -7258438812723021218] logged in with entity id 31246 at (world, 144.6719, 58.9206, 97.3593)
+2017-08-12 [09:22:36] [Server thread/INFO]: [AuthMePE] Player xielei has logged in.
+2017-08-12 [09:22:36] [Server thread/INFO]: [AuthMePE] 玩家 xielei 登录了游戏。
+2017-08-12 [09:22:36] [Server thread/INFO]: - xielei is now online!
+2017-08-12 [09:22:36] [Server thread/INFO]: - xielei 现在上线了!
+2017-08-12 [09:22:38] [Server thread/WARNING]: xielei moved too fast, reverting movement
+2017-08-12 [09:22:39] [Server thread/INFO]: xielei fell out of the world
+2017-08-12 [09:22:43] [Server thread/INFO]: - xielei is now offline!
+2017-08-12 [09:22:43] [Server thread/INFO]: - xielei 离开了游戏!
+2017-08-12 [09:22:43] [Server thread/INFO]: [AuthMePE] Player xielei has logged out.
+2017-08-12 [09:22:43] [Server thread/INFO]: [AuthMePE] Player xielei 离开了游戏.
+2017-08-12 [09:22:43] [Server thread/INFO]: xielei[/39.181.197.141:56515] logged out due to client disconnect
+2017-08-12 [09:30:28] [Server thread/INFO]: JeffXiang[/223.87.99.153:25299] logged out due to You are banned
+2017-08-12 [09:31:00] [Server thread/INFO]: JeffXiang[/223.87.99.153:25299] logged out due to You are banned
+2017-08-12 [09:31:18] [Server thread/INFO]: Jacky1029[/183.179.52.22:58143] logged out due to You are banned
+2017-08-12 [09:31:55] [Server thread/INFO]: Jacky1029[/183.179.52.22:50657] logged out due to You are banned
+2017-08-12 [09:32:16] [Server thread/NOTICE]: Player data not found for "samuel", creating new profile
+2017-08-12 [09:32:16] [Server thread/INFO]: Samuel[/1.34.38.7:38183] [ClientID: 4267789504503788844] logged in with entity id 31727 at (world, 128, 0, 128)
+2017-08-12 [09:32:25] [Server thread/INFO]: Samuel[/1.34.38.7:38183] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:32:51] [Server thread/INFO]: Samuel[/1.34.38.7:38183] [ClientID: 4267789504503788844] logged in with entity id 32208 at (world, 128, -2.6946, 128.5757)
+2017-08-12 [09:33:02] [Server thread/INFO]: Samuel[/1.34.38.7:38183] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:33:28] [Server thread/INFO]: Samuel[/1.34.38.7:38183] [ClientID: 4267789504503788844] logged in with entity id 32212 at (world, 128, -2.6946, 128)
+2017-08-12 [09:33:38] [Server thread/INFO]: Samuel[/1.34.38.7:38183] logged out due to timeout
+2017-08-12 [09:34:28] [Server thread/INFO]: Samuel[/1.34.38.7:38183] [ClientID: 4267789504503788844] logged in with entity id 32213 at (world, 128, -2.6946, 128)
+2017-08-12 [09:34:37] [Server thread/INFO]: Samuel[/1.34.38.7:38183] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:42:31] [Server thread/NOTICE]: Player data not found for "shadierdisc3338", creating new profile
+2017-08-12 [09:42:31] [Server thread/INFO]: ShadierDisc3338[/1.34.38.7:38183] [ClientID: 4267789504503788844] logged in with entity id 32694 at (world, 128, 0, 128)
+2017-08-12 [09:42:40] [Server thread/INFO]: ShadierDisc3338[/1.34.38.7:38183] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:42:49] [Server thread/INFO]: kwkkwk123[/223.215.210.235:53030] logged out due to You are banned
+2017-08-12 [09:43:14] [Server thread/INFO]: kwkkwk123[/223.215.210.235:53030] logged out due to You are banned
+2017-08-12 [09:43:25] [Server thread/INFO]: kwkkwk123[/223.215.210.235:53030] logged out due to You are banned
+2017-08-12 [09:44:35] [Server thread/INFO]: kwkkwk123[/223.215.210.235:53030] logged out due to You are banned
+2017-08-12 [09:45:51] [Server thread/INFO]: mao[/222.70.45.68:55650] logged out due to You are banned
+2017-08-12 [09:46:03] [Server thread/INFO]: mao[/222.70.45.68:55650] logged out due to You are banned
+2017-08-12 [09:46:44] [Server thread/INFO]: xue_hua[/121.207.222.125:26195] [ClientID: -362118094303492591] logged in with entity id 33175 at (world, 131.9764, -40, 124.5815)
+2017-08-12 [09:46:47] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged in.
+2017-08-12 [09:46:47] [Server thread/INFO]: [AuthMePE] 玩家 xue_hua 登录了游戏。
+2017-08-12 [09:46:47] [Server thread/INFO]: - xue_hua is now online!
+2017-08-12 [09:46:47] [Server thread/INFO]: - xue_hua 现在上线了!
+2017-08-12 [09:46:49] [Server thread/WARNING]: xue_hua moved too fast, reverting movement
+2017-08-12 [09:46:51] [Server thread/WARNING]: xue_hua moved too fast, reverting movement
+2017-08-12 [09:46:52] [Server thread/INFO]: - xue_hua is now offline!
+2017-08-12 [09:46:52] [Server thread/INFO]: - xue_hua 离开了游戏!
+2017-08-12 [09:46:52] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged out.
+2017-08-12 [09:46:52] [Server thread/INFO]: [AuthMePE] Player xue_hua 离开了游戏.
+2017-08-12 [09:46:52] [Server thread/INFO]: xue_hua[/121.207.222.125:26195] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:47:13] [Server thread/INFO]: xue_hua[/121.207.222.125:26195] [ClientID: -362118094303492591] logged in with entity id 33533 at (world, 128, -8.383, 128)
+2017-08-12 [09:47:16] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged in.
+2017-08-12 [09:47:16] [Server thread/INFO]: [AuthMePE] 玩家 xue_hua 登录了游戏。
+2017-08-12 [09:47:16] [Server thread/INFO]: - xue_hua is now online!
+2017-08-12 [09:47:16] [Server thread/INFO]: - xue_hua 现在上线了!
+2017-08-12 [09:47:17] [Server thread/INFO]: kwkkwk123[/223.215.210.235:53030] logged out due to You are banned
+2017-08-12 [09:47:18] [Server thread/WARNING]: xue_hua moved too fast, reverting movement
+2017-08-12 [09:47:20] [Server thread/WARNING]: xue_hua moved too fast, reverting movement
+2017-08-12 [09:47:21] [Server thread/INFO]: - xue_hua is now offline!
+2017-08-12 [09:47:21] [Server thread/INFO]: - xue_hua 离开了游戏!
+2017-08-12 [09:47:21] [Server thread/INFO]: [AuthMePE] Player xue_hua has logged out.
+2017-08-12 [09:47:21] [Server thread/INFO]: [AuthMePE] Player xue_hua 离开了游戏.
+2017-08-12 [09:47:21] [Server thread/INFO]: xue_hua[/121.207.222.125:26195] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:48:02] [Server thread/INFO]: kwkkwk123[/223.215.210.235:62659] logged out due to You are banned
+2017-08-12 [09:48:51] [Server thread/INFO]: kwkkwk123[/223.215.210.235:62659] logged out due to You are banned
+2017-08-12 [09:49:13] [Server thread/INFO]: kwkkwk123[/223.215.210.235:62659] logged out due to You are banned
+2017-08-12 [09:53:24] [Server thread/INFO]: poiuytr[/125.227.14.248:54993] [ClientID: 8229439467000052208] logged in with entity id 33534 at (world, 128.1502, 64, 128.1993)
+2017-08-12 [09:53:31] [Server thread/INFO]: poiuytr[/125.227.14.248:54993] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [09:55:36] [Server thread/INFO]: mao[/222.70.45.68:55650] logged out due to You are banned
+2017-08-12 [09:59:48] [Server thread/INFO]: chutianyi[/61.159.239.229:64194] [ClientID: 3717909255603563242] logged in with entity id 33892 at (world, 126.302, 64, 126.7686)
+2017-08-12 [09:59:50] [Server thread/INFO]: [AuthMePE] Player chutianyi has logged in.
+2017-08-12 [09:59:50] [Server thread/INFO]: [AuthMePE] 玩家 chutianyi 登录了游戏。
+2017-08-12 [09:59:50] [Server thread/INFO]: - chutianyi is now online!
+2017-08-12 [09:59:50] [Server thread/INFO]: - chutianyi 现在上线了!
+2017-08-12 [09:59:53] [Server thread/INFO]: chutianyi fell out of the world
+2017-08-12 [09:59:58] [Server thread/INFO]: chutianyi fell out of the world
+2017-08-12 [10:00:03] [Server thread/INFO]: chutianyi fell out of the world
+2017-08-12 [10:00:08] [Server thread/INFO]: chutianyi fell out of the world
+2017-08-12 [10:00:13] [Server thread/INFO]: chutianyi fell out of the world
+2017-08-12 [10:00:13] [Server thread/INFO]: - chutianyi is now offline!
+2017-08-12 [10:00:13] [Server thread/INFO]: - chutianyi 离开了游戏!
+2017-08-12 [10:00:13] [Server thread/INFO]: [AuthMePE] Player chutianyi has logged out.
+2017-08-12 [10:00:13] [Server thread/INFO]: [AuthMePE] Player chutianyi 离开了游戏.
+2017-08-12 [10:00:13] [Server thread/INFO]: chutianyi[/61.159.239.229:64194] logged out due to client disconnect
+2017-08-12 [10:01:52] [Server thread/INFO]: power777888[/112.44.72.130:29914] logged out due to You are banned
+2017-08-12 [10:02:13] [Server thread/INFO]: power777888[/112.44.72.130:29914] logged out due to You are banned
+2017-08-12 [10:02:38] [Server thread/INFO]: power777888[/112.44.72.130:29914] logged out due to You are banned
+2017-08-12 [10:03:05] [Server thread/INFO]: woaiyy[/112.44.72.130:29914] [ClientID: 1223986302053481146] logged in with entity id 34301 at (world, 128, 64, 128)
+2017-08-12 [10:03:09] [Server thread/INFO]: [AuthMePE] Player woaiyy has logged in.
+2017-08-12 [10:03:09] [Server thread/INFO]: [AuthMePE] 玩家 woaiyy 登录了游戏。
+2017-08-12 [10:03:09] [Server thread/INFO]: - woaiyy is now online!
+2017-08-12 [10:03:09] [Server thread/INFO]: - woaiyy 现在上线了!
+2017-08-12 [10:03:12] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:03:17] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:03:22] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:03:31] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:03:38] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:01] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:05] [Server thread/INFO]: - woaiyy is now offline!
+2017-08-12 [10:04:05] [Server thread/INFO]: - woaiyy 离开了游戏!
+2017-08-12 [10:04:05] [Server thread/INFO]: [AuthMePE] Player woaiyy has logged out.
+2017-08-12 [10:04:05] [Server thread/INFO]: [AuthMePE] Player woaiyy 离开了游戏.
+2017-08-12 [10:04:05] [Server thread/INFO]: woaiyy[/112.44.72.130:29914] logged out due to client disconnect
+2017-08-12 [10:04:15] [Server thread/INFO]: woaiyy[/112.44.72.130:29914] [ClientID: 1223986302053481146] logged in with entity id 34665 at (world, 128, -40, 128)
+2017-08-12 [10:04:19] [Server thread/INFO]: [AuthMePE] Player woaiyy has logged in.
+2017-08-12 [10:04:19] [Server thread/INFO]: [AuthMePE] 玩家 woaiyy 登录了游戏。
+2017-08-12 [10:04:19] [Server thread/INFO]: - woaiyy is now online!
+2017-08-12 [10:04:19] [Server thread/INFO]: - woaiyy 现在上线了!
+2017-08-12 [10:04:20] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:25] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:30] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:35] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:44] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:51] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:04:55] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:05:05] [Server thread/INFO]: woaiyy fell out of the world
+2017-08-12 [10:05:46] [Server thread/WARNING]: woaiyy moved wrongly!
+2017-08-12 [10:06:12] [Server thread/WARNING]: woaiyy moved wrongly!
+2017-08-12 [10:06:24] [Server thread/WARNING]: woaiyy moved wrongly!
+2017-08-12 [10:06:51] [Server thread/INFO]: PYl6666[/125.108.67.247:55024] [ClientID: -2869779923566982227] logged in with entity id 34681 at (world, 122.9341, 70.42, 130.4489)
+2017-08-12 [10:06:58] [Server thread/INFO]: PYl6666[/125.108.67.247:55024] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:07:12] [Server thread/INFO]: PYl6666[/125.108.67.247:55024] [ClientID: -2869779923566982227] logged in with entity id 35163 at (world, 128, -0.7685, 128)
+2017-08-12 [10:07:20] [Server thread/INFO]: PYl6666[/125.108.67.247:55024] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:07:34] [Server thread/WARNING]: woaiyy moved wrongly!
+2017-08-12 [10:07:44] [Server thread/INFO]: - woaiyy is now offline!
+2017-08-12 [10:07:44] [Server thread/INFO]: - woaiyy 离开了游戏!
+2017-08-12 [10:07:44] [Server thread/INFO]: [AuthMePE] Player woaiyy has logged out.
+2017-08-12 [10:07:44] [Server thread/INFO]: [AuthMePE] Player woaiyy 离开了游戏.
+2017-08-12 [10:07:44] [Server thread/INFO]: woaiyy[/112.44.72.130:29914] logged out due to client disconnect
+2017-08-12 [10:08:21] [Server thread/INFO]: PYl6666[/125.108.67.247:55024] [ClientID: -2869779923566982227] logged in with entity id 35166 at (world, 128, -0.4642, 128)
+2017-08-12 [10:08:28] [Server thread/INFO]: PYl6666[/125.108.67.247:55024] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:08:34] [Server thread/INFO]: Steve[/122.247.151.164:5429] [ClientID: -995886487729391149] logged in with entity id 35648 at (world, 128, -0.0784, 128)
+2017-08-12 [10:08:52] [Server thread/INFO]: Steve[/122.247.151.164:5429] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:11:32] [Server thread/INFO]: UrbanHitman14[/111.249.56.187:65427] [ClientID: 5903278655021412276] logged in with entity id 35651 at (world, 128, -0.0784, 128)
+2017-08-12 [10:11:42] [Server thread/INFO]: UrbanHitman14[/111.249.56.187:65427] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:15:56] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3460] [ClientID: -2827249662274324597] logged in with entity id 36132 at (world, 128.085, 64, 136.369)
+2017-08-12 [10:16:07] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3460] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:16:31] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3460] [ClientID: -2827249662274324597] logged in with entity id 36490 at (world, 128, 0, 128)
+2017-08-12 [10:16:41] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3460] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:17:09] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3460] [ClientID: -2827249662274324597] logged in with entity id 36494 at (world, 128, -0.0784, 128)
+2017-08-12 [10:17:13] [Server thread/INFO]: tung[/113.69.244.218:41700] [ClientID: 5951401022358610268] logged in with entity id 36495 at (world, 128, -15.9458, 128)
+2017-08-12 [10:17:19] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3460] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:17:31] [Server thread/INFO]: tung[/113.69.244.218:41700] logged out due to Kicked by admin. Reason: Time out!
+2017-08-12 [10:20:42] [Server thread/INFO]: idalimjunwei_123[/183.78.93.111:59762] [ClientID: 2796310940703788695] logged in with entity id 36976 at (world, 128, 64, 128)
+2017-08-12 [10:20:54] [Server thread/WARNING]: idalimjunwei_123 moved too fast, reverting movement
+2017-08-12 [10:21:01] [Server thread/INFO]: idalimjunwei_123[/183.78.93.111:59762] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-12 [10:23:10] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3738] [ClientID: -2827249662274324597] logged in with entity id 37294 at (world, 128, -0.0784, 128)
+2017-08-12 [10:23:20] [Server thread/INFO]: guanhaiyunyuan[/123.170.94.239:3738] logged out due to client disconnect
