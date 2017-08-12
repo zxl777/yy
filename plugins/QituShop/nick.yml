@@ -152,7 +152,7 @@ hermlt:
 Zi_Jian:
   nick: §c主§f播§b§l
 dongmujun:
-  nick: §d我是女的
+  nick: §e§l§oSVIP
 JackyLui:
   nick: §b我是男的
 sams:
@@ -188,5 +188,7 @@ WSQA:
 z1801775002:
   nick: §d我是女的
 him:
+  nick: §b我是男的
+jack1:
   nick: §b我是男的
 ...
