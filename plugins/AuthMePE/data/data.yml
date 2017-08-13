@@ -1,7 +1,7 @@
 ---
 lihaoyy:
   password: e8099e6d1af98af7d406bf3337e0ae1c
-  times: 0
+  times: 2
   ip: "no"
   email: 2073750279@qq.com
 100_hjs:
@@ -549,7 +549,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 0
+  times: 2
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -2769,7 +2769,7 @@ scaliersun70466:
 jaimito840:
   password: 0a7c7c56d5b03013de1dc17d9bc9cca7
   times: 0
-  confirm: yhr971112yhr
+  ip: "yes"
 shuimen:
   password: 97e95d6f47cbb2a2066af4f8f38b3fd2
   times: 0
@@ -3579,4 +3579,32 @@ kaige12138:
   password: 6b119b305881c2d350d9c09bdc266d9d
   times: 1
   ip: "yes"
+pedrolima2010:
+  password: 58f2246048af0b88f417ecb4b7ee2311
+  times: 0
+  confirm: pedro10
+genji:
+  password: 8a6277925e0c89cf58c453fec60dcce7
+  times: 0
+  ip: "yes"
+12345:
+  password: 93f26df76951074ee9d5770c07322eae
+  times: 0
+  ip: "yes"
+lohaoyy:
+  password: 411d1234dfcba52de5176520f2d4a0f3
+  times: 0
+  ip: "yes"
+lihaoy:
+  password: 4f3a652bdac5e54400e38c96c4500b9c
+  times: 0
+  ip: "no"
+zheng:
+  password: 90fda24d279b2bc56c80f57f080fc745
+  times: 0
+  ip: "yes"
+wylwyl:
+  password: 1551d56cfeddade0f22516a5240d3633
+  times: 0
+  ip: "no"
 ...
