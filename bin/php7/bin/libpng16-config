@@ -11,8 +11,8 @@
 
 # Modeled after libxml-config.
 
-version="1.6.21"
-prefix="/PocketMine/bin/php7"
+version="1.6.23"
+prefix="/root/bin/php7"
 exec_prefix="${prefix}"
 libdir="${exec_prefix}/lib"
 includedir="${prefix}/include/libpng16"

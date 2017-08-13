@@ -2235,4 +2235,15 @@
   level: th
   invitee: []
   expires: ~
+220:
+  ID: 220
+  startX: 102
+  endX: 183
+  startZ: 102
+  endZ: 154
+  price: 408000
+  owner: power777888
+  level: dmmhub
+  invitee: []
+  expires: ~
 ...

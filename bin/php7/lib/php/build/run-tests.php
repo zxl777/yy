@@ -24,7 +24,7 @@
    +----------------------------------------------------------------------+
  */
 
-/* $Id: 96733e58a9133e9e6d023f354bf90df03f1c2332 $ */
+/* $Id: 66fcdd7fb3143633d8581278e023dd8132ba806c $ */
 
 /* Sanity check to ensure that pcre extension needed by this script is available.
  * In the event it is not, print a nice error message indicating that this script will
@@ -696,7 +696,7 @@ if (isset($argc) && $argc > 1) {
 					$html_output = is_resource($html_file);
 					break;
 				case '--version':
-					echo '$Id: 96733e58a9133e9e6d023f354bf90df03f1c2332 $' . "\n";
+					echo '$Id: 66fcdd7fb3143633d8581278e023dd8132ba806c $' . "\n";
 					exit(1);
 
 				default:
@@ -1547,7 +1547,11 @@ TEST $file
 		$loaded = explode(",", `$php -n -r 'echo join(",", get_loaded_extensions());'`);
 		foreach ($extensions as $req_ext) {
 			if (!in_array($req_ext, $loaded)) {
-				$ini_settings['extension'][] = $ext_dir . DIRECTORY_SEPARATOR . $req_ext . '.' . PHP_SHLIB_SUFFIX;
+				if ($req_ext == 'opcache') {
+					$ini_settings['zend_extension'][] = $ext_dir . DIRECTORY_SEPARATOR . $req_ext . '.' . PHP_SHLIB_SUFFIX;
+				} else {
+					$ini_settings['extension'][] = $ext_dir . DIRECTORY_SEPARATOR . $req_ext . '.' . PHP_SHLIB_SUFFIX;
+				}
 			}
 		}
 	}
@@ -2374,7 +2378,7 @@ function settings2array($settings, &$ini_settings)
 			$name = trim($setting[0]);
 			$value = trim($setting[1]);
 
-			if ($name == 'extension') {
+			if ($name == 'extension' || $name == 'zend_extension') {
 
 				if (!isset($ini_settings[$name])) {
 					$ini_settings[$name] = array();

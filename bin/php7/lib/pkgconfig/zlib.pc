@@ -1,4 +1,4 @@
-prefix=/PocketMine/bin/php7
+prefix=/root/bin/php7
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 sharedlibdir=${libdir}

@@ -707,6 +707,15 @@
 /* Define to 1 if you have the <fts.h> header file. */
 #define HAVE_FTS_H 1
 
+/* Define to 1 if you have the three-argument form of gethostbyname_r(). */
+/* #undef HAVE_FUNC_GETHOSTBYNAME_R_3 */
+
+/* Define to 1 if you have the five-argument form of gethostbyname_r(). */
+/* #undef HAVE_FUNC_GETHOSTBYNAME_R_5 */
+
+/* Define to 1 if you have the six-argument form of gethostbyname_r(). */
+#define HAVE_FUNC_GETHOSTBYNAME_R_6 1
+
 /* Define to 1 if you have the `funopen' function. */
 /* #undef HAVE_FUNOPEN */
 
@@ -714,7 +723,7 @@
 #define HAVE_GAI_STRERROR 1
 
 /* Define if the target system has support for global register variables */
-#define HAVE_GCC_GLOBAL_REGS 1
+/* #undef HAVE_GCC_GLOBAL_REGS */
 
 /* Whether you have gcov */
 /* #undef HAVE_GCOV */
@@ -763,6 +772,9 @@
 
 /* */
 #define HAVE_GETHOSTBYADDR 1
+
+/* Define to 1 if you have some form of gethostbyname_r(). */
+#define HAVE_GETHOSTBYNAME_R 1
 
 /* Define to 1 if you have the `gethostname' function. */
 #define HAVE_GETHOSTNAME 1
@@ -978,7 +990,7 @@
 /* #undef HAVE_ISQL_H */
 
 /* whether to enable JavaScript Object Serialization support */
-#define HAVE_JSON 1 
+#define HAVE_JSON 1
 
 /* Define to 1 if you have the `kill' function. */
 #define HAVE_KILL 1
@@ -1430,7 +1442,7 @@
 /* Define to 1 if the PS_STRINGS thing exists. */
 /* #undef HAVE_PS_STRINGS */
 
-/* Wether you have pthreads support */
+/* Whether you have pthreads support */
 #define HAVE_PTHREADS 1
 
 /* do we have ptrace? */
@@ -1766,16 +1778,16 @@
 /* whether you have struct flock */
 #define HAVE_STRUCT_FLOCK 1
 
-/* Define to 1 if `st_blksize' is a member of `struct stat'. */
+/* Define to 1 if `st_blksize' is member of `struct stat'. */
 #define HAVE_STRUCT_STAT_ST_BLKSIZE 1
 
-/* Define to 1 if `st_blocks' is a member of `struct stat'. */
+/* Define to 1 if `st_blocks' is member of `struct stat'. */
 #define HAVE_STRUCT_STAT_ST_BLOCKS 1
 
-/* Define to 1 if `st_rdev' is a member of `struct stat'. */
+/* Define to 1 if `st_rdev' is member of `struct stat'. */
 #define HAVE_STRUCT_STAT_ST_RDEV 1
 
-/* Define to 1 if `tm_zone' is a member of `struct tm'. */
+/* Define to 1 if `tm_zone' is member of `struct tm'. */
 #define HAVE_STRUCT_TM_TM_ZONE 1
 
 /* Define to 1 if your `struct stat' has `st_blksize'. Deprecated, use
@@ -2175,9 +2187,6 @@
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME ""
 
-/* Define to the home page for this package. */
-#define PACKAGE_URL ""
-
 /* Define to the version of this package. */
 #define PACKAGE_VERSION ""
 
@@ -2200,7 +2209,7 @@
 #define PHP_BLOWFISH_CRYPT 1
 
 /* PHP build date */
-#define PHP_BUILD_DATE "2016-02-07"
+#define PHP_BUILD_DATE "2016-07-26"
 
 /* Define if your system has fork/vfork/CreateProcess */
 #define PHP_CAN_SUPPORT_PROC_OPEN 1
@@ -2290,7 +2299,7 @@
 #define PHP_STD_DES_CRYPT 1
 
 /* uname -a output */
-#define PHP_UNAME "Linux f001265e1a7b 4.2.0-27-generic #32-Ubuntu SMP Fri Jan 22 04:49:08 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux"
+#define PHP_UNAME "Linux li741-190 4.5.5-x86_64-linode69 #3 SMP Fri May 20 15:25:13 EDT 2016 x86_64 x86_64 x86_64 GNU/Linux"
 
 /* Whether PHP has to use its own crypt_r for blowfish, des and ext des */
 #define PHP_USE_PHP_CRYPT_R 1

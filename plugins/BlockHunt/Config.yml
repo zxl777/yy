@@ -1,0 +1,21 @@
+---
+游戏获胜增加的积分: 10
+游戏获胜增加的硬币: 10
+Blocks:
+- 46
+- 47
+- 61
+- 86
+- 103
+npc_pos:
+  npc_x: 132.776300
+  npc_y: 8.000000
+  npc_z: 129.533800
+  npc_level: dmmhub
+top_pos:
+  top_x: 127.656500
+  top_y: 7.000000
+  top_z: 139.403700
+  top_level: dmmhub
+float-msg: 怎么玩?{n}这是一场猎人和猎物之间的较量
+...
