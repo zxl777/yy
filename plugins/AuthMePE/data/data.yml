@@ -549,7 +549,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 1
+  times: 0
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -3480,4 +3480,32 @@ slime:
   password: 8c6e291648f662b0f84c0f83ed80ccdc
   times: 0
   ip: "no"
+tigermaster64:
+  password: 2f114257af0dfb91f19aa5564f0ae78a
+  times: 0
+  ip: "yes"
+anjingyuan:
+  password: bd87868bd11abb98cdf8db0b2e007e0a
+  times: 0
+  ip: "yes"
+liming:
+  password: cd3e644df32e6750b5f8824ccc0e25ea
+  times: 0
+  ip: "yes"
+lemonydragonfly:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  ip: "yes"
+dico:
+  password: afd978919d819bed76324207b7570d2f
+  times: 0
+  ip: "yes"
+fuzhuxiaohao:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  ip: "no"
+shuai:
+  password: 9cea796d06e5e08ac71c628243ef2be1
+  times: 0
+  ip: "yes"
 ...
