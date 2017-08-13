@@ -549,7 +549,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 3
+  times: 1
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -1648,10 +1648,6 @@ anyeqishi:
   password: edeefa416a20974124acc1e9aadece79
   times: 0
   ip: "yes"
-blue_sky:
-  password: c9354d0bcdc08cfdeb56e7704f32dabf
-  times: 0
-  ip: "yes"
 little_cute:
   password: 5b03ce6d6f68380175791c54ed03c148
   times: 0
@@ -2628,7 +2624,7 @@ iinieie:
   ip: "yes"
 worldfire:
   password: 89e323313fd25002ad3c96888c1381c2
-  times: 1
+  times: 2
   ip: "yes"
 wirldfire0503:
   password: 908702934dea2d7913dace8fdede152c
@@ -3000,7 +2996,7 @@ aiqiyitaozi:
   ip: "yes"
 power777888:
   password: 538f5f358b91c576df842b7fec9596b3
-  times: 0
+  times: 1
   ip: "no"
 zombie9933:
   password: 21e30b6e675e8c345b67366fdef129bb
@@ -3194,6 +3190,30 @@ xy520:
   ip: "yes"
 kevint24:
   password: b6c5ef69b6a76201f0ec97fb9fd4b604
+  times: 0
+  ip: "yes"
+luhan7lin:
+  password: f6833127945db0b35289c78065e7914e
+  times: 0
+  ip: "no"
+chineboy:
+  password: 6d11772a974338a51114389e034bd283
+  times: 0
+  ip: "yes"
+dyxalh:
+  password: c5fe0eb1bf12de622364239d107edac7
+  times: 0
+  ip: "yes"
+blue_sky:
+  password: 908702934dea2d7913dace8fdede152c
+  times: 0
+  ip: "no"
+kassi_is_lit:
+  password: 398ac4c750a5a755b0e757b72f2c0ceb
+  times: 0
+  ip: "no"
+worldfire050:
+  password: e6802a3a1330e0dcf68376b53d374562
   times: 0
   ip: "yes"
 ...

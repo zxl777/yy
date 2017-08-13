@@ -1,407 +1,731 @@
-2017-08-13 [04:28:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:28:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:28:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:28:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [04:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [04:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [04:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [04:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [04:38:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:38:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:38:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:38:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [04:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [04:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [04:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [04:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [04:48:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:48:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:48:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:48:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [04:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [04:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [04:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [04:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [04:58:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [04:58:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [04:58:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [04:58:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [05:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [05:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [05:08:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:08:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:08:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:08:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:13:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:13:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [05:13:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:13:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [05:13:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:13:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:13:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:13:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [05:18:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:18:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:18:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:18:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:23:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:23:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [05:23:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:23:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [05:23:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:23:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:23:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:23:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [05:28:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:28:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:28:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:28:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [05:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [05:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [05:38:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:38:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:38:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:38:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:39:50] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] [ClientID: 5903278655021412276] logged in with entity id 1191 at (th, 120.3315, 65, 136.1939)
-2017-08-13 [05:39:53] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
-2017-08-13 [05:39:53] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
-2017-08-13 [05:39:53] [Server thread/INFO]: - blue_sky is now online!
-2017-08-13 [05:39:53] [Server thread/INFO]: - blue_sky 现在上线了!
-2017-08-13 [05:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [05:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [05:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [05:44:46] [Server thread/INFO]: * blue_sky Hello everyone
-2017-08-13 [05:44:53] [Server thread/INFO]: * blue_sky 端口：19132
-2017-08-13 [05:46:43] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [05:46:43] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [05:46:43] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [05:46:55] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [05:48:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:48:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:48:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:48:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:52:09] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] [ClientID: -5747510323413524081] logged in with entity id 1217 at (world, 126.559, 65.115, 115.9499)
-2017-08-13 [05:52:17] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged in.
-2017-08-13 [05:52:17] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 登录了游戏。
-2017-08-13 [05:52:17] [Server thread/INFO]: - lihaoyy is now online!
-2017-08-13 [05:52:17] [Server thread/INFO]: - lihaoyy 现在上线了!
-2017-08-13 [05:52:19] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to blue_sky]
-2017-08-13 [05:52:39] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to blue_sky]
-2017-08-13 [05:52:39] [Server thread/INFO]: [SVIP]blue_sky : 腐竹
-2017-08-13 [05:53:00] [Server thread/INFO]: [帅气的腐竹]lihaoyy : blue_sky
-2017-08-13 [05:53:05] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 能不能赞助服务器
-2017-08-13 [05:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [05:53:12] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 服务器要到期了
-2017-08-13 [05:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [05:53:16] [Server thread/INFO]: [SVIP]blue_sky : 可以
-2017-08-13 [05:53:18] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 需要40续费
-2017-08-13 [05:53:20] [Server thread/INFO]: [SVIP]blue_sky : 吧
-2017-08-13 [05:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [05:53:27] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 可以嘛
-2017-08-13 [05:53:38] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我会把你名字写在主城
-2017-08-13 [05:53:41] [Server thread/INFO]: [SVIP]blue_sky : 怎麼給你
-2017-08-13 [05:53:46] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 微信
-2017-08-13 [05:54:00] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 让后送你个永久创造
-2017-08-13 [05:54:14] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to blue_sky]
-2017-08-13 [05:55:11] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 可以嘛
-2017-08-13 [05:55:16] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 加我微信给我
-2017-08-13 [05:55:25] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我给你永久创造
-2017-08-13 [05:55:29] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 本来要67
-2017-08-13 [05:55:32] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 现在给你40
-2017-08-13 [05:55:45] [Server thread/INFO]: [SVIP]blue_sky : 我去看看
-2017-08-13 [05:55:47] [Server thread/INFO]: - blue_sky is now offline!
-2017-08-13 [05:55:47] [Server thread/INFO]: - blue_sky 离开了游戏!
-2017-08-13 [05:55:47] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged out.
-2017-08-13 [05:55:47] [Server thread/INFO]: [AuthMePE] Player blue_sky 离开了游戏.
-2017-08-13 [05:55:47] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] logged out due to client disconnect
-2017-08-13 [05:56:25] [Server thread/INFO]: [lihaoyy: Unbanned player renhui]
-2017-08-13 [05:58:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [05:58:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [05:58:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [05:58:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [05:59:31] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] [ClientID: 5903278655021412276] logged in with entity id 1230 at (world, 131.0857, 67, 110.825)
-2017-08-13 [05:59:35] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
-2017-08-13 [05:59:35] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
-2017-08-13 [05:59:35] [Server thread/INFO]: - blue_sky is now online!
-2017-08-13 [05:59:35] [Server thread/INFO]: - blue_sky 现在上线了!
-2017-08-13 [05:59:43] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 可以拿
-2017-08-13 [05:59:45] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 可以嘛
-2017-08-13 [06:01:40] [Server thread/INFO]: [SVIP]blue_sky : 微信的應用程式是英文嗎
-2017-08-13 [06:01:51] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 少年意思
-2017-08-13 [06:01:54] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 什么意思
-2017-08-13 [06:02:59] [Server thread/INFO]: [SVIP]blue_sky : 查微信
-2017-08-13 [06:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [06:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [06:03:11] [Server thread/INFO]: [SVIP]blue_sky : 的第一個
-2017-08-13 [06:03:15] [Server thread/INFO]: [SVIP]blue_sky : 嗎
-2017-08-13 [06:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [06:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [06:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [06:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [06:03:36] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 搜索微信
-2017-08-13 [06:03:38] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 等一等
-2017-08-13 [06:03:43] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你没微信吗
-2017-08-13 [06:03:54] [Server thread/INFO]: [SVIP]blue_sky : 對啊
-2017-08-13 [06:04:01] [Server thread/INFO]: [帅气的腐竹]lihaoyy : QQ有没有
-2017-08-13 [06:04:02] [Server thread/NOTICE]: Player data not found for "sergeantcrazy10", creating new profile
-2017-08-13 [06:04:02] [Server thread/INFO]: Sergeantcrazy10[/5.66.220.196:52597] [ClientID: 6248378380816064607] logged in with entity id 1231 at (world, 128, 64, 128)
-2017-08-13 [06:04:07] [Server thread/INFO]: [SVIP]blue_sky : 有
-2017-08-13 [06:04:13] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 能不能给我40
-2017-08-13 [06:04:16] [Server thread/INFO]: - blue_sky is now offline!
-2017-08-13 [06:04:16] [Server thread/INFO]: - blue_sky 离开了游戏!
-2017-08-13 [06:04:16] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged out.
-2017-08-13 [06:04:16] [Server thread/INFO]: [AuthMePE] Player blue_sky 离开了游戏.
-2017-08-13 [06:04:16] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] logged out due to client disconnect
-2017-08-13 [06:04:34] [Server thread/INFO]: ahsa11[/1.180.233.141:19609] [ClientID: -6500022226055682996] logged in with entity id 1232 at (world, 151.9123, 51.7655, 186.1532)
-2017-08-13 [06:04:38] [Server thread/INFO]: [AuthMePE] Player ahsa11 has logged in.
-2017-08-13 [06:04:38] [Server thread/INFO]: [AuthMePE] 玩家 ahsa11 登录了游戏。
-2017-08-13 [06:04:38] [Server thread/INFO]: - ahsa11 is now online!
-2017-08-13 [06:04:38] [Server thread/INFO]: - ahsa11 现在上线了!
-2017-08-13 [06:04:38] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
-2017-08-13 [06:05:05] [Server thread/INFO]: - ahsa11 is now offline!
-2017-08-13 [06:05:05] [Server thread/INFO]: - ahsa11 离开了游戏!
-2017-08-13 [06:05:05] [Server thread/INFO]: [AuthMePE] Player ahsa11 has logged out.
-2017-08-13 [06:05:05] [Server thread/INFO]: [AuthMePE] Player ahsa11 离开了游戏.
-2017-08-13 [06:05:05] [Server thread/INFO]: ahsa11[/1.180.233.141:19609] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-13 [06:05:16] [Server thread/INFO]: Sergeantcrazy10[/5.66.220.196:52597] logged out due to client disconnect
-2017-08-13 [06:05:22] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] [ClientID: 5903278655021412276] logged in with entity id 1233 at (world, 125.5192, 69.5, 104.7215)
-2017-08-13 [06:05:26] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
-2017-08-13 [06:05:26] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
-2017-08-13 [06:05:26] [Server thread/INFO]: - blue_sky is now online!
-2017-08-13 [06:05:26] [Server thread/INFO]: - blue_sky 现在上线了!
-2017-08-13 [06:05:33] [Server thread/INFO]: [帅气的腐竹]lihaoyy : QQ给我40
-2017-08-13 [06:05:50] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to blue_sky]
-2017-08-13 [06:05:59] [Server thread/INFO]: [SVIP]blue_sky : 是QQ郵箱HD嗎
-2017-08-13 [06:06:08] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你QQ没有吗
-2017-08-13 [06:06:20] [Server thread/INFO]: [SVIP]blue_sky : 有啊
-2017-08-13 [06:06:31] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 那用啊
-2017-08-13 [06:06:38] [Server thread/INFO]: [SVIP]blue_sky : 指是想確認
-2017-08-13 [06:06:45] [Server thread/INFO]: [帅气的腐竹]lihaoyy : .
-2017-08-13 [06:06:52] [Server thread/INFO]: [帅气的腐竹]lihaoyy : QQ能不能发短信
-2017-08-13 [06:07:02] [Server thread/INFO]: - blue_sky is now offline!
-2017-08-13 [06:07:02] [Server thread/INFO]: - blue_sky 离开了游戏!
-2017-08-13 [06:07:02] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged out.
-2017-08-13 [06:07:02] [Server thread/INFO]: [AuthMePE] Player blue_sky 离开了游戏.
-2017-08-13 [06:07:02] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] logged out due to client disconnect
-2017-08-13 [06:07:08] [Server thread/INFO]: - lihaoyy is now offline!
-2017-08-13 [06:07:08] [Server thread/INFO]: - lihaoyy 离开了游戏!
-2017-08-13 [06:07:08] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged out.
-2017-08-13 [06:07:08] [Server thread/INFO]: [AuthMePE] Player lihaoyy 离开了游戏.
-2017-08-13 [06:07:08] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] logged out due to client disconnect
-2017-08-13 [06:07:27] [Server thread/INFO]: taiseioou[/60.86.239.168:53328] [ClientID: 6711208350280816624] logged in with entity id 1234 at (world, 128, 64, 128)
-2017-08-13 [06:08:04] [Server thread/INFO]: taiseioou[/60.86.239.168:53328] logged out due to timeout
-2017-08-13 [06:08:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [06:08:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [06:08:16] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] [ClientID: -5747510323413524081] logged in with entity id 1235 at (world, 132.7197, 65, 120.0078)
-2017-08-13 [06:08:18] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged in.
-2017-08-13 [06:08:18] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 登录了游戏。
-2017-08-13 [06:08:18] [Server thread/INFO]: - lihaoyy is now online!
-2017-08-13 [06:08:18] [Server thread/INFO]: - lihaoyy 现在上线了!
-2017-08-13 [06:08:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:08:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [06:08:53] [Server thread/NOTICE]: Player data not found for "xy520", creating new profile
-2017-08-13 [06:08:53] [Server thread/INFO]: xy520[/190.45.41.56:49287] [ClientID: -432171074088525848] logged in with entity id 1236 at (world, 128, 64, 128)
-2017-08-13 [06:10:07] [Server thread/INFO]: [AuthMePE] Player xy520 has logged in.
-2017-08-13 [06:10:07] [Server thread/INFO]: [AuthMePE] 玩家 xy520 登录了游戏。
-2017-08-13 [06:10:07] [Server thread/INFO]: - xy520 is now online!
-2017-08-13 [06:10:07] [Server thread/INFO]: - xy520 现在上线了!
-2017-08-13 [06:10:25] [Server thread/INFO]: - xy520 is now offline!
-2017-08-13 [06:10:25] [Server thread/INFO]: - xy520 离开了游戏!
-2017-08-13 [06:10:25] [Server thread/INFO]: [AuthMePE] Player xy520 has logged out.
-2017-08-13 [06:10:25] [Server thread/INFO]: [AuthMePE] Player xy520 离开了游戏.
-2017-08-13 [06:10:25] [Server thread/INFO]: xy520[/190.45.41.56:49287] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
-2017-08-13 [06:11:27] [Server thread/INFO]: [lihaoyy: Set own game mode to Survival Mode]
-2017-08-13 [06:11:36] [Server thread/INFO]: xy520[/190.45.41.56:52578] [ClientID: -432171074088525848] logged in with entity id 1237 at (world, 132.649, 65, 128.4626)
-2017-08-13 [06:11:39] [Server thread/INFO]: [lihaoyy: Set own game mode to Creative Mode]
-2017-08-13 [06:11:41] [Server thread/INFO]: [AuthMePE] Player xy520 has logged in.
-2017-08-13 [06:11:41] [Server thread/INFO]: [AuthMePE] 玩家 xy520 登录了游戏。
-2017-08-13 [06:11:41] [Server thread/INFO]: - xy520 is now online!
-2017-08-13 [06:11:41] [Server thread/INFO]: - xy520 现在上线了!
-2017-08-13 [06:12:57] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] [ClientID: 5903278655021412276] logged in with entity id 1238 at (world, 127.2501, 70.0625, 163.4507)
-2017-08-13 [06:13:01] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
-2017-08-13 [06:13:01] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
-2017-08-13 [06:13:01] [Server thread/INFO]: - blue_sky is now online!
-2017-08-13 [06:13:01] [Server thread/INFO]: - blue_sky 现在上线了!
-2017-08-13 [06:13:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [06:13:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [06:13:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [06:13:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [06:13:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:13:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:13:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [06:13:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [06:14:21] [Server thread/INFO]: - lihaoyy is now offline!
-2017-08-13 [06:14:21] [Server thread/INFO]: - lihaoyy 离开了游戏!
-2017-08-13 [06:14:21] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged out.
-2017-08-13 [06:14:21] [Server thread/INFO]: [AuthMePE] Player lihaoyy 离开了游戏.
-2017-08-13 [06:14:21] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] logged out due to client disconnect
-2017-08-13 [06:14:40] [Server thread/INFO]: shishen_xiaohuo[/59.45.128.220:64473] [ClientID: -5747510323413524081] logged in with entity id 1239 at (world, 134.2112, 64, 121.8392)
-2017-08-13 [06:14:43] [Server thread/WARNING]: shishen_xiaohuo moved wrongly!
-2017-08-13 [06:14:52] [Server thread/INFO]: xy520 died
-2017-08-13 [06:14:53] [Server thread/WARNING]: xy520 moved wrongly!
-2017-08-13 [06:14:53] [Server thread/WARNING]: xy520 moved wrongly!
-2017-08-13 [06:14:58] [Server thread/INFO]: shishen_xiaohuo[/59.45.128.220:64473] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:15:04] [Server thread/NOTICE]: Player data not found for "kevint24", creating new profile
-2017-08-13 [06:15:04] [Server thread/INFO]: KevinT24[/68.134.80.38:64695] [ClientID: -5977927539029702571] logged in with entity id 1240 at (world, 128, 64, 128)
-2017-08-13 [06:15:18] [Server thread/INFO]: * xy520 ip:yy.itoytoy.com
-2017-08-13 [06:15:29] [Server thread/INFO]: * xy520 QQ群号248038400
-2017-08-13 [06:15:30] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] [ClientID: -5747510323413524081] logged in with entity id 1241 at (world, 89.3478, 72, 172.5308)
-2017-08-13 [06:15:32] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged in.
-2017-08-13 [06:15:32] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 登录了游戏。
-2017-08-13 [06:15:32] [Server thread/INFO]: - lihaoyy is now online!
-2017-08-13 [06:15:32] [Server thread/INFO]: - lihaoyy 现在上线了!
-2017-08-13 [06:15:37] [Server thread/INFO]: * xy520 腐竹帅逼、牛逼、聪-明、厉害、潇洒、天才。
-2017-08-13 [06:15:42] [Server thread/INFO]: * xy520 Welcome！！Thank you to YYServer！
-2017-08-13 [06:15:47] [Server thread/INFO]: * xy520 欢迎新人来到yy服-务器！！请留在这里
-2017-08-13 [06:15:51] [Server thread/INFO]: [AuthMePE] Player KevinT24 has logged in.
-2017-08-13 [06:15:51] [Server thread/INFO]: [AuthMePE] 玩家 KevinT24 登录了游戏。
-2017-08-13 [06:15:51] [Server thread/INFO]: - KevinT24 is now online!
-2017-08-13 [06:15:51] [Server thread/INFO]: - KevinT24 现在上线了!
-2017-08-13 [06:16:16] [Server thread/INFO]: - KevinT24 is now offline!
-2017-08-13 [06:16:16] [Server thread/INFO]: - KevinT24 离开了游戏!
-2017-08-13 [06:16:16] [Server thread/INFO]: [AuthMePE] Player KevinT24 has logged out.
-2017-08-13 [06:16:16] [Server thread/INFO]: [AuthMePE] Player KevinT24 离开了游戏.
-2017-08-13 [06:16:16] [Server thread/INFO]: KevinT24[/68.134.80.38:64695] logged out due to client disconnect
-2017-08-13 [06:17:06] [Server thread/INFO]: taiseioou[/60.86.239.168:50412] [ClientID: 6711208350280816624] logged in with entity id 1243 at (world, 128, 64, 128)
-2017-08-13 [06:17:10] [Server thread/INFO]: [lihaoyy: Set the time to 100]
-2017-08-13 [06:17:26] [Server thread/INFO]: Steve[/98.253.90.88:65298] [ClientID: 6424598114876082989] logged in with entity id 1244 at (world, 128, 64, 128)
-2017-08-13 [06:17:42] [Server thread/INFO]: Steve[/98.253.90.88:65298] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:17:57] [Server thread/NOTICE]: Player data not found for "tylan", creating new profile
-2017-08-13 [06:17:57] [Server thread/INFO]: tylan[/184.187.249.23:58453] [ClientID: 2894171583214765197] logged in with entity id 1245 at (world, 128, 64, 128)
-2017-08-13 [06:18:01] [Server thread/INFO]: Steve[/98.253.90.88:65298] [ClientID: 6424598114876082989] logged in with entity id 1246 at (world, 128.041, 64, 128.0396)
-2017-08-13 [06:18:03] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:04] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:18:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [06:18:07] [Server thread/INFO]: tylan[/184.187.249.23:58453] logged out due to timeout
-2017-08-13 [06:18:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [06:18:17] [Server thread/INFO]: Steve[/98.253.90.88:65298] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:18:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:18:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
-2017-08-13 [06:18:31] [Server thread/INFO]: tylan[/184.187.249.23:58453] logged out due to timeout
-2017-08-13 [06:18:34] [Server thread/INFO]: Steve[/98.253.90.88:65298] logged out due to client disconnect
-2017-08-13 [06:18:47] [Server thread/INFO]: xy520 died
-2017-08-13 [06:18:59] [Server thread/INFO]: - lihaoyy is now offline!
-2017-08-13 [06:18:59] [Server thread/INFO]: - lihaoyy 离开了游戏!
-2017-08-13 [06:18:59] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged out.
-2017-08-13 [06:18:59] [Server thread/INFO]: [AuthMePE] Player lihaoyy 离开了游戏.
-2017-08-13 [06:18:59] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] logged out due to client disconnect
-2017-08-13 [06:19:03] [Server thread/INFO]: tylan[/184.187.249.23:58453] logged out due to timeout
-2017-08-13 [06:19:10] [Server thread/INFO]: blue_sky fell out of the world
-2017-08-13 [06:19:11] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] [ClientID: -5747510323413524081] logged in with entity id 1248 at (world, 128.2335, 65.0702, 117.1939)
-2017-08-13 [06:19:14] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged in.
-2017-08-13 [06:19:14] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 登录了游戏。
-2017-08-13 [06:19:14] [Server thread/INFO]: - lihaoyy is now online!
-2017-08-13 [06:19:14] [Server thread/INFO]: - lihaoyy 现在上线了!
-2017-08-13 [06:19:24] [Server thread/INFO]: steve[/73.144.14.120:53965] [ClientID: 8487400637884189481] logged in with entity id 1249 at (world, 128, 64, 128)
-2017-08-13 [06:19:32] [Server thread/INFO]: taiseioou[/60.86.239.168:50412] logged out due to timeout
-2017-08-13 [06:19:41] [Server thread/INFO]: xy520 has just earned the achievement Getting Wood
-2017-08-13 [06:19:42] [Server thread/INFO]: steve[/73.144.14.120:53965] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:19:45] [Server thread/INFO]: [SVIP]blue_sky : 登不進去
-2017-08-13 [06:19:49] [Server thread/INFO]: - lihaoyy is now offline!
-2017-08-13 [06:19:49] [Server thread/INFO]: - lihaoyy 离开了游戏!
-2017-08-13 [06:19:49] [Server thread/INFO]: [AuthMePE] Player lihaoyy has logged out.
-2017-08-13 [06:19:49] [Server thread/INFO]: [AuthMePE] Player lihaoyy 离开了游戏.
-2017-08-13 [06:19:49] [Server thread/INFO]: lihaoyy[/59.45.128.220:64473] logged out due to client disconnect
-2017-08-13 [06:20:09] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:09] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:09] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:10] [Server thread/INFO]: steve[/73.144.14.120:53965] [ClientID: 8487400637884189481] logged in with entity id 1259 at (world, 128.3957, 64, 128.3821)
-2017-08-13 [06:20:29] [Server thread/INFO]: steve[/73.144.14.120:53965] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:48] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:20:54] [Server thread/INFO]: steve[/73.144.14.120:59158] [ClientID: 8487400637884189481] logged in with entity id 1284 at (world, 128, 64, 128)
-2017-08-13 [06:21:13] [Server thread/INFO]: steve[/73.144.14.120:59158] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:21:28] [Server thread/INFO]: steve[/73.144.14.120:59158] [ClientID: 8487400637884189481] logged in with entity id 1286 at (world, 128, 64, 128)
-2017-08-13 [06:21:47] [Server thread/INFO]: steve[/73.144.14.120:59158] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:22:06] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:22:18] [Server thread/INFO]: steve[/73.144.14.120:53965] [ClientID: 8487400637884189481] logged in with entity id 1289 at (world, 128, 64, 128)
-2017-08-13 [06:22:37] [Server thread/INFO]: steve[/73.144.14.120:53965] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:23:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
-2017-08-13 [06:23:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
-2017-08-13 [06:23:15] [Server thread/INFO]: steve[/73.144.14.120:53965] [ClientID: 8487400637884189481] logged in with entity id 1313 at (world, 128, 64, 128)
-2017-08-13 [06:23:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
-2017-08-13 [06:23:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
-2017-08-13 [06:23:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:23:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
-2017-08-13 [06:23:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉2个少女
-2017-08-13 [06:23:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
-2017-08-13 [06:23:33] [Server thread/INFO]: steve[/73.144.14.120:53965] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:23:47] [Server thread/INFO]: taiseioou[/60.86.239.168:52795] [ClientID: 6711208350280816624] logged in with entity id 1321 at (world, 128, 64, 128)
-2017-08-13 [06:24:02] [Server thread/INFO]: xy520 died
-2017-08-13 [06:24:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-08-13 [06:24:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-08-13 [06:24:25] [Server thread/INFO]: steve[/73.144.14.120:53965] [ClientID: 8487400637884189481] logged in with entity id 1322 at (world, 128, 64, 128)
-2017-08-13 [06:24:33] [Server thread/INFO]: [SVIP]blue_sky : 也有過此次天體探測總統昨天總統昨天走走停停在聽流感台南ㄋㄟㄌㄢㄜㄊㄌㄟㄟㄌㄊ
-2017-08-13 [06:24:44] [Server thread/INFO]: steve[/73.144.14.120:53965] logged out due to Kicked by admin. Reason: Time out!
-2017-08-13 [06:24:53] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:24:53] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:24:58] [Server thread/INFO]: * xy520 欢迎新人来到yy服-务器！！请留在这里
-2017-08-13 [06:25:18] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:18] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:18] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:18] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:18] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-08-13 [06:25:22] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:22] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:22] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:22] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
-2017-08-13 [06:25:23] [Server thread/WARNING]: xy520 moved wrongly!
-2017-08-13 [06:25:58] [Server thread/NOTICE]: Player data not found for "mickeyi", creating new profile
-2017-08-13 [06:25:58] [Server thread/INFO]: mickeyi[/173.29.81.239:55739] [ClientID: 5605008646004137204] logged in with entity id 1326 at (world, 128, 64, 128)
-2017-08-13 [06:25:59] [Server thread/INFO]: - blue_sky is now offline!
-2017-08-13 [06:25:59] [Server thread/INFO]: - blue_sky 离开了游戏!
-2017-08-13 [06:25:59] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged out.
-2017-08-13 [06:25:59] [Server thread/INFO]: [AuthMePE] Player blue_sky 离开了游戏.
-2017-08-13 [06:25:59] [Server thread/INFO]: blue_sky[/111.249.56.187:62567] logged out due to client disconnect
-2017-08-13 [06:26:02] [Server thread/INFO]: taiseioou[/60.86.239.168:52795] logged out due to timeout
+2017-08-13 [06:27:02] [Server thread/WARNING]: mickeyi moved wrongly!
+2017-08-13 [06:27:02] [Server thread/WARNING]: mickeyi moved wrongly!
+2017-08-13 [06:27:03] [Server thread/INFO]: steve[/73.144.14.120:53048] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [06:27:28] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-13 [06:27:28] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-13 [06:28:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:28:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:28:16] [Server thread/INFO]: xy520 died
+2017-08-13 [06:28:16] [Server thread/INFO]: mickeyi[/173.29.81.239:55739] logged out due to timeout
+2017-08-13 [06:28:17] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-13 [06:28:17] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-13 [06:28:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:28:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:29:13] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-13 [06:29:13] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-13 [06:31:27] [Server thread/INFO]: - xy520 is now offline!
+2017-08-13 [06:31:27] [Server thread/INFO]: - xy520 离开了游戏!
+2017-08-13 [06:31:27] [Server thread/INFO]: [AuthMePE] Player xy520 has logged out.
+2017-08-13 [06:31:27] [Server thread/INFO]: [AuthMePE] Player xy520 离开了游戏.
+2017-08-13 [06:31:27] [Server thread/INFO]: xy520[/190.45.41.56:52578] logged out due to client disconnect
+2017-08-13 [06:32:08] [Server thread/NOTICE]: Player data not found for "luhan7lin", creating new profile
+2017-08-13 [06:32:08] [Server thread/INFO]: luhan7lin[/121.207.197.82:17785] [ClientID: 6872303553495895464] logged in with entity id 1406 at (world, 128, 64, 128)
+2017-08-13 [06:33:01] [Server thread/INFO]: Kaylee minecraft[/70.50.54.178:50206] logged out due to Invalid name!
+2017-08-13 [06:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [06:33:11] [Server thread/INFO]: [AuthMePE] Player luhan7lin has logged in.
+2017-08-13 [06:33:11] [Server thread/INFO]: [AuthMePE] 玩家 luhan7lin 登录了游戏。
+2017-08-13 [06:33:11] [Server thread/INFO]: - luhan7lin is now online!
+2017-08-13 [06:33:11] [Server thread/INFO]: - luhan7lin 现在上线了!
+2017-08-13 [06:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [06:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [06:33:47] [Server thread/INFO]: Kaylee minecraft[/70.50.54.178:62497] logged out due to Invalid name!
+2017-08-13 [06:34:13] [Server thread/INFO]: Kaylee minecraft[/70.50.54.178:62497] logged out due to Invalid name!
+2017-08-13 [06:34:53] [Server thread/INFO]: - luhan7lin is now offline!
+2017-08-13 [06:34:53] [Server thread/INFO]: - luhan7lin 离开了游戏!
+2017-08-13 [06:34:53] [Server thread/INFO]: [AuthMePE] Player luhan7lin has logged out.
+2017-08-13 [06:34:53] [Server thread/INFO]: [AuthMePE] Player luhan7lin 离开了游戏.
+2017-08-13 [06:34:53] [Server thread/INFO]: luhan7lin[/121.207.197.82:17785] logged out due to timeout
+2017-08-13 [06:35:31] [Server thread/NOTICE]: Player data not found for "happywoof70", creating new profile
+2017-08-13 [06:35:31] [Server thread/INFO]: happywoof70[/173.23.145.36:56456] [ClientID: 6776652773384829597] logged in with entity id 1407 at (world, 128, 64, 128)
+2017-08-13 [06:36:18] [Server thread/INFO]: happywoof70[/173.23.145.36:56456] logged out due to client disconnect
+2017-08-13 [06:36:20] [Server thread/INFO]: Steve[/71.224.100.175:52024] [ClientID: 2911295968994522424] logged in with entity id 1408 at (world, 128, 64, 128)
+2017-08-13 [06:36:38] [Server thread/INFO]: Steve[/71.224.100.175:52024] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [06:36:44] [Server thread/INFO]: steve[/73.144.14.120:49823] [ClientID: 8487400637884189481] logged in with entity id 1409 at (world, 128, 64, 128)
+2017-08-13 [06:37:03] [Server thread/INFO]: steve[/73.144.14.120:49823] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [06:37:31] [Server thread/INFO]: steve[/73.144.14.120:49823] [ClientID: 8487400637884189481] logged in with entity id 1410 at (world, 128, 64, 128)
+2017-08-13 [06:37:50] [Server thread/INFO]: steve[/73.144.14.120:49823] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [06:38:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:38:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:38:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:38:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:39:38] [Server thread/INFO]: steve[/73.144.14.120:57169] [ClientID: 8487400637884189481] logged in with entity id 1411 at (world, 128, 64, 128)
+2017-08-13 [06:39:57] [Server thread/INFO]: xy520[/190.45.41.56:50013] [ClientID: -432171074088525848] logged in with entity id 1412 at (world, 122.119, 49, 108.4758)
+2017-08-13 [06:39:57] [Server thread/INFO]: steve[/73.144.14.120:57169] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [06:40:00] [Server thread/INFO]: [AuthMePE] Player xy520 has logged in.
+2017-08-13 [06:40:00] [Server thread/INFO]: [AuthMePE] 玩家 xy520 登录了游戏。
+2017-08-13 [06:40:00] [Server thread/INFO]: - xy520 is now online!
+2017-08-13 [06:40:00] [Server thread/INFO]: - xy520 现在上线了!
+2017-08-13 [06:41:21] [Server thread/INFO]: - xy520 is now offline!
+2017-08-13 [06:41:21] [Server thread/INFO]: - xy520 离开了游戏!
+2017-08-13 [06:41:21] [Server thread/INFO]: [AuthMePE] Player xy520 has logged out.
+2017-08-13 [06:41:21] [Server thread/INFO]: [AuthMePE] Player xy520 离开了游戏.
+2017-08-13 [06:41:21] [Server thread/INFO]: xy520[/190.45.41.56:50013] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [06:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [06:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [06:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [06:46:39] [Server thread/INFO]: ahsa11[/1.180.233.141:50880] [ClientID: -6500022226055682996] logged in with entity id 1413 at (world, 123.3519, 65, 126.2739)
+2017-08-13 [06:46:44] [Server thread/INFO]: [AuthMePE] Player ahsa11 has logged in.
+2017-08-13 [06:46:44] [Server thread/INFO]: [AuthMePE] 玩家 ahsa11 登录了游戏。
+2017-08-13 [06:46:44] [Server thread/INFO]: - ahsa11 is now online!
+2017-08-13 [06:46:44] [Server thread/INFO]: - ahsa11 现在上线了!
+2017-08-13 [06:46:44] [Server thread/WARNING]: ahsa11 moved wrongly!
+2017-08-13 [06:47:30] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
+2017-08-13 [06:47:31] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
+2017-08-13 [06:47:31] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
+2017-08-13 [06:47:31] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
+2017-08-13 [06:47:31] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
+2017-08-13 [06:47:31] [Server thread/WARNING]: ahsa11 moved too fast, reverting movement
+2017-08-13 [06:47:37] [Server thread/INFO]: - ahsa11 is now offline!
+2017-08-13 [06:47:37] [Server thread/INFO]: - ahsa11 离开了游戏!
+2017-08-13 [06:47:37] [Server thread/INFO]: [AuthMePE] Player ahsa11 has logged out.
+2017-08-13 [06:47:37] [Server thread/INFO]: [AuthMePE] Player ahsa11 离开了游戏.
+2017-08-13 [06:47:37] [Server thread/INFO]: ahsa11[/1.180.233.141:50880] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [06:48:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:48:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:48:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:48:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [06:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [06:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [06:58:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [06:58:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [06:58:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [06:58:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [06:59:52] [Server thread/INFO]: CCcherry[/118.113.41.102:57472] [ClientID: 3500360481502257405] logged in with entity id 1414 at (world, 351.4009, 126, 269.7443)
+2017-08-13 [07:00:04] [Server thread/INFO]: [AuthMePE] Player CCcherry has logged in.
+2017-08-13 [07:00:04] [Server thread/INFO]: [AuthMePE] 玩家 CCcherry 登录了游戏。
+2017-08-13 [07:00:04] [Server thread/INFO]: - CCcherry is now online!
+2017-08-13 [07:00:04] [Server thread/INFO]: - CCcherry 现在上线了!
+2017-08-13 [07:00:25] [Server thread/INFO]: [VIP]CCcherry : 呜呜
+2017-08-13 [07:00:43] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [07:00:43] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [07:00:58] [Server thread/INFO]: - CCcherry is now offline!
+2017-08-13 [07:00:58] [Server thread/INFO]: - CCcherry 离开了游戏!
+2017-08-13 [07:00:58] [Server thread/INFO]: [AuthMePE] Player CCcherry has logged out.
+2017-08-13 [07:00:58] [Server thread/INFO]: [AuthMePE] Player CCcherry 离开了游戏.
+2017-08-13 [07:00:58] [Server thread/INFO]: CCcherry[/118.113.41.102:57472] logged out due to client disconnect
+2017-08-13 [07:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [07:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [07:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [07:08:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:08:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:08:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:08:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:11:39] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 1420 at (world, 125.5707, 64, 115.6612)
+2017-08-13 [07:11:43] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
+2017-08-13 [07:11:43] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
+2017-08-13 [07:11:43] [Server thread/INFO]: - blue_sky is now online!
+2017-08-13 [07:11:43] [Server thread/INFO]: - blue_sky 现在上线了!
+2017-08-13 [07:13:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:13:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [07:13:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:13:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [07:13:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:13:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:13:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:13:25] [Server thread/INFO]: [ 隔壁老王 ] 共使1少女怀孕
+2017-08-13 [07:18:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:18:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:18:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:18:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉1个少女
+2017-08-13 [07:19:31] [Server thread/INFO]: WSQA[/39.182.75.100:8937] [ClientID: -4978851562680644071] logged in with entity id 1443 at (world, 120.3338, 65, 124.21)
+2017-08-13 [07:19:33] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:19:33] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:19:47] [Server thread/INFO]: WSQA[/39.182.75.100:8937] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:20:02] [Server thread/INFO]: WSQA[/39.182.75.100:8937] [ClientID: -4978851562680644071] logged in with entity id 1444 at (world, 128, 64, 128)
+2017-08-13 [07:20:13] [Server thread/INFO]: [AuthMePE] Player WSQA has logged in.
+2017-08-13 [07:20:13] [Server thread/INFO]: [AuthMePE] 玩家 WSQA 登录了游戏。
+2017-08-13 [07:20:13] [Server thread/INFO]: - WSQA is now online!
+2017-08-13 [07:20:13] [Server thread/INFO]: - WSQA 现在上线了!
+2017-08-13 [07:20:23] [Server thread/INFO]: - WSQA is now offline!
+2017-08-13 [07:20:23] [Server thread/INFO]: - WSQA 离开了游戏!
+2017-08-13 [07:20:23] [Server thread/INFO]: [AuthMePE] Player WSQA has logged out.
+2017-08-13 [07:20:23] [Server thread/INFO]: [AuthMePE] Player WSQA 离开了游戏.
+2017-08-13 [07:20:23] [Server thread/INFO]: WSQA[/39.182.75.100:8937] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [07:20:51] [Server thread/INFO]: WSQA[/39.182.75.100:8937] [ClientID: -4978851562680644071] logged in with entity id 1445 at (world, 122.3975, 65, 124.3292)
+2017-08-13 [07:20:52] [Server thread/INFO]: [AuthMePE] Player WSQA has logged in.
+2017-08-13 [07:20:52] [Server thread/INFO]: [AuthMePE] 玩家 WSQA 登录了游戏。
+2017-08-13 [07:20:52] [Server thread/INFO]: - WSQA is now online!
+2017-08-13 [07:20:52] [Server thread/INFO]: - WSQA 现在上线了!
+2017-08-13 [07:20:52] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:20:53] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:21:56] [Server thread/INFO]: [SVIP]blue_sky : 我在村名區
+2017-08-13 [07:22:04] [Server thread/INFO]: [我是男的]WSQA : hello
+2017-08-13 [07:23:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:23:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [07:23:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:23:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [07:23:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:23:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:23:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉1个少女
+2017-08-13 [07:23:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [07:24:34] [Server thread/INFO]: [SVIP]blue_sky : 嗎
+2017-08-13 [07:24:43] [Server thread/INFO]: [我是男的]WSQA : ？
+2017-08-13 [07:25:03] [Server thread/INFO]: [SVIP]blue_sky : 你是哪國人
+2017-08-13 [07:25:12] [Server thread/INFO]: [我是男的]WSQA : 中国啊！
+2017-08-13 [07:26:33] [Server thread/NOTICE]: Player data not found for "darkjade0615", creating new profile
+2017-08-13 [07:26:33] [Server thread/INFO]: DarkJade0615[/73.34.152.36:60657] [ClientID: 573646401479805296] logged in with entity id 1473 at (world, 128, 64, 128)
+2017-08-13 [07:26:55] [Server thread/INFO]: DarkJade0615[/73.34.152.36:60657] logged out due to client disconnect
+2017-08-13 [07:28:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:28:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:28:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:28:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:28:53] [Server thread/INFO]: [/223.73.242.102:9270] logged out due to client disconnect
+2017-08-13 [07:29:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:29:14] [Server thread/INFO]: [/223.73.242.102:9270] logged out due to client disconnect
+2017-08-13 [07:29:39] [Server thread/INFO]: - WSQA is now offline!
+2017-08-13 [07:29:39] [Server thread/INFO]: - WSQA 离开了游戏!
+2017-08-13 [07:29:39] [Server thread/INFO]: [AuthMePE] Player WSQA has logged out.
+2017-08-13 [07:29:39] [Server thread/INFO]: [AuthMePE] Player WSQA 离开了游戏.
+2017-08-13 [07:29:39] [Server thread/INFO]: WSQA[/39.182.75.100:8937] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [07:29:57] [Server thread/INFO]: WSQA[/39.182.75.100:8937] [ClientID: -4978851562680644071] logged in with entity id 1495 at (world, 120.9653, 64.9978, 124.3166)
+2017-08-13 [07:29:59] [Server thread/INFO]: [AuthMePE] Player WSQA has logged in.
+2017-08-13 [07:29:59] [Server thread/INFO]: [AuthMePE] 玩家 WSQA 登录了游戏。
+2017-08-13 [07:29:59] [Server thread/INFO]: - WSQA is now online!
+2017-08-13 [07:29:59] [Server thread/INFO]: - WSQA 现在上线了!
+2017-08-13 [07:30:53] [Server thread/INFO]: Steve[/36.102.228.30:8377] [ClientID: -7435442720916691053] logged in with entity id 1498 at (world, 128.5433, 64, 128.0861)
+2017-08-13 [07:31:02] [Server thread/NOTICE]: Player data not found for "chineboy", creating new profile
+2017-08-13 [07:31:02] [Server thread/INFO]: CHINEBOY[/39.181.155.48:9960] [ClientID: -7966008253970917726] logged in with entity id 1500 at (world, 128, 64, 128)
+2017-08-13 [07:31:10] [Server thread/INFO]: Steve[/36.102.228.30:8377] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:31:25] [Server thread/INFO]: WSQA died
+2017-08-13 [07:31:26] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:31:46] [Server thread/INFO]: [AuthMePE] Player CHINEBOY has logged in.
+2017-08-13 [07:31:46] [Server thread/INFO]: [AuthMePE] 玩家 CHINEBOY 登录了游戏。
+2017-08-13 [07:31:46] [Server thread/INFO]: - CHINEBOY is now online!
+2017-08-13 [07:31:46] [Server thread/INFO]: - CHINEBOY 现在上线了!
+2017-08-13 [07:31:52] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:32:08] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved too fast, reverting movement
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved too fast, reverting movement
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:10] [Server thread/WARNING]: WSQA moved too fast, reverting movement
+2017-08-13 [07:32:10] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:10] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:32:15] [Server thread/INFO]: [SVIP]blue_sky : 誰要過來
+2017-08-13 [07:32:44] [Server thread/INFO]: [我是男的]WSQA : 什么？
+2017-08-13 [07:32:58] [Server thread/INFO]: [我是男的]WSQA : 这字有点奇怪
+2017-08-13 [07:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:33:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [07:33:08] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:09] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:11] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:11] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:11] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:13] [Server thread/INFO]: [SVIP]blue_sky : 我是台灣
+2017-08-13 [07:33:14] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:14] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:14] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:14] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:33:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [07:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:33:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:33:22] [Server thread/INFO]: [我是男的]WSQA : 哦
+2017-08-13 [07:33:24] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:33:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [07:33:39] [Server thread/INFO]: [我是男的]WSQA : 是过来的意思咯
+2017-08-13 [07:33:42] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:42] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:42] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:42] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:45] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:45] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:45] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:46] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:46] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:46] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:46] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:46] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:47] [Server thread/INFO]: [SVIP]blue_sky : 對啊
+2017-08-13 [07:33:49] [Server thread/INFO]: - CHINEBOY is now offline!
+2017-08-13 [07:33:49] [Server thread/INFO]: - CHINEBOY 离开了游戏!
+2017-08-13 [07:33:49] [Server thread/INFO]: [AuthMePE] Player CHINEBOY has logged out.
+2017-08-13 [07:33:49] [Server thread/INFO]: [AuthMePE] Player CHINEBOY 离开了游戏.
+2017-08-13 [07:33:49] [Server thread/INFO]: CHINEBOY[/39.181.155.48:9960] logged out due to timeout
+2017-08-13 [07:33:50] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:50] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:50] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:50] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:33:55] [Server thread/NOTICE]: Player data not found for "eve3630", creating new profile
+2017-08-13 [07:33:55] [Server thread/INFO]: Eve3630[/68.3.104.207:55228] [ClientID: 1936767768501018597] logged in with entity id 1514 at (world, 128, 64, 128)
+2017-08-13 [07:34:00] [Server thread/INFO]: [我是男的]WSQA : 哦哦
+2017-08-13 [07:34:19] [Server thread/INFO]: Eve3630[/68.3.104.207:55228] logged out due to timeout
+2017-08-13 [07:34:35] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:34:36] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:34:41] [Server thread/INFO]: - WSQA is now offline!
+2017-08-13 [07:34:41] [Server thread/INFO]: - WSQA 离开了游戏!
+2017-08-13 [07:34:41] [Server thread/INFO]: [AuthMePE] Player WSQA has logged out.
+2017-08-13 [07:34:41] [Server thread/INFO]: [AuthMePE] Player WSQA 离开了游戏.
+2017-08-13 [07:34:41] [Server thread/INFO]: WSQA[/39.182.75.100:8937] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [07:35:00] [Server thread/INFO]: WSQA[/39.182.75.100:8937] [ClientID: -4978851562680644071] logged in with entity id 1515 at (world, 124.4704, 71.987, 280.4138)
+2017-08-13 [07:35:01] [Server thread/INFO]: [AuthMePE] Player WSQA has logged in.
+2017-08-13 [07:35:01] [Server thread/INFO]: [AuthMePE] 玩家 WSQA 登录了游戏。
+2017-08-13 [07:35:01] [Server thread/INFO]: - WSQA is now online!
+2017-08-13 [07:35:01] [Server thread/INFO]: - WSQA 现在上线了!
+2017-08-13 [07:35:10] [Server thread/INFO]: [我是男的]WSQA : 你在哪？
+2017-08-13 [07:35:20] [Server thread/INFO]: [SVIP]blue_sky : 居民區
+2017-08-13 [07:35:34] [Server thread/INFO]: [我是男的]WSQA : 来了
+2017-08-13 [07:35:37] [Server thread/INFO]: woaiyy[/223.87.242.165:19687] logged out due to You are banned
+2017-08-13 [07:35:53] [Server thread/INFO]: [我是男的]WSQA : 好大
+2017-08-13 [07:36:01] [Server thread/INFO]: Steve[/36.102.228.31:8780] [ClientID: -7435442720916691053] logged in with entity id 1516 at (world, 128, 64, 128)
+2017-08-13 [07:36:18] [Server thread/INFO]: Steve[/36.102.228.31:8780] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:36:25] [Server thread/INFO]: CHINEBOY[/39.181.155.48:9319] [ClientID: -7966008253970917726] logged in with entity id 1517 at (world, 132.3331, 64, 115.4627)
+2017-08-13 [07:36:27] [Server thread/INFO]: [AuthMePE] Player CHINEBOY has logged in.
+2017-08-13 [07:36:27] [Server thread/INFO]: [AuthMePE] 玩家 CHINEBOY 登录了游戏。
+2017-08-13 [07:36:27] [Server thread/INFO]: - CHINEBOY is now online!
+2017-08-13 [07:36:27] [Server thread/INFO]: - CHINEBOY 现在上线了!
+2017-08-13 [07:37:28] [Server thread/INFO]: [我是男的]WSQA : 拿不了
+2017-08-13 [07:38:03] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:38:04] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:38:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:38:06] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:38:06] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:38:14] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:38:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:38:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:38:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉1个少女
+2017-08-13 [07:38:28] [Server thread/NOTICE]: Player data not found for "biggestbell9840", creating new profile
+2017-08-13 [07:38:28] [Server thread/INFO]: BiggestBell9840[/177.191.2.207:60536] [ClientID: 4150771646748456481] logged in with entity id 1520 at (world, 128, 64, 128)
+2017-08-13 [07:38:39] [Server thread/INFO]: [我是男的]WSQA : 禁止不动的水。
+2017-08-13 [07:38:46] [Server thread/WARNING]: CHINEBOY moved wrongly!
+2017-08-13 [07:38:46] [Server thread/INFO]: - WSQA is now offline!
+2017-08-13 [07:38:46] [Server thread/INFO]: - WSQA 离开了游戏!
+2017-08-13 [07:38:46] [Server thread/INFO]: [AuthMePE] Player WSQA has logged out.
+2017-08-13 [07:38:46] [Server thread/INFO]: [AuthMePE] Player WSQA 离开了游戏.
+2017-08-13 [07:38:46] [Server thread/INFO]: WSQA[/39.182.75.100:8937] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [07:38:47] [Server thread/INFO]: [SVIP]blue_sky : 過來
+2017-08-13 [07:38:48] [Server thread/INFO]: Steve[/117.182.252.162:5267] [ClientID: -7715734651313668567] logged in with entity id 1521 at (world, 128, 64, 128)
+2017-08-13 [07:38:54] [Server thread/INFO]: - CHINEBOY is now offline!
+2017-08-13 [07:38:54] [Server thread/INFO]: - CHINEBOY 离开了游戏!
+2017-08-13 [07:38:54] [Server thread/INFO]: [AuthMePE] Player CHINEBOY has logged out.
+2017-08-13 [07:38:54] [Server thread/INFO]: [AuthMePE] Player CHINEBOY 离开了游戏.
+2017-08-13 [07:38:54] [Server thread/INFO]: CHINEBOY[/39.181.155.48:9319] logged out due to client disconnect
+2017-08-13 [07:39:06] [Server thread/INFO]: Steve[/117.182.252.162:5267] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:39:06] [Server thread/INFO]: WSQA[/39.182.75.100:8937] [ClientID: -4978851562680644071] logged in with entity id 1522 at (th, 104.0344, 65, 212.5218)
+2017-08-13 [07:39:06] [Server thread/INFO]: BiggestBell9840[/177.191.2.207:60536] logged out due to client disconnect
+2017-08-13 [07:39:08] [Server thread/INFO]: [AuthMePE] Player WSQA has logged in.
+2017-08-13 [07:39:08] [Server thread/INFO]: [AuthMePE] 玩家 WSQA 登录了游戏。
+2017-08-13 [07:39:08] [Server thread/INFO]: - WSQA is now online!
+2017-08-13 [07:39:08] [Server thread/INFO]: - WSQA 现在上线了!
+2017-08-13 [07:39:19] [Server thread/INFO]: [我是男的]WSQA : 卡崩了
+2017-08-13 [07:39:53] [Server thread/INFO]: WSQA died
+2017-08-13 [07:39:54] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:40:33] [Server thread/INFO]: Steve[/117.182.252.162:5267] [ClientID: -7715734651313668567] logged in with entity id 1523 at (world, 128, 64, 128)
+2017-08-13 [07:40:49] [Server thread/INFO]: Steve[/117.182.252.162:5267] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:40:52] [Server thread/INFO]: jiajie[/180.123.175.95:46276] [ClientID: -8713143859903819487] logged in with entity id 1524 at (world, 122.0567, 70, -106.5214)
+2017-08-13 [07:41:15] [Server thread/INFO]: jiajie[/180.123.175.95:46276] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:41:30] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:41:30] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:42:27] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:43:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [07:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:43:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [07:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:43:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:43:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [07:43:30] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:43:40] [Server thread/WARNING]: WSQA moved wrongly!
+2017-08-13 [07:44:02] [Server thread/INFO]: - WSQA is now offline!
+2017-08-13 [07:44:02] [Server thread/INFO]: - WSQA 离开了游戏!
+2017-08-13 [07:44:02] [Server thread/INFO]: [AuthMePE] Player WSQA has logged out.
+2017-08-13 [07:44:02] [Server thread/INFO]: [AuthMePE] Player WSQA 离开了游戏.
+2017-08-13 [07:44:02] [Server thread/INFO]: WSQA[/39.182.75.100:8937] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [07:44:31] [Server thread/INFO]: Steve[/117.182.252.162:5267] [ClientID: -7715734651313668567] logged in with entity id 1525 at (world, 128, 64, 128)
+2017-08-13 [07:44:48] [Server thread/INFO]: Steve[/117.182.252.162:5267] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:45:42] [Server thread/INFO]: DanTDM[/68.3.104.207:59453] [ClientID: 1936767768501018597] logged in with entity id 1526 at (world, 126.8389, 64, 124.9108)
+2017-08-13 [07:46:01] [Server thread/INFO]: MASDwayne[/114.25.213.171:62010] [ClientID: 2361796883452909790] logged in with entity id 1527 at (world, 128, 64, 128)
+2017-08-13 [07:46:02] [Server thread/INFO]: Steve[/98.179.235.170:58338] [ClientID: -4337209530025380099] logged in with entity id 1528 at (world, 128.1868, 64, 128.0296)
+2017-08-13 [07:46:03] [Server thread/INFO]: DanTDM[/68.3.104.207:59453] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:46:14] [Server thread/INFO]: [AuthMePE] Player MASDwayne has logged in.
+2017-08-13 [07:46:14] [Server thread/INFO]: [AuthMePE] 玩家 MASDwayne 登录了游戏。
+2017-08-13 [07:46:14] [Server thread/INFO]: - MASDwayne is now online!
+2017-08-13 [07:46:14] [Server thread/INFO]: - MASDwayne 现在上线了!
+2017-08-13 [07:46:19] [Server thread/INFO]: Steve[/98.179.235.170:58338] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:46:37] [Server thread/INFO]: - MASDwayne is now offline!
+2017-08-13 [07:46:37] [Server thread/INFO]: - MASDwayne 离开了游戏!
+2017-08-13 [07:46:37] [Server thread/INFO]: [AuthMePE] Player MASDwayne has logged out.
+2017-08-13 [07:46:37] [Server thread/INFO]: [AuthMePE] Player MASDwayne 离开了游戏.
+2017-08-13 [07:46:37] [Server thread/INFO]: MASDwayne[/114.25.213.171:62010] logged out due to client disconnect
+2017-08-13 [07:46:41] [Server thread/INFO]: Steve[/98.179.235.170:58338] [ClientID: -4337209530025380099] logged in with entity id 1529 at (world, 128, 64, 128)
+2017-08-13 [07:46:58] [Server thread/INFO]: Steve[/98.179.235.170:58338] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:47:17] [Server thread/INFO]: Steve[/98.179.235.170:58338] [ClientID: -4337209530025380099] logged in with entity id 1530 at (world, 128, 64, 128)
+2017-08-13 [07:47:34] [Server thread/INFO]: Steve[/98.179.235.170:58338] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:47:55] [Server thread/INFO]: Steve[/98.179.235.170:58338] [ClientID: -4337209530025380099] logged in with entity id 1531 at (world, 128, 64, 128)
+2017-08-13 [07:48:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:48:11] [Server thread/INFO]: Steve[/98.179.235.170:58338] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:48:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:48:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:48:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:50:15] [Server thread/NOTICE]: Player data not found for "dyxalh", creating new profile
+2017-08-13 [07:50:15] [Server thread/INFO]: dyxalh[/183.131.161.160:11487] [ClientID: -4906506982890671292] logged in with entity id 1532 at (world, 128, 64, 128)
+2017-08-13 [07:50:37] [Server thread/INFO]: Steve[/117.182.252.162:5516] [ClientID: -7715734651313668567] logged in with entity id 1536 at (world, 128, 65.2492, 128)
+2017-08-13 [07:50:38] [Server thread/INFO]: Justin[/120.18.99.164:58307] [ClientID: 9005092107894711006] logged in with entity id 1537 at (world, 132.4995, 65, 133.9717)
+2017-08-13 [07:50:51] [Server thread/INFO]: [AuthMePE] Player Justin has logged in.
+2017-08-13 [07:50:51] [Server thread/INFO]: [AuthMePE] 玩家 Justin 登录了游戏。
+2017-08-13 [07:50:51] [Server thread/INFO]: - Justin is now online!
+2017-08-13 [07:50:51] [Server thread/INFO]: - Justin 现在上线了!
+2017-08-13 [07:50:53] [Server thread/INFO]: Steve[/117.182.252.162:5516] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:50:56] [Server thread/INFO]: [AuthMePE] Player dyxalh has logged in.
+2017-08-13 [07:50:56] [Server thread/INFO]: [AuthMePE] 玩家 dyxalh 登录了游戏。
+2017-08-13 [07:50:56] [Server thread/INFO]: - dyxalh is now online!
+2017-08-13 [07:50:56] [Server thread/INFO]: - dyxalh 现在上线了!
+2017-08-13 [07:50:56] [Server thread/WARNING]: Justin moved wrongly!
+2017-08-13 [07:50:57] [Server thread/WARNING]: Justin moved wrongly!
+2017-08-13 [07:51:03] [Server thread/INFO]: tujiejie[/183.197.241.177:19785] [ClientID: 118023378229363819] logged in with entity id 1540 at (nether, 122.3, 110.42, 112.7)
+2017-08-13 [07:51:05] [Server thread/INFO]: [AuthMePE] Player tujiejie has logged in.
+2017-08-13 [07:51:05] [Server thread/INFO]: [AuthMePE] 玩家 tujiejie 登录了游戏。
+2017-08-13 [07:51:05] [Server thread/INFO]: - tujiejie is now online!
+2017-08-13 [07:51:05] [Server thread/INFO]: - tujiejie 现在上线了!
+2017-08-13 [07:51:05] [Server thread/WARNING]: tujiejie moved too fast, reverting movement
+2017-08-13 [07:51:05] [Server thread/WARNING]: tujiejie moved too fast, reverting movement
+2017-08-13 [07:51:10] [Server thread/WARNING]: tujiejie moved wrongly!
+2017-08-13 [07:51:34] [Server thread/INFO]: - dyxalh is now offline!
+2017-08-13 [07:51:34] [Server thread/INFO]: - dyxalh 离开了游戏!
+2017-08-13 [07:51:34] [Server thread/INFO]: [AuthMePE] Player dyxalh has logged out.
+2017-08-13 [07:51:34] [Server thread/INFO]: [AuthMePE] Player dyxalh 离开了游戏.
+2017-08-13 [07:51:34] [Server thread/INFO]: dyxalh[/183.131.161.160:11487] logged out due to client disconnect
+2017-08-13 [07:51:56] [Server thread/INFO]: dyxalh[/183.131.161.160:11487] [ClientID: -4906506982890671292] logged in with entity id 1546 at (world, 128.3291, 64, 115.3607)
+2017-08-13 [07:51:58] [Server thread/INFO]: [AuthMePE] Player dyxalh has logged in.
+2017-08-13 [07:51:58] [Server thread/INFO]: [AuthMePE] 玩家 dyxalh 登录了游戏。
+2017-08-13 [07:51:58] [Server thread/INFO]: - dyxalh is now online!
+2017-08-13 [07:51:58] [Server thread/INFO]: - dyxalh 现在上线了!
+2017-08-13 [07:52:06] [Server thread/WARNING]: dyxalh moved wrongly!
+2017-08-13 [07:52:19] [Server thread/INFO]: - dyxalh is now offline!
+2017-08-13 [07:52:19] [Server thread/INFO]: - dyxalh 离开了游戏!
+2017-08-13 [07:52:19] [Server thread/INFO]: [AuthMePE] Player dyxalh has logged out.
+2017-08-13 [07:52:19] [Server thread/INFO]: [AuthMePE] Player dyxalh 离开了游戏.
+2017-08-13 [07:52:19] [Server thread/INFO]: dyxalh[/183.131.161.160:11487] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-08-13 [07:52:43] [Server thread/INFO]: - Justin is now offline!
+2017-08-13 [07:52:43] [Server thread/INFO]: - Justin 离开了游戏!
+2017-08-13 [07:52:43] [Server thread/INFO]: [AuthMePE] Player Justin has logged out.
+2017-08-13 [07:52:43] [Server thread/INFO]: [AuthMePE] Player Justin 离开了游戏.
+2017-08-13 [07:52:43] [Server thread/INFO]: Justin[/120.18.99.164:58307] logged out due to client disconnect
+2017-08-13 [07:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:53:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [07:53:08] [Server thread/WARNING]: tujiejie moved wrongly!
+2017-08-13 [07:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:53:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [07:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:53:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:53:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [07:53:55] [Server thread/INFO]: - tujiejie is now offline!
+2017-08-13 [07:53:55] [Server thread/INFO]: - tujiejie 离开了游戏!
+2017-08-13 [07:53:55] [Server thread/INFO]: [AuthMePE] Player tujiejie has logged out.
+2017-08-13 [07:53:55] [Server thread/INFO]: [AuthMePE] Player tujiejie 离开了游戏.
+2017-08-13 [07:53:55] [Server thread/INFO]: tujiejie[/183.197.241.177:19785] logged out due to timeout
+2017-08-13 [07:55:04] [Server thread/INFO]: Steve[/218.67.255.167:23788] [ClientID: 2846345633267199913] logged in with entity id 1559 at (world, 128.0194, 64, 128.0031)
+2017-08-13 [07:55:20] [Server thread/INFO]: Steve[/218.67.255.167:23788] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:56:09] [Server thread/INFO]: guanhaiyunyuan[/122.6.124.34:12431] [ClientID: -2827249662274324597] logged in with entity id 1560 at (world, 231, 79, 540)
+2017-08-13 [07:56:31] [Server thread/INFO]: [AuthMePE] Player guanhaiyunyuan has logged in.
+2017-08-13 [07:56:31] [Server thread/INFO]: [AuthMePE] 玩家 guanhaiyunyuan 登录了游戏。
+2017-08-13 [07:56:31] [Server thread/INFO]: - guanhaiyunyuan is now online!
+2017-08-13 [07:56:31] [Server thread/INFO]: - guanhaiyunyuan 现在上线了!
+2017-08-13 [07:56:43] [Server thread/INFO]: CCcherry[/118.113.41.102:60096] [ClientID: 3500360481502257405] logged in with entity id 1561 at (world, 335.0277, 129, 264.0807)
+2017-08-13 [07:56:56] [Server thread/INFO]: [AuthMePE] Player CCcherry has logged in.
+2017-08-13 [07:56:56] [Server thread/INFO]: [AuthMePE] 玩家 CCcherry 登录了游戏。
+2017-08-13 [07:56:56] [Server thread/INFO]: - CCcherry is now online!
+2017-08-13 [07:56:56] [Server thread/INFO]: - CCcherry 现在上线了!
+2017-08-13 [07:57:24] [Server thread/INFO]: [VIP]CCcherry : 老公
+2017-08-13 [07:57:33] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [07:57:33] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [07:57:54] [Server thread/INFO]: guanhaiyunyuan died
+2017-08-13 [07:57:55] [Server thread/WARNING]: guanhaiyunyuan moved wrongly!
+2017-08-13 [07:58:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [07:58:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [07:58:17] [Server thread/WARNING]: guanhaiyunyuan moved too fast, reverting movement
+2017-08-13 [07:58:17] [Server thread/WARNING]: guanhaiyunyuan moved too fast, reverting movement
+2017-08-13 [07:58:17] [Server thread/WARNING]: guanhaiyunyuan moved too fast, reverting movement
+2017-08-13 [07:58:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [07:58:25] [Server thread/WARNING]: guanhaiyunyuan moved wrongly!
+2017-08-13 [07:58:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [07:58:35] [Server thread/INFO]: Steve[/117.182.252.162:5806] [ClientID: -7715734651313668567] logged in with entity id 1564 at (world, 128, 64, 128)
+2017-08-13 [07:58:52] [Server thread/INFO]: Steve[/117.182.252.162:5806] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [07:58:55] [Server thread/INFO]: [VIP]CCcherry : blue_sky
+2017-08-13 [07:59:13] [Server thread/INFO]: [SVIP]blue_sky : 什麼事
+2017-08-13 [07:59:35] [Server thread/INFO]: [VIP]CCcherry : 还没结婚(｡ì _ í｡)
+2017-08-13 [07:59:43] [Server thread/INFO]: [VIP]CCcherry : 结婚指令
+2017-08-13 [07:59:59] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:00:07] [Server thread/INFO]: - guanhaiyunyuan is now offline!
+2017-08-13 [08:00:07] [Server thread/INFO]: - guanhaiyunyuan 离开了游戏!
+2017-08-13 [08:00:07] [Server thread/INFO]: [AuthMePE] Player guanhaiyunyuan has logged out.
+2017-08-13 [08:00:07] [Server thread/INFO]: [AuthMePE] Player guanhaiyunyuan 离开了游戏.
+2017-08-13 [08:00:07] [Server thread/INFO]: guanhaiyunyuan[/122.6.124.34:12431] logged out due to client disconnect
+2017-08-13 [08:00:21] [Server thread/INFO]: [SVIP]blue_sky : 我在居民區
+2017-08-13 [08:00:39] [Server thread/INFO]: dad fox[/23.241.9.116:54003] logged out due to Invalid name!
+2017-08-13 [08:00:57] [Server thread/INFO]: dad fox[/23.241.9.116:54003] logged out due to Invalid name!
+2017-08-13 [08:01:17] [Server thread/INFO]: dad fox[/23.241.9.116:54003] logged out due to Invalid name!
+2017-08-13 [08:01:39] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:01:57] [Server thread/INFO]: [VIP]CCcherry : 同意呀
+2017-08-13 [08:02:11] [Server thread/INFO]: [SVIP]blue_sky : 我不知道指令
+2017-08-13 [08:02:35] [Server thread/INFO]: [VIP]CCcherry : 按照我的输入/结婚 同意
+2017-08-13 [08:02:45] [Server thread/INFO]: dad fox[/23.241.9.116:54003] logged out due to Invalid name!
+2017-08-13 [08:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [08:03:05] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [08:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [08:03:15] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [08:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [08:03:20] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [08:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [08:03:25] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [08:03:29] [Server thread/INFO]: Steve[/171.13.243.234:7303] [ClientID: 3730127981913163325] logged in with entity id 1588 at (world, 128.0194, 64, 128.0027)
+2017-08-13 [08:03:32] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:03:33] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:03:48] [Server thread/INFO]: Steve[/171.13.243.234:7303] logged out due to client disconnect
+2017-08-13 [08:05:13] [Server thread/INFO]: [VIP]CCcherry : 我的东西居然没了
+2017-08-13 [08:05:23] [Server thread/INFO]: Steve[/61.165.234.66:57372] [ClientID: -6309223467202137383] logged in with entity id 1600 at (world, 128.0194, 64, 128.0027)
+2017-08-13 [08:05:47] [Server thread/INFO]: Steve[/61.165.234.66:57372] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [08:06:07] [Server thread/INFO]: [SVIP]blue_sky : 結婚的英文
+2017-08-13 [08:06:16] [Server thread/INFO]: [VIP]CCcherry : 输汉字
+2017-08-13 [08:06:21] [Server thread/INFO]: Steve[/61.165.234.66:57372] [ClientID: -6309223467202137383] logged in with entity id 1607 at (world, 128, 64, 128)
+2017-08-13 [08:06:22] [Server thread/INFO]: [VIP]CCcherry : 是汉字
+2017-08-13 [08:06:26] [Server thread/INFO]: [VIP]CCcherry : 真的
+2017-08-13 [08:06:32] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:06:44] [Server thread/INFO]: Steve[/61.165.234.66:57372] logged out due to Kicked by admin. Reason: 
+Max amount of tries reached!
+Try again 3 minutes later.
+2017-08-13 [08:06:49] [Server thread/INFO]: [VIP]CCcherry : 完全照我的输入
+2017-08-13 [08:06:55] [Server thread/NOTICE]: Player data not found for "atalanta", creating new profile
+2017-08-13 [08:06:55] [Server thread/INFO]: Atalanta[/174.95.19.128:53573] [ClientID: -201734535111282556] logged in with entity id 1612 at (world, 128, 64, 128)
+2017-08-13 [08:07:04] [Server thread/INFO]: [VIP]CCcherry : 懂了吗
+2017-08-13 [08:07:09] [Server thread/INFO]: Atalanta[/174.95.19.128:53573] logged out due to client disconnect
+2017-08-13 [08:07:20] [Server thread/INFO]: Steve[/61.92.88.214:65241] [ClientID: 7302447732400207500] logged in with entity id 1615 at (world, 128, 64, 128)
+2017-08-13 [08:07:22] [Server thread/INFO]: Steve[/61.92.88.214:65241] logged out due to Kicked by admin. Reason: Due to security issue, 
+this account has been blocked temporary.  
+Please try again later.
+
+
+
+-AuthMePE Authentication System
+2017-08-13 [08:07:22] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1117
+2017-08-13 [08:07:22] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-08-13 [08:07:22] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Sun_Aug_13-08.07.22-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling Asign v1.4
+2017-08-13 [08:07:25] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-08-13 [08:07:25] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling db v1.0.0
+2017-08-13 [08:07:25] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-08-13 [08:07:25] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-08-13 [08:07:25] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling ld v流星优化
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling AuthMePE v1.0.1
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-08-13 [08:07:25] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-08-13 [08:07:25] [Server thread/INFO]: blue_sky left the game
+2017-08-13 [08:07:25] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] logged out due to Server closed
+2017-08-13 [08:07:25] [Server thread/INFO]: CCcherry left the game
+2017-08-13 [08:07:25] [Server thread/INFO]: CCcherry[/118.113.41.102:60096] logged out due to Server closed
+2017-08-13 [08:07:25] [Server thread/INFO]: Steve[/61.165.234.66:57372] logged out due to Server closed
+2017-08-13 [08:07:25] [Server thread/INFO]: Unloading level "world"
+2017-08-13 [08:07:25] [Server thread/INFO]: Unloading level "nether"
+2017-08-13 [08:07:25] [Server thread/INFO]: Unloading level "ender"
+2017-08-13 [08:07:25] [Server thread/INFO]: Unloading level "world"
+2017-08-13 [08:07:25] [Server thread/INFO]: Unloading level "th"
+2017-08-13 [08:07:27] [Server thread/WARNING]: OpenSSL extension not found
+2017-08-13 [08:07:27] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-08-13 [08:07:27] [Server thread/INFO]: Selected English (eng) as the base language
+2017-08-13 [08:07:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-08-13 [08:07:27] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading recipes...
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading resource packs...
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading Asign v1.4
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading db v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading ld v流星优化
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading AuthMePE v1.0.1
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-08-13 [08:07:28] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-08-13 [08:07:28] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling db v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-08-13 [08:07:28] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-08-13 [08:07:28] [Server thread/INFO]: Preparing level "world"
+2017-08-13 [08:07:28] [Server thread/INFO]: Preparing level "nether"
+2017-08-13 [08:07:28] [Server thread/INFO]: Preparing level "ender"
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling Asign v1.4
+2017-08-13 [08:07:28] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-08-13 [08:07:28] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-08-13 [08:07:28] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-08-13 [08:07:28] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-08-13 [08:07:28] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-08-13 [08:07:28] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-08-13 [08:07:28] [Server thread/INFO]: SWorld loaded!
+2017-08-13 [08:07:28] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-08-13 [08:07:28] [Server thread/INFO]: Preparing level "world"
+2017-08-13 [08:07:28] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-08-13 [08:07:28] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-08-13 [08:07:28] [Server thread/INFO]: Preparing level "th"
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-08-13 [08:07:28] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-08-13 [08:07:28] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling ld v流星优化
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling AuthMePE v1.0.1
+2017-08-13 [08:07:28] [Server thread/INFO]: [AuthMePE] 加载成功!
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-13 [08:07:28] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-08-13 [08:07:28] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-08-13 [08:07:28] [Server thread/INFO]: Starting GS4 status listener
+2017-08-13 [08:07:28] [Server thread/INFO]: Setting query port to 19132
+2017-08-13 [08:07:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-08-13 [08:07:28] [Server thread/INFO]: Default game type: Survival Mode
+2017-08-13 [08:07:28] [Server thread/INFO]: Done (0.74s)! For help, type "help" or "?"
+2017-08-13 [08:07:42] [Server thread/INFO]: CCcherry[/118.113.41.102:60096] [ClientID: 3500360481502257405] logged in with entity id 1 at (th, 192.0539, 65, 121.8602)
+2017-08-13 [08:07:43] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 2 at (th, 133.9579, 69, 96.8451)
+2017-08-13 [08:07:48] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
+2017-08-13 [08:07:48] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
+2017-08-13 [08:07:48] [Server thread/INFO]: - blue_sky is now online!
+2017-08-13 [08:07:48] [Server thread/INFO]: - blue_sky 现在上线了!
+2017-08-13 [08:07:57] [Server thread/INFO]: [AuthMePE] Player CCcherry has logged in.
+2017-08-13 [08:07:57] [Server thread/INFO]: [AuthMePE] 玩家 CCcherry 登录了游戏。
+2017-08-13 [08:07:57] [Server thread/INFO]: - CCcherry is now online!
+2017-08-13 [08:07:57] [Server thread/INFO]: - CCcherry 现在上线了!
+2017-08-13 [08:09:00] [Server thread/INFO]: Steve[/61.165.234.66:52502] [ClientID: -6309223467202137383] logged in with entity id 3 at (world, 128, 64.2, 128)
+2017-08-13 [08:09:25] [Server thread/INFO]: Steve[/61.165.234.66:52502] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [08:10:20] [Server thread/INFO]: [VIP]CCcherry : 服务器出问题了
+2017-08-13 [08:10:59] [Server thread/INFO]: * blue_sky ip:yy.itoytoy.com
+2017-08-13 [08:11:35] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:36] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:36] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:36] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:36] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:37] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:37] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:11:37] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:12:08] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [08:12:18] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [08:12:23] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [08:12:28] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [08:12:44] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:12:44] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:12:45] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:12:52] [Server thread/WARNING]: CCcherry moved wrongly!
+2017-08-13 [08:14:32] [Server thread/INFO]: [VIP]CCcherry : 我想op
+2017-08-13 [08:14:33] [Server thread/INFO]: Steve[/27.77.15.31:56393] [ClientID: -6316253647654798835] logged in with entity id 4 at (world, 128, 64, 128)
+2017-08-13 [08:14:50] [Server thread/INFO]: [VIP]CCcherry : 行吗
+2017-08-13 [08:14:51] [Server thread/INFO]: Steve[/27.77.15.31:56393] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [08:15:50] [Server thread/INFO]: Steve[/114.134.186.116:63190] [ClientID: -7065891528964914930] logged in with entity id 5 at (world, 128.0194, 64, 128.0027)
+2017-08-13 [08:16:07] [Server thread/INFO]: Steve[/114.134.186.116:63190] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [08:16:24] [Server thread/INFO]: Steve[/114.134.186.116:63190] [ClientID: -7065891528964914930] logged in with entity id 6 at (world, 128, 64, 128)
+2017-08-13 [08:16:41] [Server thread/INFO]: Steve[/114.134.186.116:63190] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [08:17:08] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [08:17:08] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有生物
+2017-08-13 [08:17:18] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [08:17:18] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有生物
+2017-08-13 [08:17:23] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [08:17:23] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [08:17:28] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [08:17:28] [Server thread/INFO]: [ 隔壁老王 ] 共使0少女怀孕
+2017-08-13 [08:18:35] [Server thread/INFO]: - blue_sky is now offline!
+2017-08-13 [08:18:35] [Server thread/INFO]: - blue_sky 离开了游戏!
+2017-08-13 [08:18:35] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged out.
+2017-08-13 [08:18:35] [Server thread/INFO]: [AuthMePE] Player blue_sky 离开了游戏.
+2017-08-13 [08:18:35] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] logged out due to Kicked by admin. Reason: Re-join server to register.
+2017-08-13 [08:19:18] [Server thread/INFO]: - CCcherry is now offline!
+2017-08-13 [08:19:18] [Server thread/INFO]: - CCcherry 离开了游戏!
+2017-08-13 [08:19:18] [Server thread/INFO]: [AuthMePE] Player CCcherry has logged out.
+2017-08-13 [08:19:18] [Server thread/INFO]: [AuthMePE] Player CCcherry 离开了游戏.
+2017-08-13 [08:19:18] [Server thread/INFO]: CCcherry[/118.113.41.102:60096] logged out due to client disconnect
+2017-08-13 [08:21:02] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 7 at (world, 125.7239, 65, 120.951)
+2017-08-13 [08:21:27] [Server thread/NOTICE]: Player data not found for "kassi_is_lit", creating new profile
+2017-08-13 [08:21:27] [Server thread/INFO]: kassi_is_lit[/99.33.184.9:60039] [ClientID: -2176246491897821844] logged in with entity id 8 at (world, 128, 64, 128)
+2017-08-13 [08:22:08] [Server thread/INFO]: [ 隔壁老王 ] 将在20秒后清除所有掉落物
+2017-08-13 [08:22:10] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged in.
+2017-08-13 [08:22:10] [Server thread/INFO]: [AuthMePE] 玩家 blue_sky 登录了游戏。
+2017-08-13 [08:22:10] [Server thread/INFO]: - blue_sky is now online!
+2017-08-13 [08:22:10] [Server thread/INFO]: - blue_sky 现在上线了!
+2017-08-13 [08:22:18] [Server thread/INFO]: [ 隔壁老王 ] 将在10秒后清除所有掉落物
+2017-08-13 [08:22:23] [Server thread/INFO]: [ 隔壁老王 ] 将在5秒后清除所有生物
+2017-08-13 [08:22:28] [Server thread/INFO]: [ 隔壁老王 ] 共祸害掉0个少女
+2017-08-13 [08:22:29] [Server thread/INFO]: - blue_sky is now offline!
+2017-08-13 [08:22:29] [Server thread/INFO]: - blue_sky 离开了游戏!
+2017-08-13 [08:22:29] [Server thread/INFO]: [AuthMePE] Player blue_sky has logged out.
+2017-08-13 [08:22:29] [Server thread/INFO]: [AuthMePE] Player blue_sky 离开了游戏.
+2017-08-13 [08:22:29] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] logged out due to client disconnect
+2017-08-13 [08:23:08] [Server thread/INFO]: power777888[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 9 at (th, 29.8496, 91.556, 107.0844)
+2017-08-13 [08:23:33] [Server thread/INFO]: [AuthMePE] Player kassi_is_lit has logged in.
+2017-08-13 [08:23:33] [Server thread/INFO]: [AuthMePE] 玩家 kassi_is_lit 登录了游戏。
+2017-08-13 [08:23:33] [Server thread/INFO]: - kassi_is_lit is now online!
+2017-08-13 [08:23:33] [Server thread/INFO]: - kassi_is_lit 现在上线了!
+2017-08-13 [08:23:38] [Server thread/INFO]: power777888[/111.249.56.187:51456] logged out due to client disconnect
+2017-08-13 [08:24:01] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 10 at (world, 133.7422, 65.6238, 133.4808)
+2017-08-13 [08:24:04] [Server thread/INFO]: - kassi_is_lit is now offline!
+2017-08-13 [08:24:04] [Server thread/INFO]: - kassi_is_lit 离开了游戏!
+2017-08-13 [08:24:04] [Server thread/INFO]: [AuthMePE] Player kassi_is_lit has logged out.
+2017-08-13 [08:24:04] [Server thread/INFO]: [AuthMePE] Player kassi_is_lit 离开了游戏.
+2017-08-13 [08:24:04] [Server thread/INFO]: kassi_is_lit[/99.33.184.9:60039] logged out due to timeout
+2017-08-13 [08:24:08] [Server thread/INFO]: blue_sky[/111.249.56.187:51456] logged out due to client disconnect
+2017-08-13 [08:24:31] [Server thread/INFO]: worldfire[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 11 at (world, 128, 64, 128)
+2017-08-13 [08:24:50] [Server thread/INFO]: worldfire[/111.249.56.187:51456] logged out due to Kicked by admin. Reason: Time out!
+2017-08-13 [08:25:11] [Server thread/INFO]: worldfire[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 12 at (world, 128, 64, 128)
+2017-08-13 [08:25:24] [Server thread/INFO]: worldfire[/111.249.56.187:51456] logged out due to client disconnect
+2017-08-13 [08:25:45] [Server thread/INFO]: worldfire0503[/111.249.56.187:51456] logged out due to You are banned
+2017-08-13 [08:26:07] [Server thread/INFO]: worldfire050[/111.249.56.187:51456] [ClientID: 5903278655021412276] logged in with entity id 13 at (world, 128, 64, 128)
+2017-08-13 [08:26:29] [Server thread/INFO]: [AuthMePE] Player worldfire050 has logged in.
+2017-08-13 [08:26:29] [Server thread/INFO]: [AuthMePE] 玩家 worldfire050 登录了游戏。
+2017-08-13 [08:26:29] [Server thread/INFO]: - worldfire050 is now online!
+2017-08-13 [08:26:29] [Server thread/INFO]: - worldfire050 现在上线了!
+2017-08-13 [08:26:40] [Server thread/INFO]: - worldfire050 is now offline!
+2017-08-13 [08:26:40] [Server thread/INFO]: - worldfire050 离开了游戏!
+2017-08-13 [08:26:40] [Server thread/INFO]: [AuthMePE] Player worldfire050 has logged out.
+2017-08-13 [08:26:40] [Server thread/INFO]: [AuthMePE] Player worldfire050 离开了游戏.
+2017-08-13 [08:26:40] [Server thread/INFO]: worldfire050[/111.249.56.187:51456] logged out due to client disconnect
