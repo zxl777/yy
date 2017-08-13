@@ -242,7 +242,7 @@ wangyihan0205:
   ip: "yes"
 xiao_ben:
   password: 8533f0f97cc1db240f5cf9fdf390636f
-  times: 0
+  times: 1
   ip: "yes"
 sjydreams:
   password: 8fb8ac17b98397da607b7c39d71e1579
@@ -549,7 +549,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 0
+  times: 1
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -2998,6 +2998,7 @@ power777888:
   password: 538f5f358b91c576df842b7fec9596b3
   times: 0
   ip: "no"
+  email: sky@itoytoy.com
 zombie9933:
   password: 21e30b6e675e8c345b67366fdef129bb
   times: 0
@@ -3415,4 +3416,68 @@ samaster:
 allgamesallday:
   password: 3dfc6490a2af5d379daf678e1ea29f5c
   times: 0
+bigmatong:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  ip: "yes"
+melody:
+  password: b5f62f70a9bc692264bc4a2063af9b37
+  times: 0
+  ip: "yes"
+muumi5788936g:
+  password: f806ac090ea7c42e983a4700962622f4
+  times: 0
+  ip: "yes"
+haomenyuyi:
+  password: 3484bcb41fbdbdd6ca834a4aa8483490
+  times: 0
+  ip: "yes"
+ettrr:
+  password: cf6204d98c051480494e26a3c77e99ed
+  times: 0
+  ip: "yes"
+legalmantis7230:
+  password: fa6098cffdec1aa20c31a852efd33cd8
+  times: 0
+  ip: "no"
+do27:
+  password: bda64ba01ff62d9bb2bb2c31f9be5ad4
+  times: 0
+  ip: "yes"
+9798:
+  password: fa6098cffdec1aa20c31a852efd33cd8
+  times: 0
+  ip: "yes"
+chang23333:
+  password: b47a61baeed26fff808eff0a676ed3e6
+  times: 0
+  ip: "yes"
+dr37:
+  password: 41d184461b7c06a3bb0382c2511ea1aa
+  times: 0
+  ip: "yes"
+qazwsx:
+  password: b19bd4bf3d313638278ffe373d8c95ef
+  times: 0
+  ip: "no"
+dr99:
+  password: fa6098cffdec1aa20c31a852efd33cd8
+  times: 0
+  ip: "yes"
+tymmx237:
+  password: bcbf60e340b16e3ea97a127f9eb4be51
+  times: 0
+  ip: "yes"
+luzheng:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  ip: "yes"
+itsjaycraft:
+  password: b45589fd9d444dbc8068e71f2e174776
+  times: 0
+  ip: "no"
+slime:
+  password: 8c6e291648f662b0f84c0f83ed80ccdc
+  times: 0
+  ip: "no"
 ...

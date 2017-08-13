@@ -1977,28 +1977,6 @@
   level: th
   invitee: []
   expires: ~
-190:
-  ID: 190
-  startX: 148
-  endX: 248
-  startZ: 199
-  endZ: 289
-  price: 881100
-  owner: top
-  level: zy
-  invitee: []
-  expires: ~
-191:
-  ID: 191
-  startX: 152
-  endX: 215
-  startZ: 72
-  endZ: 190
-  price: 725400
-  owner: top
-  level: zy
-  invitee: []
-  expires: ~
 193:
   ID: 193
   startX: -2
@@ -2166,6 +2144,28 @@
   endZ: 112
   price: 614400
   owner: jack
+  level: th
+  invitee: []
+  expires: ~
+210:
+  ID: 210
+  startX: 115
+  endX: 150
+  startZ: 115
+  endZ: 150
+  price: 115600
+  owner: power777888
+  level: th
+  invitee: []
+  expires: ~
+211:
+  ID: 211
+  startX: -124
+  endX: 9
+  startZ: 154
+  endZ: 274
+  price: 1570800
+  owner: power777888
   level: th
   invitee: []
   expires: ~

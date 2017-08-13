@@ -27,11 +27,6 @@
   count: "1"
   money: "500"
   id: "266"
-149:71:117:zy:
-  kind: sell
-  count: "1"
-  money: "1000"
-  id: "264"
 149:71:118:zy:
   kind: sell
   count: "1"
@@ -72,11 +67,6 @@
   count: "5"
   money: "2000"
   id: "49"
-149:71:119:zy:
-  kind: sell
-  count: "64"
-  money: "200"
-  id: "4"
 146:66:103:world:
   kind: B
   name: 橡木
@@ -301,12 +291,12 @@
   money: "50000"
 150:66:117:world:
   kind: E
-  name: §6富豪
-  money: "300000"
+  name: §6§l¥富豪$
+  money: "1000000"
 149:66:117:world:
   kind: E
   name: §e§l§oSVIP
-  money: "100000"
+  money: "300000"
 155:65:117:world:
   kind: E
   name: §kaa
@@ -337,8 +327,8 @@
   id: "377"
 149:65:117:world:
   kind: E
-  name: §c§oVIP
-  money: "60000"
+  name: §o§cVIP
+  money: "130000"
 152:74:117:world:
   kind: B
   name: §e弓
@@ -536,11 +526,19 @@
   money: "1000"
   if: 100
   id: "264"
-118:66:68:th:
-  kind: C
-  name: handsome
-  count: 60
-  money: "50"
-  if: 100
-  id: "332"
+149:71:117:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "264"
+149:71:119:zy:
+  kind: sell
+  count: "64"
+  money: "200"
+  id: "4"
+149:71:120:zy:
+  kind: sell
+  count: "32"
+  money: "1000"
+  id: "17"
 ...
