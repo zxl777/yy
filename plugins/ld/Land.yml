@@ -2125,4 +2125,15 @@
   level: th
   invitee: []
   expires: ~
+205:
+  ID: 205
+  startX: -234
+  endX: -224
+  startZ: 104
+  endZ: 106
+  price: 900
+  owner: Stevehjy
+  level: th
+  invitee: []
+  expires: ~
 ...
