@@ -553,4 +553,28 @@
   count: "1"
   money: "78"
   id: "364"
+134:65:127:world:
+  kind: B
+  name: 锁链头盔
+  count: "1"
+  money: "0"
+  id: "302"
+134:65:128:world:
+  kind: B
+  name: 锁链胸甲
+  count: "1"
+  money: "0"
+  id: "303"
+134:65:129:world:
+  kind: B
+  name: 锁链护腿
+  count: "1"
+  money: "0"
+  id: "304"
+134:65:130:world:
+  kind: B
+  name: 锁链靴子
+  count: "1"
+  money: "0"
+  id: "305"
 ...
