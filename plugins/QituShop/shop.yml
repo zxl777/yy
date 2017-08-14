@@ -337,8 +337,8 @@
   id: "261"
 148:65:117:world:
   kind: E
-  name: §a副腐竹
-  money: "999999999"
+  name: §a§l副腐竹
+  money: "9999999999"
 151:74:117:world:
   kind: B
   name: §7箭
@@ -453,10 +453,6 @@
   kind: E
   name: §6帅气的腐竹
   money: "999999999"
-151:65:117:world:
-  kind: E
-  name: §c好久没装*了
-  money: "10000"
 150:65:117:world:
   kind: E
   name: §c主§f播§b§l
@@ -577,4 +573,15 @@
   count: "1"
   money: "0"
   id: "305"
+141:65:127:world:
+  kind: D
+  name: §b免费超级加速
+  time: "1000"
+  lv: "50"
+  money: ~
+  id: "1"
+151:65:117:world:
+  kind: E
+  name: §e§l非你莫属
+  money: "20000"
 ...
