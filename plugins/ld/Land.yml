@@ -1566,7 +1566,8 @@
   price: 19600
   owner: mao
   level: nether
-  invitee: []
+  invitee:
+    kwkkwk123: true
   expires: ~
 153:
   ID: 153
@@ -2069,6 +2070,7 @@
     green_sky: true
     Green_Sky: true
     lanzhi: true
+    wuge: true
   expires: ~
 203:
   ID: 203
