@@ -202,7 +202,7 @@ different:
 llGui:
   nick: §b我是男的
 DiamondTDM:
-  nick: §b我是男的
+  nick: §kaa
 xy520:
   nick: §a帅X
 Copper:
@@ -210,5 +210,7 @@ Copper:
 smlime:
   nick: §b我是男的
 mmp:
+  nick: §b我是男的
+Bigmatong:
   nick: §b我是男的
 ...

@@ -549,7 +549,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 3
+  times: 0
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -1479,7 +1479,7 @@ super72:
   times: 0
   ip: "yes"
 sams:
-  password: 5b03ce6d6f68380175791c54ed03c148
+  password: 86aff5895469bebf3f709f6ded9418c4
   times: 0
   ip: "yes"
 heigui:
@@ -3804,6 +3804,62 @@ svip00f1:
   ip: "no"
 guyiyang:
   password: 3faaf76fe689ae8bfa8c40ca584f996e
+  times: 0
+  ip: "yes"
+gushanez:
+  password: 1bbcd65edf26611a1c831a67acae468d
+  times: 0
+  ip: "yes"
+votelessjoey:
+  password: 679b07f7976bb4a9a7c00434cd7308d1
+  times: 1
+  ip: "yes"
+ksnsn:
+  password: 5915773eaedd738382ae0f7d2ed993f4
+  times: 0
+  ip: "no"
+mm1024:
+  password: a03b3f86e65317771ddbfe510596c493
+  times: 0
+  ip: "yes"
+noobdg211:
+  password: 94a7a01b113261ddf811e8c4e501c6d6
+  times: 0
+  ip: "yes"
+draftiermedal46:
+  password: ba11db7559401ff94e7831b569b9e17a
+  times: 0
+  ip: "yes"
+fongzijian1226:
+  password: 228b3204dc20a19f50b4e94bdabaddb9
+  times: 0
+  ip: "yes"
+sprongsmile:
+  password: c1a11de172be9c214c2dbff2f0a9deb2
+  times: 0
+  ip: "no"
+jerrycat:
+  password: f2087f0f0894eb6477384dea0d4d119e
+  times: 0
+  ip: "yes"
+1111:
+  password: 100a3fd9daaa0d110821f92528f77992
+  times: 0
+  ip: "no"
+jsjsh:
+  password: fb015a5b723b46aa14b85ff5049d39c6
+  times: 0
+  ip: "yes"
+happyoblivion23:
+  password: 170851e7c242cc33b3aad7d5b07a0448
+  times: 0
+  ip: "yes"
+tongtong200716:
+  password: 9f511f353567cdd17e714d009449b9b4
+  times: 0
+  ip: "yes"
+1505084659:
+  password: efc49314f1dd1c8b51a48a2413214906
   times: 0
   ip: "yes"
 ...
