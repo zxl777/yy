@@ -541,4 +541,16 @@
   count: "32"
   money: "1000"
   id: "17"
+144:66:102:world:
+  kind: B
+  name: §f<特价>白色混凝土
+  count: "64"
+  money: "288"
+  id: "236"
+146:66:102:world:
+  kind: B
+  name: §f牛排
+  count: "1"
+  money: "78"
+  id: "364"
 ...
