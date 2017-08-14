@@ -1,7 +1,7 @@
 ---
 lihaoyy:
   password: e8099e6d1af98af7d406bf3337e0ae1c
-  times: 3
+  times: 0
   ip: "no"
   email: 2073750279@qq.com
 100_hjs:
@@ -549,7 +549,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 0
+  times: 2
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -3646,4 +3646,32 @@ super:
 nahima013:
   password: 52e0390b19b4076de6e9ff41715491f0
   times: 0
+minecraft:
+  password: 4b857ff9aa325613273e019e55b154d5
+  times: 1
+  ip: "no"
+xiaosha520:
+  password: d79ad34d42e50b80b576b7ed99c7e110
+  times: 0
+  ip: "yes"
+wheatxm:
+  password: eeedee6dfe9c47b13b4e90b26edcca97
+  times: 0
+  ip: "no"
+yanik2680:
+  password: b07b9a925cdf4d684816cc9744e69823
+  times: 0
+  ip: "yes"
+ufooooo2009:
+  password: 679b07f7976bb4a9a7c00434cd7308d1
+  times: 0
+  ip: "no"
+landmineblazing7:
+  password: f181b357821d5406918f52074a0e834f
+  times: 0
+  ip: "yes"
+jgeug:
+  password: e8da51ae8c4760722b2b0cefb2631c15
+  times: 0
+  ip: "no"
 ...

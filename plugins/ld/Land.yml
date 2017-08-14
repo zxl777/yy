@@ -2290,4 +2290,16 @@
   level: world
   invitee: []
   expires: ~
+227:
+  ID: 227
+  startX: -497
+  endX: -343
+  startZ: 296
+  endZ: 411
+  price: 1744200
+  owner: lihaoyy
+  level: world
+  invitee:
+    worldfire53: true
+  expires: ~
 ...
