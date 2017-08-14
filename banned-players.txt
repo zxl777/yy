@@ -1,4 +1,4 @@
-# Updated 08/12/17 22:04 by GenisysPro 1.1devcb61a69
+# Updated 08/14/17 14:26 by GenisysPro 1.1dev2164fd9
 # victim name | ban date | banned by | banned until | reason
 
 yang|2017-08-11 14:47:45 +0800|power777888|Forever|Banned by an operator.
