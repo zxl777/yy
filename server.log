@@ -1,1896 +1,492 @@
-2017-08-14 [22:34:35] [Server thread/INFO]: [帅X]JeweledSaucer62 : 杰夫咋了杀女儿
-2017-08-14 [22:34:37] [Server thread/INFO]: [JeffXiang: Set own game mode to Survival Mode]
-2017-08-14 [22:34:39] [Server thread/INFO]: - moonboos666 is now offline!
-2017-08-14 [22:34:39] [Server thread/INFO]: - moonboos666 离开了游戏!
-2017-08-14 [22:34:39] [Server thread/INFO]: [AuthMePE] Player moonboos666 has logged out.
-2017-08-14 [22:34:39] [Server thread/INFO]: [AuthMePE] Player moonboos666 离开了游戏.
-2017-08-14 [22:34:39] [Server thread/INFO]: moonboos666[/183.253.158.37:52691] logged out due to timeout
-2017-08-14 [22:34:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [22:34:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [22:34:52] [Server thread/INFO]: - PYl6666 is now offline!
-2017-08-14 [22:34:52] [Server thread/INFO]: - PYl6666 离开了游戏!
-2017-08-14 [22:34:52] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged out.
-2017-08-14 [22:34:52] [Server thread/INFO]: [AuthMePE] Player PYl6666 离开了游戏.
-2017-08-14 [22:34:52] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] logged out due to timeout
-2017-08-14 [22:34:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [22:34:59] [Server thread/INFO]: [JeffXiang: Teleported samS to JeffXiang]
-2017-08-14 [22:35:00] [Server thread/INFO]: [我是女的]samS : 我被乱箭射死了。
-2017-08-14 [22:35:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [22:35:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理11个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [22:35:13] [Server thread/INFO]: [帅X]JeweledSaucer62 : 这句话好耳熟
-2017-08-14 [22:35:14] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [22:35:15] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [22:35:19] [Server thread/INFO]: samS was shot by Jacky1029
-2017-08-14 [22:35:26] [Server thread/INFO]: [我是女的]samS : 。。。。。
-2017-08-14 [22:35:27] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [22:35:36] [Server thread/INFO]: JeffXiang was slain by PVP
-2017-08-14 [22:35:39] [Server thread/INFO]: - Jacky1029 is now offline!
-2017-08-14 [22:35:39] [Server thread/INFO]: - Jacky1029 离开了游戏!
-2017-08-14 [22:35:39] [Server thread/INFO]: [AuthMePE] Player Jacky1029 has logged out.
-2017-08-14 [22:35:39] [Server thread/INFO]: [AuthMePE] Player Jacky1029 离开了游戏.
-2017-08-14 [22:35:39] [Server thread/INFO]: Jacky1029[/183.179.52.22:62052] logged out due to client disconnect
-2017-08-14 [22:35:42] [Server thread/INFO]: [我是女的]samS :  jacky我错了
-2017-08-14 [22:35:44] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [22:35:50] [Server thread/INFO]: PVP : PVP
-2017-08-14 [22:35:54] [Server thread/INFO]: Jacky1029[/183.179.52.22:62052] logged out due to client disconnect
-2017-08-14 [22:36:13] [Server thread/INFO]: [帅X]JeweledSaucer62 : 想得没
-2017-08-14 [22:36:17] [Server thread/INFO]: Jacky1029[/183.179.52.22:62052] [ClientID: -5411885689332519858] logged in with entity id 1115 at (world, 355.3685, 126, 277.3345)
-2017-08-14 [22:36:17] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] [ClientID: -2869779923566982227] logged in with entity id 1116 at (world, 231, 79, 540)
-2017-08-14 [22:36:20] [Server thread/INFO]: [AuthMePE] Player Jacky1029 has logged in.
-2017-08-14 [22:36:20] [Server thread/INFO]: [AuthMePE] 玩家 Jacky1029 登录了游戏。
-2017-08-14 [22:36:20] [Server thread/INFO]: - Jacky1029 is now online!
-2017-08-14 [22:36:20] [Server thread/INFO]: - Jacky1029 现在上线了!
-2017-08-14 [22:36:20] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged in.
-2017-08-14 [22:36:20] [Server thread/INFO]: [AuthMePE] 玩家 PYl6666 登录了游戏。
-2017-08-14 [22:36:20] [Server thread/INFO]: - PYl6666 is now online!
-2017-08-14 [22:36:20] [Server thread/INFO]: - PYl6666 现在上线了!
-2017-08-14 [22:36:27] [Server thread/INFO]: PVP was slain by JeffXiang
-2017-08-14 [22:36:31] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [22:36:37] [Server thread/INFO]: [帅X]JeweledSaucer62 : 多杀他
-2017-08-14 [22:36:37] [Server thread/INFO]: - samS is now offline!
-2017-08-14 [22:36:37] [Server thread/INFO]: - samS 离开了游戏!
-2017-08-14 [22:36:37] [Server thread/INFO]: [AuthMePE] Player samS has logged out.
-2017-08-14 [22:36:37] [Server thread/INFO]: [AuthMePE] Player samS 离开了游戏.
-2017-08-14 [22:36:37] [Server thread/INFO]: samS[/111.17.68.24:26563] logged out due to client disconnect
-2017-08-14 [22:36:51] [Server thread/INFO]: power777888[/47.88.175.73:41491] [ClientID: -985426550660266421] logged in with entity id 1120 at (world, 116.3331, 64, 157.5935)
-2017-08-14 [22:36:54] [Server thread/WARNING]: power777888 moved too fast, reverting movement
-2017-08-14 [22:37:02] [Server thread/INFO]: [AuthMePE] Player power777888 has logged in.
-2017-08-14 [22:37:02] [Server thread/INFO]: [AuthMePE] 玩家 power777888 登录了游戏。
-2017-08-14 [22:37:02] [Server thread/INFO]: - power777888 is now online!
-2017-08-14 [22:37:02] [Server thread/INFO]: - power777888 现在上线了!
-2017-08-14 [22:37:03] [Server thread/INFO]: PYl6666 fell from a high place
-2017-08-14 [22:37:08] [Server thread/INFO]: [建筑师]Jacky1029 : 沒有人情在戰場上
-2017-08-14 [22:37:11] [Server thread/INFO]: ID天骐[/222.87.130.217:28357] logged out due to Invalid name!
-2017-08-14 [22:37:12] [Server thread/INFO]: PVP : 別開創造了！
-2017-08-14 [22:37:14] [Server thread/CRITICAL]: Unhandled exception executing command 'authme changepass wuge apple' in authme: Argument 1 passed to AuthMePE\AuthMePE::isLoggedIn() must be an instance of pocketmine\Player, null given, called in phar:///root/pmmp/plugins/AuthMePE.phar/src/AuthMePE/AuthMePE.php on line 590
-2017-08-14 [22:37:14] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to AuthMePE\AuthMePE::isLoggedIn() must be an instance of pocketmine\Player, null given, called in phar:///root/pmmp/plugins/AuthMePE.phar/src/AuthMePE/AuthMePE.php on line 590" (EXCEPTION) in "/AuthMePE.phar/src/AuthMePE/AuthMePE" at line 151
-2017-08-14 [22:37:22] [Server thread/INFO]: [副腐竹]power777888 : .
-2017-08-14 [22:37:23] [Server thread/INFO]: [杰夫]JeffXiang : 我没有开
-2017-08-14 [22:37:31] [Server thread/INFO]: PYl6666 was slain by JeffXiang
-2017-08-14 [22:37:32] [Server thread/INFO]: - power777888 is now offline!
-2017-08-14 [22:37:32] [Server thread/INFO]: - power777888 离开了游戏!
-2017-08-14 [22:37:32] [Server thread/INFO]: [AuthMePE] Player power777888 has logged out.
-2017-08-14 [22:37:32] [Server thread/INFO]: [AuthMePE] Player power777888 离开了游戏.
-2017-08-14 [22:37:32] [Server thread/INFO]: power777888[/47.88.175.73:41491] logged out due to client disconnect
-2017-08-14 [22:37:37] [Server thread/INFO]: [建筑师]Jacky1029 : 我怎麼切生存
-2017-08-14 [22:37:38] [Server thread/INFO]: PVP : 其他人開
-2017-08-14 [22:37:39] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:37:47] [Server thread/INFO]: [JeffXiang: Set Jacky1029's game mode to Survival Mode]
-2017-08-14 [22:37:49] [Server thread/INFO]: Jacky1029 was slain by JeffXiang
-2017-08-14 [22:37:57] [Server thread/INFO]: - Jacky1029 is now offline!
-2017-08-14 [22:37:57] [Server thread/INFO]: - Jacky1029 离开了游戏!
-2017-08-14 [22:37:57] [Server thread/INFO]: [AuthMePE] Player Jacky1029 has logged out.
-2017-08-14 [22:37:57] [Server thread/INFO]: [AuthMePE] Player Jacky1029 离开了游戏.
-2017-08-14 [22:37:57] [Server thread/INFO]: Jacky1029[/183.179.52.22:62052] logged out due to timeout
-2017-08-14 [22:38:08] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我今天的目的其实是找一个绿朋友
-2017-08-14 [22:38:09] [Server thread/INFO]: PYl6666 was slain by JeffXiang
-2017-08-14 [22:38:16] [Server thread/INFO]: Jacky1029[/183.179.52.22:62623] [ClientID: -5411885689332519858] logged in with entity id 1126 at (world, 338.4818, 126, 277.1148)
-2017-08-14 [22:38:19] [Server thread/INFO]: [AuthMePE] Player Jacky1029 has logged in.
-2017-08-14 [22:38:19] [Server thread/INFO]: [AuthMePE] 玩家 Jacky1029 登录了游戏。
-2017-08-14 [22:38:19] [Server thread/INFO]: - Jacky1029 is now online!
-2017-08-14 [22:38:19] [Server thread/INFO]: - Jacky1029 现在上线了!
-2017-08-14 [22:38:19] [Server thread/INFO]: [SVIP]PYl6666 : 你肯定有那个
-2017-08-14 [22:38:25] [Server thread/INFO]: [SVIP]PYl6666 : 还有那个
-2017-08-14 [22:38:29] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:38:30] [Server thread/INFO]: [SVIP]PYl6666 : 去就是找死
-2017-08-14 [22:38:36] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:38:36] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:38:56] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:39:03] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:39:11] [Server thread/INFO]: PVP : 創造變生存只要打/gamemode 0
-2017-08-14 [22:39:14] [Server thread/INFO]: Steve[/70.120.194.64:62240] [ClientID: 8482663859681778706] logged in with entity id 1129 at (world, 128, 64.42, 128)
-2017-08-14 [22:39:17] [Server thread/INFO]: Rong[/111.17.68.24:26563] [ClientID: -2530508739272191362] logged in with entity id 1130 at (world, 126.2448, 65, 120.5648)
-2017-08-14 [22:39:20] [Server thread/INFO]: [AuthMePE] Player Rong has logged in.
-2017-08-14 [22:39:20] [Server thread/INFO]: [AuthMePE] 玩家 Rong 登录了游戏。
-2017-08-14 [22:39:20] [Server thread/INFO]: - Rong is now online!
-2017-08-14 [22:39:20] [Server thread/INFO]: - Rong 现在上线了!
-2017-08-14 [22:39:21] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:39:26] [Server thread/INFO]: [JeffXiang: Teleported PVP to JeffXiang]
-2017-08-14 [22:39:32] [Server thread/INFO]: [帅X]JeweledSaucer62 : 那你就太天真
-2017-08-14 [22:39:33] [Server thread/INFO]: Steve[/70.120.194.64:62240] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [22:39:34] [Server thread/INFO]: Steve[/182.34.190.28:61042] [ClientID: 2314758452706052768] logged in with entity id 1133 at (world, 128, 64, 128)
-2017-08-14 [22:39:34] [Server thread/INFO]: PVP was slain by JeffXiang
-2017-08-14 [22:39:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [22:39:44] [Server thread/INFO]: [帅X]JeweledSaucer62 : 创造要买
-2017-08-14 [22:39:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [22:39:51] [Server thread/INFO]: [牛X]Rong : 找老婆
-2017-08-14 [22:39:51] [Server thread/INFO]: Steve[/182.34.190.28:61042] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [22:39:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [22:39:59] [Server thread/INFO]: - PVP is now offline!
-2017-08-14 [22:39:59] [Server thread/INFO]: - PVP 离开了游戏!
-2017-08-14 [22:39:59] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
-2017-08-14 [22:39:59] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
-2017-08-14 [22:39:59] [Server thread/INFO]: PVP[/59.149.50.144:50937] logged out due to client disconnect
-2017-08-14 [22:40:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [22:40:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [22:40:01] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:40:05] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:40:05] [Server thread/INFO]: [帅X]JeweledSaucer62 : 找绿朋友
-2017-08-14 [22:40:11] [Server thread/INFO]: [JeffXiang: Teleported PYl6666 to JeffXiang]
-2017-08-14 [22:40:16] [Server thread/INFO]: - Rong is now offline!
-2017-08-14 [22:40:16] [Server thread/INFO]: - Rong 离开了游戏!
-2017-08-14 [22:40:16] [Server thread/INFO]: [AuthMePE] Player Rong has logged out.
-2017-08-14 [22:40:16] [Server thread/INFO]: [AuthMePE] Player Rong 离开了游戏.
-2017-08-14 [22:40:16] [Server thread/INFO]: Rong[/111.17.68.24:26563] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-14 [22:40:16] [Server thread/INFO]: Rong[/111.17.68.24:26939] [ClientID: -3135579556558766890] logged in with entity id 1136 at (world, 135.9965, 65, 119.963)
-2017-08-14 [22:40:19] [Server thread/INFO]: [AuthMePE] Player Rong has logged in.
-2017-08-14 [22:40:19] [Server thread/INFO]: [AuthMePE] 玩家 Rong 登录了游戏。
-2017-08-14 [22:40:19] [Server thread/INFO]: - Rong is now online!
-2017-08-14 [22:40:19] [Server thread/INFO]: - Rong 现在上线了!
-2017-08-14 [22:40:44] [Server thread/INFO]: - Rong is now offline!
-2017-08-14 [22:40:44] [Server thread/INFO]: - Rong 离开了游戏!
-2017-08-14 [22:40:44] [Server thread/INFO]: [AuthMePE] Player Rong has logged out.
-2017-08-14 [22:40:44] [Server thread/INFO]: [AuthMePE] Player Rong 离开了游戏.
-2017-08-14 [22:40:44] [Server thread/INFO]: Rong[/111.17.68.24:26939] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-14 [22:40:44] [Server thread/INFO]: Rong[/111.17.68.24:26563] [ClientID: -2530508739272191362] logged in with entity id 1137 at (world, 129.4466, 64, 127.0606)
-2017-08-14 [22:40:47] [Server thread/INFO]: [AuthMePE] Player Rong has logged in.
-2017-08-14 [22:40:47] [Server thread/INFO]: [AuthMePE] 玩家 Rong 登录了游戏。
-2017-08-14 [22:40:47] [Server thread/INFO]: - Rong is now online!
-2017-08-14 [22:40:47] [Server thread/INFO]: - Rong 现在上线了!
-2017-08-14 [22:40:56] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:40:58] [Server thread/INFO]: [JeffXiang: Teleported Jacky1029 to JeffXiang]
-2017-08-14 [22:41:02] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我感觉是时候找绿朋友了
-2017-08-14 [22:41:05] [Server thread/WARNING]: Jacky1029 moved too fast, reverting movement
-2017-08-14 [22:41:06] [Server thread/INFO]: - Rong is now offline!
-2017-08-14 [22:41:06] [Server thread/INFO]: - Rong 离开了游戏!
-2017-08-14 [22:41:06] [Server thread/INFO]: [AuthMePE] Player Rong has logged out.
-2017-08-14 [22:41:06] [Server thread/INFO]: [AuthMePE] Player Rong 离开了游戏.
-2017-08-14 [22:41:06] [Server thread/INFO]: Rong[/111.17.68.24:26563] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-14 [22:41:06] [Server thread/INFO]: Rong[/111.17.68.24:26939] [ClientID: -3135579556558766890] logged in with entity id 1138 at (world, 125.9955, 64.5, 123.6691)
-2017-08-14 [22:41:07] [Server thread/INFO]: [AuthMePE] Player Rong has logged in.
-2017-08-14 [22:41:07] [Server thread/INFO]: [AuthMePE] 玩家 Rong 登录了游戏。
-2017-08-14 [22:41:07] [Server thread/INFO]: - Rong is now online!
-2017-08-14 [22:41:07] [Server thread/INFO]: - Rong 现在上线了!
-2017-08-14 [22:41:22] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:41:32] [Server thread/INFO]: - Rong is now offline!
-2017-08-14 [22:41:32] [Server thread/INFO]: - Rong 离开了游戏!
-2017-08-14 [22:41:32] [Server thread/INFO]: [AuthMePE] Player Rong has logged out.
-2017-08-14 [22:41:32] [Server thread/INFO]: [AuthMePE] Player Rong 离开了游戏.
-2017-08-14 [22:41:32] [Server thread/INFO]: Rong[/111.17.68.24:26939] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-14 [22:41:32] [Server thread/INFO]: Rong[/111.17.68.24:26563] [ClientID: -2530508739272191362] logged in with entity id 1140 at (world, 129.8225, 64, 128.2688)
-2017-08-14 [22:41:35] [Server thread/INFO]: [AuthMePE] Player Rong has logged in.
-2017-08-14 [22:41:35] [Server thread/INFO]: [AuthMePE] 玩家 Rong 登录了游戏。
-2017-08-14 [22:41:35] [Server thread/INFO]: - Rong is now online!
-2017-08-14 [22:41:35] [Server thread/INFO]: - Rong 现在上线了!
-2017-08-14 [22:41:36] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:41:37] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:41:37] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:41:38] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:41:42] [Server thread/INFO]: [JeffXiang: Teleported JeffXiang to Jacky1029]
-2017-08-14 [22:41:53] [Server thread/INFO]: wuge[/113.73.43.252:57806] [ClientID: -7760030538589010939] logged in with entity id 1141 at (world, 128, 64, 128)
-2017-08-14 [22:41:56] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:41:57] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:41:57] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-14 [22:41:58] [Server thread/INFO]: [帅X]JeweledSaucer62 : 谁当我的绿朋友
-2017-08-14 [22:42:05] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:42:07] [Server thread/INFO]: - Rong is now offline!
-2017-08-14 [22:42:07] [Server thread/INFO]: - Rong 离开了游戏!
-2017-08-14 [22:42:07] [Server thread/INFO]: [AuthMePE] Player Rong has logged out.
-2017-08-14 [22:42:07] [Server thread/INFO]: [AuthMePE] Player Rong 离开了游戏.
-2017-08-14 [22:42:07] [Server thread/INFO]: Rong[/111.17.68.24:26563] logged out due to client disconnect
-2017-08-14 [22:42:11] [Server thread/INFO]: wuge[/113.73.43.252:57806] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [22:42:27] [Server thread/INFO]: What pig[/111.184.225.186:60457] logged out due to Invalid name!
-2017-08-14 [22:42:31] [Server thread/INFO]: - JeffXiang is now offline!
-2017-08-14 [22:42:31] [Server thread/INFO]: - JeffXiang 离开了游戏!
-2017-08-14 [22:42:31] [Server thread/INFO]: [AuthMePE] Player JeffXiang has logged out.
-2017-08-14 [22:42:31] [Server thread/INFO]: [AuthMePE] Player JeffXiang 离开了游戏.
-2017-08-14 [22:42:31] [Server thread/INFO]: JeffXiang[/223.87.100.144:59549] logged out due to client disconnect
-2017-08-14 [22:42:33] [Server thread/INFO]: [帅X]JeweledSaucer62 : 有人吗？
-2017-08-14 [22:42:37] [Server thread/INFO]: Rong[/111.17.68.24:26661] [ClientID: -2530508739272191362] logged in with entity id 1143 at (world, 128, 64, 128)
-2017-08-14 [22:42:37] [Server thread/INFO]: wuge[/113.73.43.252:57806] [ClientID: -7760030538589010939] logged in with entity id 1144 at (world, 128, 64, 128)
-2017-08-14 [22:42:40] [Server thread/INFO]: [AuthMePE] Player Rong has logged in.
-2017-08-14 [22:42:40] [Server thread/INFO]: [AuthMePE] 玩家 Rong 登录了游戏。
-2017-08-14 [22:42:40] [Server thread/INFO]: - Rong is now online!
-2017-08-14 [22:42:40] [Server thread/INFO]: - Rong 现在上线了!
-2017-08-14 [22:42:46] [Server thread/INFO]: [建筑师]Jacky1029 : 有
-2017-08-14 [22:42:48] [Server thread/INFO]: [AuthMePE] Player wuge has logged in.
-2017-08-14 [22:42:48] [Server thread/INFO]: [AuthMePE] 玩家 wuge 登录了游戏。
-2017-08-14 [22:42:48] [Server thread/INFO]: - wuge is now online!
-2017-08-14 [22:42:48] [Server thread/INFO]: - wuge 现在上线了!
-2017-08-14 [22:42:53] [Server thread/INFO]: [建筑师]Jacky1029 : wuge
-2017-08-14 [22:42:53] [Server thread/INFO]: [帅X]JeweledSaucer62 : 哦
-2017-08-14 [22:42:59] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:43:01] [Server thread/INFO]: [SVIP]wuge : 老公
-2017-08-14 [22:43:15] [Server thread/INFO]: [SVIP]wuge : 你在干什么
-2017-08-14 [22:43:17] [Server thread/INFO]: [牛X]Rong : 又TM撒
-2017-08-14 [22:43:30] [Server thread/INFO]: [牛X]Rong : 真虐啊
-2017-08-14 [22:43:37] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:43:47] [Server thread/INFO]: [帅X]JeweledSaucer62 : 不要在单身狗面前呜呜呜
-2017-08-14 [22:43:47] [Server thread/INFO]: What pig[/111.184.225.186:60457] logged out due to Invalid name!
-2017-08-14 [22:43:52] [Server thread/INFO]: [SVIP]PYl6666 : 欺负单身狗
-2017-08-14 [22:44:02] [Server thread/INFO]: samS[/111.17.68.24:26792] [ClientID: -3135579556558766890] logged in with entity id 1149 at (world, 128.1773, 64, 142.2721)
-2017-08-14 [22:44:04] [Server thread/INFO]: [AuthMePE] Player samS has logged in.
-2017-08-14 [22:44:04] [Server thread/INFO]: [AuthMePE] 玩家 samS 登录了游戏。
-2017-08-14 [22:44:04] [Server thread/INFO]: - samS is now online!
-2017-08-14 [22:44:04] [Server thread/INFO]: - samS 现在上线了!
-2017-08-14 [22:44:07] [Server thread/INFO]: [建筑师]Jacky1029 : 哈哈
-2017-08-14 [22:44:10] [Server thread/INFO]: [牛X]Rong : 有单身吗
-2017-08-14 [22:44:14] [Server thread/INFO]: [牛X]Rong : 找老婆
-2017-08-14 [22:44:19] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我也是
-2017-08-14 [22:44:25] [Server thread/INFO]: [SVIP]PYl6666 : 连我都没有
-2017-08-14 [22:44:27] [Server thread/INFO]: [帅X]JeweledSaucer62 : 有没有
-2017-08-14 [22:44:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [22:44:41] [Server thread/INFO]: [牛X]Rong : sam有老公吗
-2017-08-14 [22:44:45] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:44:46] [Server thread/INFO]: [SVIP]PYl6666 : 就你们能有
-2017-08-14 [22:44:46] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:44:47] [Server thread/INFO]: [帅X]JeweledSaucer62 : 他没
-2017-08-14 [22:44:50] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:44:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [22:44:50] [Server thread/INFO]: [SVIP]PYl6666 : 我都没有
-2017-08-14 [22:44:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [22:45:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [22:45:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [22:45:01] [Server thread/INFO]: [牛X]Rong : 哦？
-2017-08-14 [22:45:09] [Server thread/INFO]: [我是女的]samS : 好卡啊
-2017-08-14 [22:45:11] [Server thread/INFO]: [SVIP]PYl6666 : 我都有龙头了
-2017-08-14 [22:45:14] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [22:45:20] [Server thread/INFO]: [帅X]JeweledSaucer62 : 现在4个单身狗看着一对夫妻………………
-2017-08-14 [22:45:27] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:45:30] [Server thread/INFO]: [SVIP]PYl6666 : 我可是有主角光环
-2017-08-14 [22:45:32] [Server thread/INFO]: [牛X]Rong : sam你有没有
-2017-08-14 [22:45:37] [Server thread/INFO]: [SVIP]wuge : 有我和
-2017-08-14 [22:45:47] [Server thread/INFO]: [建筑师]Jacky1029 : 你沒有
-2017-08-14 [22:45:48] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:45:53] [Server thread/INFO]: [SVIP]wuge : 我？
-2017-08-14 [22:45:57] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [22:46:00] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [22:46:01] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [22:46:01] [Server thread/INFO]: [建筑师]Jacky1029 : 不是
-2017-08-14 [22:46:06] [Server thread/INFO]: - samS is now offline!
-2017-08-14 [22:46:06] [Server thread/INFO]: - samS 离开了游戏!
-2017-08-14 [22:46:06] [Server thread/INFO]: [AuthMePE] Player samS has logged out.
-2017-08-14 [22:46:06] [Server thread/INFO]: [AuthMePE] Player samS 离开了游戏.
-2017-08-14 [22:46:06] [Server thread/INFO]: samS[/111.17.68.24:26792] logged out due to client disconnect
-2017-08-14 [22:46:19] [Server thread/INFO]: Queen Rayna388[/75.135.171.90:52128] logged out due to Invalid name!
-2017-08-14 [22:46:29] [Server thread/INFO]: [SVIP]wuge : 老公
-2017-08-14 [22:46:34] [Server thread/INFO]: [SVIP]wuge : 别动
-2017-08-14 [22:46:40] [Server thread/INFO]: [牛X]Rong : py要不你当我老婆吧
-2017-08-14 [22:46:42] [Server thread/INFO]: [牛X]Rong : 哈哈
-2017-08-14 [22:46:44] [Server thread/INFO]: [SVIP]wuge : 我带你去回程
-2017-08-14 [22:46:45] [Server thread/INFO]: Queen Rayna388[/75.135.171.90:52128] logged out due to Invalid name!
-2017-08-14 [22:46:48] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我们单身狗想我这样
-2017-08-14 [22:47:01] [Server thread/INFO]: [SVIP]PYl6666 : 单身狗组合
-2017-08-14 [22:47:02] [Server thread/INFO]: Steve[/68.81.121.40:57127] [ClientID: -8657670495989011134] logged in with entity id 1154 at (world, 128.0499, 64, 128.0276)
-2017-08-14 [22:47:12] [Server thread/INFO]: [建筑师]Jacky1029 : 我不要創造
-2017-08-14 [22:47:14] [Server thread/INFO]: [SVIP]PYl6666 : 哎呀
-2017-08-14 [22:47:17] [Server thread/INFO]: [SVIP]wuge : 哦
-2017-08-14 [22:47:22] [Server thread/INFO]: Steve[/68.81.121.40:57127] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [22:47:27] [Server thread/INFO]: [SVIP]wuge : 你过来
-2017-08-14 [22:47:54] [Server thread/INFO]: [牛X]Rong : jeweled要不你换个皮肤
-2017-08-14 [22:48:03] [Server thread/INFO]: [牛X]Rong : 然后当我老婆
-2017-08-14 [22:48:07] [Server thread/INFO]: * Jacky1029 ，Zi_Jian觉得你该回-精神医院了
-2017-08-14 [22:48:08] [Server thread/INFO]: [帅X]JeweledSaucer62 : 滚
-2017-08-14 [22:48:09] [Server thread/INFO]: * Jacky1029 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [22:48:10] [Server thread/INFO]: * Jacky1029 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [22:48:11] [Server thread/INFO]: * Jacky1029 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [22:48:12] [Server thread/INFO]: * Jacky1029 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [22:48:13] [Server thread/INFO]: [SVIP]PYl6666 : 我的皮肤世上最帅
-2017-08-14 [22:48:26] [Server thread/INFO]: [SVIP]PYl6666 : 我这皮肤都没有
-2017-08-14 [22:48:31] [Server thread/INFO]: [牛X]Rong : 哈哈开玩笑
-2017-08-14 [22:48:31] [Server thread/INFO]: [SVIP]wuge : 老公我先回
-2017-08-14 [22:48:35] [Server thread/INFO]: [SVIP]PYl6666 : 就你们有可能吗
-2017-08-14 [22:48:48] [Server thread/INFO]: [牛X]Rong : py你没有吗
-2017-08-14 [22:48:51] [Server thread/INFO]: [牛X]Rong : ？
-2017-08-14 [22:48:57] [Server thread/INFO]: [SVIP]PYl6666 : 对呀我没有
-2017-08-14 [22:49:03] [Server thread/INFO]: [牛X]Rong : 好吧
-2017-08-14 [22:49:05] [Server thread/INFO]: [SVIP]PYl6666 : 我没有你们怎么可能
-2017-08-14 [22:49:10] [Server thread/INFO]: [牛X]Rong : 同病相怜
-2017-08-14 [22:49:19] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:49:24] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我是百里守约找一个女孩是王者的就行
-2017-08-14 [22:49:35] [Server thread/INFO]: [牛X]Rong : 哈哈
-2017-08-14 [22:49:38] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:49:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [22:49:41] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:49:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [22:49:52] [Server thread/INFO]: [SVIP]PYl6666 : 我们现在就没有女的
-2017-08-14 [22:49:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [22:50:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [22:50:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [22:50:03] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:50:05] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:50:07] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:50:10] [Server thread/INFO]: [牛X]Rong : wuge你是女的吗
-2017-08-14 [22:50:17] [Server thread/INFO]: [SVIP]wuge : 不是
-2017-08-14 [22:50:20] [Server thread/INFO]: [牛X]Rong : 还是女装大佬
-2017-08-14 [22:50:20] [Server thread/INFO]: [帅X]JeweledSaucer62 : 哈哈哈哈
-2017-08-14 [22:50:26] [Server thread/INFO]: - wuge is now offline!
-2017-08-14 [22:50:26] [Server thread/INFO]: - wuge 离开了游戏!
-2017-08-14 [22:50:26] [Server thread/INFO]: [AuthMePE] Player wuge has logged out.
-2017-08-14 [22:50:26] [Server thread/INFO]: [AuthMePE] Player wuge 离开了游戏.
-2017-08-14 [22:50:26] [Server thread/INFO]: wuge[/113.73.43.252:57806] logged out due to client disconnect
-2017-08-14 [22:50:27] [Server thread/INFO]: [牛X]Rong : 我去
-2017-08-14 [22:50:28] [Server thread/WARNING]: PYl6666 moved too fast, reverting movement
-2017-08-14 [22:50:32] [Server thread/INFO]: [SVIP]PYl6666 : 你哈哈哈￼
-2017-08-14 [22:50:33] [Server thread/INFO]: [牛X]Rong : 好吧好吧
-2017-08-14 [22:50:38] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:50:39] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:50:41] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:50:42] [Server thread/INFO]: wuge[/113.73.43.252:57806] [ClientID: -7760030538589010939] logged in with entity id 1155 at (world, 205.7, 65, 128.2371)
-2017-08-14 [22:50:42] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:50:43] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:50:44] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:50:45] [Server thread/INFO]: [AuthMePE] Player wuge has logged in.
-2017-08-14 [22:50:45] [Server thread/INFO]: [AuthMePE] 玩家 wuge 登录了游戏。
-2017-08-14 [22:50:45] [Server thread/INFO]: - wuge is now online!
-2017-08-14 [22:50:45] [Server thread/INFO]: - wuge 现在上线了!
-2017-08-14 [22:50:48] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:50:55] [Server thread/INFO]: - PYl6666 is now offline!
-2017-08-14 [22:50:55] [Server thread/INFO]: - PYl6666 离开了游戏!
-2017-08-14 [22:50:55] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged out.
-2017-08-14 [22:50:55] [Server thread/INFO]: [AuthMePE] Player PYl6666 离开了游戏.
-2017-08-14 [22:50:55] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] logged out due to client disconnect
-2017-08-14 [22:50:56] [Server thread/INFO]: JeweledSaucer62 was slain by Jacky1029
-2017-08-14 [22:51:01] [Server thread/INFO]: PVP[/59.149.50.144:60493] [ClientID: -4561615290563282809] logged in with entity id 1157 at (world, 342.6028, 126, 266.5331)
-2017-08-14 [22:51:03] [Server thread/INFO]: [AuthMePE] Player PVP has logged in.
-2017-08-14 [22:51:03] [Server thread/INFO]: [AuthMePE] 玩家 PVP 登录了游戏。
-2017-08-14 [22:51:03] [Server thread/INFO]: - PVP is now online!
-2017-08-14 [22:51:03] [Server thread/INFO]: - PVP 现在上线了!
-2017-08-14 [22:51:06] [Server thread/INFO]: [牛X]Rong : 这个加速什么东西
-2017-08-14 [22:51:10] [Server thread/INFO]: [建筑师]Jacky1029 : 對不起
-2017-08-14 [22:51:11] [Server thread/INFO]: PVP : 123abc
-2017-08-14 [22:51:13] [Server thread/INFO]: [牛X]Rong : 好晕啊
-2017-08-14 [22:51:19] [Server thread/INFO]: [帅X]JeweledSaucer62 : 不要
-2017-08-14 [22:51:22] [Server thread/INFO]: [帅X]JeweledSaucer62 : ……………
-2017-08-14 [22:51:26] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] [ClientID: -2869779923566982227] logged in with entity id 1158 at (th, 138.4232, 65, 150.3279)
-2017-08-14 [22:51:27] [Server thread/INFO]: [SVIP]wuge : 好像我姐的女儿不乖
-2017-08-14 [22:51:29] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged in.
-2017-08-14 [22:51:29] [Server thread/INFO]: [AuthMePE] 玩家 PYl6666 登录了游戏。
-2017-08-14 [22:51:29] [Server thread/INFO]: - PYl6666 is now online!
-2017-08-14 [22:51:29] [Server thread/INFO]: - PYl6666 现在上线了!
-2017-08-14 [22:51:31] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我试过
-2017-08-14 [22:51:42] [Server thread/INFO]: [牛X]Rong : 啊啊啊好晕啊
-2017-08-14 [22:51:43] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:51:46] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:51:46] [Server thread/INFO]: [帅X]JeweledSaucer62 : 又咋了
-2017-08-14 [22:51:47] [Server thread/INFO]: [建筑师]Jacky1029 : 殺錯了
-2017-08-14 [22:51:54] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:51:55] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:51:59] [Server thread/INFO]: PYl6666 died
-2017-08-14 [22:52:03] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:52:08] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:52:11] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [22:52:23] [Server thread/INFO]: [帅X]JeweledSaucer62 : 怎玩疯吧
-2017-08-14 [22:52:24] [Server thread/INFO]: [建筑师]Jacky1029 : pvp
-2017-08-14 [22:52:28] [Server thread/INFO]: [帅X]JeweledSaucer62 : 速度
-2017-08-14 [22:52:33] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:52:37] [Server thread/INFO]: - wuge is now offline!
-2017-08-14 [22:52:37] [Server thread/INFO]: - wuge 离开了游戏!
-2017-08-14 [22:52:37] [Server thread/INFO]: [AuthMePE] Player wuge has logged out.
-2017-08-14 [22:52:37] [Server thread/INFO]: [AuthMePE] Player wuge 离开了游戏.
-2017-08-14 [22:52:37] [Server thread/INFO]: wuge[/113.73.43.252:57806] logged out due to client disconnect
-2017-08-14 [22:52:39] [Server thread/INFO]: PYl6666 fell from a high place
-2017-08-14 [22:52:43] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:52:44] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:52:45] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:52:48] [Server thread/INFO]: [牛X]Rong : jeweled这个服谁是女的啊
-2017-08-14 [22:52:48] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:52:55] [Server thread/INFO]: PVP was slain by PYl6666
-2017-08-14 [22:52:56] [Server thread/INFO]: wuge[/113.73.43.252:57806] [ClientID: -7760030538589010939] logged in with entity id 1162 at (world, 202.9983, 65, -126.8221)
-2017-08-14 [22:52:58] [Server thread/INFO]: PYl6666 was slain by Jacky1029
-2017-08-14 [22:53:00] [Server thread/INFO]: [AuthMePE] Player wuge has logged in.
-2017-08-14 [22:53:00] [Server thread/INFO]: [AuthMePE] 玩家 wuge 登录了游戏。
-2017-08-14 [22:53:00] [Server thread/INFO]: - wuge is now online!
-2017-08-14 [22:53:00] [Server thread/INFO]: - wuge 现在上线了!
-2017-08-14 [22:53:04] [Server thread/INFO]: [帅X]JeweledSaucer62 : 过来嘛速度一起疯
-2017-08-14 [22:53:17] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:17] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:22] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:23] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:23] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:23] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:53:23] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:25] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:53:35] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:53:38] [Server thread/INFO]: [SVIP]PYl6666 : 你肯定有两件神器
-2017-08-14 [22:53:43] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:53:48] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:53:51] [Server thread/INFO]: PYl6666 was slain by Jacky1029
-2017-08-14 [22:53:56] [Server thread/INFO]: [牛X]Rong : jewel
-2017-08-14 [22:54:01] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:54:01] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:54:01] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:02] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:54:03] [Server thread/INFO]: PYl6666 was slain by Jacky1029
-2017-08-14 [22:54:04] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:05] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:15] [Server thread/INFO]: [建筑师]Jacky1029 : 不要wuge
-2017-08-14 [22:54:20] [Server thread/INFO]: [牛X]Rong : 怎么停下来
-2017-08-14 [22:54:23] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:24] [Server thread/INFO]: - PYl6666 is now offline!
-2017-08-14 [22:54:24] [Server thread/INFO]: - PYl6666 离开了游戏!
-2017-08-14 [22:54:24] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged out.
-2017-08-14 [22:54:24] [Server thread/INFO]: [AuthMePE] Player PYl6666 离开了游戏.
-2017-08-14 [22:54:24] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] logged out due to timeout
-2017-08-14 [22:54:24] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:28] [Server thread/INFO]: JeweledSaucer62 was slain by Jacky1029
-2017-08-14 [22:54:38] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [22:54:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [22:54:40] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:41] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:42] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:46] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:54:46] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:47] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:54:47] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:54:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [22:54:50] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [22:54:53] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:54:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [22:55:00] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:55:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [22:55:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [22:55:05] [Server thread/INFO]: [SVIP]wuge : 别动
-2017-08-14 [22:55:05] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:55:07] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:55:10] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:55:15] [Server thread/INFO]: [SVIP]wuge : 不然枪毙
-2017-08-14 [22:55:15] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:55:19] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:55:20] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:55:21] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:55:28] [Server thread/INFO]: JeweledSaucer62 was slain by PVP
-2017-08-14 [22:55:37] [Server thread/WARNING]: wuge moved too fast, reverting movement
-2017-08-14 [22:55:39] [Server thread/INFO]: [牛X]Rong : 来比赛
-2017-08-14 [22:55:44] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:55:44] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:55:45] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:55:45] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:55:50] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] [ClientID: -2869779923566982227] logged in with entity id 1171 at (world, 332, 126, 258)
-2017-08-14 [22:55:54] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged in.
-2017-08-14 [22:55:54] [Server thread/INFO]: [AuthMePE] 玩家 PYl6666 登录了游戏。
-2017-08-14 [22:55:54] [Server thread/INFO]: - PYl6666 is now online!
-2017-08-14 [22:55:54] [Server thread/INFO]: - PYl6666 现在上线了!
-2017-08-14 [22:55:55] [Server thread/INFO]: [牛X]Rong : 3
-2017-08-14 [22:55:57] [Server thread/INFO]: [牛X]Rong : 2
-2017-08-14 [22:56:00] [Server thread/INFO]: [牛X]Rong : 1
-2017-08-14 [22:56:07] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:56:07] [Server thread/WARNING]: PYl6666 moved wrongly!
-2017-08-14 [22:56:08] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:56:08] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:56:08] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:56:10] [Server thread/INFO]: PVP : .......
-2017-08-14 [22:56:10] [Server thread/WARNING]: Jacky1029 moved wrongly!
-2017-08-14 [22:56:12] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:56:16] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:56:16] [Server thread/INFO]: PYl6666 died
-2017-08-14 [22:56:18] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:56:29] [Server thread/INFO]: PVP was slain by PYl6666
-2017-08-14 [22:56:31] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:56:34] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:56:35] [Server thread/INFO]: [SVIP]wuge : 老公
-2017-08-14 [22:56:39] [Server thread/INFO]: [SVIP]wuge : 我睡了
-2017-08-14 [22:56:40] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:56:43] [Server thread/INFO]: - wuge is now offline!
-2017-08-14 [22:56:43] [Server thread/INFO]: - wuge 离开了游戏!
-2017-08-14 [22:56:43] [Server thread/INFO]: [AuthMePE] Player wuge has logged out.
-2017-08-14 [22:56:43] [Server thread/INFO]: [AuthMePE] Player wuge 离开了游戏.
-2017-08-14 [22:56:43] [Server thread/INFO]: wuge[/113.73.43.252:57806] logged out due to client disconnect
-2017-08-14 [22:56:44] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:56:45] [Server thread/INFO]: PYl6666 was slain by Jacky1029
-2017-08-14 [22:56:55] [Server thread/INFO]: - Jacky1029 is now offline!
-2017-08-14 [22:56:55] [Server thread/INFO]: - Jacky1029 离开了游戏!
-2017-08-14 [22:56:55] [Server thread/INFO]: [AuthMePE] Player Jacky1029 has logged out.
-2017-08-14 [22:56:55] [Server thread/INFO]: [AuthMePE] Player Jacky1029 离开了游戏.
-2017-08-14 [22:56:55] [Server thread/INFO]: Jacky1029[/183.179.52.22:62623] logged out due to client disconnect
-2017-08-14 [22:57:17] [Server thread/INFO]: [牛X]Rong : 好困
-2017-08-14 [22:57:21] [Server thread/INFO]: [SVIP]PYl6666 : PVP就你还想打败我
-2017-08-14 [22:57:26] [Server thread/INFO]: [SVIP]PYl6666 : ，
-2017-08-14 [22:57:29] [Server thread/INFO]: PVP : ......
-2017-08-14 [22:57:30] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:57:35] [Server thread/INFO]: [帅X]JeweledSaucer62 : 跑向水中好爽
-2017-08-14 [22:57:39] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:57:45] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:57:50] [Server thread/INFO]: [SVIP]PYl6666 : 看你装备还想打败我
-2017-08-14 [22:57:54] [Server thread/INFO]: PVP : 來
-2017-08-14 [22:57:58] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:57:58] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:57:59] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:00] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:05] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:58:13] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:14] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:15] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:15] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:16] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:16] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:17] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [22:58:17] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:18] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:19] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:19] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:28] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:32] [Server thread/INFO]: JeweledSaucer62 was slain by PVP
-2017-08-14 [22:58:44] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:45] [Server thread/WARNING]: Rong moved too fast, reverting movement
-2017-08-14 [22:58:46] [Server thread/INFO]: samS[/111.17.68.24:26792] [ClientID: -3135579556558766890] logged in with entity id 1189 at (world, 129.627, 64, 108.961)
-2017-08-14 [22:58:48] [Server thread/INFO]: [AuthMePE] Player samS has logged in.
-2017-08-14 [22:58:48] [Server thread/INFO]: [AuthMePE] 玩家 samS 登录了游戏。
-2017-08-14 [22:58:48] [Server thread/INFO]: - samS is now online!
-2017-08-14 [22:58:48] [Server thread/INFO]: - samS 现在上线了!
-2017-08-14 [22:58:50] [Server thread/INFO]: PVP : 哈哈
-2017-08-14 [22:58:52] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:54] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:54] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:55] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:58:55] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:59:02] [Server thread/INFO]: [帅X]JeweledSaucer62 : 干嘛…………
-2017-08-14 [22:59:07] [Server thread/INFO]: PVP fell from a high place
-2017-08-14 [22:59:13] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我点错
-2017-08-14 [22:59:14] [Server thread/INFO]: jesse[/124.117.124.120:40526] [ClientID: -9180258972174673148] logged in with entity id 1193 at (world, 128, 64, 128)
-2017-08-14 [22:59:19] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:59:19] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:59:21] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:59:22] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [22:59:24] [Server thread/INFO]: [牛X]Rong : sam做我女朋友
-2017-08-14 [22:59:26] [Server thread/INFO]: [牛X]Rong : 吧
-2017-08-14 [22:59:28] [Server thread/INFO]: - PYl6666 is now offline!
-2017-08-14 [22:59:28] [Server thread/INFO]: - PYl6666 离开了游戏!
-2017-08-14 [22:59:28] [Server thread/INFO]: [AuthMePE] Player PYl6666 has logged out.
-2017-08-14 [22:59:28] [Server thread/INFO]: [AuthMePE] Player PYl6666 离开了游戏.
-2017-08-14 [22:59:28] [Server thread/INFO]: PYl6666[/112.12.150.188:19015] logged out due to client disconnect
-2017-08-14 [22:59:35] [Server thread/INFO]: jesse[/124.117.124.120:40526] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [22:59:40] [Server thread/NOTICE]: Player data not found for "reparepacem", creating new profile
-2017-08-14 [22:59:40] [Server thread/INFO]: rePARePAcEm[/120.221.69.131:25337] [ClientID: -4127668913816227416] logged in with entity id 1197 at (world, 128, 64, 128)
-2017-08-14 [22:59:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [22:59:46] [Server thread/INFO]: [我是女的]samS : 对不起我有了
-2017-08-14 [22:59:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [22:59:53] [Server thread/INFO]: [我是女的]samS : 。。。
-2017-08-14 [22:59:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [22:59:56] [Server thread/INFO]: jesse[/124.117.124.120:40526] [ClientID: -9180258972174673148] logged in with entity id 1199 at (world, 128, 64, 128)
-2017-08-14 [22:59:59] [Server thread/INFO]: [帅X]JeweledSaucer62 : sam你要问你爸
-2017-08-14 [23:00:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:00:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:00:03] [Server thread/INFO]: [牛X]Rong : 好吧
-2017-08-14 [23:00:17] [Server thread/INFO]: PVP : 來和我PVp
-2017-08-14 [23:00:18] [Server thread/INFO]: jesse[/124.117.124.120:40526] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:00:24] [Server thread/WARNING]: Rong moved wrongly!
-2017-08-14 [23:00:30] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:00:39] [Server thread/INFO]: jesse[/124.117.124.120:40526] [ClientID: -9180258972174673148] logged in with entity id 1206 at (world, 128, 64, 128)
-2017-08-14 [23:00:41] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-14 [23:00:41] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-14 [23:00:41] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-14 [23:00:41] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-14 [23:00:54] [Server thread/INFO]: JeweledSaucer62 was slain by PVP
-2017-08-14 [23:00:59] [Server thread/INFO]: PVP : 87
-2017-08-14 [23:01:00] [Server thread/INFO]: - Rong is now offline!
-2017-08-14 [23:01:00] [Server thread/INFO]: - Rong 离开了游戏!
-2017-08-14 [23:01:00] [Server thread/INFO]: [AuthMePE] Player Rong has logged out.
-2017-08-14 [23:01:00] [Server thread/INFO]: [AuthMePE] Player Rong 离开了游戏.
-2017-08-14 [23:01:00] [Server thread/INFO]: Rong[/111.17.68.24:26661] logged out due to client disconnect
-2017-08-14 [23:01:01] [Server thread/INFO]: jesse[/124.117.124.120:40526] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:01:06] [Server thread/INFO]: PVP : PVP
-2017-08-14 [23:01:28] [Server thread/INFO]: [帅X]JeweledSaucer62 : 有没有单身女孩
-2017-08-14 [23:01:40] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:01:42] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:01:51] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:01:53] [Server thread/INFO]: PVP fell from a high place
-2017-08-14 [23:01:59] [Server thread/INFO]: - samS is now offline!
-2017-08-14 [23:01:59] [Server thread/INFO]: - samS 离开了游戏!
-2017-08-14 [23:01:59] [Server thread/INFO]: [AuthMePE] Player samS has logged out.
-2017-08-14 [23:01:59] [Server thread/INFO]: [AuthMePE] Player samS 离开了游戏.
-2017-08-14 [23:01:59] [Server thread/INFO]: samS[/111.17.68.24:26792] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-14 [23:01:59] [Server thread/INFO]: samS[/111.17.68.24:26661] [ClientID: -2530508739272191362] logged in with entity id 1222 at (world, 158.4747, 65, 128.3057)
-2017-08-14 [23:02:02] [Server thread/INFO]: [AuthMePE] Player samS has logged in.
-2017-08-14 [23:02:02] [Server thread/INFO]: [AuthMePE] 玩家 samS 登录了游戏。
-2017-08-14 [23:02:02] [Server thread/INFO]: - samS is now online!
-2017-08-14 [23:02:02] [Server thread/INFO]: - samS 现在上线了!
-2017-08-14 [23:02:07] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:02:14] [Server thread/NOTICE]: Player data not found for "maki", creating new profile
-2017-08-14 [23:02:14] [Server thread/INFO]: maki[/36.12.91.166:55370] [ClientID: -3988153724239794606] logged in with entity id 1225 at (world, 128, 64, 128)
-2017-08-14 [23:02:29] [Server thread/INFO]: [帅X]JeweledSaucer62 : sam你男朋友谁
-2017-08-14 [23:02:32] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:02:36] [Server thread/INFO]: [我是女的]samS : 呃
-2017-08-14 [23:02:40] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:02:45] [Server thread/INFO]: [我是女的]samS : zihang
-2017-08-14 [23:02:52] [Server thread/NOTICE]: Player data not found for "qianxiao829", creating new profile
-2017-08-14 [23:02:52] [Server thread/INFO]: qianxiao829[/111.182.68.219:3219] [ClientID: -2209164471954205376] logged in with entity id 1230 at (world, 128, 64, 128)
-2017-08-14 [23:02:58] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:03:00] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:03:00] [Server thread/INFO]: [帅X]JeweledSaucer62 : 他不是女的吗
-2017-08-14 [23:03:08] [Server thread/INFO]: [我是女的]samS : 。。
-2017-08-14 [23:03:11] [Server thread/INFO]: PVP : 誰想跟我來生存單挑
-2017-08-14 [23:03:13] [Server thread/INFO]: [我是女的]samS : what
-2017-08-14 [23:03:26] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:03:31] [Server thread/INFO]: [帅X]JeweledSaucer62 : 写着我是女的
-2017-08-14 [23:03:32] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:03:42] [Server thread/INFO]: [我是女的]samS : 。。你确定？
-2017-08-14 [23:03:46] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:03:48] [Server thread/INFO]: [AuthMePE] Player maki has logged in.
-2017-08-14 [23:03:48] [Server thread/INFO]: [AuthMePE] 玩家 maki 登录了游戏。
-2017-08-14 [23:03:48] [Server thread/INFO]: - maki is now online!
-2017-08-14 [23:03:48] [Server thread/INFO]: - maki 现在上线了!
-2017-08-14 [23:03:49] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我看过
-2017-08-14 [23:03:49] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:03:56] [Server thread/INFO]: [帅X]JeweledSaucer62 : ……………
-2017-08-14 [23:03:58] [Server thread/INFO]: [我是女的]samS : 好吧
-2017-08-14 [23:04:23] [Server thread/INFO]: [帅X]JeweledSaucer62 : 哇重大新闻
-2017-08-14 [23:04:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:04:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:04:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:04:57] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:05:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:05:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:05:01] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:05:04] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:05:14] [Server thread/INFO]: [帅X]JeweledSaucer62 : 找女朋友
-2017-08-14 [23:05:23] [Server thread/INFO]: supergirlygamer[/176.47.120.138:3468] [ClientID: -7341601493982296519] logged in with entity id 1241 at (world, 128, 64, 128)
-2017-08-14 [23:05:25] [Server thread/INFO]: [我是女的]samS : 。。。
-2017-08-14 [23:05:40] [Server thread/INFO]: [帅X]JeweledSaucer62 : 咋了
-2017-08-14 [23:05:45] [Server thread/INFO]: qianxiao829[/111.182.68.219:3219] logged out due to timeout
-2017-08-14 [23:05:47] [Server thread/INFO]: [我是女的]samS : 没事
-2017-08-14 [23:05:56] [Server thread/INFO]: [我是女的]samS : 叫你妈给你找啊
-2017-08-14 [23:05:56] [Server thread/INFO]: [帅X]JeweledSaucer62 : 找女朋友
-2017-08-14 [23:05:59] [Server thread/INFO]: [我是女的]samS : 。。。。
-2017-08-14 [23:06:00] [Server thread/INFO]: maki went up in flames
-2017-08-14 [23:06:01] [Server thread/INFO]: [帅X]JeweledSaucer62 : ………………………
-2017-08-14 [23:06:07] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:06:22] [Server thread/INFO]: [帅X]JeweledSaucer62 : 她是呢个应该没经验
-2017-08-14 [23:06:32] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:06:55] [Server thread/INFO]: [我是女的]samS : 不行还还没从你妈是男的里缓过来
-2017-08-14 [23:07:04] [Server thread/INFO]: [帅X]JeweledSaucer62 : 哈哈哈哈哈
-2017-08-14 [23:07:05] [Server thread/INFO]: [我是女的]samS : 懵逼。。。
-2017-08-14 [23:07:16] [Server thread/INFO]: [帅X]JeweledSaucer62 : 找女朋友！！
-2017-08-14 [23:07:27] [Server thread/INFO]: supergirlygamer[/176.47.120.138:3468] logged out due to timeout
-2017-08-14 [23:07:33] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:07:40] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:07:40] [Server thread/NOTICE]: Player data not found for "alphastein123", creating new profile
-2017-08-14 [23:07:40] [Server thread/INFO]: alphastein123[/46.99.102.206:46397] [ClientID: -2573918736223080520] logged in with entity id 1243 at (world, 128, 64, 128)
-2017-08-14 [23:07:44] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:07:56] [Server thread/INFO]: [帅X]JeweledSaucer62 : 有没有单身女
-2017-08-14 [23:07:59] [Server thread/INFO]: * PVP 誰要跟我PVP
-2017-08-14 [23:08:18] [Server thread/INFO]: [我是女的]samS : maki？
-2017-08-14 [23:08:33] [Server thread/INFO]: maki : ?
-2017-08-14 [23:08:37] [Server thread/INFO]: [帅X]JeweledSaucer62 : 有没有单身女（来自单身狗的希望）
-2017-08-14 [23:08:49] [Server thread/INFO]: [我是女的]samS : 你是女的咩
-2017-08-14 [23:08:57] [Server thread/INFO]: [AuthMePE] Player alphastein123 has logged in.
-2017-08-14 [23:08:57] [Server thread/INFO]: [AuthMePE] 玩家 alphastein123 登录了游戏。
-2017-08-14 [23:08:57] [Server thread/INFO]: - alphastein123 is now online!
-2017-08-14 [23:08:57] [Server thread/INFO]: - alphastein123 现在上线了!
-2017-08-14 [23:09:00] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:09:01] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:09:02] [Server thread/WARNING]: alphastein123 moved wrongly!
-2017-08-14 [23:09:06] [Server thread/WARNING]: alphastein123 moved wrongly!
-2017-08-14 [23:09:06] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:09:07] [Server thread/WARNING]: alphastein123 moved wrongly!
-2017-08-14 [23:09:07] [Server thread/INFO]: maki : myJapanese
-2017-08-14 [23:09:13] [Server thread/WARNING]: alphastein123 moved wrongly!
-2017-08-14 [23:09:20] [Server thread/WARNING]: alphastein123 moved wrongly!
-2017-08-14 [23:09:23] [Server thread/INFO]: [我是女的]samS : 好吧假日本人
-2017-08-14 [23:09:32] [Server thread/INFO]: maki : うん
-2017-08-14 [23:09:40] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:09:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:09:43] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:09:47] [Server thread/INFO]: PVP fell out of the world
-2017-08-14 [23:09:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:09:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:09:56] [Server thread/INFO]: maki : myJapanesesorry
-2017-08-14 [23:10:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:10:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:10:05] [Server thread/INFO]: alphastein123 tried to swim in lava
-2017-08-14 [23:10:19] [Server thread/INFO]: [我是女的]samS : what did that mean japannes'
-2017-08-14 [23:10:32] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:10:36] [Server thread/INFO]: [帅X]JeweledSaucer62 : 哈哈哈哈问的好
-2017-08-14 [23:10:36] [Server thread/INFO]: - alphastein123 is now offline!
-2017-08-14 [23:10:36] [Server thread/INFO]: - alphastein123 离开了游戏!
-2017-08-14 [23:10:36] [Server thread/INFO]: [AuthMePE] Player alphastein123 has logged out.
-2017-08-14 [23:10:36] [Server thread/INFO]: [AuthMePE] Player alphastein123 离开了游戏.
-2017-08-14 [23:10:36] [Server thread/INFO]: alphastein123[/46.99.102.206:46397] logged out due to timeout
-2017-08-14 [23:10:46] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:11:07] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:11:09] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:11:26] [Server thread/INFO]: PVP : 來PVP
-2017-08-14 [23:11:28] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:11:29] [Server thread/INFO]: [帅X]JeweledSaucer62 : 谁要嫁我这个快男
-2017-08-14 [23:11:51] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:11:51] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:11:58] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:12:15] [Server thread/INFO]: [我是女的]samS : l'm afraid you don' know that
-2017-08-14 [23:12:16] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:12:16] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:12:26] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:12:26] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:12:27] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:12:41] [Server thread/INFO]: [我是女的]samS : 你又加速了？
-2017-08-14 [23:12:42] [Server thread/INFO]: rePARePAcEm : 住宅区有哪些有趣的建筑？求推荐
-2017-08-14 [23:12:48] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我的目标只要是女的
-2017-08-14 [23:12:49] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:12:54] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-14 [23:12:54] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-14 [23:12:54] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-14 [23:12:54] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-14 [23:12:54] [Server thread/INFO]: rePARePAcEm[/120.221.69.131:25337] logged out due to client disconnect
-2017-08-14 [23:12:59] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:13:12] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:13:52] [Server thread/NOTICE]: Player data not found for "xiongjiang", creating new profile
-2017-08-14 [23:13:52] [Server thread/INFO]: xiongjiang[/111.165.15.231:55492] [ClientID: -1114645539557407403] logged in with entity id 1319 at (world, 128, 64, 128)
-2017-08-14 [23:14:01] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:14:06] [Server thread/INFO]: [我是女的]samS : 。
-2017-08-14 [23:14:19] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] [ClientID: -4127668913816227416] logged in with entity id 1324 at (th, 5.2441, 75, 129.021)
-2017-08-14 [23:14:28] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged in.
-2017-08-14 [23:14:28] [Server thread/INFO]: [AuthMePE] 玩家 xiongjiang 登录了游戏。
-2017-08-14 [23:14:28] [Server thread/INFO]: - xiongjiang is now online!
-2017-08-14 [23:14:28] [Server thread/INFO]: - xiongjiang 现在上线了!
-2017-08-14 [23:14:36] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:14:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:14:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:14:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:15:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:15:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:15:01] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] [ClientID: -4127668913816227416] logged in with entity id 1329 at (world, 128, 64, 128)
-2017-08-14 [23:15:03] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-14 [23:15:03] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-14 [23:15:03] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-14 [23:15:03] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-14 [23:15:14] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:15:26] [Server thread/INFO]: zhumengzhiying[/113.15.3.184:24440] [ClientID: 2144839649263826448] logged in with entity id 1332 at (th, 132.2625, 66, -19.8622)
-2017-08-14 [23:15:34] [Server thread/INFO]: - samS is now offline!
-2017-08-14 [23:15:34] [Server thread/INFO]: - samS 离开了游戏!
-2017-08-14 [23:15:34] [Server thread/INFO]: [AuthMePE] Player samS has logged out.
-2017-08-14 [23:15:34] [Server thread/INFO]: [AuthMePE] Player samS 离开了游戏.
-2017-08-14 [23:15:34] [Server thread/INFO]: samS[/111.17.68.24:26661] logged out due to client disconnect
-2017-08-14 [23:15:41] [Server thread/INFO]: zhumengzhiying[/113.15.3.184:24440] logged out due to timeout
-2017-08-14 [23:15:48] [Server thread/INFO]: PVP drowned
-2017-08-14 [23:15:56] [Server thread/INFO]: samS[/111.17.68.24:26661] [ClientID: -2530508739272191362] logged in with entity id 1336 at (world, 123.8495, 64, 121.5104)
-2017-08-14 [23:15:57] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:15:59] [Server thread/INFO]: [AuthMePE] Player samS has logged in.
-2017-08-14 [23:15:59] [Server thread/INFO]: [AuthMePE] 玩家 samS 登录了游戏。
-2017-08-14 [23:15:59] [Server thread/INFO]: - samS is now online!
-2017-08-14 [23:15:59] [Server thread/INFO]: - samS 现在上线了!
-2017-08-14 [23:16:00] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:05] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:16:06] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:16:09] [Server thread/NOTICE]: Player data not found for "weirdgamer300", creating new profile
-2017-08-14 [23:16:09] [Server thread/INFO]: weirdgamer300[/98.21.129.169:54537] [ClientID: -492128784609016250] logged in with entity id 1337 at (world, 128, 64, 128)
-2017-08-14 [23:16:26] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:16:38] [Server thread/INFO]: - xiongjiang is now offline!
-2017-08-14 [23:16:38] [Server thread/INFO]: - xiongjiang 离开了游戏!
-2017-08-14 [23:16:38] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged out.
-2017-08-14 [23:16:38] [Server thread/INFO]: [AuthMePE] Player xiongjiang 离开了游戏.
-2017-08-14 [23:16:38] [Server thread/INFO]: xiongjiang[/111.165.15.231:55492] logged out due to timeout
-2017-08-14 [23:16:48] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:48] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:50] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:50] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:53] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:53] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:56] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:56] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:58] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:58] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:59] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:16:59] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:17:00] [Server thread/INFO]: maki suffocated in a wall
-2017-08-14 [23:17:03] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:04] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:04] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:05] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:08] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:17:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:09] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:17:09] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:09] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:09] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:17:10] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:10] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:11] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:12] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:13] [Server thread/WARNING]: JeweledSaucer62 moved too fast, reverting movement
-2017-08-14 [23:17:17] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:17:20] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:20] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:22] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:23] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:23] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:25] [Server thread/INFO]: * PVP ip:yy.itoytoy.com
-2017-08-14 [23:17:27] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:27] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:28] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:31] [Server thread/INFO]: * PVP Hello everyone
-2017-08-14 [23:17:34] [Server thread/INFO]: * PVP 端口：19132
-2017-08-14 [23:17:35] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:40] [Server thread/NOTICE]: Player data not found for "alexa", creating new profile
-2017-08-14 [23:17:40] [Server thread/INFO]: Alexa[/69.11.1.140:64329] [ClientID: 4799992867744496592] logged in with entity id 1340 at (world, 128, 64, 128)
-2017-08-14 [23:17:45] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:50] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:51] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:51] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:53] [Server thread/INFO]: PVP died
-2017-08-14 [23:17:54] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:55] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:17:55] [Server thread/WARNING]: maki moved wrongly!
-2017-08-14 [23:18:07] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:08] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:11] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:11] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:12] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:13] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:14] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:14] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:14] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:14] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:15] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:15] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:15] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:15] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:15] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:15] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:16] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:16] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:16] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:16] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:16] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:16] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:17] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:17] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:17] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:17] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:17] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:18] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:18] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:18] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:18] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:18] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:19] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:19] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:19] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:19] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:19] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:19] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:20] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:20] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:27] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:27] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:27] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:28] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:28] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:28] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:28] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:28] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:29] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:29] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:29] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:29] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:29] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:29] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:30] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:30] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:30] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:30] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:30] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:31] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:31] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:31] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:31] [Server thread/INFO]: * PVP ip:yy.itoytoy.com
-2017-08-14 [23:18:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:32] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:32] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:32] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:32] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:32] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:33] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:33] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:33] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:33] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:33] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:34] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:34] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:34] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:34] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:34] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:35] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:35] [Server thread/INFO]: * PVP 欢迎新人来到yy服-务器！！请留在这里
-2017-08-14 [23:18:37] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:38] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:41] [Server thread/INFO]: weirdgamer300[/98.21.129.169:54537] logged out due to client disconnect
-2017-08-14 [23:18:49] [Server thread/INFO]: xiongjiang[/111.165.15.231:56413] [ClientID: -1114645539557407403] logged in with entity id 1341 at (world, 127.2751, 64, 126.9102)
-2017-08-14 [23:18:50] [Server thread/INFO]: - maki is now offline!
-2017-08-14 [23:18:50] [Server thread/INFO]: - maki 离开了游戏!
-2017-08-14 [23:18:50] [Server thread/INFO]: [AuthMePE] Player maki has logged out.
-2017-08-14 [23:18:50] [Server thread/INFO]: [AuthMePE] Player maki 离开了游戏.
-2017-08-14 [23:18:50] [Server thread/INFO]: maki[/36.12.91.166:55370] logged out due to client disconnect
-2017-08-14 [23:18:51] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged in.
-2017-08-14 [23:18:51] [Server thread/INFO]: [AuthMePE] 玩家 xiongjiang 登录了游戏。
-2017-08-14 [23:18:51] [Server thread/INFO]: - xiongjiang is now online!
-2017-08-14 [23:18:51] [Server thread/INFO]: - xiongjiang 现在上线了!
-2017-08-14 [23:18:56] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:57] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:57] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:58] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:59] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:18:59] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:00] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:01] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:01] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:02] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:02] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:04] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:04] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:05] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:05] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:05] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:06] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:06] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:06] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:07] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:10] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:11] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:11] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:12] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:13] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:14] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:20] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:21] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:24] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:28] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:28] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:28] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:29] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:29] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:19:30] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:32] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:34] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:36] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:36] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:37] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:37] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:38] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:38] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:39] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:39] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:19:40] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:41] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:41] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:42] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:19:50] [Server thread/INFO]: Steve[/116.253.198.167:32253] [ClientID: 7150271669579210285] logged in with entity id 1342 at (world, 128, 64, 128)
-2017-08-14 [23:19:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:19:50] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:19:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:19:55] [Server thread/INFO]: Alexa[/69.11.1.140:64329] logged out due to client disconnect
-2017-08-14 [23:19:56] [Server thread/INFO]: zhumengzhiying[/116.253.198.167:32194] [ClientID: 2144839649263826448] logged in with entity id 1343 at (world, 128, 64, 128)
-2017-08-14 [23:19:59] [Server thread/INFO]: Steve[/116.253.198.167:32253] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-14 [23:19:59] [Server thread/INFO]: Steve[/112.11.206.13:64858] [ClientID: -15402470213767313] logged in with entity id 1344 at (world, 128, 64, 128)
-2017-08-14 [23:20:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:20:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:20:02] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:20:14] [Server thread/INFO]: treey[/114.91.185.146:64242] [ClientID: 8930652060936972520] logged in with entity id 1345 at (world, 128, 64, 128)
-2017-08-14 [23:20:16] [Server thread/INFO]: Steve[/112.11.206.13:64858] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:20:17] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
-2017-08-14 [23:20:17] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
-2017-08-14 [23:20:17] [Server thread/INFO]: - zhumengzhiying is now online!
-2017-08-14 [23:20:17] [Server thread/INFO]: - zhumengzhiying 现在上线了!
-2017-08-14 [23:20:23] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:20:26] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:20:27] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:20:29] [Server thread/INFO]: treey[/114.91.185.146:64242] logged out due to client disconnect
-2017-08-14 [23:20:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:20:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:20:32] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:20:33] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:20:43] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:20:57] [Server thread/NOTICE]: Player data not found for "nevercm", creating new profile
-2017-08-14 [23:20:57] [Server thread/INFO]: NeverCm[/112.11.206.13:64858] [ClientID: -15402470213767313] logged in with entity id 1346 at (world, 128, 64, 128)
-2017-08-14 [23:21:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:13] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:14] [Server thread/INFO]: Steve[/116.253.198.167:32253] [ClientID: 7150271669579210285] logged in with entity id 1348 at (world, 128, 64, 128)
-2017-08-14 [23:21:17] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:20] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:30] [Server thread/INFO]: Steve[/116.253.198.167:32253] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:21:43] [Server thread/INFO]: - xiongjiang is now offline!
-2017-08-14 [23:21:43] [Server thread/INFO]: - xiongjiang 离开了游戏!
-2017-08-14 [23:21:43] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged out.
-2017-08-14 [23:21:43] [Server thread/INFO]: [AuthMePE] Player xiongjiang 离开了游戏.
-2017-08-14 [23:21:43] [Server thread/INFO]: xiongjiang[/111.165.15.231:56413] logged out due to timeout
-2017-08-14 [23:21:49] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:51] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:52] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:21:54] [Server thread/INFO]: PVP tried to swim in lava
-2017-08-14 [23:22:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:22:11] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:22:13] [Server thread/INFO]: rePARePAcEm : 迷宫走到终点有奖励吗
-2017-08-14 [23:22:26] [Server thread/INFO]: PVP : 大家都去哪了
-2017-08-14 [23:22:27] [Server thread/INFO]: [帅X]JeweledSaucer62 : 有
-2017-08-14 [23:22:37] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:22:39] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:22:41] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:22:43] [Server thread/INFO]: NeverCm[/112.11.206.13:64858] logged out due to timeout
-2017-08-14 [23:22:48] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:22:52] [Server thread/INFO]: rePARePAcEm : 终点处有出口吗
-2017-08-14 [23:22:52] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:22:53] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:22:58] [Server thread/INFO]: [帅X]JeweledSaucer62 : 没
-2017-08-14 [23:22:59] [Server thread/INFO]: PVP tried to swim in lava
-2017-08-14 [23:23:05] [Server thread/INFO]: rePARePAcEm : ！？
-2017-08-14 [23:23:05] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:07] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:15] [Server thread/INFO]: [帅X]JeweledSaucer62 : 又回来
-2017-08-14 [23:23:23] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:30] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:32] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:32] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:33] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:33] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:33] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:34] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:34] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:34] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:35] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:35] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:44] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:45] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:45] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:23:58] [Server thread/INFO]: [我是女的]zhumengzhiying : ...
-2017-08-14 [23:24:16] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:16] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:16] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:17] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:18] [Server thread/INFO]: qianxiao829[/111.182.68.219:3782] [ClientID: -2209164471954205376] logged in with entity id 1375 at (world, 128, 64, 128)
-2017-08-14 [23:24:19] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:19] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:20] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:21] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:22] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:23] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:30] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:32] [Server thread/INFO]: power777888[/180.212.105.117:60271] [ClientID: 3116428789215175809] logged in with entity id 1376 at (world, 129.711, 64, 128.1031)
-2017-08-14 [23:24:39] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:40] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:24:41] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:41] [Server thread/INFO]: [AuthMePE] Player power777888 has logged in.
-2017-08-14 [23:24:41] [Server thread/INFO]: [AuthMePE] 玩家 power777888 登录了游戏。
-2017-08-14 [23:24:41] [Server thread/INFO]: - power777888 is now online!
-2017-08-14 [23:24:41] [Server thread/INFO]: - power777888 现在上线了!
-2017-08-14 [23:24:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:24:53] [Server thread/INFO]: [副腐竹]power777888 : pvp你玩这么久
-2017-08-14 [23:24:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:24:56] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:56] [Server thread/INFO]: [power777888: Teleported power777888 to PVP]
-2017-08-14 [23:24:57] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:58] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:24:59] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:25:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:25:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理11个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:25:08] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:25:21] [Server thread/INFO]: - zhumengzhiying is now offline!
-2017-08-14 [23:25:21] [Server thread/INFO]: - zhumengzhiying 离开了游戏!
-2017-08-14 [23:25:21] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged out.
-2017-08-14 [23:25:21] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying 离开了游戏.
-2017-08-14 [23:25:21] [Server thread/INFO]: zhumengzhiying[/116.253.198.167:32194] logged out due to client disconnect
-2017-08-14 [23:25:23] [Server thread/INFO]: [AuthMePE] Player qianxiao829 has logged in.
-2017-08-14 [23:25:23] [Server thread/INFO]: [AuthMePE] 玩家 qianxiao829 登录了游戏。
-2017-08-14 [23:25:23] [Server thread/INFO]: - qianxiao829 is now online!
-2017-08-14 [23:25:23] [Server thread/INFO]: - qianxiao829 现在上线了!
-2017-08-14 [23:25:37] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:25:45] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:25:48] [Server thread/WARNING]: qianxiao829 moved wrongly!
-2017-08-14 [23:25:50] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:25:50] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:25:58] [Server thread/INFO]: [我是女的]samS : 等等
-2017-08-14 [23:26:03] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我不跳
-2017-08-14 [23:26:06] [Server thread/INFO]: [我是女的]samS : 你要干什么
-2017-08-14 [23:26:08] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27477] logged out due to Invalid name!
-2017-08-14 [23:26:10] [Server thread/INFO]: [我是女的]samS : 哦哦好
-2017-08-14 [23:26:16] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:26:19] [Server thread/INFO]: PVP : 你們在哪
-2017-08-14 [23:26:26] [Server thread/INFO]: Steve[/149.147.57.197:57161] [ClientID: -3424891964346021365] logged in with entity id 1407 at (world, 128, 64, 128)
-2017-08-14 [23:26:26] [Server thread/INFO]: [副腐竹]power777888 : 我在这
-2017-08-14 [23:26:29] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27477] logged out due to Invalid name!
-2017-08-14 [23:26:35] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:26:38] [Server thread/INFO]: NeverCm[/112.11.206.13:65139] [ClientID: -15402470213767313] logged in with entity id 1409 at (world, 128, 64, 128)
-2017-08-14 [23:26:40] [Server thread/INFO]: PVP : 不是叫你
-2017-08-14 [23:26:44] [Server thread/INFO]: [我是女的]samS : 在zi jian 的party
-2017-08-14 [23:26:44] [Server thread/INFO]: Steve[/149.147.57.197:57161] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:26:50] [Server thread/NOTICE]: Player data not found for "benotquickly", creating new profile
-2017-08-14 [23:26:50] [Server thread/INFO]: benotquickly[/116.253.198.167:31930] [ClientID: 7150271669579210285] logged in with entity id 1413 at (world, 128, 64, 128)
-2017-08-14 [23:26:51] [Server thread/INFO]: [power777888: Teleported power777888 to samS]
-2017-08-14 [23:26:51] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27477] logged out due to Invalid name!
-2017-08-14 [23:26:53] [Server thread/INFO]: [帅X]JeweledSaucer62 : 过了
-2017-08-14 [23:26:57] [Server thread/WARNING]: qianxiao829 moved wrongly!
-2017-08-14 [23:26:58] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:26:59] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:27:00] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:27:00] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:27:02] [Server thread/INFO]: rePARePAcEm : 迷宫里还有箱子？
-2017-08-14 [23:27:03] [Server thread/INFO]: NeverCm[/112.11.206.13:65139] logged out due to timeout
-2017-08-14 [23:27:04] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:27:04] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:27:06] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:27:07] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:27:09] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:27:18] [Server thread/INFO]: - qianxiao829 is now offline!
-2017-08-14 [23:27:18] [Server thread/INFO]: - qianxiao829 离开了游戏!
-2017-08-14 [23:27:18] [Server thread/INFO]: [AuthMePE] Player qianxiao829 has logged out.
-2017-08-14 [23:27:18] [Server thread/INFO]: [AuthMePE] Player qianxiao829 离开了游戏.
-2017-08-14 [23:27:18] [Server thread/INFO]: qianxiao829[/111.182.68.219:3782] logged out due to timeout
-2017-08-14 [23:27:23] [Server thread/INFO]: [AuthMePE] Player benotquickly has logged in.
-2017-08-14 [23:27:23] [Server thread/INFO]: [AuthMePE] 玩家 benotquickly 登录了游戏。
-2017-08-14 [23:27:23] [Server thread/INFO]: - benotquickly is now online!
-2017-08-14 [23:27:23] [Server thread/INFO]: - benotquickly 现在上线了!
-2017-08-14 [23:27:24] [Server thread/INFO]: zhumengzhiying[/116.253.198.167:32194] [ClientID: 2144839649263826448] logged in with entity id 1419 at (th, 128.054, 66.95, -9.7391)
-2017-08-14 [23:27:26] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
-2017-08-14 [23:27:26] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
-2017-08-14 [23:27:26] [Server thread/INFO]: - zhumengzhiying is now online!
-2017-08-14 [23:27:26] [Server thread/INFO]: - zhumengzhiying 现在上线了!
-2017-08-14 [23:27:35] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-14 [23:27:35] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-14 [23:27:35] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-14 [23:27:35] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-14 [23:27:35] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] logged out due to client disconnect
-2017-08-14 [23:27:48] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:27:52] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:27:53] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] [ClientID: -4127668913816227416] logged in with entity id 1420 at (world, 270.3, 55, 9.3)
-2017-08-14 [23:27:55] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-14 [23:27:55] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-14 [23:27:55] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-14 [23:27:55] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-14 [23:28:04] [Server thread/INFO]: - power777888 is now offline!
-2017-08-14 [23:28:04] [Server thread/INFO]: - power777888 离开了游戏!
-2017-08-14 [23:28:04] [Server thread/INFO]: [AuthMePE] Player power777888 has logged out.
-2017-08-14 [23:28:04] [Server thread/INFO]: [AuthMePE] Player power777888 离开了游戏.
-2017-08-14 [23:28:04] [Server thread/INFO]: power777888[/180.212.105.117:60271] logged out due to client disconnect
-2017-08-14 [23:28:11] [Server thread/INFO]: [帅X]JeweledSaucer62 : 我回复了
-2017-08-14 [23:28:16] [Server thread/INFO]: [帅X]JeweledSaucer62 : 恢复
-2017-08-14 [23:28:20] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:28:31] [Server thread/WARNING]: benotquickly moved wrongly!
-2017-08-14 [23:28:57] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:28:58] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:29:31] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:29:31] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:29:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:29:50] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:29:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:29:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:30:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:30:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理13个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:30:19] [Server thread/WARNING]: benotquickly moved wrongly!
-2017-08-14 [23:30:21] [Server thread/INFO]: [我是女的]samS : 你手里为什么一直拿着翅膀啊
-2017-08-14 [23:30:29] [Server thread/INFO]: [帅X]JeweledSaucer62 : ？？？？？？
-2017-08-14 [23:30:35] [Server thread/INFO]: [帅X]JeweledSaucer62 : 没有啊
-2017-08-14 [23:30:46] [Server thread/INFO]: [我是女的]samS : 我看你手里一直拿着翅膀啊
-2017-08-14 [23:30:51] [Server thread/INFO]: [我是女的]samS : bug？
-2017-08-14 [23:30:55] [Server thread/INFO]: [帅X]JeweledSaucer62 : 嗯
-2017-08-14 [23:30:56] [Server thread/INFO]: benotquickly has just earned the achievement Getting Wood
-2017-08-14 [23:31:29] [Server thread/WARNING]: samS moved wrongly!
-2017-08-14 [23:31:46] [Server thread/INFO]: [我是女的]samS : 好困
-2017-08-14 [23:31:51] [Server thread/INFO]: [我是女的]samS : 想睡觉
-2017-08-14 [23:31:55] [Server thread/INFO]: [帅X]JeweledSaucer62 : 你睡吧
-2017-08-14 [23:32:02] [Server thread/INFO]: [我是女的]samS : 嗯88
-2017-08-14 [23:32:08] [Server thread/INFO]: - samS is now offline!
-2017-08-14 [23:32:08] [Server thread/INFO]: - samS 离开了游戏!
-2017-08-14 [23:32:08] [Server thread/INFO]: [AuthMePE] Player samS has logged out.
-2017-08-14 [23:32:08] [Server thread/INFO]: [AuthMePE] Player samS 离开了游戏.
-2017-08-14 [23:32:08] [Server thread/INFO]: samS[/111.17.68.24:26661] logged out due to client disconnect
-2017-08-14 [23:32:16] [Server thread/INFO]: PVP : 你們在哪
-2017-08-14 [23:32:22] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:32:24] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:32:39] [Server thread/INFO]: Steve[/71.38.167.185:49431] [ClientID: -7794718607663757444] logged in with entity id 1459 at (world, 128, 64, 128)
-2017-08-14 [23:32:39] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:32:55] [Server thread/INFO]: Steve[/71.38.167.185:49431] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:32:57] [Server thread/INFO]: PVP : 什麼叫party
-2017-08-14 [23:33:08] [Server thread/INFO]: [帅X]JeweledSaucer62 : …………派对啊
-2017-08-14 [23:33:17] [Server thread/INFO]: rePARePAcEm has just earned the achievement Getting Wood
-2017-08-14 [23:33:48] [Server thread/INFO]: PVP : 你們到底在哪
-2017-08-14 [23:33:57] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:33:58] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:33:59] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:33:59] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:33:59] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:33:59] [Server thread/INFO]: * JeweledSaucer62 ，开party了，领地219-或者tp我过来哟~
-2017-08-14 [23:34:13] [Server thread/INFO]: Shining Knight[/5.67.186.27:61160] logged out due to Invalid name!
-2017-08-14 [23:34:20] [Server thread/INFO]: PVP : 不明白
-2017-08-14 [23:34:23] [Server thread/INFO]: rePARePAcEm : 那个空中的大木桩是啥
-2017-08-14 [23:34:27] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:34:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:34:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:34:53] [Server thread/INFO]: [帅X]JeweledSaucer62 : 在居民区
-2017-08-14 [23:34:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:34:57] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:35:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:35:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:35:23] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:35:34] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:36:00] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:36:00] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-14 [23:36:27] [Server thread/INFO]: - PVP is now offline!
-2017-08-14 [23:36:27] [Server thread/INFO]: - PVP 离开了游戏!
-2017-08-14 [23:36:27] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
-2017-08-14 [23:36:27] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
-2017-08-14 [23:36:27] [Server thread/INFO]: PVP[/59.149.50.144:60493] logged out due to client disconnect
-2017-08-14 [23:37:41] [Server thread/INFO]: [/68.8.174.188:64698] logged out due to client disconnect
-2017-08-14 [23:37:41] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:38:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:38:08] [Server thread/WARNING]: JeweledSaucer62 moved wrongly!
-2017-08-14 [23:38:15] [Server thread/INFO]: - JeweledSaucer62 is now offline!
-2017-08-14 [23:38:15] [Server thread/INFO]: - JeweledSaucer62 离开了游戏!
-2017-08-14 [23:38:15] [Server thread/INFO]: [AuthMePE] Player JeweledSaucer62 has logged out.
-2017-08-14 [23:38:15] [Server thread/INFO]: [AuthMePE] Player JeweledSaucer62 离开了游戏.
-2017-08-14 [23:38:15] [Server thread/INFO]: JeweledSaucer62[/119.166.203.115:50137] logged out due to client disconnect
-2017-08-14 [23:38:35] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:39:05] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:39:33] [Server thread/INFO]: S[/81.235.40.185:63409] logged out due to Invalid name!
-2017-08-14 [23:39:38] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:39:38] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:39:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:39:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:39:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:39:58] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:40:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:40:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:40:16] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:40:37] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27298] logged out due to Invalid name!
-2017-08-14 [23:40:37] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:41:08] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:41:09] [Server thread/WARNING]: benotquickly moved wrongly!
-2017-08-14 [23:41:38] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:22] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:22] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:27] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:27] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:37] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:38] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:42:38] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:43:06] [Server thread/INFO]: Little Panda[/24.44.182.86:52159] logged out due to Invalid name!
-2017-08-14 [23:43:08] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:43:24] [Server thread/INFO]: Little Panda[/24.44.182.86:52159] logged out due to Invalid name!
-2017-08-14 [23:43:46] [Server thread/INFO]: Little Panda[/24.44.182.86:52159] logged out due to Invalid name!
-2017-08-14 [23:44:18] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:44:18] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:44:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:44:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:44:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:45:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:45:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:47:50] [Server thread/NOTICE]: Player data not found for "ariel", creating new profile
-2017-08-14 [23:47:50] [Server thread/INFO]: Ariel[/108.170.129.207:62865] [ClientID: -9026028244697288772] logged in with entity id 1742 at (world, 128, 64, 128)
-2017-08-14 [23:48:33] [Server thread/INFO]: mr. Spiderman sp[/99.146.242.158:62033] logged out due to Invalid name!
-2017-08-14 [23:48:37] [Server thread/INFO]: Ariel[/108.170.129.207:62865] logged out due to client disconnect
-2017-08-14 [23:48:38] [Server thread/INFO]: Melody[/42.2.16.226:52951] [ClientID: 7866378612459683124] logged in with entity id 1762 at (world, 98.5765, 70.0625, 134.7014)
-2017-08-14 [23:48:39] [Server thread/INFO]: [AuthMePE] Player Melody has logged in.
-2017-08-14 [23:48:39] [Server thread/INFO]: [AuthMePE] 玩家 Melody 登录了游戏。
-2017-08-14 [23:48:39] [Server thread/INFO]: - Melody is now online!
-2017-08-14 [23:48:39] [Server thread/INFO]: - Melody 现在上线了!
-2017-08-14 [23:48:55] [Server thread/NOTICE]: Player data not found for "evancraftyt", creating new profile
-2017-08-14 [23:48:55] [Server thread/INFO]: EvanCraftYT[/172.58.19.1:31766] [ClientID: -1214574842878150993] logged in with entity id 1772 at (world, 128, 64, 128)
-2017-08-14 [23:49:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:49:46] [Server thread/INFO]: EvanCraftYT[/172.58.19.1:31766] logged out due to timeout
-2017-08-14 [23:49:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:49:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:50:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:50:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:50:13] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-14 [23:50:13] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-14 [23:50:13] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-14 [23:50:13] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-14 [23:50:13] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] logged out due to client disconnect
-2017-08-14 [23:50:22] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] [ClientID: -4127668913816227416] logged in with entity id 1803 at (th, 95.3, 68, 65.7)
-2017-08-14 [23:50:24] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-14 [23:50:24] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-14 [23:50:24] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-14 [23:50:24] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-14 [23:50:38] [Server thread/WARNING]: Melody moved wrongly!
-2017-08-14 [23:50:58] [Server thread/INFO]: - Melody is now offline!
-2017-08-14 [23:50:58] [Server thread/INFO]: - Melody 离开了游戏!
-2017-08-14 [23:50:58] [Server thread/INFO]: [AuthMePE] Player Melody has logged out.
-2017-08-14 [23:50:58] [Server thread/INFO]: [AuthMePE] Player Melody 离开了游戏.
-2017-08-14 [23:50:58] [Server thread/INFO]: Melody[/42.2.16.226:52951] logged out due to client disconnect
-2017-08-14 [23:51:29] [Server thread/INFO]: benotquickly fell from a high place
-2017-08-14 [23:51:53] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:53:23] [Server thread/INFO]: Steve[/117.182.134.152:6584] [ClientID: 5926074083223639785] logged in with entity id 1816 at (world, 128, 64, 128)
-2017-08-14 [23:53:41] [Server thread/INFO]: Steve[/117.182.134.152:6584] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:54:00] [Server thread/NOTICE]: Player data not found for "dzhizmir", creating new profile
-2017-08-14 [23:54:00] [Server thread/INFO]: Dzhizmir[/2.133.23.108:11855] [ClientID: 4233895074890598663] logged in with entity id 1818 at (world, 128, 64, 128)
-2017-08-14 [23:54:08] [Server thread/INFO]: Steve[/117.182.134.152:6584] [ClientID: 5926074083223639785] logged in with entity id 1820 at (world, 128, 64, 128)
-2017-08-14 [23:54:26] [Server thread/INFO]: Steve[/117.182.134.152:6584] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:54:33] [Server thread/INFO]: Dzhizmir[/2.133.23.108:11855] logged out due to timeout
-2017-08-14 [23:54:40] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-14 [23:54:40] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-14 [23:54:40] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-14 [23:54:40] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-14 [23:54:40] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] logged out due to client disconnect
-2017-08-14 [23:54:40] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-14 [23:54:42] [Server thread/INFO]: Steve[/117.182.134.152:6584] [ClientID: 5926074083223639785] logged in with entity id 1823 at (world, 128, 64, 128)
-2017-08-14 [23:54:49] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] [ClientID: -4127668913816227416] logged in with entity id 1824 at (th, 135.9737, 65, 175.1956)
-2017-08-14 [23:54:50] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-14 [23:54:50] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-14 [23:54:50] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-14 [23:54:50] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-14 [23:54:50] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-14 [23:54:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-14 [23:55:00] [Server thread/INFO]: Steve[/117.182.134.152:6584] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:55:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-14 [23:55:00] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-14 [23:55:01] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:55:11] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-14 [23:55:15] [Server thread/INFO]: Steve[/117.182.134.152:6584] [ClientID: 5926074083223639785] logged in with entity id 1826 at (world, 128, 64, 128)
-2017-08-14 [23:55:34] [Server thread/INFO]: Steve[/117.182.134.152:6584] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:55:45] [Server thread/INFO]: xiongjiang[/111.165.15.231:60163] [ClientID: -1114645539557407403] logged in with entity id 1829 at (nether, 145.6847, 31, 117.5257)
-2017-08-14 [23:55:46] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged in.
-2017-08-14 [23:55:46] [Server thread/INFO]: [AuthMePE] 玩家 xiongjiang 登录了游戏。
-2017-08-14 [23:55:46] [Server thread/INFO]: - xiongjiang is now online!
-2017-08-14 [23:55:46] [Server thread/INFO]: - xiongjiang 现在上线了!
-2017-08-14 [23:55:57] [Server thread/INFO]: - xiongjiang is now offline!
-2017-08-14 [23:55:57] [Server thread/INFO]: - xiongjiang 离开了游戏!
-2017-08-14 [23:55:57] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged out.
-2017-08-14 [23:55:57] [Server thread/INFO]: [AuthMePE] Player xiongjiang 离开了游戏.
-2017-08-14 [23:55:57] [Server thread/INFO]: xiongjiang[/111.165.15.231:60163] logged out due to timeout
-2017-08-14 [23:56:02] [Server thread/WARNING]: benotquickly moved wrongly!
-2017-08-14 [23:56:07] [Server thread/INFO]: gfy[/114.221.241.35:18506] [ClientID: -1397559961244560835] logged in with entity id 1831 at (world, 128, 64, 128)
-2017-08-14 [23:56:07] [Server thread/INFO]: xiongjiang[/111.165.15.231:59030] [ClientID: -1114645539557407403] logged in with entity id 1832 at (world, 128, 64, 128)
-2017-08-14 [23:56:08] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged in.
-2017-08-14 [23:56:08] [Server thread/INFO]: [AuthMePE] 玩家 xiongjiang 登录了游戏。
-2017-08-14 [23:56:08] [Server thread/INFO]: - xiongjiang is now online!
-2017-08-14 [23:56:08] [Server thread/INFO]: - xiongjiang 现在上线了!
-2017-08-14 [23:56:24] [Server thread/INFO]: gfy[/114.221.241.35:18506] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:56:44] [Server thread/INFO]: gfy[/114.221.241.35:18506] [ClientID: -1397559961244560835] logged in with entity id 1834 at (world, 128, 64, 128)
-2017-08-14 [23:56:56] [Server thread/INFO]: gfy[/114.221.241.35:18506] logged out due to Kicked by admin. Reason: 
-Max amount of tries reached!
-Try again 3 minutes later.
-2017-08-14 [23:57:15] [Server thread/INFO]: gfy[/114.221.241.35:18506] [ClientID: -1397559961244560835] logged in with entity id 1836 at (world, 128, 64, 128)
-2017-08-14 [23:57:17] [Server thread/INFO]: gfy[/114.221.241.35:18506] logged out due to Kicked by admin. Reason: Due to security issue, 
-this account has been blocked temporary.  
-Please try again later.
-
-
-
--AuthMePE Authentication System
-2017-08-14 [23:57:17] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1122
-2017-08-14 [23:57:17] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-14 [23:57:17] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Mon_Aug_14-23.57.17-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-14 [23:57:18] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-14 [23:57:18] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-14 [23:57:18] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-14 [23:57:18] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-14 [23:57:18] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling AuthMePE v1.0.1
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-14 [23:57:18] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-14 [23:57:18] [Server thread/INFO]: benotquickly left the game
-2017-08-14 [23:57:18] [Server thread/INFO]: benotquickly[/116.253.198.167:31930] logged out due to Server closed
-2017-08-14 [23:57:18] [Server thread/INFO]: zhumengzhiying left the game
-2017-08-14 [23:57:18] [Server thread/INFO]: zhumengzhiying[/116.253.198.167:32194] logged out due to Server closed
-2017-08-14 [23:57:18] [Server thread/INFO]: rePARePAcEm left the game
-2017-08-14 [23:57:18] [Server thread/INFO]: rePARePAcEm[/117.161.7.44:9410] logged out due to Server closed
-2017-08-14 [23:57:18] [Server thread/INFO]: xiongjiang left the game
-2017-08-14 [23:57:18] [Server thread/INFO]: xiongjiang[/111.165.15.231:59030] logged out due to Server closed
-2017-08-14 [23:57:18] [Server thread/INFO]: [/180.119.87.34:7877] logged out due to Server closed
-2017-08-14 [23:57:18] [Server thread/INFO]: Unloading level "world"
-2017-08-14 [23:57:18] [Server thread/INFO]: Unloading level "nether"
-2017-08-14 [23:57:18] [Server thread/INFO]: Unloading level "ender"
-2017-08-14 [23:57:18] [Server thread/INFO]: Unloading level "world"
-2017-08-14 [23:57:18] [Server thread/INFO]: Unloading level "th"
-2017-08-14 [15:57:22] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-14 [15:57:22] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-14 [15:57:22] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-14 [15:57:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-14 [15:57:22] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading recipes...
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading resource packs...
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading Asign v1.4
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading db v1.0.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading ld v流星优化
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading AuthMePE v1.0.1
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-14 [15:57:23] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-14 [15:57:23] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-14 [15:57:23] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-14 [15:57:23] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-14 [15:57:23] [Server thread/INFO]: Preparing level "world"
-2017-08-14 [15:57:23] [Server thread/INFO]: Preparing level "nether"
-2017-08-14 [15:57:23] [Server thread/INFO]: Preparing level "ender"
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-14 [15:57:23] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-14 [15:57:23] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-14 [15:57:23] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-14 [23:57:23] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-14 [23:57:23] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-14 [23:57:23] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-14 [23:57:23] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-14 [23:57:23] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-14 [23:57:23] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-14 [23:57:23] [Server thread/INFO]: SWorld loaded!
-2017-08-14 [23:57:23] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-14 [23:57:23] [Server thread/INFO]: Preparing level "world"
-2017-08-14 [23:57:23] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-14 [23:57:23] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-14 [23:57:23] [Server thread/INFO]: Preparing level "th"
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-14 [23:57:23] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-14 [23:57:23] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling AuthMePE v1.0.1
-2017-08-14 [23:57:23] [Server thread/INFO]: [AuthMePE] 加载成功!
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-14 [23:57:23] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-14 [23:57:23] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-14 [23:57:23] [Server thread/INFO]: Starting GS4 status listener
-2017-08-14 [23:57:23] [Server thread/INFO]: Setting query port to 19132
-2017-08-14 [23:57:23] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-14 [23:57:23] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-14 [23:57:23] [Server thread/INFO]: Done (0.67s)! For help, type "help" or "?"
-2017-08-14 [23:57:40] [Server thread/INFO]: rePARePAcEm[/112.4.160.66:26809] [ClientID: -4127668913816227416] logged in with entity id 1 at (world, 119.9578, 64, 123.1629)
-2017-08-14 [23:57:43] [Server thread/INFO]: gfy[/114.221.241.35:18506] [ClientID: -1397559961244560835] logged in with entity id 2 at (world, 128, 64.2, 128)
-2017-08-14 [23:57:44] [Server thread/INFO]: zhumengzhiying[/116.253.198.167:32194] [ClientID: 2144839649263826448] logged in with entity id 3 at (th, 126.9937, 66, -11.101)
-2017-08-14 [23:57:45] [Server thread/INFO]: xiongjiang[/111.165.15.231:59030] [ClientID: -1114645539557407403] logged in with entity id 4 at (world, 125.7, 64, 121.3)
-2017-08-14 [23:57:45] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
-2017-08-14 [23:57:45] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
-2017-08-14 [23:57:45] [Server thread/INFO]: - gfy is now online!
-2017-08-14 [23:57:45] [Server thread/INFO]: - gfy 现在上线了!
-2017-08-14 [23:57:46] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged in.
-2017-08-14 [23:57:46] [Server thread/INFO]: [AuthMePE] 玩家 xiongjiang 登录了游戏。
-2017-08-14 [23:57:46] [Server thread/INFO]: - xiongjiang is now online!
-2017-08-14 [23:57:46] [Server thread/INFO]: - xiongjiang 现在上线了!
-2017-08-14 [23:57:50] [Server thread/INFO]: benotquickly[/116.253.198.167:31930] [ClientID: 7150271669579210285] logged in with entity id 5 at (world, -34.2302, 71, -32.7268)
-2017-08-14 [23:57:53] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
-2017-08-14 [23:57:53] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
-2017-08-14 [23:57:53] [Server thread/INFO]: - zhumengzhiying is now online!
-2017-08-14 [23:57:53] [Server thread/INFO]: - zhumengzhiying 现在上线了!
-2017-08-14 [23:57:57] [Server thread/INFO]: rePARePAcEm[/112.4.160.66:26809] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:57:59] [Server thread/INFO]: [AuthMePE] Player benotquickly has logged in.
-2017-08-14 [23:57:59] [Server thread/INFO]: [AuthMePE] 玩家 benotquickly 登录了游戏。
-2017-08-14 [23:57:59] [Server thread/INFO]: - benotquickly is now online!
-2017-08-14 [23:57:59] [Server thread/INFO]: - benotquickly 现在上线了!
-2017-08-14 [23:58:00] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-14 [23:58:16] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-14 [23:58:19] [Server thread/INFO]: rePARePAcEm[/112.4.160.66:26809] [ClientID: -4127668913816227416] logged in with entity id 8 at (world, 128, 64, 128)
-2017-08-14 [23:58:35] [Server thread/INFO]: rePARePAcEm[/112.4.160.66:26809] logged out due to Kicked by admin. Reason: Time out!
-2017-08-14 [23:58:47] [Server thread/INFO]: xiongjiang : hi
-2017-08-14 [23:58:57] [Server thread/INFO]: benotquickly : hello
-2017-08-14 [23:59:00] [Server thread/INFO]: - gfy is now offline!
-2017-08-14 [23:59:00] [Server thread/INFO]: - gfy 离开了游戏!
-2017-08-14 [23:59:00] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
-2017-08-14 [23:59:00] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
-2017-08-14 [23:59:00] [Server thread/INFO]: gfy[/114.221.241.35:18506] logged out due to timeout
-2017-08-14 [23:59:03] [Server thread/INFO]: [/180.119.87.34:8093] logged out due to timeout
-2017-08-14 [23:59:09] [Server thread/INFO]: xiongjiang : 有中国人吗
-2017-08-14 [23:59:57] [Server thread/INFO]: gfy[/114.221.241.35:18499] [ClientID: -1397559961244560835] logged in with entity id 9 at (world, 120.1027, 59.8085, 97.279)
-2017-08-14 [23:59:59] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
-2017-08-14 [23:59:59] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
-2017-08-14 [23:59:59] [Server thread/INFO]: - gfy is now online!
-2017-08-14 [23:59:59] [Server thread/INFO]: - gfy 现在上线了!
-2017-08-15 [00:00:00] [Server thread/INFO]: xiongjiang : where are youfrom
-2017-08-15 [00:00:01] [Server thread/INFO]: benotquickly : 我就是
-2017-08-15 [00:00:12] [Server thread/INFO]: gfy : e
-2017-08-15 [00:00:21] [Server thread/INFO]: gfy : 额
-2017-08-15 [00:00:24] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] [ClientID: -4127668913816227416] logged in with entity id 10 at (world, 128.057, 64, 127.998)
-2017-08-15 [00:00:28] [Server thread/INFO]: xiongjiang : 天天酷跑怎么玩啊
-2017-08-15 [00:00:35] [Server thread/INFO]: * xiongjiang Hello everyone
-2017-08-15 [00:00:41] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:01:04] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] [ClientID: -4127668913816227416] logged in with entity id 13 at (world, 128, 64, 128)
-2017-08-15 [00:01:19] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-15 [00:01:19] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-15 [00:01:19] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-15 [00:01:19] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-15 [00:01:43] [Server thread/INFO]: xiongjiang : 不会玩
-2017-08-15 [00:01:51] [Server thread/INFO]: gfy : 有人吗
-2017-08-15 [00:01:57] [Server thread/INFO]: xiongjiang : 你们在哪
-2017-08-15 [00:01:57] [Server thread/INFO]: gfy : 找师父
-2017-08-15 [00:02:00] [Server thread/INFO]: benotquickly : 这不是吗
-2017-08-15 [00:02:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:02:14] [Server thread/INFO]: benotquickly : 我刚来在挖矿
-2017-08-15 [00:02:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:02:54] [Server thread/INFO]: gfy : 找师父
-2017-08-15 [00:03:22] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-15 [00:03:22] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-15 [00:03:22] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-15 [00:03:22] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-15 [00:03:22] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] logged out due to client disconnect
-2017-08-15 [00:03:31] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] [ClientID: -4127668913816227416] logged in with entity id 21 at (world, 330.3, 123, 266.6791)
-2017-08-15 [00:03:32] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-15 [00:03:32] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-15 [00:03:32] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-15 [00:03:32] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-15 [00:04:35] [Server thread/INFO]: [/180.119.87.34:8628] logged out due to timeout
-2017-08-15 [00:04:48] [Server thread/NOTICE]: Player data not found for "mc_zc", creating new profile
-2017-08-15 [00:04:48] [Server thread/INFO]: Mc_zc[/223.74.112.26:2679] [ClientID: -1564314674216165161] logged in with entity id 48 at (world, 128, 64, 128)
-2017-08-15 [00:04:56] [Server thread/INFO]: gfy drowned
-2017-08-15 [00:05:05] [Server thread/INFO]: xiongjiang drowned
-2017-08-15 [00:05:29] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:05:39] [Server thread/INFO]: gfy : 有人吗
-2017-08-15 [00:05:41] [Server thread/INFO]: [AuthMePE] Player Mc_zc has logged in.
-2017-08-15 [00:05:41] [Server thread/INFO]: [AuthMePE] 玩家 Mc_zc 登录了游戏。
-2017-08-15 [00:05:41] [Server thread/INFO]: - Mc_zc is now online!
-2017-08-15 [00:05:41] [Server thread/INFO]: - Mc_zc 现在上线了!
-2017-08-15 [00:05:51] [Server thread/INFO]: benotquickly : 嗯
-2017-08-15 [00:05:58] [Server thread/INFO]: xiongjiang : 我在你对面啊
-2017-08-15 [00:06:03] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:06:45] [Server thread/INFO]: gfy : 这地图好像在一个岛上
-2017-08-15 [00:06:55] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:06:59] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:07:00] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:07:01] [Server thread/INFO]: xiongjiang : 想玩酷跑手机操作不行
-2017-08-15 [00:07:02] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:07:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:07:17] [Server thread/INFO]: gfy : 我iPad
-2017-08-15 [00:07:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:07:22] [Server thread/WARNING]: Mc_zc moved wrongly!
-2017-08-15 [00:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理10个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:07:26] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:07:37] [Server thread/INFO]: gfy : 好卡
-2017-08-15 [00:07:47] [Server thread/INFO]: benotquickly : 不觉得
-2017-08-15 [00:07:47] [Server thread/INFO]: Steve[/42.228.163.65:44411] [ClientID: -549539243431846320] logged in with entity id 80 at (world, 128, 64, 128)
-2017-08-15 [00:07:48] [Server thread/INFO]: - Mc_zc is now offline!
-2017-08-15 [00:07:48] [Server thread/INFO]: - Mc_zc 离开了游戏!
-2017-08-15 [00:07:48] [Server thread/INFO]: [AuthMePE] Player Mc_zc has logged out.
-2017-08-15 [00:07:48] [Server thread/INFO]: [AuthMePE] Player Mc_zc 离开了游戏.
-2017-08-15 [00:07:48] [Server thread/INFO]: Mc_zc[/223.74.112.26:2679] logged out due to client disconnect
-2017-08-15 [00:08:00] [Server thread/NOTICE]: Player data not found for "ktallini36", creating new profile
-2017-08-15 [00:08:00] [Server thread/INFO]: Ktallini36[/24.61.26.93:54768] [ClientID: 756214435203061424] logged in with entity id 83 at (world, 128, 64, 128)
-2017-08-15 [00:08:04] [Server thread/INFO]: Steve[/42.228.163.65:44411] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:08:04] [Server thread/INFO]: xiongjiang : 他没弄好吧ip啥的
-2017-08-15 [00:08:37] [Server thread/INFO]: xiongjiang : ip
-2017-08-15 [00:08:43] [Server thread/INFO]: xiongjiang : 你没弄好吧
-2017-08-15 [00:08:52] [Server thread/INFO]: xiongjiang : 所以老断线
-2017-08-15 [00:08:56] [Server thread/INFO]: gfy : 这交钱还可以有创造
-2017-08-15 [00:08:58] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:09:41] [Server thread/INFO]: rePARePAcEm fell from a high place
-2017-08-15 [00:10:03] [Server thread/INFO]: xiongjiang : 我掉下去了
-2017-08-15 [00:10:08] [Server thread/INFO]: xiongjiang tried to swim in lava
-2017-08-15 [00:10:12] [Server thread/INFO]: benotquickly : 。。。
-2017-08-15 [00:10:14] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-15 [00:10:18] [Server thread/INFO]: gfy : 。。。。。。
-2017-08-15 [00:10:32] [Server thread/INFO]: rePARePAcEm fell from a high place
-2017-08-15 [00:10:42] [Server thread/INFO]: benotquickly : 我现在用木头做木板就消失
-2017-08-15 [00:10:43] [Server thread/INFO]: Ktallini36[/24.61.26.93:54768] logged out due to timeout
-2017-08-15 [00:10:48] [Server thread/INFO]: benotquickly : 蛋疼
-2017-08-15 [00:11:02] [Server thread/INFO]: xiongjiang : 箱子我打不开
-2017-08-15 [00:11:12] [Server thread/INFO]: gfy : 我也是
-2017-08-15 [00:11:12] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:11:13] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:11:15] [Server thread/INFO]: benotquickly : 。。。
-2017-08-15 [00:11:25] [Server thread/INFO]: xiongjiang : 不是共享吗
-2017-08-15 [00:11:30] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:11:38] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:11:39] [Server thread/WARNING]: rePARePAcEm moved wrongly!
-2017-08-15 [00:11:43] [Server thread/INFO]: benotquickly : 箱子不是自己给自己箱子上锁的吗
-2017-08-15 [00:11:43] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:12:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:12:04] [Server thread/INFO]: gfy : 找师父
-2017-08-15 [00:12:04] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-15 [00:12:04] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-15 [00:12:04] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-15 [00:12:04] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-15 [00:12:04] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] logged out due to timeout
-2017-08-15 [00:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:12:17] [Server thread/INFO]: Steve[/42.228.163.65:44614] [ClientID: -549539243431846320] logged in with entity id 118 at (world, 128, 64, 128)
-2017-08-15 [00:12:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:12:22] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:12:22] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:12:34] [Server thread/INFO]: Steve[/42.228.163.65:44614] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:12:52] [Server thread/INFO]: xiongjiang : 换个服务器玩？
-2017-08-15 [00:12:57] [Server thread/INFO]: Steve[/42.228.163.65:44614] [ClientID: -549539243431846320] logged in with entity id 123 at (world, 128, 64, 128)
-2017-08-15 [00:13:10] [Server thread/INFO]: gfy : 啥服务器
-2017-08-15 [00:13:12] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] [ClientID: -4127668913816227416] logged in with entity id 124 at (th, 106.3, 64, 89.3)
-2017-08-15 [00:13:13] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged in.
-2017-08-15 [00:13:13] [Server thread/INFO]: [AuthMePE] 玩家 rePARePAcEm 登录了游戏。
-2017-08-15 [00:13:13] [Server thread/INFO]: - rePARePAcEm is now online!
-2017-08-15 [00:13:13] [Server thread/INFO]: - rePARePAcEm 现在上线了!
-2017-08-15 [00:13:14] [Server thread/INFO]: Steve[/42.228.163.65:44614] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:13:29] [Server thread/INFO]: - rePARePAcEm is now offline!
-2017-08-15 [00:13:29] [Server thread/INFO]: - rePARePAcEm 离开了游戏!
-2017-08-15 [00:13:29] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm has logged out.
-2017-08-15 [00:13:29] [Server thread/INFO]: [AuthMePE] Player rePARePAcEm 离开了游戏.
-2017-08-15 [00:13:29] [Server thread/INFO]: rePARePAcEm[/221.180.252.99:46402] logged out due to client disconnect
-2017-08-15 [00:13:31] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:15:19] [Server thread/INFO]: gfy died
-2017-08-15 [00:15:21] [Server thread/INFO]: xiongjiang : 你在哪啊
-2017-08-15 [00:15:28] [Server thread/INFO]: xiongjiang died
-2017-08-15 [00:15:29] [Server thread/INFO]: * gfy 欢迎新人来到yy服-务器！！请留在这里
-2017-08-15 [00:15:31] [Server thread/INFO]: gfy died
-2017-08-15 [00:15:35] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:15:42] [Server thread/INFO]: * gfy ip:yy.itoytoy.com
-2017-08-15 [00:15:44] [Server thread/INFO]: * gfy ip:yy.itoytoy.com
-2017-08-15 [00:15:46] [Server thread/INFO]: * gfy Hello everyone
-2017-08-15 [00:15:56] [Server thread/INFO]: * gfy QQ群号248038400
-2017-08-15 [00:16:08] [Server thread/INFO]: gfy : 艹
-2017-08-15 [00:16:09] [Server thread/INFO]: * xiongjiang QQ群号248038400
-2017-08-15 [00:16:15] [Server thread/INFO]: * xiongjiang 腐竹帅逼、牛逼、聪-明、厉害、潇洒、天才。
-2017-08-15 [00:16:18] [Server thread/INFO]: * xiongjiang Welcome！！Thank you to YYServer！
-2017-08-15 [00:16:21] [Server thread/INFO]: xiongjiang died
-2017-08-15 [00:16:41] [Server thread/INFO]: * xiongjiang 欢迎新人来到yy服-务器！！请留在这里
-2017-08-15 [00:16:56] [Server thread/INFO]: boy next door93[/42.80.205.177:30340] logged out due to Invalid name!
-2017-08-15 [00:17:00] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:17:00] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:17:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:17:10] [Server thread/INFO]: gfy drowned
-2017-08-15 [00:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:17:15] [Server thread/INFO]: boy next door93[/42.80.205.177:30340] logged out due to Invalid name!
-2017-08-15 [00:17:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:17:54] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:18:12] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:18:36] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:18:37] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:18:42] [Server thread/INFO]: Jesper_X[/123.121.72.143:53937] [ClientID: 2402344792729395796] logged in with entity id 166 at (world, 128, 64, 128)
-2017-08-15 [00:18:45] [Server thread/INFO]: [AuthMePE] Player Jesper_X has logged in.
-2017-08-15 [00:18:45] [Server thread/INFO]: [AuthMePE] 玩家 Jesper_X 登录了游戏。
-2017-08-15 [00:18:45] [Server thread/INFO]: - Jesper_X is now online!
-2017-08-15 [00:18:45] [Server thread/INFO]: - Jesper_X 现在上线了!
-2017-08-15 [00:19:07] [Server thread/INFO]: zhumengzhiying tried to swim in lava
-2017-08-15 [00:19:19] [Server thread/INFO]: gfy : 你在干什么
-2017-08-15 [00:19:21] [Server thread/WARNING]: xiongjiang moved wrongly!
-2017-08-15 [00:19:27] [Server thread/INFO]: Dzhizmir[/2.133.23.108:12918] [ClientID: 4233895074890598663] logged in with entity id 176 at (world, 129.0198, 64, 128.1951)
-2017-08-15 [00:19:37] [Server thread/INFO]: Dzhizmir[/2.133.23.108:12918] logged out due to timeout
-2017-08-15 [00:19:42] [Server thread/INFO]: xiongjiang : 啥也没干，绕圈圈
-2017-08-15 [00:20:01] [Server thread/INFO]: gfy : 好无聊
-2017-08-15 [00:20:07] [Server thread/INFO]: boy next door93[/42.80.205.177:29948] logged out due to Invalid name!
-2017-08-15 [00:20:12] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:20:13] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:20:13] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:20:37] [Server thread/INFO]: NuanFeng[/124.65.21.175:41486] [ClientID: -7677918033778405490] logged in with entity id 214 at (world, 139.1321, 56.9, 121.0527)
-2017-08-15 [00:20:57] [Server thread/INFO]: NuanFeng[/124.65.21.175:41486] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:21:09] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-15 [00:21:09] [Server thread/INFO]: xiongjiang : 好黑啊
-2017-08-15 [00:21:20] [Server thread/INFO]: - Jesper_X is now offline!
-2017-08-15 [00:21:20] [Server thread/INFO]: - Jesper_X 离开了游戏!
-2017-08-15 [00:21:20] [Server thread/INFO]: [AuthMePE] Player Jesper_X has logged out.
-2017-08-15 [00:21:20] [Server thread/INFO]: [AuthMePE] Player Jesper_X 离开了游戏.
-2017-08-15 [00:21:20] [Server thread/INFO]: Jesper_X[/123.121.72.143:53937] logged out due to client disconnect
-2017-08-15 [00:21:30] [Server thread/NOTICE]: Player data not found for "vcebx", creating new profile
-2017-08-15 [00:21:30] [Server thread/INFO]: VceBX[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 234 at (world, 128, 64, 128)
-2017-08-15 [00:21:52] [Server thread/INFO]: VceBX[/124.65.21.175:55223] logged out due to client disconnect
-2017-08-15 [00:22:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:22:06] [Server thread/INFO]: - xiongjiang is now offline!
-2017-08-15 [00:22:06] [Server thread/INFO]: - xiongjiang 离开了游戏!
-2017-08-15 [00:22:06] [Server thread/INFO]: [AuthMePE] Player xiongjiang has logged out.
-2017-08-15 [00:22:06] [Server thread/INFO]: [AuthMePE] Player xiongjiang 离开了游戏.
-2017-08-15 [00:22:06] [Server thread/INFO]: xiongjiang[/111.165.15.231:59030] logged out due to client disconnect
-2017-08-15 [00:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:22:16] [Server thread/INFO]: Vce[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 251 at (world, 127.6942, 65, 123.9199)
-2017-08-15 [00:22:17] [Server thread/INFO]: [AuthMePE] Player Vce has logged in.
-2017-08-15 [00:22:17] [Server thread/INFO]: [AuthMePE] 玩家 Vce 登录了游戏。
-2017-08-15 [00:22:17] [Server thread/INFO]: - Vce is now online!
-2017-08-15 [00:22:17] [Server thread/INFO]: - Vce 现在上线了!
-2017-08-15 [00:22:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:22:21] [Server thread/INFO]: NuanFeng[/124.65.21.175:41489] [ClientID: -7677918033778405490] logged in with entity id 253 at (world, 128, 64, 128)
-2017-08-15 [00:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:22:40] [Server thread/INFO]: NuanFeng[/124.65.21.175:41489] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:22:47] [Server thread/INFO]: qual o Pedro for[/27.140.60.53:58763] logged out due to Invalid name!
-2017-08-15 [00:22:47] [Server thread/INFO]: - Vce is now offline!
-2017-08-15 [00:22:47] [Server thread/INFO]: - Vce 离开了游戏!
-2017-08-15 [00:22:47] [Server thread/INFO]: [AuthMePE] Player Vce has logged out.
-2017-08-15 [00:22:47] [Server thread/INFO]: [AuthMePE] Player Vce 离开了游戏.
-2017-08-15 [00:22:47] [Server thread/INFO]: Vce[/124.65.21.175:55223] logged out due to client disconnect
-2017-08-15 [00:22:56] [Server thread/INFO]: Jesper_X[/123.121.72.143:53937] [ClientID: 2402344792729395796] logged in with entity id 264 at (world, 128.3008, 64, 126.2324)
-2017-08-15 [00:22:59] [Server thread/INFO]: [AuthMePE] Player Jesper_X has logged in.
-2017-08-15 [00:22:59] [Server thread/INFO]: [AuthMePE] 玩家 Jesper_X 登录了游戏。
-2017-08-15 [00:22:59] [Server thread/INFO]: - Jesper_X is now online!
-2017-08-15 [00:22:59] [Server thread/INFO]: - Jesper_X 现在上线了!
-2017-08-15 [00:23:05] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:23:07] [Server thread/INFO]: Vce[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 270 at (world, 128, 64, 128)
-2017-08-15 [00:23:08] [Server thread/INFO]: [AuthMePE] Player Vce has logged in.
-2017-08-15 [00:23:08] [Server thread/INFO]: [AuthMePE] 玩家 Vce 登录了游戏。
-2017-08-15 [00:23:08] [Server thread/INFO]: - Vce is now online!
-2017-08-15 [00:23:08] [Server thread/INFO]: - Vce 现在上线了!
-2017-08-15 [00:23:15] [Server thread/INFO]: - gfy is now offline!
-2017-08-15 [00:23:15] [Server thread/INFO]: - gfy 离开了游戏!
-2017-08-15 [00:23:15] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
-2017-08-15 [00:23:15] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
-2017-08-15 [00:23:15] [Server thread/INFO]: gfy[/114.221.241.35:18499] logged out due to client disconnect
-2017-08-15 [00:23:17] [Server thread/WARNING]: Vce moved wrongly!
-2017-08-15 [00:23:20] [Server thread/INFO]: qual o Pedro for[/27.140.60.53:58763] logged out due to Invalid name!
-2017-08-15 [00:23:25] [Server thread/INFO]: gfy[/114.221.241.35:18499] [ClientID: -1397559961244560835] logged in with entity id 279 at (world, -107.9137, 70, -272.9569)
-2017-08-15 [00:23:27] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
-2017-08-15 [00:23:27] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
-2017-08-15 [00:23:27] [Server thread/INFO]: - gfy is now online!
-2017-08-15 [00:23:27] [Server thread/INFO]: - gfy 现在上线了!
-2017-08-15 [00:23:28] [Server thread/INFO]: NuanFeng[/124.65.21.175:41489] [ClientID: -7677918033778405490] logged in with entity id 282 at (world, 128, 64, 128)
-2017-08-15 [00:23:48] [Server thread/INFO]: NuanFeng[/124.65.21.175:41489] logged out due to Kicked by admin. Reason: Time out!
-2017-08-15 [00:23:59] [Server thread/INFO]: gfy : 有人吗
-2017-08-15 [00:24:05] [Server thread/INFO]: gfy : 有人吗
-2017-08-15 [00:24:09] [Server thread/INFO]: Vce was slain by Jesper_X
-2017-08-15 [00:24:58] [Server thread/INFO]: - zhumengzhiying is now offline!
-2017-08-15 [00:24:58] [Server thread/INFO]: - zhumengzhiying 离开了游戏!
-2017-08-15 [00:24:58] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged out.
-2017-08-15 [00:24:58] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying 离开了游戏.
-2017-08-15 [00:24:58] [Server thread/INFO]: zhumengzhiying[/116.253.198.167:32194] logged out due to client disconnect
-2017-08-15 [00:25:34] [Server thread/INFO]: Vce was slain by gfy
-2017-08-15 [00:25:37] [Server thread/INFO]: - Vce is now offline!
-2017-08-15 [00:25:37] [Server thread/INFO]: - Vce 离开了游戏!
-2017-08-15 [00:25:37] [Server thread/INFO]: [AuthMePE] Player Vce has logged out.
-2017-08-15 [00:25:37] [Server thread/INFO]: [AuthMePE] Player Vce 离开了游戏.
-2017-08-15 [00:25:37] [Server thread/INFO]: Vce[/124.65.21.175:55223] logged out due to client disconnect
-2017-08-15 [00:25:42] [Server thread/INFO]: gfy was slain by Jesper_X
-2017-08-15 [00:25:47] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:25:50] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:25:51] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:25:52] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:26:03] [Server thread/INFO]: Vce[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 339 at (world, 128, 64, 128)
-2017-08-15 [00:26:05] [Server thread/INFO]: [AuthMePE] Player Vce has logged in.
-2017-08-15 [00:26:05] [Server thread/INFO]: [AuthMePE] 玩家 Vce 登录了游戏。
-2017-08-15 [00:26:05] [Server thread/INFO]: - Vce is now online!
-2017-08-15 [00:26:05] [Server thread/INFO]: - Vce 现在上线了!
-2017-08-15 [00:26:13] [Server thread/INFO]: - Vce is now offline!
-2017-08-15 [00:26:13] [Server thread/INFO]: - Vce 离开了游戏!
-2017-08-15 [00:26:13] [Server thread/INFO]: [AuthMePE] Player Vce has logged out.
-2017-08-15 [00:26:13] [Server thread/INFO]: [AuthMePE] Player Vce 离开了游戏.
-2017-08-15 [00:26:13] [Server thread/INFO]: Vce[/124.65.21.175:55223] logged out due to client disconnect
-2017-08-15 [00:26:18] [Server thread/INFO]: Jesper_X fell from a high place
-2017-08-15 [00:26:43] [Server thread/INFO]: Jesper_X fell out of the world
-2017-08-15 [00:26:46] [Server thread/INFO]: - gfy is now offline!
-2017-08-15 [00:26:46] [Server thread/INFO]: - gfy 离开了游戏!
-2017-08-15 [00:26:46] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
-2017-08-15 [00:26:46] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
-2017-08-15 [00:26:46] [Server thread/INFO]: gfy[/114.221.241.35:18499] logged out due to client disconnect
-2017-08-15 [00:26:53] [Server thread/INFO]: Jesper_X fell out of the world
-2017-08-15 [00:26:55] [Server thread/INFO]: Vce[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 352 at (world, 128, 64, 128)
-2017-08-15 [00:26:57] [Server thread/INFO]: [AuthMePE] Player Vce has logged in.
-2017-08-15 [00:26:57] [Server thread/INFO]: [AuthMePE] 玩家 Vce 登录了游戏。
-2017-08-15 [00:26:57] [Server thread/INFO]: - Vce is now online!
-2017-08-15 [00:26:57] [Server thread/INFO]: - Vce 现在上线了!
-2017-08-15 [00:27:00] [Server thread/INFO]: - Vce is now offline!
-2017-08-15 [00:27:00] [Server thread/INFO]: - Vce 离开了游戏!
-2017-08-15 [00:27:00] [Server thread/INFO]: [AuthMePE] Player Vce has logged out.
-2017-08-15 [00:27:00] [Server thread/INFO]: [AuthMePE] Player Vce 离开了游戏.
-2017-08-15 [00:27:00] [Server thread/INFO]: Vce[/124.65.21.175:55223] logged out due to client disconnect
-2017-08-15 [00:27:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:27:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:27:19] [Server thread/INFO]: Melody[/42.2.16.226:52951] [ClientID: 7866378612459683124] logged in with entity id 356 at (th, 84.2769, 70.0625, 96.0251)
-2017-08-15 [00:27:20] [Server thread/INFO]: [AuthMePE] Player Melody has logged in.
-2017-08-15 [00:27:20] [Server thread/INFO]: [AuthMePE] 玩家 Melody 登录了游戏。
-2017-08-15 [00:27:20] [Server thread/INFO]: - Melody is now online!
-2017-08-15 [00:27:20] [Server thread/INFO]: - Melody 现在上线了!
-2017-08-15 [00:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:27:31] [Server thread/INFO]: - Melody is now offline!
-2017-08-15 [00:27:31] [Server thread/INFO]: - Melody 离开了游戏!
-2017-08-15 [00:27:31] [Server thread/INFO]: [AuthMePE] Player Melody has logged out.
-2017-08-15 [00:27:31] [Server thread/INFO]: [AuthMePE] Player Melody 离开了游戏.
-2017-08-15 [00:27:31] [Server thread/INFO]: Melody[/42.2.16.226:52951] logged out due to client disconnect
-2017-08-15 [00:27:40] [Server thread/INFO]: Melody[/42.2.16.226:52951] [ClientID: 7866378612459683124] logged in with entity id 359 at (world, 125.4815, 64, 117.0066)
-2017-08-15 [00:27:41] [Server thread/INFO]: [AuthMePE] Player Melody has logged in.
-2017-08-15 [00:27:41] [Server thread/INFO]: [AuthMePE] 玩家 Melody 登录了游戏。
-2017-08-15 [00:27:41] [Server thread/INFO]: - Melody is now online!
-2017-08-15 [00:27:41] [Server thread/INFO]: - Melody 现在上线了!
-2017-08-15 [00:27:57] [Server thread/INFO]: Vce[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 366 at (world, 128, 64, 128)
-2017-08-15 [00:27:59] [Server thread/INFO]: [AuthMePE] Player Vce has logged in.
-2017-08-15 [00:27:59] [Server thread/INFO]: [AuthMePE] 玩家 Vce 登录了游戏。
-2017-08-15 [00:27:59] [Server thread/INFO]: - Vce is now online!
-2017-08-15 [00:27:59] [Server thread/INFO]: - Vce 现在上线了!
-2017-08-15 [00:28:05] [Server thread/WARNING]: Vce moved wrongly!
-2017-08-15 [00:28:18] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:28:18] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:29:15] [Server thread/INFO]: Melody has just earned the achievement Getting Wood
-2017-08-15 [00:29:46] [Server thread/INFO]: - Jesper_X is now offline!
-2017-08-15 [00:29:46] [Server thread/INFO]: - Jesper_X 离开了游戏!
-2017-08-15 [00:29:46] [Server thread/INFO]: [AuthMePE] Player Jesper_X has logged out.
-2017-08-15 [00:29:46] [Server thread/INFO]: [AuthMePE] Player Jesper_X 离开了游戏.
-2017-08-15 [00:29:46] [Server thread/INFO]: Jesper_X[/123.121.72.143:53937] logged out due to client disconnect
-2017-08-15 [00:29:58] [Server thread/INFO]: Jesper_X[/123.121.72.143:53937] [ClientID: 2402344792729395796] logged in with entity id 419 at (th, 147.9369, 49, 226.6212)
-2017-08-15 [00:30:01] [Server thread/INFO]: [AuthMePE] Player Jesper_X has logged in.
-2017-08-15 [00:30:01] [Server thread/INFO]: [AuthMePE] 玩家 Jesper_X 登录了游戏。
-2017-08-15 [00:30:01] [Server thread/INFO]: - Jesper_X is now online!
-2017-08-15 [00:30:01] [Server thread/INFO]: - Jesper_X 现在上线了!
-2017-08-15 [00:30:04] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:30:15] [Server thread/NOTICE]: Player data not found for "maddy", creating new profile
-2017-08-15 [00:30:15] [Server thread/INFO]: Maddy[/97.90.180.106:54879] [ClientID: 2697492687550507400] logged in with entity id 434 at (world, 128, 64, 128)
-2017-08-15 [00:30:30] [Server thread/INFO]: panda boy13[/104.229.176.35:56556] logged out due to Invalid name!
-2017-08-15 [00:30:54] [Server thread/INFO]: Maddy[/97.90.180.106:54879] logged out due to timeout
-2017-08-15 [00:30:56] [Server thread/INFO]: panda boy13[/104.229.176.35:56556] logged out due to Invalid name!
-2017-08-15 [00:31:09] [Server thread/INFO]: cute boy[/162.255.151.18:56600] logged out due to Invalid name!
-2017-08-15 [00:31:39] [Server thread/INFO]: gfy[/114.221.241.35:20759] [ClientID: -1397559961244560835] logged in with entity id 471 at (world, 143.2927, 50, 124.3)
-2017-08-15 [00:31:41] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
-2017-08-15 [00:31:41] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
-2017-08-15 [00:31:41] [Server thread/INFO]: - gfy is now online!
-2017-08-15 [00:31:41] [Server thread/INFO]: - gfy 现在上线了!
-2017-08-15 [00:31:46] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:31:46] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:31:50] [Server thread/INFO]: - gfy is now offline!
-2017-08-15 [00:31:50] [Server thread/INFO]: - gfy 离开了游戏!
-2017-08-15 [00:31:50] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
-2017-08-15 [00:31:50] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
-2017-08-15 [00:31:50] [Server thread/INFO]: gfy[/114.221.241.35:20759] logged out due to client disconnect
-2017-08-15 [00:32:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-15 [00:32:03] [Server thread/INFO]: Jesper_X was slain by Vce
-2017-08-15 [00:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-15 [00:32:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-15 [00:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-15 [00:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-08-15 [00:32:27] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:32:34] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:32:34] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:32:47] [Server thread/INFO]: Maddy[/97.90.180.106:60225] [ClientID: 2697492687550507400] logged in with entity id 484 at (world, 128, 64, 128)
-2017-08-15 [00:32:52] [Server thread/INFO]: benotquickly hit the ground too hard
-2017-08-15 [00:32:53] [Server thread/INFO]: Melody has just earned the achievement Benchmarking
-2017-08-15 [00:33:25] [Server thread/INFO]: - Vce is now offline!
-2017-08-15 [00:33:25] [Server thread/INFO]: - Vce 离开了游戏!
-2017-08-15 [00:33:25] [Server thread/INFO]: [AuthMePE] Player Vce has logged out.
-2017-08-15 [00:33:25] [Server thread/INFO]: [AuthMePE] Player Vce 离开了游戏.
-2017-08-15 [00:33:25] [Server thread/INFO]: Vce[/124.65.21.175:55223] logged out due to client disconnect
-2017-08-15 [00:33:33] [Server thread/INFO]: gfy[/114.221.241.35:20759] [ClientID: -1397559961244560835] logged in with entity id 490 at (world, 128.8182, 64, 126.8069)
-2017-08-15 [00:33:35] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
-2017-08-15 [00:33:35] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
-2017-08-15 [00:33:35] [Server thread/INFO]: - gfy is now online!
-2017-08-15 [00:33:35] [Server thread/INFO]: - gfy 现在上线了!
-2017-08-15 [00:33:37] [Server thread/INFO]: Maddy[/97.90.180.106:60225] logged out due to client disconnect
-2017-08-15 [00:33:50] [Server thread/INFO]: Vce[/124.65.21.175:55223] [ClientID: 4672633097260372601] logged in with entity id 493 at (world, 69.053, 65, 100.9545)
-2017-08-15 [00:33:51] [Server thread/INFO]: [AuthMePE] Player Vce has logged in.
-2017-08-15 [00:33:51] [Server thread/INFO]: [AuthMePE] 玩家 Vce 登录了游戏。
-2017-08-15 [00:33:51] [Server thread/INFO]: - Vce is now online!
-2017-08-15 [00:33:51] [Server thread/INFO]: - Vce 现在上线了!
-2017-08-15 [00:33:57] [Server thread/WARNING]: Vce moved wrongly!
-2017-08-15 [00:34:06] [Server thread/WARNING]: Jesper_X moved wrongly!
-2017-08-15 [00:34:08] [Server thread/WARNING]: gfy moved wrongly!
-2017-08-15 [00:34:11] [Server thread/INFO]: - Jesper_X is now offline!
-2017-08-15 [00:34:11] [Server thread/INFO]: - Jesper_X 离开了游戏!
-2017-08-15 [00:34:11] [Server thread/INFO]: [AuthMePE] Player Jesper_X has logged out.
-2017-08-15 [00:34:11] [Server thread/INFO]: [AuthMePE] Player Jesper_X 离开了游戏.
-2017-08-15 [00:34:11] [Server thread/INFO]: Jesper_X[/123.121.72.143:53937] logged out due to client disconnect
-2017-08-15 [00:34:16] [Server thread/INFO]: - Vce is now offline!
-2017-08-15 [00:34:16] [Server thread/INFO]: - Vce 离开了游戏!
-2017-08-15 [00:34:16] [Server thread/INFO]: [AuthMePE] Player Vce has logged out.
-2017-08-15 [00:34:16] [Server thread/INFO]: [AuthMePE] Player Vce 离开了游戏.
-2017-08-15 [00:34:16] [Server thread/INFO]: Vce[/124.65.21.175:55223] logged out due to client disconnect
+2017-08-15 [00:34:59] [Server thread/INFO]: супер фатик[/91.235.36.67:14741] logged out due to Invalid name!
+2017-08-15 [00:35:05] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27452] logged out due to Invalid name!
+2017-08-15 [00:35:05] [Server thread/WARNING]: benotquickly moved wrongly!
+2017-08-15 [00:35:28] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27452] logged out due to Invalid name!
+2017-08-15 [00:36:09] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:36:14] [Server thread/INFO]: checco[/149.100.166.61:50773] logged out due to timeout
+2017-08-15 [00:36:53] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:36:53] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:36:53] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:36:53] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:36:53] [Server thread/INFO]: gfy[/114.221.241.35:20759] logged out due to client disconnect
+2017-08-15 [00:37:02] [Server thread/INFO]: gfy[/114.221.241.35:20759] [ClientID: -1397559961244560835] logged in with entity id 507 at (th, 192.2257, 65, 177.4136)
+2017-08-15 [00:37:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [00:37:04] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
+2017-08-15 [00:37:04] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
+2017-08-15 [00:37:04] [Server thread/INFO]: - gfy is now online!
+2017-08-15 [00:37:04] [Server thread/INFO]: - gfy 现在上线了!
+2017-08-15 [00:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [00:37:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [00:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [00:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [00:37:23] [Server thread/INFO]: WAR ROBOT MIKE[/188.223.6.240:52706] logged out due to Invalid name!
+2017-08-15 [00:38:42] [Server thread/INFO]: Melody fell from a high place
+2017-08-15 [00:38:43] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27264] logged out due to Invalid name!
+2017-08-15 [00:39:23] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:39:23] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:39:23] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:39:23] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:39:23] [Server thread/INFO]: gfy[/114.221.241.35:20759] logged out due to client disconnect
+2017-08-15 [00:39:43] [Server thread/INFO]: gfy[/114.221.241.35:20759] [ClientID: -1397559961244560835] logged in with entity id 522 at (world, 199.8767, 60.3725, 79.1351)
+2017-08-15 [00:39:44] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
+2017-08-15 [00:39:44] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
+2017-08-15 [00:39:44] [Server thread/INFO]: - gfy is now online!
+2017-08-15 [00:39:44] [Server thread/INFO]: - gfy 现在上线了!
+2017-08-15 [00:39:58] [Server thread/NOTICE]: Player data not found for "skylar", creating new profile
+2017-08-15 [00:39:58] [Server thread/INFO]: skylar[/92.98.11.246:63278] [ClientID: -5421026287170945837] logged in with entity id 525 at (world, 128, 64, 128)
+2017-08-15 [00:40:12] [Server thread/INFO]: skylar[/92.98.11.246:63278] logged out due to client disconnect
+2017-08-15 [00:40:25] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:40:25] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:40:25] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:40:25] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:40:25] [Server thread/INFO]: gfy[/114.221.241.35:20759] logged out due to client disconnect
+2017-08-15 [00:40:28] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27264] logged out due to Invalid name!
+2017-08-15 [00:40:39] [Server thread/INFO]: Melody has just earned the achievement Time to Mine!
+2017-08-15 [00:41:12] [Server thread/INFO]: Anas[/38.132.52.4:63750] logged out due to timeout
+2017-08-15 [00:41:46] [Server thread/INFO]: gfy[/114.221.241.35:20759] [ClientID: -1397559961244560835] logged in with entity id 565 at (world, 138.8788, 60.109, 101.3503)
+2017-08-15 [00:41:49] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
+2017-08-15 [00:41:49] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
+2017-08-15 [00:41:49] [Server thread/INFO]: - gfy is now online!
+2017-08-15 [00:41:49] [Server thread/INFO]: - gfy 现在上线了!
+2017-08-15 [00:42:01] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:42:02] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:42:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [00:42:11] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:42:11] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [00:42:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [00:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [00:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [00:43:01] [Server thread/INFO]: красавитса[/91.235.36.67:15051] logged out due to Invalid name!
+2017-08-15 [00:43:11] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:43:15] [Server thread/INFO]: красавитса[/91.235.36.67:15051] logged out due to Invalid name!
+2017-08-15 [00:43:22] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:43:39] [Server thread/INFO]: красавитса[/91.235.36.67:15051] logged out due to Invalid name!
+2017-08-15 [00:43:40] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:43:40] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:43:40] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:43:40] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:43:40] [Server thread/INFO]: gfy[/114.221.241.35:20759] logged out due to client disconnect
+2017-08-15 [00:43:47] [Server thread/INFO]: gfy[/114.221.241.35:20759] [ClientID: -1397559961244560835] logged in with entity id 600 at (world, 9961.6396, 73, 9954.3945)
+2017-08-15 [00:43:49] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
+2017-08-15 [00:43:49] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
+2017-08-15 [00:43:49] [Server thread/INFO]: - gfy is now online!
+2017-08-15 [00:43:49] [Server thread/INFO]: - gfy 现在上线了!
+2017-08-15 [00:43:57] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:43:58] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:44:30] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:44:30] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:44:30] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:44:30] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:44:30] [Server thread/INFO]: gfy[/114.221.241.35:20759] logged out due to timeout
+2017-08-15 [00:45:03] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27393] logged out due to Invalid name!
+2017-08-15 [00:46:23] [Server thread/INFO]: benotquickly fell from a high place
+2017-08-15 [00:47:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [00:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [00:47:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [00:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [00:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [00:47:35] [Server thread/INFO]: Andrey Bro[/192.166.126.67:27393] logged out due to Invalid name!
+2017-08-15 [00:48:17] [Server thread/WARNING]: Melody moved wrongly!
+2017-08-15 [00:51:07] [Server thread/INFO]: - Melody is now offline!
+2017-08-15 [00:51:07] [Server thread/INFO]: - Melody 离开了游戏!
+2017-08-15 [00:51:07] [Server thread/INFO]: [AuthMePE] Player Melody has logged out.
+2017-08-15 [00:51:07] [Server thread/INFO]: [AuthMePE] Player Melody 离开了游戏.
+2017-08-15 [00:51:07] [Server thread/INFO]: Melody[/42.2.16.226:52951] logged out due to client disconnect
+2017-08-15 [00:52:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [00:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [00:52:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [00:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [00:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [00:52:30] [Server thread/INFO]: Melody[/42.2.16.226:52951] [ClientID: 7866378612459683124] logged in with entity id 648 at (world, 130.4656, 64, 107.7895)
+2017-08-15 [00:52:32] [Server thread/INFO]: [AuthMePE] Player Melody has logged in.
+2017-08-15 [00:52:32] [Server thread/INFO]: [AuthMePE] 玩家 Melody 登录了游戏。
+2017-08-15 [00:52:32] [Server thread/INFO]: - Melody is now online!
+2017-08-15 [00:52:32] [Server thread/INFO]: - Melody 现在上线了!
+2017-08-15 [00:52:36] [Server thread/NOTICE]: Player data not found for "dudeitscarter20", creating new profile
+2017-08-15 [00:52:36] [Server thread/INFO]: Dudeitscarter20[/104.191.14.185:50125] [ClientID: 7086161613392884708] logged in with entity id 649 at (world, 128, 64, 128)
+2017-08-15 [00:53:18] [Server thread/INFO]: benotquickly fell from a high place
+2017-08-15 [00:53:19] [Server thread/INFO]: Pet and Jen[/115.88.235.242:10660] logged out due to Invalid name!
+2017-08-15 [00:53:43] [Server thread/INFO]: Pet and Jen[/115.88.235.242:10660] logged out due to Invalid name!
+2017-08-15 [00:53:51] [Server thread/WARNING]: Melody moved wrongly!
+2017-08-15 [00:53:51] [Server thread/WARNING]: Melody moved wrongly!
+2017-08-15 [00:53:59] [Server thread/INFO]: - Melody is now offline!
+2017-08-15 [00:53:59] [Server thread/INFO]: - Melody 离开了游戏!
+2017-08-15 [00:53:59] [Server thread/INFO]: [AuthMePE] Player Melody has logged out.
+2017-08-15 [00:53:59] [Server thread/INFO]: [AuthMePE] Player Melody 离开了游戏.
+2017-08-15 [00:53:59] [Server thread/INFO]: Melody[/42.2.16.226:52951] logged out due to client disconnect
+2017-08-15 [00:54:15] [Server thread/NOTICE]: Player data not found for "summertimes332", creating new profile
+2017-08-15 [00:54:15] [Server thread/INFO]: summertimes332[/81.136.126.107:52097] [ClientID: -2956390830564488006] logged in with entity id 657 at (world, 128, 64, 128)
+2017-08-15 [00:54:35] [Server thread/INFO]: Dudeitscarter20[/104.191.14.185:50125] logged out due to client disconnect
+2017-08-15 [00:55:00] [Server thread/INFO]: Dudeitscarter20[/104.191.14.185:50125] [ClientID: 7086161613392884708] logged in with entity id 663 at (world, 128, 64, 128)
+2017-08-15 [00:55:01] [Server thread/INFO]: [AuthMePE] Player summertimes332 has logged in.
+2017-08-15 [00:55:01] [Server thread/INFO]: [AuthMePE] 玩家 summertimes332 登录了游戏。
+2017-08-15 [00:55:01] [Server thread/INFO]: - summertimes332 is now online!
+2017-08-15 [00:55:01] [Server thread/INFO]: - summertimes332 现在上线了!
+2017-08-15 [00:55:07] [Server thread/WARNING]: benotquickly moved wrongly!
+2017-08-15 [00:55:14] [Server thread/INFO]: gfy[/114.221.241.35:18629] [ClientID: -1397559961244560835] logged in with entity id 665 at (world, 216.0243, 76, 163.7851)
+2017-08-15 [00:55:17] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
+2017-08-15 [00:55:17] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
+2017-08-15 [00:55:17] [Server thread/INFO]: - gfy is now online!
+2017-08-15 [00:55:17] [Server thread/INFO]: - gfy 现在上线了!
+2017-08-15 [00:55:39] [Server thread/INFO]: PVP[/59.149.50.144:53104] [ClientID: -4561615290563282809] logged in with entity id 669 at (th, 96.844, 65, 30.65)
+2017-08-15 [00:55:41] [Server thread/INFO]: [AuthMePE] Player PVP has logged in.
+2017-08-15 [00:55:41] [Server thread/INFO]: [AuthMePE] 玩家 PVP 登录了游戏。
+2017-08-15 [00:55:41] [Server thread/INFO]: - PVP is now online!
+2017-08-15 [00:55:41] [Server thread/INFO]: - PVP 现在上线了!
+2017-08-15 [00:55:54] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:55:55] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:56:25] [Server thread/INFO]: benotquickly fell from a high place
+2017-08-15 [00:56:28] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [00:56:31] [Server thread/INFO]: [AuthMePE] Player Dudeitscarter20 has logged in.
+2017-08-15 [00:56:31] [Server thread/INFO]: [AuthMePE] 玩家 Dudeitscarter20 登录了游戏。
+2017-08-15 [00:56:31] [Server thread/INFO]: - Dudeitscarter20 is now online!
+2017-08-15 [00:56:31] [Server thread/INFO]: - Dudeitscarter20 现在上线了!
+2017-08-15 [00:57:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [00:57:10] [Server thread/WARNING]: Dudeitscarter20 moved wrongly!
+2017-08-15 [00:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [00:57:14] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:57:16] [Server thread/WARNING]: Dudeitscarter20 moved wrongly!
+2017-08-15 [00:57:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [00:57:19] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:57:19] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:57:20] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:57:20] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [00:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [00:57:43] [Server thread/INFO]: gfy : 找师父
+2017-08-15 [00:57:52] [Server thread/INFO]: gfy : hi
+2017-08-15 [00:57:59] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:58:00] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:58:00] [Server thread/WARNING]: Dudeitscarter20 moved wrongly!
+2017-08-15 [00:58:02] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:58:03] [Server thread/WARNING]: benotquickly moved wrongly!
+2017-08-15 [00:58:14] [Server thread/INFO]: benotquickly fell out of the world
+2017-08-15 [00:58:25] [Server thread/INFO]: * gfy 腐竹帅逼、牛逼、聪-明、厉害、潇洒、天才。
+2017-08-15 [00:58:30] [Server thread/INFO]: * gfy Welcome！！Thank you to YYServer！
+2017-08-15 [00:58:51] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:58:51] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:58:51] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:58:51] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:58:51] [Server thread/INFO]: gfy[/114.221.241.35:18629] logged out due to client disconnect
+2017-08-15 [00:58:55] [Server thread/WARNING]: summertimes332 moved wrongly!
+2017-08-15 [00:58:55] [Server thread/WARNING]: summertimes332 moved wrongly!
+2017-08-15 [00:58:59] [Server thread/INFO]: gfy[/114.221.241.35:18629] [ClientID: -1397559961244560835] logged in with entity id 735 at (world, 366.7592, 126, 266.118)
+2017-08-15 [00:59:01] [Server thread/INFO]: [AuthMePE] Player gfy has logged in.
+2017-08-15 [00:59:01] [Server thread/INFO]: [AuthMePE] 玩家 gfy 登录了游戏。
+2017-08-15 [00:59:01] [Server thread/INFO]: - gfy is now online!
+2017-08-15 [00:59:01] [Server thread/INFO]: - gfy 现在上线了!
+2017-08-15 [00:59:05] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:59:06] [Server thread/WARNING]: gfy moved wrongly!
+2017-08-15 [00:59:15] [Server thread/INFO]: - gfy is now offline!
+2017-08-15 [00:59:15] [Server thread/INFO]: - gfy 离开了游戏!
+2017-08-15 [00:59:15] [Server thread/INFO]: [AuthMePE] Player gfy has logged out.
+2017-08-15 [00:59:15] [Server thread/INFO]: [AuthMePE] Player gfy 离开了游戏.
+2017-08-15 [00:59:15] [Server thread/INFO]: gfy[/114.221.241.35:18629] logged out due to client disconnect
+2017-08-15 [01:00:11] [Server thread/INFO]: benotquickly fell from a high place
+2017-08-15 [01:00:27] [Server thread/INFO]: benotquickly fell out of the world
+2017-08-15 [01:00:38] [Server thread/WARNING]: benotquickly moved wrongly!
+2017-08-15 [01:01:31] [Server thread/WARNING]: Dudeitscarter20 moved wrongly!
+2017-08-15 [01:02:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:02:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:03:12] [Server thread/INFO]: benotquickly tried to swim in lava
+2017-08-15 [01:03:31] [Server thread/INFO]: benotquickly tried to swim in lava
+2017-08-15 [01:03:35] [Server thread/INFO]: Steve[/2.89.200.236:60761] [ClientID: 8137771229928502639] logged in with entity id 830 at (world, 128, 64, 128)
+2017-08-15 [01:03:42] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:03:45] [Server thread/INFO]: benotquickly tried to swim in lava
+2017-08-15 [01:03:51] [Server thread/INFO]: Steve[/2.89.200.236:60761] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:03:53] [Server thread/WARNING]: benotquickly moved wrongly!
+2017-08-15 [01:04:09] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:04:27] [Server thread/INFO]: - PVP is now offline!
+2017-08-15 [01:04:27] [Server thread/INFO]: - PVP 离开了游戏!
+2017-08-15 [01:04:27] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
+2017-08-15 [01:04:27] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
+2017-08-15 [01:04:27] [Server thread/INFO]: PVP[/59.149.50.144:53104] logged out due to client disconnect
+2017-08-15 [01:04:28] [Server thread/WARNING]: benotquickly moved wrongly!
+2017-08-15 [01:04:34] [Server thread/INFO]: benotquickly tried to swim in lava
+2017-08-15 [01:04:37] [Server thread/INFO]: PVP[/59.149.50.144:53104] [ClientID: -4561615290563282809] logged in with entity id 838 at (world, 9962.7871, 71, 9957.832)
+2017-08-15 [01:04:40] [Server thread/INFO]: [AuthMePE] Player PVP has logged in.
+2017-08-15 [01:04:40] [Server thread/INFO]: [AuthMePE] 玩家 PVP 登录了游戏。
+2017-08-15 [01:04:40] [Server thread/INFO]: - PVP is now online!
+2017-08-15 [01:04:40] [Server thread/INFO]: - PVP 现在上线了!
+2017-08-15 [01:04:42] [Server thread/INFO]: benotquickly tried to swim in lava
+2017-08-15 [01:04:51] [Server thread/INFO]: benotquickly tried to swim in lava
+2017-08-15 [01:04:51] [Server thread/INFO]: PVP : 123abc
+2017-08-15 [01:05:46] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:06:19] [Server thread/INFO]: - benotquickly is now offline!
+2017-08-15 [01:06:19] [Server thread/INFO]: - benotquickly 离开了游戏!
+2017-08-15 [01:06:19] [Server thread/INFO]: [AuthMePE] Player benotquickly has logged out.
+2017-08-15 [01:06:19] [Server thread/INFO]: [AuthMePE] Player benotquickly 离开了游戏.
+2017-08-15 [01:06:19] [Server thread/INFO]: benotquickly[/116.253.198.167:31930] logged out due to client disconnect
+2017-08-15 [01:06:39] [Server thread/INFO]: PVP fell from a high place
+2017-08-15 [01:06:40] [Server thread/WARNING]: Dudeitscarter20 moved wrongly!
+2017-08-15 [01:06:45] [Server thread/WARNING]: summertimes332 moved wrongly!
+2017-08-15 [01:06:46] [Server thread/WARNING]: summertimes332 moved wrongly!
+2017-08-15 [01:07:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:07:15] [Server thread/INFO]: - summertimes332 is now offline!
+2017-08-15 [01:07:15] [Server thread/INFO]: - summertimes332 离开了游戏!
+2017-08-15 [01:07:15] [Server thread/INFO]: [AuthMePE] Player summertimes332 has logged out.
+2017-08-15 [01:07:15] [Server thread/INFO]: [AuthMePE] Player summertimes332 离开了游戏.
+2017-08-15 [01:07:15] [Server thread/INFO]: summertimes332[/81.136.126.107:52097] logged out due to client disconnect
+2017-08-15 [01:07:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:07:46] [Server thread/INFO]: - Dudeitscarter20 is now offline!
+2017-08-15 [01:07:46] [Server thread/INFO]: - Dudeitscarter20 离开了游戏!
+2017-08-15 [01:07:46] [Server thread/INFO]: [AuthMePE] Player Dudeitscarter20 has logged out.
+2017-08-15 [01:07:46] [Server thread/INFO]: [AuthMePE] Player Dudeitscarter20 离开了游戏.
+2017-08-15 [01:07:46] [Server thread/INFO]: Dudeitscarter20[/104.191.14.185:50125] logged out due to client disconnect
+2017-08-15 [01:08:12] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:08:23] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:09:03] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:09:04] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:09:26] [Server thread/INFO]: PVP went up in flames
+2017-08-15 [01:11:02] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:15] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:29] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:29] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:39] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:40] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:41] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:41] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:43] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:48] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:53] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:11:58] [Server thread/WARNING]: PVP moved wrongly!
+2017-08-15 [01:12:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:12:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:12:26] [Server thread/INFO]: PVP tried to swim in lava
+2017-08-15 [01:12:37] [Server thread/INFO]: - PVP is now offline!
+2017-08-15 [01:12:37] [Server thread/INFO]: - PVP 离开了游戏!
+2017-08-15 [01:12:37] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
+2017-08-15 [01:12:37] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
+2017-08-15 [01:12:37] [Server thread/INFO]: PVP[/59.149.50.144:53104] logged out due to client disconnect
+2017-08-15 [01:13:23] [Server thread/INFO]: T3cH R33zA[/86.152.172.237:55139] logged out due to Invalid name!
+2017-08-15 [01:16:15] [Server thread/INFO]: Steve[/67.83.118.1:55314] [ClientID: -6833860349205873901] logged in with entity id 898 at (world, 128, 64, 128)
+2017-08-15 [01:16:41] [Server thread/INFO]: Steve[/67.83.118.1:55314] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:17:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:17:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:18:05] [Server thread/INFO]: creeper f[/195.202.226.244:64424] logged out due to Invalid name!
+2017-08-15 [01:18:25] [Server thread/INFO]: creeper f[/195.202.226.244:64424] logged out due to Invalid name!
+2017-08-15 [01:19:31] [Server thread/INFO]: Steve[/42.101.248.234:15616] [ClientID: -5937993384381703482] logged in with entity id 899 at (world, 128, 64, 128)
+2017-08-15 [01:19:49] [Server thread/INFO]: Steve[/42.101.248.234:15616] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:21:57] [Server thread/NOTICE]: Player data not found for "noor", creating new profile
+2017-08-15 [01:21:57] [Server thread/INFO]: noor[/87.65.166.174:56229] [ClientID: -594354731997831732] logged in with entity id 900 at (world, 128, 64, 128)
+2017-08-15 [01:22:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:22:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:22:30] [Server thread/INFO]: noor[/87.65.166.174:56229] logged out due to client disconnect
+2017-08-15 [01:27:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:27:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:29:48] [Server thread/INFO]: jake paul[/24.150.107.124:61644] logged out due to Invalid name!
+2017-08-15 [01:31:06] [Server thread/INFO]: jake paul[/24.150.107.124:61644] logged out due to Invalid name!
+2017-08-15 [01:32:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:32:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:32:37] [Server thread/INFO]: boo bitch[/86.156.118.236:53086] logged out due to Invalid name!
+2017-08-15 [01:32:56] [Server thread/INFO]: boo bitch[/86.156.118.236:57685] logged out due to Invalid name!
+2017-08-15 [01:33:15] [Server thread/INFO]: boo bitch[/86.156.118.236:53086] logged out due to Invalid name!
+2017-08-15 [01:36:26] [Server thread/INFO]: caonima[/121.101.93.178:20737] [ClientID: -9077255928997172015] logged in with entity id 901 at (world, 128, 64, 128)
+2017-08-15 [01:36:44] [Server thread/INFO]: caonima[/121.101.93.178:20737] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:37:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:37:17] [Server thread/INFO]: wuge[/121.101.93.178:20737] [ClientID: -9077255928997172015] logged in with entity id 902 at (world, 333.4901, 130.7478, 262.4951)
+2017-08-15 [01:37:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:37:33] [Server thread/INFO]: wuge[/121.101.93.178:20737] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:39:34] [Server thread/INFO]: Green_Sky[/121.101.93.178:20737] [ClientID: -9077255928997172015] logged in with entity id 904 at (world, 134.8078, 65, 133.2614)
+2017-08-15 [01:39:45] [Server thread/INFO]: [AuthMePE] Player Green_Sky has logged in.
+2017-08-15 [01:39:45] [Server thread/INFO]: [AuthMePE] 玩家 Green_Sky 登录了游戏。
+2017-08-15 [01:39:45] [Server thread/INFO]: - Green_Sky is now online!
+2017-08-15 [01:39:45] [Server thread/INFO]: - Green_Sky 现在上线了!
+2017-08-15 [01:41:25] [Server thread/WARNING]: Green_Sky moved wrongly!
+2017-08-15 [01:41:31] [Server thread/WARNING]: Green_Sky moved wrongly!
+2017-08-15 [01:42:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:42:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:42:25] [Server thread/WARNING]: Green_Sky moved wrongly!
+2017-08-15 [01:43:16] [Server thread/WARNING]: Green_Sky moved wrongly!
+2017-08-15 [01:45:06] [Server thread/INFO]: - Green_Sky is now offline!
+2017-08-15 [01:45:06] [Server thread/INFO]: - Green_Sky 离开了游戏!
+2017-08-15 [01:45:06] [Server thread/INFO]: [AuthMePE] Player Green_Sky has logged out.
+2017-08-15 [01:45:06] [Server thread/INFO]: [AuthMePE] Player Green_Sky 离开了游戏.
+2017-08-15 [01:45:06] [Server thread/INFO]: Green_Sky[/121.101.93.178:20737] logged out due to client disconnect
+2017-08-15 [01:45:32] [Server thread/INFO]: Steve[/172.88.251.134:53107] [ClientID: 2218875299257805076] logged in with entity id 914 at (world, 128, 64, 128)
+2017-08-15 [01:45:48] [Server thread/INFO]: Steve[/172.88.251.134:53107] logged out due to client disconnect
+2017-08-15 [01:46:34] [Server thread/INFO]: lol man[/195.202.226.244:65310] logged out due to Invalid name!
+2017-08-15 [01:46:53] [Server thread/INFO]: lol man[/195.202.226.244:65310] logged out due to Invalid name!
+2017-08-15 [01:47:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:47:11] [Server thread/INFO]: lol man[/195.202.226.244:65310] logged out due to Invalid name!
+2017-08-15 [01:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:47:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:47:30] [Server thread/INFO]: Green_Sky[/121.101.93.178:20737] [ClientID: -9077255928997172015] logged in with entity id 917 at (th, 30.8659, 65, 58.6733)
+2017-08-15 [01:47:32] [Server thread/INFO]: [AuthMePE] Player Green_Sky has logged in.
+2017-08-15 [01:47:32] [Server thread/INFO]: [AuthMePE] 玩家 Green_Sky 登录了游戏。
+2017-08-15 [01:47:32] [Server thread/INFO]: - Green_Sky is now online!
+2017-08-15 [01:47:32] [Server thread/INFO]: - Green_Sky 现在上线了!
+2017-08-15 [01:48:14] [Server thread/NOTICE]: Player data not found for "adrian", creating new profile
+2017-08-15 [01:48:14] [Server thread/INFO]: Adrian[/41.33.200.2:10355] [ClientID: -7573269307753105567] logged in with entity id 918 at (world, 128, 64, 128)
+2017-08-15 [01:48:31] [Server thread/INFO]: - Green_Sky is now offline!
+2017-08-15 [01:48:31] [Server thread/INFO]: - Green_Sky 离开了游戏!
+2017-08-15 [01:48:31] [Server thread/INFO]: [AuthMePE] Player Green_Sky has logged out.
+2017-08-15 [01:48:31] [Server thread/INFO]: [AuthMePE] Player Green_Sky 离开了游戏.
+2017-08-15 [01:48:31] [Server thread/INFO]: Green_Sky[/121.101.93.178:20737] logged out due to client disconnect
+2017-08-15 [01:48:46] [Server thread/INFO]: xy520[/190.45.41.56:58387] [ClientID: -432171074088525848] logged in with entity id 919 at (world, 161.4755, 95, 181.6581)
+2017-08-15 [01:48:50] [Server thread/INFO]: [AuthMePE] Player xy520 has logged in.
+2017-08-15 [01:48:50] [Server thread/INFO]: [AuthMePE] 玩家 xy520 登录了游戏。
+2017-08-15 [01:48:50] [Server thread/INFO]: - xy520 is now online!
+2017-08-15 [01:48:50] [Server thread/INFO]: - xy520 现在上线了!
+2017-08-15 [01:49:09] [Server thread/INFO]: Adrian[/41.33.200.2:10355] logged out due to client disconnect
+2017-08-15 [01:49:16] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 920 at (world, 128, 64, 128)
+2017-08-15 [01:49:24] [Server thread/INFO]: Adrian[/197.35.170.40:10621] logged out due to client disconnect
+2017-08-15 [01:49:30] [Server thread/INFO]: Green_Sky[/121.101.93.178:20737] [ClientID: -9077255928997172015] logged in with entity id 921 at (world, 124.8705, 64, 123.7008)
+2017-08-15 [01:49:32] [Server thread/INFO]: [AuthMePE] Player Green_Sky has logged in.
+2017-08-15 [01:49:32] [Server thread/INFO]: [AuthMePE] 玩家 Green_Sky 登录了游戏。
+2017-08-15 [01:49:32] [Server thread/INFO]: - Green_Sky is now online!
+2017-08-15 [01:49:32] [Server thread/INFO]: - Green_Sky 现在上线了!
+2017-08-15 [01:49:32] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:49:36] [Server thread/WARNING]: xy520 moved wrongly!
+2017-08-15 [01:49:51] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 922 at (world, 128, 64, 128)
+2017-08-15 [01:49:51] [Server thread/INFO]: - xy520 is now offline!
+2017-08-15 [01:49:51] [Server thread/INFO]: - xy520 离开了游戏!
+2017-08-15 [01:49:51] [Server thread/INFO]: [AuthMePE] Player xy520 has logged out.
+2017-08-15 [01:49:51] [Server thread/INFO]: [AuthMePE] Player xy520 离开了游戏.
+2017-08-15 [01:49:51] [Server thread/INFO]: xy520[/190.45.41.56:58387] logged out due to client disconnect
+2017-08-15 [01:50:00] [Server thread/WARNING]: Green_Sky moved wrongly!
+2017-08-15 [01:50:07] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:50:25] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 923 at (world, 128, 64, 128)
+2017-08-15 [01:50:34] [Server thread/INFO]: - Green_Sky is now offline!
+2017-08-15 [01:50:34] [Server thread/INFO]: - Green_Sky 离开了游戏!
+2017-08-15 [01:50:34] [Server thread/INFO]: [AuthMePE] Player Green_Sky has logged out.
+2017-08-15 [01:50:34] [Server thread/INFO]: [AuthMePE] Player Green_Sky 离开了游戏.
+2017-08-15 [01:50:34] [Server thread/INFO]: Green_Sky[/121.101.93.178:20737] logged out due to client disconnect
+2017-08-15 [01:50:41] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:51:20] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 924 at (world, 128.0193, 64, 127.9967)
+2017-08-15 [01:51:37] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:52:02] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 925 at (world, 128, 64, 128)
+2017-08-15 [01:52:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:52:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:52:18] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:52:51] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 926 at (world, 128, 64, 128)
+2017-08-15 [01:53:07] [Server thread/NOTICE]: Player data not found for "galaxyqxeen", creating new profile
+2017-08-15 [01:53:07] [Server thread/INFO]: galaxyqxeen[/86.156.118.236:53086] [ClientID: 1171387282762031871] logged in with entity id 927 at (world, 128, 64, 128)
+2017-08-15 [01:53:07] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:53:34] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 928 at (world, 128, 64, 128)
+2017-08-15 [01:53:51] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:54:12] [Server thread/INFO]: Alex[/96.250.160.228:53508] [ClientID: -2112933805684931402] logged in with entity id 929 at (world, 128, 64, 128)
+2017-08-15 [01:54:13] [Server thread/INFO]: [AuthMePE] Player galaxyqxeen has logged in.
+2017-08-15 [01:54:13] [Server thread/INFO]: [AuthMePE] 玩家 galaxyqxeen 登录了游戏。
+2017-08-15 [01:54:13] [Server thread/INFO]: - galaxyqxeen is now online!
+2017-08-15 [01:54:13] [Server thread/INFO]: - galaxyqxeen 现在上线了!
+2017-08-15 [01:54:28] [Server thread/INFO]: Alex[/96.250.160.228:53508] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:55:32] [Server thread/INFO]: galaxyqxeen : hi
+2017-08-15 [01:55:52] [Server thread/INFO]: Silly milliexox[/209.93.181.198:60253] logged out due to Invalid name!
+2017-08-15 [01:56:11] [Server thread/INFO]: Silly milliexox[/209.93.181.198:60253] logged out due to Invalid name!
+2017-08-15 [01:57:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [01:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [01:57:14] [Server thread/INFO]: - galaxyqxeen is now offline!
+2017-08-15 [01:57:14] [Server thread/INFO]: - galaxyqxeen 离开了游戏!
+2017-08-15 [01:57:14] [Server thread/INFO]: [AuthMePE] Player galaxyqxeen has logged out.
+2017-08-15 [01:57:14] [Server thread/INFO]: [AuthMePE] Player galaxyqxeen 离开了游戏.
+2017-08-15 [01:57:14] [Server thread/INFO]: galaxyqxeen[/86.156.118.236:53086] logged out due to client disconnect
+2017-08-15 [01:57:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [01:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [01:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [01:57:27] [Server thread/INFO]: Silly milliexox[/209.93.181.198:65219] logged out due to Invalid name!
+2017-08-15 [01:57:41] [Server thread/INFO]: Steve[/31.186.91.16:61832] [ClientID: -8893993753762919134] logged in with entity id 932 at (world, 128, 64, 128)
+2017-08-15 [01:57:58] [Server thread/INFO]: Steve[/31.186.91.16:61832] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:58:32] [Server thread/INFO]: Steve[/31.186.91.16:61832] [ClientID: -8893993753762919134] logged in with entity id 933 at (world, 128.0196, 64, 128.0008)
+2017-08-15 [01:58:48] [Server thread/INFO]: Steve[/31.186.91.16:61832] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [01:59:01] [Server thread/INFO]: Steve[/31.186.91.16:61832] [ClientID: -8893993753762919134] logged in with entity id 934 at (world, 128, 64, 128)
+2017-08-15 [01:59:18] [Server thread/INFO]: Steve[/31.186.91.16:61832] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:01:00] [Server thread/INFO]: ice cream top[/47.218.5.220:59699] logged out due to Invalid name!
+2017-08-15 [02:01:20] [Server thread/INFO]: ice cream top[/47.218.5.220:59699] logged out due to Invalid name!
+2017-08-15 [02:01:29] [Server thread/INFO]: ice cream top[/47.218.5.220:59699] logged out due to Invalid name!
+2017-08-15 [02:01:36] [Server thread/INFO]: Steve[/147.194.179.53:54502] [ClientID: -4825466445739590706] logged in with entity id 935 at (world, 128, 64.42, 128)
+2017-08-15 [02:01:50] [Server thread/INFO]: ice cream top[/47.218.5.220:59699] logged out due to Invalid name!
+2017-08-15 [02:01:53] [Server thread/INFO]: Steve[/147.194.179.53:54502] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:02:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:02:12] [Server thread/INFO]: Steve[/147.194.179.53:54502] [ClientID: -4825466445739590706] logged in with entity id 936 at (world, 128, 64, 128)
+2017-08-15 [02:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:02:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:02:29] [Server thread/INFO]: Steve[/147.194.179.53:54502] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:07:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:07:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:10:22] [Server thread/NOTICE]: Player data not found for "olavir", creating new profile
+2017-08-15 [02:10:22] [Server thread/INFO]: olavir[/173.34.99.175:51186] [ClientID: 2438179368293646206] logged in with entity id 937 at (world, 128, 64, 128)
+2017-08-15 [02:11:36] [Server thread/INFO]: olavir[/173.34.99.175:51186] logged out due to timeout
+2017-08-15 [02:12:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:12:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:13:33] [Server thread/INFO]: Omega boy 909[/38.64.136.65:12087] logged out due to Invalid name!
+2017-08-15 [02:13:44] [Server thread/INFO]: Omega boy 909[/38.64.136.65:12087] logged out due to Invalid name!
+2017-08-15 [02:15:18] [Server thread/INFO]: halo cheaf1000[/98.193.19.132:49321] logged out due to Invalid name!
+2017-08-15 [02:15:26] [Server thread/INFO]: L for Lee[/98.109.123.229:55058] logged out due to Invalid name!
+2017-08-15 [02:15:43] [Server thread/INFO]: L for Lee[/98.109.123.229:55058] logged out due to Invalid name!
+2017-08-15 [02:16:36] [Server thread/INFO]: Steve[/24.210.52.38:57039] [ClientID: -1671136346202063227] logged in with entity id 938 at (world, 128, 64, 128)
+2017-08-15 [02:16:53] [Server thread/INFO]: Steve[/24.210.52.38:57039] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:17:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:17:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:22:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:22:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:23:54] [Server thread/NOTICE]: Player data not found for "jette", creating new profile
+2017-08-15 [02:23:54] [Server thread/INFO]: Jette[/185.22.142.204:53817] [ClientID: 6919633015994729494] logged in with entity id 939 at (world, 128, 64, 128)
+2017-08-15 [02:24:07] [Server thread/INFO]: Steve[/109.158.247.161:54968] [ClientID: 3079266255319022066] logged in with entity id 940 at (world, 128, 64, 128)
+2017-08-15 [02:24:09] [Server thread/WARNING]: Jette moved wrongly!
+2017-08-15 [02:24:09] [Server thread/WARNING]: Jette moved wrongly!
+2017-08-15 [02:24:26] [Server thread/INFO]: Jette[/185.22.142.204:53817] logged out due to client disconnect
+2017-08-15 [02:24:26] [Server thread/INFO]: Steve[/109.158.247.161:54968] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:25:03] [Server thread/INFO]: Steve[/109.158.247.161:54968] [ClientID: 3079266255319022066] logged in with entity id 941 at (world, 128.2182, 64, 128.121)
+2017-08-15 [02:25:22] [Server thread/INFO]: Steve[/109.158.247.161:54968] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:27:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:27:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:30:41] [Server thread/INFO]: Steve[/174.48.139.68:50131] [ClientID: 7552616930922076748] logged in with entity id 942 at (world, 128, 64, 128)
+2017-08-15 [02:30:58] [Server thread/INFO]: Steve[/174.48.139.68:50131] logged out due to Kicked by admin. Reason: Time out!
+2017-08-15 [02:32:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-15 [02:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-15 [02:32:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-15 [02:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-15 [02:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-15 [02:32:43] [Server thread/INFO]: Steve[/174.48.139.68:50131] [ClientID: 7552616930922076748] logged in with entity id 943 at (world, 128, 64, 128)
+2017-08-15 [02:33:00] [Server thread/INFO]: Steve[/174.48.139.68:50131] logged out due to Kicked by admin. Reason: Time out!
