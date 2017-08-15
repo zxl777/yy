@@ -532,11 +532,6 @@
   count: "64"
   money: "200"
   id: "4"
-149:71:120:zy:
-  kind: sell
-  count: "32"
-  money: "1000"
-  id: "17"
 144:66:102:world:
   kind: B
   name: §f<特价>白色混凝土
