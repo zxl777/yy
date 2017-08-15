@@ -2492,4 +2492,15 @@
   level: th
   invitee: []
   expires: ~
+260:
+  ID: 260
+  startX: -89
+  endX: -80
+  startZ: 199
+  endZ: 214
+  price: 11200
+  owner: liuliu2008
+  level: th
+  invitee: []
+  expires: ~
 ...
