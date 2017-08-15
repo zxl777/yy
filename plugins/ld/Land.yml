@@ -2481,4 +2481,15 @@
   level: th
   invitee: []
   expires: ~
+259:
+  ID: 259
+  startX: -118
+  endX: -83
+  startZ: -1
+  endZ: 16
+  price: 54400
+  owner: jack
+  level: th
+  invitee: []
+  expires: ~
 ...

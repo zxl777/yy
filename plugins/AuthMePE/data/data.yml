@@ -338,9 +338,6 @@ shuaibi:
   password: 65c8eed54b351a69c089a557157e42a4
   times: 0
   ip: "yes"
-13132220808:
-  password: 25c5460894be29a0fb5337c3f3f2a961
-  times: 0
 steveq:
   password: 3f35b57f227955fd8561d5b658864067
   times: 0
@@ -1641,7 +1638,7 @@ wsfa:
   email: 2135833329@qq.com
 alex:
   password: 9cea796d06e5e08ac71c628243ef2be1
-  times: 1
+  times: 0
   ip: "yes"
   email: 3293344565@qq.com
 anyeqishi:
@@ -3155,7 +3152,7 @@ astronaut090:
   ip: "no"
 wuge:
   password: 69e12d47b0d91f4addc5ecb9928ebc9d
-  times: 2
+  times: 0
   ip: "yes"
 rashed:
   password: 993e82e79902fcc215f2722043689998
@@ -4189,6 +4186,48 @@ zzz:
   ip: "no"
 nimaheheda:
   password: 87a038e3b860106bfffc7aece8bc3021
+  times: 0
+  ip: "yes"
+mclanyan:
+  password: 0e1374f1105f883213c5eab59c4fe392
+  times: 0
+  ip: "yes"
+titianchair9594:
+  password: e7f3ef421e33a98700ee5004e8e6934b
+  times: 0
+  confirm: /msg 778899
+yjk:
+  password: d132ad9ef44165cbff178210f3c57611
+  times: 0
+  ip: "no"
+luckygang:
+  password: b6079539f0326174c50008e06f22ca68
+  times: 0
+  ip: "yes"
+stormy118:
+  password: 9035ca24bbb9744a5dac3abceea5a2f5
+  times: 0
+luxiangmin:
+  password: 6960561bdc5f9f451d02efbd39d5cce5
+  times: 3
+  ip: "no"
+freezeer666:
+  password: 446c86ae7a17552ecb5888699d4ca36d
+  times: 0
+  ip: "yes"
+worthleopard983:
+  password: 73bc8ca48db4cfe8b4572a63795219e2
+  times: 0
+vaguedragon3654:
+  password: e2cf9b12c909a2ef1d56cf6d23248ae2
+  times: 0
+  ip: "yes"
+limingyang:
+  password: cd3e644df32e6750b5f8824ccc0e25ea
+  times: 0
+  ip: "yes"
+yuki:
+  password: 9cea796d06e5e08ac71c628243ef2be1
   times: 0
   ip: "yes"
 ...
