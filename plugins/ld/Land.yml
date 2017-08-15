@@ -2459,4 +2459,15 @@
   invitee:
     一号公路---No.1-Road: true
   expires: ~
+256:
+  ID: 256
+  startX: 63
+  endX: 74
+  startZ: -67
+  endZ: -56
+  price: 10000
+  owner: xy520
+  level: world
+  invitee: []
+  expires: ~
 ...
