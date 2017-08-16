@@ -1,4 +1,4 @@
-# Updated 08/16/17 16:35 by GenisysPro 1.1devc47625b
+# Updated 08/16/17 18:11 by GenisysPro 1.1devc47625b
 # victim name | ban date | banned by | banned until | reason
 
 i# updated 08/16/17 15:51 by genisyspro 1.1devc47625b|2017-08-16 08:15:09 +0000|(Unknown)|Forever|Banned by an operator.
@@ -8,10 +8,7 @@ ren|2017-08-11 14:47:43 +0800|power777888|Forever|Banned by an operator.
 worldfire0503|2017-08-12 13:13:50 +0800|power777888|Forever|Banned by an operator.
 speedyhhaha|2017-08-14 18:01:22 +0800|lihaoyy|Forever|Banned by an operator.
 blue_sky|2017-08-15 12:48:16 +0800|lihaoyy|Forever|Banned by an operator.
-zi_jian|2017-08-15 13:03:02 +0800|worldfire53|Forever|Banned by an operator.
 [worldfire53|2017-08-16 16:18:21 +0800|Jeffxiang|Forever|Banned by an operator.
-worldfire53|2017-08-16 16:18:44 +0800|Jeffxiang|Forever|Banned by an operator.
-power777888|2017-08-16 16:24:30 +0800|Jeffxiang|Forever|Banned by an operator.
-lihaoyy8|2017-08-16 16:25:45 +0800|Jeffxiang|Forever|Banned by an operator.
-liuliu2008|2017-08-16 16:28:09 +0800|Jeffxiang|Forever|Banned by an operator.
-steve|2017-08-16 16:29:13 +0800|Jeffxiang|Forever|Banned by an operator.
+11011|2017-08-16 17:56:06 +0800|worldfire53|Forever|Banned by an operator.
+jeffxiang|2017-08-16 17:58:27 +0800|worldfire53|Forever|Banned by an operator.
+worldfire53|2017-08-16 18:11:27 +0800|lihaoyy|Forever|Banned by an operator.
