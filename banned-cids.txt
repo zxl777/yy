@@ -1,1 +1,5 @@
-1223986302053481146
+# Updated 08/16/17 15:56 by GenisysPro 1.1devc47625b
+# victim name | ban date | banned by | banned until | reason
+
+1223986302053481146|2017-08-16 07:55:18 +0000|(Unknown)|Forever|Banned by an operator.
+852608654941731968|2017-08-16 15:56:04 +0800|power777888|Forever|Banned by an operator.

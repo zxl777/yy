@@ -2620,17 +2620,6 @@
   level: zy
   invitee: []
   expires: ~
-272:
-  ID: 272
-  startX: 136
-  endX: 144
-  startZ: 110
-  endZ: 115
-  price: 2800
-  owner: Maker
-  level: th
-  invitee: []
-  expires: ~
 273:
   ID: 273
   startX: -78
