@@ -2432,7 +2432,7 @@
   startZ: 193
   endZ: 228
   price: 129200
-  owner: lihaoyy
+  owner: worldfire53
   level: th
   invitee:
     JeweledSaucer62: true
@@ -2629,6 +2629,105 @@
   price: 2800
   owner: Maker
   level: th
+  invitee: []
+  expires: ~
+273:
+  ID: 273
+  startX: -78
+  endX: -45
+  startZ: -1
+  endZ: 32
+  price: 102400
+  owner: lanzhi
+  level: th
+  invitee: []
+  expires: ~
+274:
+  ID: 274
+  startX: -118
+  endX: -43
+  startZ: -41
+  endZ: -4
+  price: 266400
+  owner: lanzhi
+  level: th
+  invitee: []
+  expires: ~
+275:
+  ID: 275
+  startX: -126
+  endX: -114
+  startZ: 191
+  endZ: 277
+  price: 93500
+  owner: lanzhi
+  level: th
+  invitee: []
+  expires: ~
+276:
+  ID: 276
+  startX: -117
+  endX: 11
+  startZ: 310
+  endZ: 371
+  price: 762000
+  owner: lanzhi
+  level: th
+  invitee: []
+  expires: ~
+277:
+  ID: 277
+  startX: 14
+  endX: 52
+  startZ: 231
+  endZ: 421
+  price: 699300
+  owner: lanzhi
+  level: th
+  invitee: []
+  expires: ~
+278:
+  ID: 278
+  startX: 63
+  endX: 80
+  startZ: 222
+  endZ: 241
+  price: 28800
+  owner: Maker
+  level: zy
+  invitee: []
+  expires: ~
+279:
+  ID: 279
+  startX: -113
+  endX: -32
+  startZ: 231
+  endZ: 309
+  price: 616000
+  owner: dongmujun
+  level: th
+  invitee: []
+  expires: ~
+280:
+  ID: 280
+  startX: 4
+  endX: 23
+  startZ: 229
+  endZ: 249
+  price: 34200
+  owner: BINBIN
+  level: zy
+  invitee: []
+  expires: ~
+281:
+  ID: 281
+  startX: 69
+  endX: 81
+  startZ: 241
+  endZ: 252
+  price: 11000
+  owner: Maker
+  level: zy
   invitee: []
   expires: ~
 ...
