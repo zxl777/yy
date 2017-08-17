@@ -1,617 +1,127 @@
-2017-08-18 [00:47:07] [Server thread/INFO]: JOKER : 明天你还有事呢，浪费别人的世界和谋财害命没什么两样
-2017-08-18 [00:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [00:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [00:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [00:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [00:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [00:47:41] [Server thread/INFO]: [帅X]an777 : 在智利现在是中午
-2017-08-18 [00:47:49] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:47:58] [Server thread/INFO]: JOKER : 那也要早点睡啊，咱们再纠缠谁都得不到好处
-2017-08-18 [00:48:02] [Server thread/NOTICE]: Player data not found for "yudingze", creating new profile
-2017-08-18 [00:48:02] [Server thread/INFO]: yudingze[/113.222.203.245:2132] [ClientID: -4268168162490666647] logged in with entity id 1969 at (world, 128, 28, 128)
-2017-08-18 [00:48:24] [Server thread/INFO]: [帅X]an777 : 我在这里中午
-2017-08-18 [00:48:48] [Server thread/INFO]: JOKER : 我也不是说怎么着就是你少看一会手机也就让眼睛多休息一下呗
-2017-08-18 [00:49:08] [Server thread/INFO]: [帅X]an777 : no
-2017-08-18 [00:49:18] [Server thread/INFO]: [AuthMePE] Player yudingze has logged in.
-2017-08-18 [00:49:18] [Server thread/INFO]: [AuthMePE] 玩家 yudingze 登录了游戏。
-2017-08-18 [00:49:18] [Server thread/INFO]: - yudingze is now online!
-2017-08-18 [00:49:18] [Server thread/INFO]: - yudingze 现在上线了!
-2017-08-18 [00:49:22] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:49:36] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:49:57] [Server thread/INFO]: [帅X]an777 : 我拿到神器了
-2017-08-18 [00:49:59] [Server thread/INFO]: JOKER : 行了我不和你斗了，怕浪费你的时间，你以后也别开挂了，我就不把你开挂这件事说出去了
-2017-08-18 [00:50:05] [Server thread/INFO]: - yudingze is now offline!
-2017-08-18 [00:50:05] [Server thread/INFO]: - yudingze 离开了游戏!
-2017-08-18 [00:50:05] [Server thread/INFO]: [AuthMePE] Player yudingze has logged out.
-2017-08-18 [00:50:05] [Server thread/INFO]: [AuthMePE] Player yudingze 离开了游戏.
-2017-08-18 [00:50:05] [Server thread/INFO]: yudingze[/113.222.203.245:2132] logged out due to timeout
-2017-08-18 [00:50:18] [Server thread/INFO]: yudingze[/113.222.203.245:2078] [ClientID: -4268168162490666647] logged in with entity id 1980 at (th, 145.5581, 65, 112.87)
-2017-08-18 [00:50:19] [Server thread/INFO]: [AuthMePE] Player yudingze has logged in.
-2017-08-18 [00:50:19] [Server thread/INFO]: [AuthMePE] 玩家 yudingze 登录了游戏。
-2017-08-18 [00:50:19] [Server thread/INFO]: - yudingze is now online!
-2017-08-18 [00:50:19] [Server thread/INFO]: - yudingze 现在上线了!
-2017-08-18 [00:50:35] [Server thread/INFO]: JOKER : 行了这场战斗我认输，希望别浪费了你的时间
-2017-08-18 [00:50:45] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:50:46] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:50:54] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:50:55] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [00:51:01] [Server thread/INFO]: yudingze : 咋玩啊
-2017-08-18 [00:51:21] [Server thread/INFO]: [帅X]an777 : 是生存服
-2017-08-18 [00:51:31] [Server thread/INFO]: yudingze : 建筑服在哪
-2017-08-18 [00:51:36] [Server thread/INFO]: JOKER : 希望你能改正开挂的错误哦拜拜
-2017-08-18 [00:51:41] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [00:52:09] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:52:11] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:52:11] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:52:12] [Server thread/INFO]: - JOKER is now offline!
-2017-08-18 [00:52:12] [Server thread/INFO]: - JOKER 离开了游戏!
-2017-08-18 [00:52:12] [Server thread/INFO]: [AuthMePE] Player JOKER has logged out.
-2017-08-18 [00:52:12] [Server thread/INFO]: [AuthMePE] Player JOKER 离开了游戏.
-2017-08-18 [00:52:12] [Server thread/INFO]: JOKER[/106.114.15.253:5129] logged out due to client disconnect
-2017-08-18 [00:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [00:52:17] [Server thread/INFO]: yudingze : 建筑服在哪
-2017-08-18 [00:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [00:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [00:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-18 [00:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [00:52:39] [Server thread/INFO]: [帅X]an777 : 你要干嘛
-2017-08-18 [00:52:51] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:52:53] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:52:57] [Server thread/INFO]: yudingze : 去建筑服啊
-2017-08-18 [00:53:11] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:53:12] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [00:53:17] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:53:28] [Server thread/INFO]: [帅X]an777 : 你杀我
-2017-08-18 [00:53:36] [Server thread/INFO]: [帅X]an777 : 快
-2017-08-18 [00:53:36] [Server thread/INFO]: yudingze : 出阿里
-2017-08-18 [00:53:49] [Server thread/INFO]: yudingze : 出来
-2017-08-18 [00:54:18] [Server thread/INFO]: yudingze was slain by an777
-2017-08-18 [00:54:33] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:54:35] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:54:35] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:54:40] [Server thread/INFO]: yudingze : 额
-2017-08-18 [00:54:47] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [00:55:14] [Server thread/INFO]: an777 drowned
-2017-08-18 [00:55:18] [Server thread/INFO]: ali722[/37.237.238.9:1924] [ClientID: -7809854575992647385] logged in with entity id 2013 at (world, 128, 64, 128)
-2017-08-18 [00:55:42] [Server thread/INFO]: yudingze : 生存服在哪
-2017-08-18 [00:56:08] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [00:56:46] [Server thread/INFO]: ali722[/37.237.238.9:1924] logged out due to client disconnect
-2017-08-18 [00:56:55] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [00:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [00:57:26] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [00:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-18 [00:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [00:58:20] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [00:58:21] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [00:58:22] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:58:31] [Server thread/INFO]: yudingze was slain by an777
-2017-08-18 [00:58:34] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:58:36] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:58:38] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [00:59:13] [Server thread/INFO]: yudingze : 这服务器没用了
-2017-08-18 [00:59:28] [Server thread/INFO]: [帅X]an777 : 有用
-2017-08-18 [00:59:57] [Server thread/INFO]: PVP[/59.149.50.144:53411] [ClientID: -4561615290563282809] logged in with entity id 2083 at (world, 46.8147, 70, 224.2892)
-2017-08-18 [00:59:59] [Server thread/INFO]: [AuthMePE] Player PVP has logged in.
-2017-08-18 [00:59:59] [Server thread/INFO]: [AuthMePE] 玩家 PVP 登录了游戏。
-2017-08-18 [00:59:59] [Server thread/INFO]: - PVP is now online!
-2017-08-18 [00:59:59] [Server thread/INFO]: - PVP 现在上线了!
-2017-08-18 [01:00:04] [Server thread/INFO]: yudingze : 没看见服务器被i
-2017-08-18 [01:00:06] [Server thread/INFO]: [帅X]an777 : 只是熊孩子把这个服熊了
-2017-08-18 [01:00:10] [Server thread/INFO]: yudingze : 对啊
-2017-08-18 [01:00:23] [Server thread/INFO]: yudingze : 连主城都没了
-2017-08-18 [01:01:06] [Server thread/INFO]: yudingze : 额
-2017-08-18 [01:01:07] [Server thread/INFO]: [帅X]an777 : pvp，我拿到神器了
-2017-08-18 [01:01:15] [Server thread/INFO]: [我是男的]PVP : ？
-2017-08-18 [01:01:15] [Server thread/INFO]: [帅X]an777 : 看
-2017-08-18 [01:01:34] [Server thread/INFO]: [我是男的]PVP : 不是吧
-2017-08-18 [01:01:38] [Server thread/INFO]: yudingze : 我好像.....
-2017-08-18 [01:01:44] [Server thread/INFO]: [我是男的]PVP : 多錢
-2017-08-18 [01:01:49] [Server thread/INFO]: [帅X]an777 : 还我
-2017-08-18 [01:02:05] [Server thread/INFO]: [帅X]an777 : 不！
-2017-08-18 [01:02:13] [Server thread/INFO]: yudingze : 让我装会b
-2017-08-18 [01:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:02:17] [Server thread/INFO]: [我是男的]PVP : 不？
-2017-08-18 [01:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:02:23] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:02:32] [Server thread/INFO]: [帅X]an777 : 一分中
-2017-08-18 [01:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:02:34] [Server thread/INFO]: [我是男的]PVP : 要殺他嗎？
-2017-08-18 [01:02:38] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:02:42] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:02:47] [Server thread/INFO]: yudingze : 随你
-2017-08-18 [01:02:49] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:02:52] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:02:59] [Server thread/INFO]: [帅X]an777 : 还我
-2017-08-18 [01:03:07] [Server thread/INFO]: yudingze : 不好意思
-2017-08-18 [01:03:16] [Server thread/INFO]: yudingze : 我丢给你了
-2017-08-18 [01:03:30] [Server thread/INFO]: yudingze : 好像被清了
-2017-08-18 [01:03:31] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:03:36] [Server thread/INFO]: [帅X]an777 : 还我q
-2017-08-18 [01:03:53] [Server thread/INFO]: [帅X]an777 : 我操你妈
-2017-08-18 [01:03:54] [Server thread/INFO]: yudingze : 被清了？
-2017-08-18 [01:03:56] [Server thread/INFO]: [我是男的]PVP : 殺他？
-2017-08-18 [01:04:10] [Server thread/INFO]: yudingze : 卢拉拉鲁拉拉
-2017-08-18 [01:04:33] [Server thread/INFO]: yudingze : 自己放箱子里
-2017-08-18 [01:04:36] [Server thread/INFO]: yudingze : 笨蛋
-2017-08-18 [01:04:47] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:04:59] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:05:00] [Server thread/INFO]: [帅X]an777 : 屁都没有
-2017-08-18 [01:05:08] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:05:09] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:05:11] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:05:13] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:05:14] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:05:25] [Server thread/INFO]: yudingze : 来咬我啊
-2017-08-18 [01:05:35] [Server thread/INFO]: [帅X]an777 : 我的心崩溃了
-2017-08-18 [01:05:38] [Server thread/INFO]: [我是男的]PVP : 看著他
-2017-08-18 [01:05:48] [Server thread/INFO]: yudingze : 自杀去
-2017-08-18 [01:05:52] [Server thread/INFO]: yudingze : 88
-2017-08-18 [01:06:18] [Server thread/INFO]: [我是男的]PVP : 87
-2017-08-18 [01:06:25] [Server thread/INFO]: yudingze : 辣鸡
-2017-08-18 [01:06:50] [Server thread/INFO]: [帅X]an777 : 呜呜
-2017-08-18 [01:07:11] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:07:15] [Server thread/INFO]: yudingze : 把你东西交粗来.....
-2017-08-18 [01:07:16] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:07:27] [Server thread/INFO]: yudingze was slain by an777
-2017-08-18 [01:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:07:32] [Server thread/INFO]: [我是男的]PVP : 看
-2017-08-18 [01:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:07:37] [Server thread/INFO]: yudingze : 啦啦啦
-2017-08-18 [01:07:42] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:07:45] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:07:52] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:07:53] [Server thread/INFO]: yudingze : 意外不意外
-2017-08-18 [01:08:03] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:08:21] [Server thread/NOTICE]: Player data not found for "paintingrainbows", creating new profile
-2017-08-18 [01:08:21] [Server thread/INFO]: paintingrainbows[/89.211.148.195:54760] [ClientID: -3146352017439228449] logged in with entity id 2098 at (world, 128, 28, 128)
-2017-08-18 [01:08:22] [Server thread/INFO]: [帅X]an777 : 你有考虑过别人的感受吗！
-2017-08-18 [01:08:29] [Server thread/INFO]: yudingze : 没
-2017-08-18 [01:08:53] [Server thread/INFO]: [我是男的]PVP : BB新手
-2017-08-18 [01:09:07] [Server thread/INFO]: yudingze : 就是你
-2017-08-18 [01:09:14] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:09:16] [Server thread/WARNING]: paintingrainbows moved too fast, reverting movement
-2017-08-18 [01:09:18] [Server thread/INFO]: [帅X]an777 : 别人把你的箱子拿了你开心吗！
-2017-08-18 [01:09:19] [Server thread/NOTICE]: Player data not found for "coiriwa", creating new profile
-2017-08-18 [01:09:19] [Server thread/INFO]: coiriwa[/194.230.112.214:59149] [ClientID: -5370166839039020058] logged in with entity id 2099 at (world, 128, 28, 128)
-2017-08-18 [01:09:21] [Server thread/INFO]: [我是男的]PVP : 你才是
-2017-08-18 [01:09:23] [Server thread/INFO]: yudingze : 开心
-2017-08-18 [01:09:33] [Server thread/INFO]: yudingze : 应为我没有
-2017-08-18 [01:09:54] [Server thread/INFO]: [我是男的]PVP : 你有，我就拿
-2017-08-18 [01:09:54] [Server thread/INFO]: coiriwa[/194.230.112.214:59149] logged out due to client disconnect
-2017-08-18 [01:10:00] [Server thread/INFO]: yudingze : 来啊
-2017-08-18 [01:10:01] [Server thread/INFO]: paintingrainbows[/89.211.148.195:54760] logged out due to client disconnect
-2017-08-18 [01:10:03] [Server thread/INFO]: [帅X]an777 : 你提出一样没有了
-2017-08-18 [01:10:12] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:10:12] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:10:28] [Server thread/INFO]: [我是男的]PVP : 嘿
-2017-08-18 [01:10:54] [Server thread/INFO]: yudingze fell from a high place
-2017-08-18 [01:10:58] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:11:11] [Server thread/INFO]: yudingze : sb
-2017-08-18 [01:11:23] [Server thread/INFO]: [帅X]an777 : 我吧我装放箱子里面，你在偷我就杀了你
-2017-08-18 [01:11:39] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:11:45] [Server thread/INFO]: yudingze : 有件事
-2017-08-18 [01:11:48] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:11:50] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:12:06] [Server thread/INFO]: yudingze : 我可以炸了这地方
-2017-08-18 [01:12:08] [Server thread/INFO]: [帅X]an777 : 哼
-2017-08-18 [01:12:08] [Server thread/INFO]: [我是男的]PVP : .......
-2017-08-18 [01:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:12:26] [Server thread/INFO]: [帅X]an777 : 你炸啊
-2017-08-18 [01:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:12:31] [Server thread/INFO]: yudingze fell from a high place
-2017-08-18 [01:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:12:34] [Server thread/INFO]: [我是男的]PVP : 是你炸服？
-2017-08-18 [01:12:42] [Server thread/INFO]: yudingze : 不是啊
-2017-08-18 [01:12:45] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:12:50] [Server thread/INFO]: [我是男的]PVP : 87
-2017-08-18 [01:12:56] [Server thread/INFO]: yudingze : 是我的话我早死了
-2017-08-18 [01:13:13] [Server thread/INFO]: [我是男的]PVP : 死就死
-2017-08-18 [01:13:17] [Server thread/INFO]: yudingze : 谁敢来我这
-2017-08-18 [01:13:29] [Server thread/INFO]: [帅X]an777 : 你换不换我装
-2017-08-18 [01:13:42] [Server thread/INFO]: - PVP is now offline!
-2017-08-18 [01:13:42] [Server thread/INFO]: - PVP 离开了游戏!
-2017-08-18 [01:13:42] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
-2017-08-18 [01:13:42] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
-2017-08-18 [01:13:42] [Server thread/INFO]: PVP[/59.149.50.144:53411] logged out due to timeout
-2017-08-18 [01:13:46] [Server thread/INFO]: yudingze : 哈哈
-2017-08-18 [01:13:57] [Server thread/INFO]: PVP[/59.149.50.144:57277] [ClientID: -4561615290563282809] logged in with entity id 2100 at (th, 89.1812, 65, 137.4861)
-2017-08-18 [01:13:59] [Server thread/INFO]: [AuthMePE] Player PVP has logged in.
-2017-08-18 [01:13:59] [Server thread/INFO]: [AuthMePE] 玩家 PVP 登录了游戏。
-2017-08-18 [01:13:59] [Server thread/INFO]: - PVP is now online!
-2017-08-18 [01:13:59] [Server thread/INFO]: - PVP 现在上线了!
-2017-08-18 [01:14:11] [Server thread/INFO]: yudingze : 一对基友
-2017-08-18 [01:14:13] [Server thread/INFO]: [帅X]an777 : 你不换我就用外挂
-2017-08-18 [01:14:24] [Server thread/INFO]: yudingze : 用啊
-2017-08-18 [01:14:25] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:14:26] [Server thread/INFO]: yudingze : 辣鸡
-2017-08-18 [01:14:39] [Server thread/INFO]: [帅X]an777 : 我是外挂你知不知道啊
-2017-08-18 [01:14:49] [Server thread/INFO]: yudingze : 不知道
-2017-08-18 [01:14:53] [Server thread/INFO]: yudingze : 辣鸡
-2017-08-18 [01:15:07] [Server thread/INFO]: [我是男的]PVP : an777，你PVP有多強
-2017-08-18 [01:15:12] [Server thread/INFO]: [帅X]an777 : 这个服就是我炸的
-2017-08-18 [01:15:20] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:24] [Server thread/INFO]: yudingze : 继续编
-2017-08-18 [01:15:25] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:28] [Server thread/INFO]: yudingze : 好好听
-2017-08-18 [01:15:30] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:32] [Server thread/INFO]: yudingze : 继续
-2017-08-18 [01:15:34] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:35] [Server thread/INFO]: [帅X]an777 : 你能怎样
-2017-08-18 [01:15:38] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:43] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:47] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:50] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:15:54] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:15:57] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:15:59] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:16:06] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:16:10] [Server thread/INFO]: [我是男的]PVP : ......
-2017-08-18 [01:16:12] [Server thread/INFO]: [帅X]an777 : 怎么了
-2017-08-18 [01:16:22] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:16:24] [Server thread/INFO]: yudingze : 我有4bufd
-2017-08-18 [01:16:28] [Server thread/INFO]: yudingze : buff
-2017-08-18 [01:16:38] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:16:48] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:16:48] [Server thread/INFO]: [我是男的]PVP : 你炸了服，服要什麼玩
-2017-08-18 [01:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:17:18] [Server thread/INFO]: [帅X]an777 : 我讨厌熊孩子
-2017-08-18 [01:17:20] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:17:35] [Server thread/INFO]: yudingze : 而你就是
-2017-08-18 [01:17:43] [Server thread/INFO]: yudingze : 自己讨厌自己
-2017-08-18 [01:17:45] [Server thread/INFO]: yudingze : ...
-2017-08-18 [01:17:47] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:17:55] [Server thread/INFO]: [我是男的]PVP : 等等yudingze會告訴服主是你炸服
-2017-08-18 [01:18:12] [Server thread/INFO]: [帅X]an777 : 你说吧
-2017-08-18 [01:18:15] [Server thread/INFO]: yudingze : can you kill me？
-2017-08-18 [01:18:16] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:18:24] [Server thread/INFO]: [我是男的]PVP : 什麼！？
-2017-08-18 [01:18:33] [Server thread/INFO]: yudingze : 小学生
-2017-08-18 [01:18:42] [Server thread/INFO]: yudingze : 英语差成这样
-2017-08-18 [01:18:50] [Server thread/INFO]: [我是男的]PVP : 我想死
-2017-08-18 [01:18:57] [Server thread/INFO]: yudingze : 死去吧
-2017-08-18 [01:19:05] [Server thread/INFO]: [帅X]an777 : 我有好多服可以黑啊
-2017-08-18 [01:19:22] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:19:23] [Server thread/INFO]: yudingze : 继续编
-2017-08-18 [01:19:24] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:19:27] [Server thread/INFO]: yudingze : 好好听
-2017-08-18 [01:19:52] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:19:53] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:19:53] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:19:54] [Server thread/INFO]: Steve[/116.225.102.183:65110] [ClientID: -7214584495662463206] logged in with entity id 2104 at (world, 129.2735, 28, 127.8743)
-2017-08-18 [01:20:01] [Server thread/INFO]: [帅X]an777 : pvp我有一个秘密要和你说
-2017-08-18 [01:20:06] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:20:10] [Server thread/INFO]: Steve[/116.225.102.183:65110] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [01:20:18] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:20:30] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:20:32] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:20:33] [Server thread/INFO]: Steve[/116.225.102.183:65110] [ClientID: -7214584495662463206] logged in with entity id 2105 at (world, 128, 28, 128)
-2017-08-18 [01:20:45] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:20:47] [Server thread/INFO]: yudingze was slain by PVP
-2017-08-18 [01:20:49] [Server thread/INFO]: Steve[/116.225.102.183:65110] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [01:20:53] [Server thread/INFO]: yudingze : 呵呵
-2017-08-18 [01:20:57] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:20:59] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:01] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:04] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:04] [Server thread/INFO]: yudingze fell from a high place
-2017-08-18 [01:21:17] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:19] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:25] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:26] [Server thread/INFO]: [我是男的]PVP : an777，我們來比一比PVP
-2017-08-18 [01:21:41] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:21:49] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:21:52] [Server thread/INFO]: [帅X]an777 : pvp 你借我一个铁高
-2017-08-18 [01:21:55] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:21:59] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:22:20] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:22:21] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:22:25] [Server thread/INFO]: [帅X]an777 : 借我铁稿子
-2017-08-18 [01:22:28] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:22:30] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:22:34] [Server thread/INFO]: supergirlygamer[/67.3.220.74:61417] [ClientID: 4328457748356925880] logged in with entity id 2107 at (world, 128, 64, 128)
-2017-08-18 [01:22:35] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:22:41] [Server thread/INFO]: [我是男的]PVP : 我無
-2017-08-18 [01:22:42] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:22:50] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:22:54] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:22:58] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:23:01] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:23:05] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:23:09] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:23:18] [Server thread/INFO]: supergirlygamer[/67.3.220.74:61417] logged out due to client disconnect
-2017-08-18 [01:23:22] [Server thread/INFO]: yudingze : 哈啊哈
-2017-08-18 [01:23:27] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:23:55] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:23:57] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:24:00] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:24:09] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:24:13] [Server thread/INFO]: [我是男的]PVP : 來1v1
-2017-08-18 [01:24:22] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:24:27] [Server thread/INFO]: TY19356[/59.149.29.33:63966] [ClientID: 5671455099816361817] logged in with entity id 2108 at (world, 128, 28, 128)
-2017-08-18 [01:24:32] [Server thread/INFO]: [帅X]an777 : 我看到了什么
-2017-08-18 [01:24:33] [Server thread/INFO]: yudingze was slain by PVP
-2017-08-18 [01:24:35] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:24:35] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:24:38] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:24:39] [Server thread/INFO]: [AuthMePE] Player TY19356 has logged in.
-2017-08-18 [01:24:39] [Server thread/INFO]: [AuthMePE] 玩家 TY19356 登录了游戏。
-2017-08-18 [01:24:39] [Server thread/INFO]: - TY19356 is now online!
-2017-08-18 [01:24:39] [Server thread/INFO]: - TY19356 现在上线了!
-2017-08-18 [01:24:42] [Server thread/INFO]: [我是男的]PVP : 什麼
-2017-08-18 [01:25:20] [Server thread/INFO]: yudingze was slain by PVP
-2017-08-18 [01:25:32] [Server thread/INFO]: yudingze fell from a high place
-2017-08-18 [01:25:35] [Server thread/WARNING]: TY19356 moved wrongly!
-2017-08-18 [01:25:43] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:25:44] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:25:51] [Server thread/WARNING]: an777 moved too fast, reverting movement
-2017-08-18 [01:25:54] [Server thread/WARNING]: TY19356 moved wrongly!
-2017-08-18 [01:25:57] [Server thread/INFO]: [我是男的]PVP : PVP
-2017-08-18 [01:26:01] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:26:01] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:26:02] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:26:03] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:26:23] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:26:27] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:26:29] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:26:35] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:26:46] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:26:55] [Server thread/INFO]: an777 was slain by PVP
-2017-08-18 [01:27:05] [Server thread/INFO]: [我是男的]PVP : 簡單
-2017-08-18 [01:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:27:14] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:27:21] [Server thread/INFO]: [帅X]an777 : 你有钻石装
-2017-08-18 [01:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:27:26] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:27:28] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:27:30] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:27:43] [Server thread/INFO]: [我是男的]PVP : 穿
-2017-08-18 [01:28:04] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:28:22] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:28:25] [Server thread/INFO]: an777 was slain by PVP
-2017-08-18 [01:28:46] [Server thread/INFO]: yudingze was slain by PVP
-2017-08-18 [01:29:05] [Server thread/INFO]: - TY19356 is now offline!
-2017-08-18 [01:29:05] [Server thread/INFO]: - TY19356 离开了游戏!
-2017-08-18 [01:29:05] [Server thread/INFO]: [AuthMePE] Player TY19356 has logged out.
-2017-08-18 [01:29:05] [Server thread/INFO]: [AuthMePE] Player TY19356 离开了游戏.
-2017-08-18 [01:29:05] [Server thread/INFO]: TY19356[/59.149.29.33:63966] logged out due to client disconnect
-2017-08-18 [01:29:06] [Server thread/INFO]: [我是男的]PVP : 你太弱了
-2017-08-18 [01:29:11] [Server thread/INFO]: an777 was slain by PVP
-2017-08-18 [01:29:22] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:29:26] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:30:04] [Server thread/INFO]: yudingze : 额
-2017-08-18 [01:30:17] [Server thread/INFO]: [我是男的]PVP : 穿裝
-2017-08-18 [01:30:30] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:30:32] [Server thread/INFO]: [帅X]an777 : pvp我是外挂，但是我只开矿物透视
-2017-08-18 [01:31:03] [Server thread/INFO]: [我是男的]PVP : 來吧我不怕外掛
-2017-08-18 [01:31:10] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:31:30] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:31:47] [Server thread/NOTICE]: Player data not found for "ryan21191", creating new profile
-2017-08-18 [01:31:47] [Server thread/INFO]: Ryan21191[/151.254.96.242:1279] [ClientID: -4191909716150156807] logged in with entity id 2124 at (world, 128, 28, 128)
-2017-08-18 [01:32:11] [Server thread/INFO]: - an777 is now offline!
-2017-08-18 [01:32:11] [Server thread/INFO]: - an777 离开了游戏!
-2017-08-18 [01:32:11] [Server thread/INFO]: [AuthMePE] Player an777 has logged out.
-2017-08-18 [01:32:11] [Server thread/INFO]: [AuthMePE] Player an777 离开了游戏.
-2017-08-18 [01:32:11] [Server thread/INFO]: an777[/191.115.12.123:53947] logged out due to timeout
-2017-08-18 [01:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:32:16] [Server thread/INFO]: Ryan21191[/151.254.96.242:1279] logged out due to timeout
-2017-08-18 [01:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:32:24] [Server thread/INFO]: yudingze fell from a high place
-2017-08-18 [01:32:27] [Server thread/INFO]: yudingze : 哈哈
-2017-08-18 [01:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:32:44] [Server thread/INFO]: yudingze : 辣鸡
-2017-08-18 [01:33:00] [Server thread/INFO]: PvP Panda[/73.93.205.98:49823] logged out due to Invalid name!
-2017-08-18 [01:33:07] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:33:15] [Server thread/INFO]: yudingze : 哈哈
-2017-08-18 [01:34:02] [Server thread/INFO]: yudingze : 逼我
-2017-08-18 [01:34:05] [Server thread/INFO]: [我是男的]PVP : 87
-2017-08-18 [01:34:28] [Server thread/INFO]: yudingze : tpa 810 ps
-2017-08-18 [01:34:29] [Server thread/INFO]: Steve[/151.254.127.45:1322] [ClientID: 1737015644246687359] logged in with entity id 2129 at (world, 128, 28, 128)
-2017-08-18 [01:34:48] [Server thread/INFO]: Steve[/151.254.127.45:1322] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [01:35:49] [Server thread/INFO]: an777[/191.115.12.123:63338] [ClientID: -8619395324991419171] logged in with entity id 2135 at (th, 101.725, 58, 70.8226)
-2017-08-18 [01:35:52] [Server thread/INFO]: [AuthMePE] Player an777 has logged in.
-2017-08-18 [01:35:52] [Server thread/INFO]: [AuthMePE] 玩家 an777 登录了游戏。
-2017-08-18 [01:35:52] [Server thread/INFO]: - an777 is now online!
-2017-08-18 [01:35:52] [Server thread/INFO]: - an777 现在上线了!
-2017-08-18 [01:36:16] [Server thread/INFO]: yudingze : 不稀罕 我家到处是
-2017-08-18 [01:36:21] [Server thread/INFO]: Steve[/151.254.127.45:1322] [ClientID: 1737015644246687359] logged in with entity id 2139 at (world, 127.7576, 28, 127.9804)
-2017-08-18 [01:36:28] [Server thread/INFO]: [/95.56.123.55:57485] logged out due to client disconnect
-2017-08-18 [01:36:28] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:36:33] [Server thread/INFO]: yudingze was slain by PVP
-2017-08-18 [01:36:37] [Server thread/INFO]: yudingze : 谢谢
-2017-08-18 [01:36:39] [Server thread/INFO]: [我是男的]PVP : 87
-2017-08-18 [01:36:39] [Server thread/INFO]: Steve[/151.254.127.45:1322] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [01:36:58] [Server thread/INFO]: [帅X]an777 : 我又拿到神器了
-2017-08-18 [01:37:11] [Server thread/INFO]: [我是男的]PVP : 又有！
-2017-08-18 [01:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:37:19] [Server thread/INFO]: [帅X]an777 : 是啊
-2017-08-18 [01:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:37:29] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:37:29] [Server thread/INFO]: [帅X]an777 : 送你吧
-2017-08-18 [01:37:30] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:37:47] [Server thread/INFO]: yudingze : 哈哈
-2017-08-18 [01:37:56] [Server thread/INFO]: [帅X]an777 : 我操你奶奶的
-2017-08-18 [01:37:59] [Server thread/WARNING]: PVP moved wrongly!
-2017-08-18 [01:38:02] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:38:28] [Server thread/WARNING]: an777 moved wrongly!
-2017-08-18 [01:38:45] [Server thread/INFO]: [帅X]an777 : pvp
-2017-08-18 [01:38:52] [Server thread/INFO]: [我是男的]PVP : 什麼事
-2017-08-18 [01:39:18] [Server thread/INFO]: [帅X]an777 : 我爸说名天给我买op
-2017-08-18 [01:39:31] [Server thread/INFO]: [我是男的]PVP : 炸居民區
-2017-08-18 [01:40:11] [Server thread/INFO]: [帅X]an777 : 名天我见到他就刷他重生点
-2017-08-18 [01:40:25] [Server thread/INFO]: yudingze : 等这你
-2017-08-18 [01:40:39] [Server thread/INFO]: yudingze : 小混混
-2017-08-18 [01:41:25] [Server thread/INFO]: [我是男的]PVP : 沒電了
-2017-08-18 [01:41:27] [Server thread/INFO]: - PVP is now offline!
-2017-08-18 [01:41:27] [Server thread/INFO]: - PVP 离开了游戏!
-2017-08-18 [01:41:27] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
-2017-08-18 [01:41:27] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
-2017-08-18 [01:41:27] [Server thread/INFO]: PVP[/59.149.50.144:57277] logged out due to client disconnect
-2017-08-18 [01:41:48] [Server thread/INFO]: - an777 is now offline!
-2017-08-18 [01:41:48] [Server thread/INFO]: - an777 离开了游戏!
-2017-08-18 [01:41:48] [Server thread/INFO]: [AuthMePE] Player an777 has logged out.
-2017-08-18 [01:41:48] [Server thread/INFO]: [AuthMePE] Player an777 离开了游戏.
-2017-08-18 [01:41:48] [Server thread/INFO]: an777[/191.115.12.123:63338] logged out due to client disconnect
-2017-08-18 [01:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:42:14] [Server thread/WARNING]: yudingze moved wrongly!
-2017-08-18 [01:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:42:56] [Server thread/NOTICE]: Player data not found for "dengjunhui", creating new profile
-2017-08-18 [01:42:56] [Server thread/INFO]: dengjunhui[/183.45.232.148:49926] [ClientID: -8352051051974892013] logged in with entity id 2197 at (world, 128, 28, 128)
-2017-08-18 [01:43:52] [Server thread/INFO]: - yudingze is now offline!
-2017-08-18 [01:43:52] [Server thread/INFO]: - yudingze 离开了游戏!
-2017-08-18 [01:43:52] [Server thread/INFO]: [AuthMePE] Player yudingze has logged out.
-2017-08-18 [01:43:52] [Server thread/INFO]: [AuthMePE] Player yudingze 离开了游戏.
-2017-08-18 [01:43:52] [Server thread/INFO]: yudingze[/113.222.203.245:2078] logged out due to client disconnect
-2017-08-18 [01:44:16] [Server thread/INFO]: [AuthMePE] Player dengjunhui has logged in.
-2017-08-18 [01:44:16] [Server thread/INFO]: [AuthMePE] 玩家 dengjunhui 登录了游戏。
-2017-08-18 [01:44:16] [Server thread/INFO]: - dengjunhui is now online!
-2017-08-18 [01:44:16] [Server thread/INFO]: - dengjunhui 现在上线了!
-2017-08-18 [01:44:18] [Server thread/INFO]: yudingze[/113.222.203.245:4247] [ClientID: -4268168162490666647] logged in with entity id 2208 at (th, 74.3251, 67, 125.0104)
-2017-08-18 [01:44:19] [Server thread/INFO]: [AuthMePE] Player yudingze has logged in.
-2017-08-18 [01:44:19] [Server thread/INFO]: [AuthMePE] 玩家 yudingze 登录了游戏。
-2017-08-18 [01:44:19] [Server thread/INFO]: - yudingze is now online!
-2017-08-18 [01:44:19] [Server thread/INFO]: - yudingze 现在上线了!
-2017-08-18 [01:44:42] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:45:01] [Server thread/INFO]: - yudingze is now offline!
-2017-08-18 [01:45:01] [Server thread/INFO]: - yudingze 离开了游戏!
-2017-08-18 [01:45:01] [Server thread/INFO]: [AuthMePE] Player yudingze has logged out.
-2017-08-18 [01:45:01] [Server thread/INFO]: [AuthMePE] Player yudingze 离开了游戏.
-2017-08-18 [01:45:01] [Server thread/INFO]: yudingze[/113.222.203.245:4247] logged out due to client disconnect
-2017-08-18 [01:45:06] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:45:07] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:46:01] [Server thread/INFO]: - dengjunhui is now offline!
-2017-08-18 [01:46:01] [Server thread/INFO]: - dengjunhui 离开了游戏!
-2017-08-18 [01:46:01] [Server thread/INFO]: [AuthMePE] Player dengjunhui has logged out.
-2017-08-18 [01:46:01] [Server thread/INFO]: [AuthMePE] Player dengjunhui 离开了游戏.
-2017-08-18 [01:46:01] [Server thread/INFO]: dengjunhui[/183.45.232.148:49926] logged out due to timeout
-2017-08-18 [01:46:22] [Server thread/INFO]: dengjunhui[/183.45.232.148:60027] [ClientID: -8352051051974892013] logged in with entity id 2219 at (th, -34.4613, 65, 148.8013)
-2017-08-18 [01:46:23] [Server thread/INFO]: [AuthMePE] Player dengjunhui has logged in.
-2017-08-18 [01:46:23] [Server thread/INFO]: [AuthMePE] 玩家 dengjunhui 登录了游戏。
-2017-08-18 [01:46:23] [Server thread/INFO]: - dengjunhui is now online!
-2017-08-18 [01:46:23] [Server thread/INFO]: - dengjunhui 现在上线了!
-2017-08-18 [01:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-18 [01:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:48:02] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:48:27] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:48:29] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:48:36] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:48:37] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:48:38] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:48:46] [Server thread/WARNING]: dengjunhui moved wrongly!
-2017-08-18 [01:49:28] [Server thread/INFO]: - dengjunhui is now offline!
-2017-08-18 [01:49:28] [Server thread/INFO]: - dengjunhui 离开了游戏!
-2017-08-18 [01:49:28] [Server thread/INFO]: [AuthMePE] Player dengjunhui has logged out.
-2017-08-18 [01:49:28] [Server thread/INFO]: [AuthMePE] Player dengjunhui 离开了游戏.
-2017-08-18 [01:49:28] [Server thread/INFO]: dengjunhui[/183.45.232.148:60027] logged out due to timeout
-2017-08-18 [01:49:50] [Server thread/INFO]: Steve[/117.24.46.123:19809] [ClientID: -8849056121022921755] logged in with entity id 2239 at (world, 128, 28, 128)
-2017-08-18 [01:50:07] [Server thread/INFO]: Steve[/117.24.46.123:19809] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [01:50:19] [Server thread/INFO]: dengjunhui[/183.45.232.148:57725] [ClientID: -8352051051974892013] logged in with entity id 2240 at (th, 126.9331, 65, 134.7936)
-2017-08-18 [01:50:21] [Server thread/INFO]: [AuthMePE] Player dengjunhui has logged in.
-2017-08-18 [01:50:21] [Server thread/INFO]: [AuthMePE] 玩家 dengjunhui 登录了游戏。
-2017-08-18 [01:50:21] [Server thread/INFO]: - dengjunhui is now online!
-2017-08-18 [01:50:21] [Server thread/INFO]: - dengjunhui 现在上线了!
-2017-08-18 [01:50:25] [Server thread/INFO]: Steve[/117.24.46.123:19809] [ClientID: -8849056121022921755] logged in with entity id 2241 at (world, 128, 28, 128)
-2017-08-18 [01:50:41] [Server thread/INFO]: Steve[/117.24.46.123:19809] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [01:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:52:51] [Server thread/INFO]: - dengjunhui is now offline!
-2017-08-18 [01:52:51] [Server thread/INFO]: - dengjunhui 离开了游戏!
-2017-08-18 [01:52:51] [Server thread/INFO]: [AuthMePE] Player dengjunhui has logged out.
-2017-08-18 [01:52:51] [Server thread/INFO]: [AuthMePE] Player dengjunhui 离开了游戏.
-2017-08-18 [01:52:51] [Server thread/INFO]: dengjunhui[/183.45.232.148:57725] logged out due to client disconnect
-2017-08-18 [01:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [01:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [01:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [01:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [01:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [01:59:57] [Server thread/INFO]: [/76.169.96.69:19132] logged out due to client disconnect
-2017-08-18 [02:01:16] [Server thread/INFO]: [/76.169.96.69:19132] logged out due to client disconnect
-2017-08-18 [02:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:17:26] [Server thread/INFO]: PVP[/59.149.50.144:59212] [ClientID: -4561615290563282809] logged in with entity id 2267 at (th, 84.2926, 65, 152.9464)
-2017-08-18 [02:17:28] [Server thread/INFO]: [AuthMePE] Player PVP has logged in.
-2017-08-18 [02:17:28] [Server thread/INFO]: [AuthMePE] 玩家 PVP 登录了游戏。
-2017-08-18 [02:17:28] [Server thread/INFO]: - PVP is now online!
-2017-08-18 [02:17:28] [Server thread/INFO]: - PVP 现在上线了!
-2017-08-18 [02:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:18:58] [Server thread/INFO]: - PVP is now offline!
-2017-08-18 [02:18:58] [Server thread/INFO]: - PVP 离开了游戏!
-2017-08-18 [02:18:58] [Server thread/INFO]: [AuthMePE] Player PVP has logged out.
-2017-08-18 [02:18:58] [Server thread/INFO]: [AuthMePE] Player PVP 离开了游戏.
-2017-08-18 [02:18:58] [Server thread/INFO]: PVP[/59.149.50.144:59212] logged out due to client disconnect
-2017-08-18 [02:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [02:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [02:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [02:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [02:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [02:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [02:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [02:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [02:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [02:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [02:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [02:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [02:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [02:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [02:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [02:54:51] [Server thread/INFO]: WAR ROBOT MIKE[/90.209.195.70:62236] logged out due to Invalid name!
+2017-08-18 [02:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [02:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [02:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [02:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [02:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:49:55] [Server thread/NOTICE]: Player data not found for "mlgpro", creating new profile
+2017-08-18 [03:49:55] [Server thread/INFO]: MLGpro[/68.39.34.38:59706] [ClientID: -1076702535201965562] logged in with entity id 2281 at (world, 128, 28, 128)
+2017-08-18 [03:50:48] [Server thread/WARNING]: MLGpro moved too fast, reverting movement
+2017-08-18 [03:52:02] [Server thread/INFO]: MLGpro[/68.39.34.38:59706] logged out due to timeout
+2017-08-18 [03:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [03:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [03:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [03:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [03:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [03:58:28] [Server thread/INFO]: heven nooooooooo[/104.189.117.35:57315] logged out due to Invalid name!
+2017-08-18 [03:58:53] [Server thread/INFO]: heven nooooooooo[/104.189.117.35:57315] logged out due to Invalid name!
+2017-08-18 [04:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [04:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [04:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [04:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [04:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [04:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
