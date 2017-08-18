@@ -1,783 +1,1501 @@
-2017-08-18 [06:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [06:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [06:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [06:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [06:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [06:55:21] [Server thread/INFO]: Steve[/177.206.120.180:56850] [ClientID: 4069389195487736299] logged in with entity id 2287 at (world, 128, 28, 128)
-2017-08-18 [06:55:38] [Server thread/INFO]: Steve[/177.206.120.180:56850] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [06:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [06:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [06:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [06:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [06:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:05:32] [Server thread/INFO]: Zi_Jian[/222.64.214.167:51309] [ClientID: -1406958944971828348] logged in with entity id 2288 at (world, 128.479, 28, 128.5616)
-2017-08-18 [07:05:39] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
-2017-08-18 [07:05:39] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
-2017-08-18 [07:05:39] [Server thread/INFO]: - Zi_Jian is now online!
-2017-08-18 [07:05:39] [Server thread/INFO]: - Zi_Jian 现在上线了!
-2017-08-18 [07:05:50] [Server thread/INFO]: - Zi_Jian is now offline!
-2017-08-18 [07:05:50] [Server thread/INFO]: - Zi_Jian 离开了游戏!
-2017-08-18 [07:05:50] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged out.
-2017-08-18 [07:05:50] [Server thread/INFO]: [AuthMePE] Player Zi_Jian 离开了游戏.
-2017-08-18 [07:05:50] [Server thread/INFO]: Zi_Jian[/222.64.214.167:51309] logged out due to client disconnect
-2017-08-18 [07:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:29:06] [Server thread/INFO]: zxcvbnmsssbbbb[/60.24.209.23:51312] [ClientID: 239014814759295871] logged in with entity id 2289 at (world, 127.3, 27, 127.3)
-2017-08-18 [07:29:08] [Server thread/INFO]: [AuthMePE] Player zxcvbnmsssbbbb has logged in.
-2017-08-18 [07:29:08] [Server thread/INFO]: [AuthMePE] 玩家 zxcvbnmsssbbbb 登录了游戏。
-2017-08-18 [07:29:08] [Server thread/INFO]: - zxcvbnmsssbbbb is now online!
-2017-08-18 [07:29:08] [Server thread/INFO]: - zxcvbnmsssbbbb 现在上线了!
-2017-08-18 [07:29:20] [Server thread/INFO]: - zxcvbnmsssbbbb is now offline!
-2017-08-18 [07:29:20] [Server thread/INFO]: - zxcvbnmsssbbbb 离开了游戏!
-2017-08-18 [07:29:20] [Server thread/INFO]: [AuthMePE] Player zxcvbnmsssbbbb has logged out.
-2017-08-18 [07:29:20] [Server thread/INFO]: [AuthMePE] Player zxcvbnmsssbbbb 离开了游戏.
-2017-08-18 [07:29:20] [Server thread/INFO]: zxcvbnmsssbbbb[/60.24.209.23:51312] logged out due to client disconnect
-2017-08-18 [07:30:42] [Server thread/INFO]: swp[/58.217.178.244:13104] [ClientID: 7013911024529605075] logged in with entity id 2290 at (th, 174.7338, 66, 138.4836)
-2017-08-18 [07:30:57] [Server thread/INFO]: [AuthMePE] Player swp has logged in.
-2017-08-18 [07:30:57] [Server thread/INFO]: [AuthMePE] 玩家 swp 登录了游戏。
-2017-08-18 [07:30:57] [Server thread/INFO]: - swp is now online!
-2017-08-18 [07:30:57] [Server thread/INFO]: - swp 现在上线了!
-2017-08-18 [07:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:34:35] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:36:50] [Server thread/INFO]: liuliu2008[/101.93.208.201:58726] [ClientID: 6961735811638613043] logged in with entity id 2370 at (world, 128, 28, 128)
-2017-08-18 [07:37:01] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
-2017-08-18 [07:37:01] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
-2017-08-18 [07:37:01] [Server thread/INFO]: - liuliu2008 is now online!
-2017-08-18 [07:37:01] [Server thread/INFO]: - liuliu2008 现在上线了!
-2017-08-18 [07:37:08] [Server thread/INFO]: swp : 有人吗
-2017-08-18 [07:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:37:23] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:39:33] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:40:19] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:40:25] [Server thread/INFO]: * liuliu2008 1
-2017-08-18 [07:40:35] [Server thread/INFO]: swp : 在吗
-2017-08-18 [07:40:42] [Server thread/INFO]: [SVIP]liuliu2008 : 我在
-2017-08-18 [07:41:22] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:41:28] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:42:31] [Server thread/INFO]: SuperGirlyGamer[/45.30.61.217:49550] [ClientID: 939781504602544702] logged in with entity id 2396 at (th, 130, 65, 131)
-2017-08-18 [07:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:42:39] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:42:41] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:42:42] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:43:07] [Server thread/INFO]: swp : hi
-2017-08-18 [07:43:46] [Server thread/INFO]: SuperGirlyGamer[/45.30.61.217:49550] logged out due to client disconnect
-2017-08-18 [07:44:12] [Server thread/INFO]: [SVIP]liuliu2008 : 我在做公益广告
-2017-08-18 [07:44:21] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:46:03] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:47:07] [Server thread/INFO]: [SVIP]liuliu2008 : 你要看我的公益广告
-2017-08-18 [07:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:47:14] [Server thread/INFO]: [SVIP]liuliu2008 : 吗
-2017-08-18 [07:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:47:28] [Server thread/INFO]: swp : 你人呢
-2017-08-18 [07:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:47:32] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:47:48] [Server thread/INFO]: [SVIP]liuliu2008 : 输入/找人 我的名字
-2017-08-18 [07:48:30] [Server thread/INFO]: swp : 好
-2017-08-18 [07:48:32] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:48:42] [Server thread/INFO]: swp : 他一直杀我
-2017-08-18 [07:48:44] [Server thread/INFO]: [SVIP]liuliu2008 : pvp他炸了我家
-2017-08-18 [07:48:55] [Server thread/INFO]: swp : 你家呢？
-2017-08-18 [07:49:10] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:49:24] [Server thread/INFO]: [SVIP]liuliu2008 : 修好了
-2017-08-18 [07:49:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:49:38] [Server thread/INFO]: swp : 不错
-2017-08-18 [07:49:48] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:50:04] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:50:08] [Server thread/INFO]: matt[/69.120.248.118:57576] [ClientID: -2507715638748955108] logged in with entity id 2399 at (th, 112.5907, 65, 159.7826)
-2017-08-18 [07:50:25] [Server thread/INFO]: matt[/69.120.248.118:57576] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [07:50:34] [Server thread/INFO]: matt[/69.120.248.118:57576] [ClientID: -2507715638748955108] logged in with entity id 2400 at (th, 130, 65, 131)
-2017-08-18 [07:50:51] [Server thread/INFO]: matt[/69.120.248.118:57576] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [07:50:52] [Server thread/INFO]: Zi_Jian[/222.64.214.167:62394] [ClientID: -1406958944971828348] logged in with entity id 2401 at (world, 127.3, 28, 128.7)
-2017-08-18 [07:50:52] [Server thread/INFO]: [SVIP]liuliu2008 : pvp偷了我的药水
-2017-08-18 [07:50:58] [Server thread/INFO]: swp : 我们交个朋友吧
-2017-08-18 [07:50:59] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
-2017-08-18 [07:50:59] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
-2017-08-18 [07:50:59] [Server thread/INFO]: - Zi_Jian is now online!
-2017-08-18 [07:50:59] [Server thread/INFO]: - Zi_Jian 现在上线了!
-2017-08-18 [07:51:03] [Server thread/INFO]: [SVIP]liuliu2008 : OK
-2017-08-18 [07:51:19] [Server thread/INFO]: swp : zi jian lai l
-2017-08-18 [07:51:27] [Server thread/NOTICE]: Player data not found for "yuujinn", creating new profile
-2017-08-18 [07:51:27] [Server thread/INFO]: YUUJINN[/119.105.150.47:51282] [ClientID: -4645184606194557346] logged in with entity id 2402 at (world, 128, 28, 128)
-2017-08-18 [07:51:27] [Server thread/INFO]: [SVIP]liuliu2008 : 我还有两个朋友
-2017-08-18 [07:51:35] [Server thread/INFO]: swp : 我也是
-2017-08-18 [07:51:45] [Server thread/INFO]: [主播]Zi_Jian : 我从hypixel回来了
-2017-08-18 [07:52:07] [Server thread/INFO]: [/111.18.34.76:9140] logged out due to timeout
-2017-08-18 [07:52:09] [Server thread/INFO]: [SVIP]liuliu2008 : 这以前也被炸过
-2017-08-18 [07:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:52:15] [Server thread/INFO]: swp : 我有六十万了
-2017-08-18 [07:52:18] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:52:58] [Server thread/INFO]: YUUJINN[/119.105.150.47:51282] logged out due to client disconnect
-2017-08-18 [07:53:00] [Server thread/INFO]: swp : pvp哪来的tnt
-2017-08-18 [07:53:04] [Server thread/INFO]: [/111.18.34.76:9323] logged out due to client disconnect
-2017-08-18 [07:53:08] [Server thread/INFO]: [SVIP]liuliu2008 : 不知道
-2017-08-18 [07:53:43] [Server thread/INFO]: [SVIP]liuliu2008 : 我知道他和baihUI同伙
-2017-08-18 [07:53:52] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:54:03] [Server thread/INFO]: [SVIP]liuliu2008 : baihui炸了服
-2017-08-18 [07:54:07] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:54:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:54:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:54:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:54:31] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:54:32] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:55:10] [Server thread/INFO]: Maker[/111.242.62.232:63268] [ClientID: 8105549868030226964] logged in with entity id 2422 at (th, -78.4844, 66, 196.8457)
-2017-08-18 [07:55:18] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:55:26] [Server thread/INFO]: [AuthMePE] Player Maker has logged in.
-2017-08-18 [07:55:26] [Server thread/INFO]: [AuthMePE] 玩家 Maker 登录了游戏。
-2017-08-18 [07:55:26] [Server thread/INFO]: - Maker is now online!
-2017-08-18 [07:55:26] [Server thread/INFO]: - Maker 现在上线了!
-2017-08-18 [07:55:30] [Server thread/INFO]: swp suffocated in a wall
-2017-08-18 [07:55:35] [Server thread/INFO]: [主播]Zi_Jian : 你们怎么都这样
-2017-08-18 [07:55:36] [Server thread/INFO]: [SVIP]liuliu2008 : hi
-2017-08-18 [07:55:42] [Server thread/INFO]: [我是男的]Maker : 安安
-2017-08-18 [07:55:42] [Server thread/INFO]: [SVIP]liuliu2008 : Maker
-2017-08-18 [07:55:52] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:56:30] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [07:56:46] [Server thread/INFO]: [我是男的]Maker : 我的錢不知道買啥地花了12萬
-2017-08-18 [07:56:54] [Server thread/INFO]: - swp is now offline!
-2017-08-18 [07:56:54] [Server thread/INFO]: - swp 离开了游戏!
-2017-08-18 [07:56:54] [Server thread/INFO]: [AuthMePE] Player swp has logged out.
-2017-08-18 [07:56:54] [Server thread/INFO]: [AuthMePE] Player swp 离开了游戏.
-2017-08-18 [07:56:54] [Server thread/INFO]: swp[/58.217.178.244:13104] logged out due to client disconnect
-2017-08-18 [07:56:57] [Server thread/INFO]: [SVIP]liuliu2008 : Maker看我的公益广告
-2017-08-18 [07:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [07:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [07:57:28] [Server thread/INFO]: [我是男的]Maker : 我錢不見了
-2017-08-18 [07:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [07:57:33] [Server thread/INFO]: [我是男的]Maker : 12萬耶
-2017-08-18 [07:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [07:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [07:57:45] [Server thread/INFO]: [我是男的]Maker : 我剩6000
-2017-08-18 [07:57:58] [Server thread/INFO]: [SVIP]liuliu2008 : 一定是pvp
-2017-08-18 [07:58:06] [Server thread/INFO]: [我是男的]Maker : 我用這塊地
-2017-08-18 [07:58:17] [Server thread/INFO]: [我是男的]Maker : 你可以拆嗎？
-2017-08-18 [07:58:24] [Server thread/INFO]: [SVIP]liuliu2008 : 这边都是公益广告
-2017-08-18 [07:58:24] [Server thread/INFO]: Steve[/113.87.47.191:8461] [ClientID: 766742975965908159] logged in with entity id 2432 at (world, 128, 28, 128)
-2017-08-18 [07:58:43] [Server thread/INFO]: Steve[/113.87.47.191:8461] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [07:58:48] [Server thread/INFO]: [我是男的]Maker : 玩了沒錢了
-2017-08-18 [07:58:52] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [07:59:03] [Server thread/INFO]: Steve[/113.87.47.191:8461] [ClientID: 766742975965908159] logged in with entity id 2479 at (world, 128, 28, 128)
-2017-08-18 [07:59:16] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [07:59:21] [Server thread/INFO]: Steve[/113.87.47.191:8461] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [07:59:26] [Server thread/INFO]: [主播]Zi_Jian : 还记得0.8吗
-2017-08-18 [07:59:28] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:59:29] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:59:34] [Server thread/INFO]: swp[/58.217.178.244:8941] [ClientID: 7013911024529605075] logged in with entity id 2502 at (th, -146.6167, 68, 166.1487)
-2017-08-18 [07:59:36] [Server thread/INFO]: [主播]Zi_Jian : 哪个没红石的时代
-2017-08-18 [07:59:37] [Server thread/INFO]: [AuthMePE] Player swp has logged in.
-2017-08-18 [07:59:37] [Server thread/INFO]: [AuthMePE] 玩家 swp 登录了游戏。
-2017-08-18 [07:59:37] [Server thread/INFO]: - swp is now online!
-2017-08-18 [07:59:37] [Server thread/INFO]: - swp 现在上线了!
-2017-08-18 [07:59:38] [Server thread/INFO]: [SVIP]liuliu2008 : ？
-2017-08-18 [07:59:40] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [07:59:43] [Server thread/INFO]: [主播]Zi_Jian : 我来做红石
-2017-08-18 [08:00:14] [Server thread/INFO]: - Maker is now offline!
-2017-08-18 [08:00:14] [Server thread/INFO]: - Maker 离开了游戏!
-2017-08-18 [08:00:14] [Server thread/INFO]: [AuthMePE] Player Maker has logged out.
-2017-08-18 [08:00:14] [Server thread/INFO]: [AuthMePE] Player Maker 离开了游戏.
-2017-08-18 [08:00:14] [Server thread/INFO]: Maker[/111.242.62.232:63268] logged out due to client disconnect
-2017-08-18 [08:00:32] [Server thread/INFO]: [SVIP]liuliu2008 : 现在能不能红石
-2017-08-18 [08:00:45] [Server thread/INFO]: swp : 钱有蛇么用
-2017-08-18 [08:01:07] [Server thread/INFO]: swp : 创造？
-2017-08-18 [08:01:47] [Server thread/INFO]: Maker[/111.242.62.232:63268] [ClientID: 8105549868030226964] logged in with entity id 2535 at (th, -70.0119, 66, 181.9771)
-2017-08-18 [08:01:49] [Server thread/INFO]: [AuthMePE] Player Maker has logged in.
-2017-08-18 [08:01:49] [Server thread/INFO]: [AuthMePE] 玩家 Maker 登录了游戏。
-2017-08-18 [08:01:49] [Server thread/INFO]: - Maker is now online!
-2017-08-18 [08:01:49] [Server thread/INFO]: - Maker 现在上线了!
-2017-08-18 [08:01:51] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:02:11] [Server thread/INFO]: [主播]Zi_Jian : 谁来撸一下
-2017-08-18 [08:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:02:19] [Server thread/INFO]: [主播]Zi_Jian : 快来见证奇迹
-2017-08-18 [08:02:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:02:32] [Server thread/INFO]: [主播]Zi_Jian : 是不是很厉害
-2017-08-18 [08:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理14个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:02:41] [Server thread/INFO]: [SVIP]liuliu2008 : 什么
-2017-08-18 [08:02:47] [Server thread/INFO]: swp : 钱有蛇么用
-2017-08-18 [08:02:55] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:03:06] [Server thread/INFO]: SorestGem846173[/36.12.79.89:61621] [ClientID: 1148503289423963919] logged in with entity id 2672 at (world, 128, 28, 128)
-2017-08-18 [08:03:15] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:03:15] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:03:29] [Server thread/INFO]: [SVIP]liuliu2008 : 红石可以了
-2017-08-18 [08:03:59] [Server thread/INFO]: swp : 告示牌太土了
-2017-08-18 [08:04:03] [Server thread/INFO]: SorestGem846173[/36.12.79.89:61621] logged out due to client disconnect
-2017-08-18 [08:04:03] [Server thread/INFO]: [主播]Zi_Jian : 撸一下
-2017-08-18 [08:04:27] [Server thread/NOTICE]: Player data not found for "zzh", creating new profile
-2017-08-18 [08:04:27] [Server thread/INFO]: zzh[/101.88.106.123:50612] [ClientID: -8180821847901486189] logged in with entity id 2855 at (world, 128, 28, 128)
-2017-08-18 [08:04:36] [Server thread/INFO]: [主播]Zi_Jian : 还有
-2017-08-18 [08:04:43] [Server thread/INFO]: swp : 你们知道我家在哪吗
-2017-08-18 [08:04:51] [Server thread/INFO]: [我是男的]Maker : 我要去挖礦了我錢全妹了
-2017-08-18 [08:05:00] [Server thread/INFO]: [主播]Zi_Jian : 我给你钱
-2017-08-18 [08:05:04] [Server thread/INFO]: [主播]Zi_Jian : 在这看我
-2017-08-18 [08:05:08] [Server thread/INFO]: [主播]Zi_Jian : 我就给你
-2017-08-18 [08:05:15] [Server thread/INFO]: [我是男的]Maker : 哪
-2017-08-18 [08:05:20] [Server thread/INFO]: [主播]Zi_Jian : 一次九千
-2017-08-18 [08:05:29] [Server thread/INFO]: Kendal<3[/68.112.121.144:52634] logged out due to Invalid name!
-2017-08-18 [08:05:36] [Server thread/INFO]: zzh[/101.88.106.123:50612] logged out due to client disconnect
-2017-08-18 [08:05:44] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:05:51] [Server thread/INFO]: - liuliu2008 is now offline!
-2017-08-18 [08:05:51] [Server thread/INFO]: - liuliu2008 离开了游戏!
-2017-08-18 [08:05:51] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged out.
-2017-08-18 [08:05:51] [Server thread/INFO]: [AuthMePE] Player liuliu2008 离开了游戏.
-2017-08-18 [08:05:51] [Server thread/INFO]: liuliu2008[/101.93.208.201:58726] logged out due to timeout
-2017-08-18 [08:05:52] [Server thread/INFO]: Kendal<3[/68.112.121.144:52634] logged out due to Invalid name!
-2017-08-18 [08:05:56] [Server thread/INFO]: swp : 我家在地道
-2017-08-18 [08:06:29] [Server thread/INFO]: Kendal<3[/68.112.121.144:52634] logged out due to Invalid name!
-2017-08-18 [08:06:46] [Server thread/INFO]: liuliu2008[/101.93.208.201:65039] [ClientID: 6961735811638613043] logged in with entity id 2880 at (world, 174.631, 70, 112.8698)
-2017-08-18 [08:06:53] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
-2017-08-18 [08:06:53] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
-2017-08-18 [08:06:53] [Server thread/INFO]: - liuliu2008 is now online!
-2017-08-18 [08:06:53] [Server thread/INFO]: - liuliu2008 现在上线了!
-2017-08-18 [08:06:55] [Server thread/INFO]: [我是男的]Maker : 我要死了
-2017-08-18 [08:07:05] [Server thread/INFO]: swp : sorry
-2017-08-18 [08:07:09] [Server thread/INFO]: [主播]Zi_Jian : 是不是很厉害
-2017-08-18 [08:07:11] [Server thread/INFO]: [我是男的]Maker : 9000元
-2017-08-18 [08:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:07:24] [Server thread/INFO]: swp : 投沙口
-2017-08-18 [08:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理26个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:07:37] [Server thread/INFO]: [我是男的]Maker : 別搶
-2017-08-18 [08:07:39] [Server thread/INFO]: [主播]Zi_Jian : 年背后
-2017-08-18 [08:07:41] [Server thread/INFO]: [主播]Zi_Jian : 还有
-2017-08-18 [08:07:46] [Server thread/INFO]: [我是男的]Maker : 他搶走了
-2017-08-18 [08:07:47] [Server thread/INFO]: [主播]Zi_Jian : 背后
-2017-08-18 [08:08:02] [Server thread/INFO]: [我是男的]Maker : 俄
-2017-08-18 [08:08:06] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:08:06] [Server thread/INFO]: [主播]Zi_Jian : maker
-2017-08-18 [08:08:13] [Server thread/NOTICE]: Player data not found for "uncle_red", creating new profile
-2017-08-18 [08:08:13] [Server thread/INFO]: Uncle_red[/122.239.167.32:52885] [ClientID: 6170325902796551053] logged in with entity id 3020 at (world, 128, 28, 128)
-2017-08-18 [08:08:14] [Server thread/INFO]: [主播]Zi_Jian : 差点死了
-2017-08-18 [08:08:18] [Server thread/INFO]: [主播]Zi_Jian : 我的陷阱
-2017-08-18 [08:08:27] [Server thread/INFO]: [我是男的]Maker : .........
-2017-08-18 [08:08:47] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:08:48] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:08:49] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:09:11] [Server thread/INFO]: Steve[/111.251.82.142:37576] [ClientID: 4898289982723173322] logged in with entity id 3021 at (world, 128, 28, 128)
-2017-08-18 [08:09:14] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:09:29] [Server thread/INFO]: Steve[/111.251.82.142:37576] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:09:43] [Server thread/INFO]: Uncle_red[/122.239.167.32:52885] logged out due to timeout
-2017-08-18 [08:09:58] [Server thread/NOTICE]: Player data not found for "naicang", creating new profile
-2017-08-18 [08:09:58] [Server thread/INFO]: naicang[/123.122.95.215:49267] [ClientID: -1226863482851064753] logged in with entity id 3022 at (world, 128, 28, 128)
-2017-08-18 [08:10:19] [Server thread/INFO]: [我是男的]Maker : 9000太少啦還有啥可以賺錢的
-2017-08-18 [08:10:25] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:10:28] [Server thread/INFO]: [主播]Zi_Jian : 来我这玩
-2017-08-18 [08:10:30] [Server thread/INFO]: Uncle_red[/122.239.167.32:30278] [ClientID: 6170325902796551053] logged in with entity id 3032 at (world, 128, 28, 128)
-2017-08-18 [08:10:38] [Server thread/INFO]: [主播]Zi_Jian : 每天90000放送
-2017-08-18 [08:10:45] [Server thread/INFO]: swp : 我来啦
-2017-08-18 [08:10:58] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:10:59] [Server thread/INFO]: [AuthMePE] Player naicang has logged in.
-2017-08-18 [08:10:59] [Server thread/INFO]: [AuthMePE] 玩家 naicang 登录了游戏。
-2017-08-18 [08:10:59] [Server thread/INFO]: - naicang is now online!
-2017-08-18 [08:10:59] [Server thread/INFO]: - naicang 现在上线了!
-2017-08-18 [08:11:26] [Server thread/INFO]: [主播]Zi_Jian : 当人八个是
-2017-08-18 [08:11:31] [Server thread/INFO]: [主播]Zi_Jian : 我开始放送
-2017-08-18 [08:11:32] [Server thread/WARNING]: naicang moved wrongly!
-2017-08-18 [08:11:41] [Server thread/INFO]: - swp is now offline!
-2017-08-18 [08:11:41] [Server thread/INFO]: - swp 离开了游戏!
-2017-08-18 [08:11:41] [Server thread/INFO]: [AuthMePE] Player swp has logged out.
-2017-08-18 [08:11:41] [Server thread/INFO]: [AuthMePE] Player swp 离开了游戏.
-2017-08-18 [08:11:41] [Server thread/INFO]: swp[/58.217.178.244:8941] logged out due to client disconnect
-2017-08-18 [08:11:45] [Server thread/NOTICE]: Player data not found for "roelibanezvip", creating new profile
-2017-08-18 [08:11:45] [Server thread/INFO]: roelIbanezvip[/76.182.196.62:52012] [ClientID: -5487142577061134686] logged in with entity id 3043 at (world, 128, 28, 128)
-2017-08-18 [08:11:47] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged in.
-2017-08-18 [08:11:47] [Server thread/INFO]: [AuthMePE] 玩家 Uncle_red 登录了游戏。
-2017-08-18 [08:11:47] [Server thread/INFO]: - Uncle_red is now online!
-2017-08-18 [08:11:47] [Server thread/INFO]: - Uncle_red 现在上线了!
-2017-08-18 [08:11:51] [Server thread/WARNING]: naicang moved wrongly!
-2017-08-18 [08:11:52] [Server thread/INFO]: Faze Rug[/70.115.224.169:60539] logged out due to Invalid name!
-2017-08-18 [08:11:59] [Server thread/INFO]: [主播]Zi_Jian : 叔红好
-2017-08-18 [08:12:03] [Server thread/INFO]: swp[/58.217.178.244:9424] [ClientID: 7013911024529605075] logged in with entity id 3044 at (th, -147.9631, 68, 161.5322)
-2017-08-18 [08:12:05] [Server thread/INFO]: [AuthMePE] Player swp has logged in.
-2017-08-18 [08:12:05] [Server thread/INFO]: [AuthMePE] 玩家 swp 登录了游戏。
-2017-08-18 [08:12:05] [Server thread/INFO]: - swp is now online!
-2017-08-18 [08:12:05] [Server thread/INFO]: - swp 现在上线了!
-2017-08-18 [08:12:10] [Server thread/WARNING]: naicang moved wrongly!
-2017-08-18 [08:12:11] [Server thread/INFO]: Faze Rug[/70.115.224.169:60539] logged out due to Invalid name!
-2017-08-18 [08:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:12:23] [Server thread/INFO]: [主播]Zi_Jian : 还有一个
-2017-08-18 [08:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:12:41] [Server thread/INFO]: - naicang is now offline!
-2017-08-18 [08:12:41] [Server thread/INFO]: - naicang 离开了游戏!
-2017-08-18 [08:12:41] [Server thread/INFO]: [AuthMePE] Player naicang has logged out.
-2017-08-18 [08:12:41] [Server thread/INFO]: [AuthMePE] Player naicang 离开了游戏.
-2017-08-18 [08:12:41] [Server thread/INFO]: naicang[/123.122.95.215:49267] logged out due to timeout
-2017-08-18 [08:12:46] [Server thread/INFO]: [我是男的]Maker : 還有地方能賺錢我現在缺錢
-2017-08-18 [08:12:55] [Server thread/INFO]: [SVIP]liuliu2008 : 放送钱
-2017-08-18 [08:12:55] [Server thread/INFO]: - Uncle_red is now offline!
-2017-08-18 [08:12:55] [Server thread/INFO]: - Uncle_red 离开了游戏!
-2017-08-18 [08:12:55] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged out.
-2017-08-18 [08:12:55] [Server thread/INFO]: [AuthMePE] Player Uncle_red 离开了游戏.
-2017-08-18 [08:12:55] [Server thread/INFO]: Uncle_red[/122.239.167.32:30278] logged out due to timeout
-2017-08-18 [08:13:13] [Server thread/INFO]: [SVIP]liuliu2008 : 来
-2017-08-18 [08:13:20] [Server thread/INFO]: roelIbanezvip[/76.182.196.62:52012] logged out due to timeout
-2017-08-18 [08:13:20] [Server thread/INFO]: [主播]Zi_Jian : 这里有十个钻块
-2017-08-18 [08:13:21] [Server thread/INFO]: naicang[/123.122.95.215:58942] [ClientID: -1226863482851064753] logged in with entity id 3052 at (th, 21.1357, 66.1661, 128.9845)
-2017-08-18 [08:13:21] [Server thread/INFO]: Uncle_red[/122.239.167.32:30281] [ClientID: 6170325902796551053] logged in with entity id 3053 at (th, 134.2501, 65.5, 148.7496)
-2017-08-18 [08:13:23] [Server thread/INFO]: [AuthMePE] Player naicang has logged in.
-2017-08-18 [08:13:23] [Server thread/INFO]: [AuthMePE] 玩家 naicang 登录了游戏。
-2017-08-18 [08:13:23] [Server thread/INFO]: - naicang is now online!
-2017-08-18 [08:13:23] [Server thread/INFO]: - naicang 现在上线了!
-2017-08-18 [08:13:25] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged in.
-2017-08-18 [08:13:25] [Server thread/INFO]: [AuthMePE] 玩家 Uncle_red 登录了游戏。
-2017-08-18 [08:13:25] [Server thread/INFO]: - Uncle_red is now online!
-2017-08-18 [08:13:25] [Server thread/INFO]: - Uncle_red 现在上线了!
-2017-08-18 [08:13:29] [Server thread/INFO]: [主播]Zi_Jian : 你们找到就是谁的
-2017-08-18 [08:13:40] [Server thread/INFO]: [SVIP]liuliu2008 : 我六个
-2017-08-18 [08:13:42] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:14:14] [Server thread/NOTICE]: Player data not found for "gyfgvvresx", creating new profile
-2017-08-18 [08:14:14] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:58619] [ClientID: -19859078253084367] logged in with entity id 3064 at (world, 128, 28, 128)
-2017-08-18 [08:14:14] [Server thread/WARNING]: Uncle_red moved wrongly!
-2017-08-18 [08:14:34] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:14:34] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:14:36] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
-2017-08-18 [08:14:39] [Server thread/INFO]: * Zi_Jian 自愿抓人，大家准备
-2017-08-18 [08:14:41] [Server thread/INFO]: * Zi_Jian 一人抓人，其他人躲-，倒数二十秒。
-2017-08-18 [08:14:42] [Server thread/INFO]: * Zi_Jian 被抓住的要说，抓人-的要说
-2017-08-18 [08:14:45] [Server thread/INFO]: * Maker 2
-2017-08-18 [08:14:46] [Server thread/INFO]: [SVIP]liuliu2008 : 再送
-2017-08-18 [08:14:46] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
-2017-08-18 [08:14:48] [Server thread/INFO]: * Zi_Jian 3
-2017-08-18 [08:14:50] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:14:51] [Server thread/INFO]: * Zi_Jian 2
-2017-08-18 [08:14:54] [Server thread/INFO]: * Zi_Jian 1
-2017-08-18 [08:14:56] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:15:01] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:15:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:15:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:15:19] [Server thread/INFO]: * swp 被抓了
-2017-08-18 [08:15:41] [Server thread/INFO]: [主播]Zi_Jian : 其实我发了十五个钻块
-2017-08-18 [08:15:45] [Server thread/INFO]: [主播]Zi_Jian : 还有五个
-2017-08-18 [08:15:46] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:15:52] [Server thread/INFO]: [SVIP]liuliu2008 : 快
-2017-08-18 [08:15:54] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:58619] logged out due to timeout
-2017-08-18 [08:15:54] [Server thread/WARNING]: naicang moved wrongly!
-2017-08-18 [08:15:59] [Server thread/WARNING]: naicang moved wrongly!
-2017-08-18 [08:16:03] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:16:07] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] [ClientID: -19859078253084367] logged in with entity id 3068 at (th, 130, 65, 131)
-2017-08-18 [08:16:08] [Server thread/INFO]: [SVIP]liuliu2008 : 谁抓
-2017-08-18 [08:16:09] [Server thread/INFO]: - naicang is now offline!
-2017-08-18 [08:16:09] [Server thread/INFO]: - naicang 离开了游戏!
-2017-08-18 [08:16:09] [Server thread/INFO]: [AuthMePE] Player naicang has logged out.
-2017-08-18 [08:16:09] [Server thread/INFO]: [AuthMePE] Player naicang 离开了游戏.
-2017-08-18 [08:16:09] [Server thread/INFO]: naicang[/123.122.95.215:58942] logged out due to timeout
-2017-08-18 [08:16:23] [Server thread/INFO]: [主播]Zi_Jian : 还有三个尊快
-2017-08-18 [08:16:41] [Server thread/INFO]: Uncle_red : youchideme
-2017-08-18 [08:16:52] [Server thread/INFO]: - Uncle_red is now offline!
-2017-08-18 [08:16:52] [Server thread/INFO]: - Uncle_red 离开了游戏!
-2017-08-18 [08:16:52] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged out.
-2017-08-18 [08:16:52] [Server thread/INFO]: [AuthMePE] Player Uncle_red 离开了游戏.
-2017-08-18 [08:16:52] [Server thread/INFO]: Uncle_red[/122.239.167.32:30281] logged out due to timeout
-2017-08-18 [08:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:17:24] [Server thread/INFO]: [主播]Zi_Jian : 还有一个
-2017-08-18 [08:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:18:01] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:18:05] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:18:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:18:10] [Server thread/INFO]: [主播]Zi_Jian : maker找到了！
-2017-08-18 [08:18:19] [Server thread/INFO]: [SVIP]liuliu2008 : 再来
-2017-08-18 [08:18:20] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:18:23] [Server thread/INFO]: swp suffocated in a wall
-2017-08-18 [08:18:32] [Server thread/INFO]: [主播]Zi_Jian : 再来要被ban了
-2017-08-18 [08:18:34] [Server thread/INFO]: [我是男的]Maker : 我要拿回12萬
-2017-08-18 [08:19:17] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:19:18] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:19:37] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:19:37] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:19:48] [Server thread/INFO]: [主播]Zi_Jian : 又有五个
-2017-08-18 [08:20:24] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:20:36] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] [ClientID: -19859078253084367] logged in with entity id 3087 at (th, 130, 65, 131)
-2017-08-18 [08:20:40] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:20:47] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:20:50] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:20:53] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:20:55] [Server thread/INFO]: [SVIP]liuliu2008 : 再来一局呗
-2017-08-18 [08:21:05] [Server thread/WARNING]: swp moved wrongly!
-2017-08-18 [08:21:14] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] [ClientID: -19859078253084367] logged in with entity id 3096 at (world, 128, 28, 128)
-2017-08-18 [08:21:16] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:21:17] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:21:24] [Server thread/INFO]: - swp is now offline!
-2017-08-18 [08:21:24] [Server thread/INFO]: - swp 离开了游戏!
-2017-08-18 [08:21:24] [Server thread/INFO]: [AuthMePE] Player swp has logged out.
-2017-08-18 [08:21:24] [Server thread/INFO]: [AuthMePE] Player swp 离开了游戏.
-2017-08-18 [08:21:24] [Server thread/INFO]: swp[/58.217.178.244:9424] logged out due to client disconnect
-2017-08-18 [08:21:31] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:21:36] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:21:39] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:21:53] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] [ClientID: -19859078253084367] logged in with entity id 3098 at (world, 128, 28, 128)
-2017-08-18 [08:22:08] [Server thread/INFO]: [主播]Zi_Jian : 这都可以？
-2017-08-18 [08:22:10] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:22:15] [Server thread/INFO]: [主播]Zi_Jian : 还有一个
-2017-08-18 [08:22:20] [Server thread/INFO]: [我是男的]Maker : 我是高手
-2017-08-18 [08:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:22:24] [Server thread/INFO]: [我是男的]Maker : 哈哈
-2017-08-18 [08:22:28] [Server thread/INFO]: [SVIP]liuliu2008 : 少了个梯子
-2017-08-18 [08:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:22:30] [Server thread/INFO]: [我是男的]Maker : 開完笑的
-2017-08-18 [08:22:30] [Server thread/INFO]: [主播]Zi_Jian : 还有
-2017-08-18 [08:22:31] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] [ClientID: -19859078253084367] logged in with entity id 3100 at (world, 128, 28, 128)
-2017-08-18 [08:22:33] [Server thread/INFO]: [主播]Zi_Jian : 一个
-2017-08-18 [08:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:22:48] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:22:59] [Server thread/INFO]: [主播]Zi_Jian : 还有
-2017-08-18 [08:23:01] [Server thread/INFO]: [主播]Zi_Jian : 这里
-2017-08-18 [08:23:03] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:23:11] [Server thread/INFO]: [主播]Zi_Jian : 话说你们怎么找到的
-2017-08-18 [08:23:11] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] [ClientID: -19859078253084367] logged in with entity id 3103 at (world, 128, 28, 128)
-2017-08-18 [08:23:15] [Server thread/INFO]: [主播]Zi_Jian : 见鬼了
-2017-08-18 [08:23:17] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:23:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:23:28] [Server thread/INFO]: gyfgvvresx[/111.227.109.185:64874] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:23:44] [Server thread/INFO]: [SVIP]liuliu2008 : 这跑酷有bug
-2017-08-18 [08:23:45] [Server thread/INFO]: [我是男的]Maker : 你拿到幾個
-2017-08-18 [08:23:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:23:56] [Server thread/INFO]: [我是男的]Maker : 我還沒回本
-2017-08-18 [08:23:58] [Server thread/INFO]: [主播]Zi_Jian : 什么bug
-2017-08-18 [08:24:15] [Server thread/INFO]: [SVIP]liuliu2008 : 少了梯子
-2017-08-18 [08:24:20] [Server thread/INFO]: [主播]Zi_Jian : 哪？
-2017-08-18 [08:24:37] [Server thread/INFO]: [主播]Zi_Jian : 这是多给你的
-2017-08-18 [08:24:45] [Server thread/INFO]: [主播]Zi_Jian : 本来是旋转跳
-2017-08-18 [08:24:50] [Server thread/INFO]: [主播]Zi_Jian : 后来我没过
-2017-08-18 [08:24:58] [Server thread/INFO]: [主播]Zi_Jian : 就加了个梯子
-2017-08-18 [08:25:17] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:25:40] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:25:40] [Server thread/INFO]: LEGEND/OF[/185.56.193.226:46991] logged out due to Invalid name!
-2017-08-18 [08:25:55] [Server thread/INFO]: LEGEND/OF[/185.56.193.226:46991] logged out due to Invalid name!
-2017-08-18 [08:26:03] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:26:25] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:26:28] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:26:30] [Server thread/INFO]: [主播]Zi_Jian : 差一点
-2017-08-18 [08:26:34] [Server thread/INFO]: [主播]Zi_Jian : 要拉住梯子
-2017-08-18 [08:26:37] [Server thread/INFO]: [SVIP]liuliu2008 : 把它换成铁门
-2017-08-18 [08:26:45] [Server thread/INFO]: [主播]Zi_Jian : 。。。。。。。。。
-2017-08-18 [08:26:53] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:27:13] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:27:25] [Server thread/INFO]: Maria minegirl[/177.99.90.64:57907] logged out due to Invalid name!
-2017-08-18 [08:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:27:39] [Server thread/INFO]: [主播]Zi_Jian : 。。。。。。。。。。。。。。。
-2017-08-18 [08:27:43] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:27:48] [Server thread/INFO]: Maria minegirl[/177.99.90.64:57907] logged out due to Invalid name!
-2017-08-18 [08:28:12] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:28:14] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:28:14] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:28:16] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:28:19] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:28:32] [Server thread/INFO]: [我是男的]Maker : 跳過去給我鑽石磚
-2017-08-18 [08:28:33] [Server thread/INFO]: - liuliu2008 is now offline!
-2017-08-18 [08:28:33] [Server thread/INFO]: - liuliu2008 离开了游戏!
-2017-08-18 [08:28:33] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged out.
-2017-08-18 [08:28:33] [Server thread/INFO]: [AuthMePE] Player liuliu2008 离开了游戏.
-2017-08-18 [08:28:33] [Server thread/INFO]: liuliu2008[/101.93.208.201:65039] logged out due to timeout
-2017-08-18 [08:28:36] [Server thread/INFO]: Maria minegirl[/177.99.90.64:57907] logged out due to Invalid name!
-2017-08-18 [08:28:59] [Server thread/INFO]: Uncle_red[/122.239.167.32:30285] [ClientID: 6170325902796551053] logged in with entity id 3130 at (th, 98.5149, 61, 67.3)
-2017-08-18 [08:29:02] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged in.
-2017-08-18 [08:29:02] [Server thread/INFO]: [AuthMePE] 玩家 Uncle_red 登录了游戏。
-2017-08-18 [08:29:02] [Server thread/INFO]: - Uncle_red is now online!
-2017-08-18 [08:29:02] [Server thread/INFO]: - Uncle_red 现在上线了!
-2017-08-18 [08:29:10] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] [ClientID: 6961735811638613043] logged in with entity id 3138 at (th, -127.5386, 67.4179, 137.792)
-2017-08-18 [08:29:13] [Server thread/INFO]: CoCo[/42.236.201.26:9271] [ClientID: 42819584063236840] logged in with entity id 3139 at (world, 118.8025, 64, 147.7015)
-2017-08-18 [08:29:14] [Server thread/INFO]: [主播]Zi_Jian : hh
-2017-08-18 [08:29:25] [Server thread/NOTICE]: Player data not found for "truecrowd038241", creating new profile
-2017-08-18 [08:29:25] [Server thread/INFO]: TrueCrowd038241[/209.74.112.121:50539] [ClientID: 4104416269776517775] logged in with entity id 3140 at (world, 128, 28, 128)
-2017-08-18 [08:29:26] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:29:30] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:29:32] [Server thread/INFO]: CoCo[/42.236.201.26:9271] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:30:06] [Server thread/WARNING]: Uncle_red moved wrongly!
-2017-08-18 [08:30:12] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] [ClientID: 6961735811638613043] logged in with entity id 3141 at (world, 128, 28, 128)
-2017-08-18 [08:30:16] [Server thread/INFO]: TrueCrowd038241[/209.74.112.121:50539] logged out due to client disconnect
-2017-08-18 [08:30:17] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
-2017-08-18 [08:30:17] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
-2017-08-18 [08:30:17] [Server thread/INFO]: - liuliu2008 is now online!
-2017-08-18 [08:30:17] [Server thread/INFO]: - liuliu2008 现在上线了!
-2017-08-18 [08:31:50] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:31:50] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:31:55] [Server thread/INFO]: Uncle_red : 我要饿死了，谁能给点意
-2017-08-18 [08:31:57] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:32:05] [Server thread/INFO]: [我是男的]Maker : 過來我這
-2017-08-18 [08:32:07] [Server thread/INFO]: - Uncle_red is now offline!
-2017-08-18 [08:32:07] [Server thread/INFO]: - Uncle_red 离开了游戏!
-2017-08-18 [08:32:07] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged out.
-2017-08-18 [08:32:07] [Server thread/INFO]: [AuthMePE] Player Uncle_red 离开了游戏.
-2017-08-18 [08:32:07] [Server thread/INFO]: Uncle_red[/122.239.167.32:30285] logged out due to timeout
-2017-08-18 [08:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:32:43] [Server thread/INFO]: Uncle_red[/122.239.167.32:30291] [ClientID: 6170325902796551053] logged in with entity id 3147 at (th, 97.1181, 65, 140.7266)
-2017-08-18 [08:32:46] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged in.
-2017-08-18 [08:32:46] [Server thread/INFO]: [AuthMePE] 玩家 Uncle_red 登录了游戏。
-2017-08-18 [08:32:46] [Server thread/INFO]: - Uncle_red is now online!
-2017-08-18 [08:32:46] [Server thread/INFO]: - Uncle_red 现在上线了!
-2017-08-18 [08:33:19] [Server thread/INFO]: [我是男的]Maker : 主播把我ban掉
-2017-08-18 [08:33:24] [Server thread/INFO]: [主播]Zi_Jian : ？
-2017-08-18 [08:33:27] [Server thread/NOTICE]: Player data not found for "luayplayz", creating new profile
-2017-08-18 [08:33:27] [Server thread/INFO]: LuayPlayZ[/104.249.225.52:39254] [ClientID: 5446330938460648564] logged in with entity id 3148 at (world, 128, 28, 128)
-2017-08-18 [08:33:59] [Server thread/INFO]: [我是男的]Maker : 我沒看到我有穿裝要死後才看得到
-2017-08-18 [08:34:02] [Server thread/INFO]: Uncle_red : 5555
-2017-08-18 [08:34:07] [Server thread/INFO]: [主播]Zi_Jian : 穿了
-2017-08-18 [08:34:10] [Server thread/INFO]: [主播]Zi_Jian : 还有
-2017-08-18 [08:34:12] [Server thread/INFO]: [主播]Zi_Jian : ban
-2017-08-18 [08:34:14] [Server thread/INFO]: [主播]Zi_Jian : 就是
-2017-08-18 [08:34:16] [Server thread/INFO]: [主播]Zi_Jian : 你再也
-2017-08-18 [08:34:17] [Server thread/INFO]: [我是男的]Maker : 沒顯示
-2017-08-18 [08:34:23] [Server thread/INFO]: [主播]Zi_Jian : 进不了
-2017-08-18 [08:34:27] [Server thread/INFO]: [主播]Zi_Jian : 游戏了
-2017-08-18 [08:34:30] [Server thread/INFO]: [我是男的]Maker : 那算了
-2017-08-18 [08:34:36] [Server thread/INFO]: [AuthMePE] Player LuayPlayZ has logged in.
-2017-08-18 [08:34:36] [Server thread/INFO]: [AuthMePE] 玩家 LuayPlayZ 登录了游戏。
-2017-08-18 [08:34:36] [Server thread/INFO]: - LuayPlayZ is now online!
-2017-08-18 [08:34:36] [Server thread/INFO]: - LuayPlayZ 现在上线了!
-2017-08-18 [08:34:45] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:34:46] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:34:46] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:34:47] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:35:06] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:35:08] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:35:10] [Server thread/INFO]: - LuayPlayZ is now offline!
-2017-08-18 [08:35:10] [Server thread/INFO]: - LuayPlayZ 离开了游戏!
-2017-08-18 [08:35:10] [Server thread/INFO]: [AuthMePE] Player LuayPlayZ has logged out.
-2017-08-18 [08:35:10] [Server thread/INFO]: [AuthMePE] Player LuayPlayZ 离开了游戏.
-2017-08-18 [08:35:10] [Server thread/INFO]: LuayPlayZ[/104.249.225.52:39254] logged out due to client disconnect
-2017-08-18 [08:35:42] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:36:04] [Server thread/WARNING]: Uncle_red moved wrongly!
-2017-08-18 [08:36:07] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:36:35] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:36:42] [Server thread/INFO]: Vivi[/222.64.20.145:57405] [ClientID: 7954231615709468937] logged in with entity id 3166 at (world, -201.9942, 67.1661, 244.7755)
-2017-08-18 [08:36:44] [Server thread/INFO]: [SVIP]liuliu2008 : 我有60万
-2017-08-18 [08:36:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:36:55] [Server thread/WARNING]: Uncle_red moved wrongly!
-2017-08-18 [08:36:57] [Server thread/WARNING]: Uncle_red moved wrongly!
-2017-08-18 [08:37:00] [Server thread/WARNING]: Uncle_red moved wrongly!
-2017-08-18 [08:37:01] [Server thread/INFO]: [AuthMePE] Player Vivi has logged in.
-2017-08-18 [08:37:01] [Server thread/INFO]: [AuthMePE] 玩家 Vivi 登录了游戏。
-2017-08-18 [08:37:01] [Server thread/INFO]: - Vivi is now online!
-2017-08-18 [08:37:01] [Server thread/INFO]: - Vivi 现在上线了!
-2017-08-18 [08:37:01] [Server thread/INFO]: [我是男的]Maker : 我有6000元
-2017-08-18 [08:37:07] [Server thread/NOTICE]: Player data not found for "leihuang", creating new profile
-2017-08-18 [08:37:07] [Server thread/INFO]: leihuang[/183.138.39.153:5962] [ClientID: 6093907556083464726] logged in with entity id 3167 at (world, 128, 28, 128)
-2017-08-18 [08:37:09] [Server thread/INFO]: [我是男的]Maker : 我破慘了
-2017-08-18 [08:37:11] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:37:12] [Server thread/WARNING]: Vivi moved wrongly!
-2017-08-18 [08:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:37:32] [Server thread/WARNING]: Vivi moved wrongly!
-2017-08-18 [08:37:32] [Server thread/WARNING]: Vivi moved wrongly!
-2017-08-18 [08:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:37:46] [Server thread/INFO]: - Uncle_red is now offline!
-2017-08-18 [08:37:46] [Server thread/INFO]: - Uncle_red 离开了游戏!
-2017-08-18 [08:37:46] [Server thread/INFO]: [AuthMePE] Player Uncle_red has logged out.
-2017-08-18 [08:37:46] [Server thread/INFO]: [AuthMePE] Player Uncle_red 离开了游戏.
-2017-08-18 [08:37:46] [Server thread/INFO]: Uncle_red[/122.239.167.32:30291] logged out due to timeout
-2017-08-18 [08:37:49] [Server thread/WARNING]: Vivi moved wrongly!
-2017-08-18 [08:37:51] [Server thread/INFO]: chen[/60.180.196.229:3818] [ClientID: 3216412261747183542] logged in with entity id 3168 at (world, 128, 28, 128)
-2017-08-18 [08:38:06] [Server thread/INFO]: [AuthMePE] Player chen has logged in.
-2017-08-18 [08:38:06] [Server thread/INFO]: [AuthMePE] 玩家 chen 登录了游戏。
-2017-08-18 [08:38:06] [Server thread/INFO]: - chen is now online!
-2017-08-18 [08:38:06] [Server thread/INFO]: - chen 现在上线了!
-2017-08-18 [08:38:10] [Server thread/INFO]: - Vivi is now offline!
-2017-08-18 [08:38:10] [Server thread/INFO]: - Vivi 离开了游戏!
-2017-08-18 [08:38:10] [Server thread/INFO]: [AuthMePE] Player Vivi has logged out.
-2017-08-18 [08:38:10] [Server thread/INFO]: [AuthMePE] Player Vivi 离开了游戏.
-2017-08-18 [08:38:10] [Server thread/INFO]: Vivi[/222.64.20.145:57405] logged out due to timeout
-2017-08-18 [08:38:19] [Server thread/INFO]: [我是男的]Maker : w
-2017-08-18 [08:38:30] [Server thread/INFO]: [AuthMePE] Player leihuang has logged in.
-2017-08-18 [08:38:30] [Server thread/INFO]: [AuthMePE] 玩家 leihuang 登录了游戏。
-2017-08-18 [08:38:30] [Server thread/INFO]: - leihuang is now online!
-2017-08-18 [08:38:30] [Server thread/INFO]: - leihuang 现在上线了!
-2017-08-18 [08:38:55] [Server thread/WARNING]: leihuang moved wrongly!
-2017-08-18 [08:39:09] [Server thread/WARNING]: chen moved wrongly!
-2017-08-18 [08:39:10] [Server thread/WARNING]: chen moved wrongly!
-2017-08-18 [08:39:26] [Server thread/WARNING]: chen moved wrongly!
-2017-08-18 [08:39:35] [Server thread/WARNING]: chen moved wrongly!
-2017-08-18 [08:39:36] [Server thread/WARNING]: chen moved wrongly!
-2017-08-18 [08:39:36] [Server thread/WARNING]: leihuang moved wrongly!
-2017-08-18 [08:39:38] [Server thread/WARNING]: leihuang moved wrongly!
-2017-08-18 [08:40:16] [Server thread/INFO]: Steve[/104.60.62.91:57338] [ClientID: 3438708801186411573] logged in with entity id 3196 at (world, 128, 28, 128)
-2017-08-18 [08:40:21] [Server thread/WARNING]: chen moved too fast, reverting movement
-2017-08-18 [08:40:25] [Server thread/INFO]: [我是男的]Maker : 我沒鑽石了
-2017-08-18 [08:40:26] [Server thread/INFO]: uu[/115.198.154.49:57525] logged out due to Invalid name!
-2017-08-18 [08:40:27] [Server thread/WARNING]: chen moved wrongly!
-2017-08-18 [08:40:33] [Server thread/INFO]: Steve[/104.60.62.91:57338] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:40:36] [Server thread/INFO]: [主播]Zi_Jian : 来这拍卖
-2017-08-18 [08:40:37] [Server thread/INFO]: - chen is now offline!
-2017-08-18 [08:40:37] [Server thread/INFO]: - chen 离开了游戏!
-2017-08-18 [08:40:37] [Server thread/INFO]: [AuthMePE] Player chen has logged out.
-2017-08-18 [08:40:37] [Server thread/INFO]: [AuthMePE] Player chen 离开了游戏.
-2017-08-18 [08:40:37] [Server thread/INFO]: chen[/60.180.196.229:3818] logged out due to timeout
-2017-08-18 [08:40:41] [Server thread/INFO]: [SVIP]liuliu2008 : 接受
-2017-08-18 [08:40:41] [Server thread/INFO]: - leihuang is now offline!
-2017-08-18 [08:40:41] [Server thread/INFO]: - leihuang 离开了游戏!
-2017-08-18 [08:40:41] [Server thread/INFO]: [AuthMePE] Player leihuang has logged out.
-2017-08-18 [08:40:41] [Server thread/INFO]: [AuthMePE] Player leihuang 离开了游戏.
-2017-08-18 [08:40:41] [Server thread/INFO]: leihuang[/183.138.39.153:5962] logged out due to timeout
-2017-08-18 [08:40:46] [Server thread/INFO]: [我是男的]Maker : 嗯
-2017-08-18 [08:40:53] [Server thread/INFO]: Steve[/104.60.62.91:57338] [ClientID: 3438708801186411573] logged in with entity id 3201 at (world, 128, 28, 128)
-2017-08-18 [08:41:02] [Server thread/INFO]: [主播]Zi_Jian : 拍卖会即将开始
-2017-08-18 [08:41:10] [Server thread/INFO]: Steve[/104.60.62.91:57338] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:41:29] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:41:52] [Server thread/INFO]: * Maker 说：拍卖会要开始了，-请大家做好zuo w
-2017-08-18 [08:41:55] [Server thread/INFO]: Steve[/36.57.170.5:31513] [ClientID: -8862022243161159498] logged in with entity id 3213 at (world, 128, 28, 128)
-2017-08-18 [08:41:57] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:41:57] [Server thread/INFO]: * Maker 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:42:11] [Server thread/INFO]: [主播]Zi_Jian : 2000起拍
-2017-08-18 [08:42:12] [Server thread/INFO]: Steve[/36.57.170.5:31513] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:42:29] [Server thread/INFO]: Steve[/36.57.170.5:31513] [ClientID: -8862022243161159498] logged in with entity id 3222 at (th, 130.0176, 65, 130.9914)
-2017-08-18 [08:42:31] [Server thread/INFO]: liuliu2008 was killed by magic
-2017-08-18 [08:42:31] [Server thread/INFO]: Maker was killed by magic
-2017-08-18 [08:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:42:34] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21225] [ClientID: 2144839649263826448] logged in with entity id 3231 at (world, 128.2706, 28, 128.5775)
-2017-08-18 [08:42:45] [Server thread/INFO]: Steve[/36.57.170.5:31513] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:42:46] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
-2017-08-18 [08:42:46] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
-2017-08-18 [08:42:46] [Server thread/INFO]: - zhumengzhiying is now online!
-2017-08-18 [08:42:46] [Server thread/INFO]: - zhumengzhiying 现在上线了!
-2017-08-18 [08:42:48] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:42:52] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:42:55] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:42:56] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:42:58] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:43:22] [Server thread/INFO]: - zhumengzhiying is now offline!
-2017-08-18 [08:43:22] [Server thread/INFO]: - zhumengzhiying 离开了游戏!
-2017-08-18 [08:43:22] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged out.
-2017-08-18 [08:43:22] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying 离开了游戏.
-2017-08-18 [08:43:22] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21225] logged out due to client disconnect
-2017-08-18 [08:43:29] [Server thread/INFO]: [主播]Zi_Jian : 钻石块拍卖
-2017-08-18 [08:43:33] [Server thread/INFO]: [主播]Zi_Jian : 2000起
-2017-08-18 [08:43:38] [Server thread/INFO]: [主播]Zi_Jian : 谁要买
-2017-08-18 [08:43:47] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:49] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:49] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:49] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:50] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:50] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:50] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:50] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:50] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:50] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:51] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:51] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:51] [Server thread/INFO]: * Zi_Jian 说：拍卖会要开始了，-请大家做好座位
-2017-08-18 [08:43:57] [Server thread/INFO]: [主播]Zi_Jian : 坐好
-2017-08-18 [08:44:09] [Server thread/INFO]: [SVIP]liuliu2008 : 好值
-2017-08-18 [08:44:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:44:13] [Server thread/INFO]: [主播]Zi_Jian : 2000起
-2017-08-18 [08:44:18] [Server thread/INFO]: [主播]Zi_Jian : 开拍
-2017-08-18 [08:44:35] [Server thread/INFO]: [主播]Zi_Jian : 谁要出价
-2017-08-18 [08:44:50] [Server thread/INFO]: [SVIP]liuliu2008 : 商店300元
-2017-08-18 [08:44:50] [Server thread/INFO]: [我是男的]Maker : 錢是用什麼
-2017-08-18 [08:44:52] [Server thread/NOTICE]: Player data not found for "kshrba", creating new profile
-2017-08-18 [08:44:52] [Server thread/INFO]: kshrba[/123.122.95.215:51351] [ClientID: -1226863482851064753] logged in with entity id 3251 at (world, 128, 28, 128)
-2017-08-18 [08:44:53] [Server thread/INFO]: [主播]Zi_Jian : 没人买？
-2017-08-18 [08:44:57] [Server thread/INFO]: [SVIP]liuliu2008 : 3000
-2017-08-18 [08:45:03] [Server thread/INFO]: [主播]Zi_Jian : 9000
-2017-08-18 [08:45:11] [Server thread/INFO]: [主播]Zi_Jian : 一个钻一千
-2017-08-18 [08:45:22] [Server thread/INFO]: [主播]Zi_Jian : 谁要拍
-2017-08-18 [08:45:25] [Server thread/INFO]: [主播]Zi_Jian : 钻块
-2017-08-18 [08:45:26] [Server thread/INFO]: [AuthMePE] Player kshrba has logged in.
-2017-08-18 [08:45:26] [Server thread/INFO]: [AuthMePE] 玩家 kshrba 登录了游戏。
-2017-08-18 [08:45:26] [Server thread/INFO]: - kshrba is now online!
-2017-08-18 [08:45:26] [Server thread/INFO]: - kshrba 现在上线了!
-2017-08-18 [08:45:28] [Server thread/INFO]: [SVIP]liuliu2008 : 三钻三千
-2017-08-18 [08:45:30] [Server thread/INFO]: [主播]Zi_Jian : 两千起
-2017-08-18 [08:45:38] [Server thread/NOTICE]: Player data not found for "jinzhixlih", creating new profile
-2017-08-18 [08:45:38] [Server thread/INFO]: jinzhixlih[/42.100.80.30:58801] [ClientID: -3765485732227664938] logged in with entity id 3261 at (world, 128, 28, 128)
-2017-08-18 [08:45:42] [Server thread/INFO]: [主播]Zi_Jian : 没人买我走了
-2017-08-18 [08:45:51] [Server thread/INFO]: [主播]Zi_Jian : 这么值
-2017-08-18 [08:45:52] [Server thread/INFO]: [我是男的]Maker : 我沒鐵站但我有貼
-2017-08-18 [08:45:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:45:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-08-18 [08:46:09] [Server thread/INFO]: [SVIP]liuliu2008 : 买一把吧
-2017-08-18 [08:46:09] [Server thread/INFO]: [主播]Zi_Jian : 等等
-2017-08-18 [08:46:14] [Server thread/NOTICE]: Player data not found for "midnightlovetes", creating new profile
-2017-08-18 [08:46:14] [Server thread/INFO]: midnightlovetes[/76.30.161.69:51590] [ClientID: -8550865797556102219] logged in with entity id 3270 at (world, 128, 28, 128)
-2017-08-18 [08:46:19] [Server thread/INFO]: Steve[/61.6.230.172:51317] [ClientID: -4947814557670629336] logged in with entity id 3271 at (th, 130.17, 65, 130.9171)
-2017-08-18 [08:46:31] [Server thread/INFO]: [SVIP]liuliu2008 : 第一个买的优惠
-2017-08-18 [08:46:37] [Server thread/INFO]: Steve[/61.6.230.172:51317] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:46:38] [Server thread/INFO]: [我是男的]Maker : 鑽石磚
-2017-08-18 [08:46:48] [Server thread/INFO]: [SVIP]liuliu2008 : 5折
-2017-08-18 [08:46:54] [Server thread/INFO]: jinzhixlih[/42.100.80.30:58801] logged out due to client disconnect
-2017-08-18 [08:46:55] [Server thread/INFO]: * liuliu2008 说：拍卖要开始了，请-大家坐好座位
-2017-08-18 [08:46:58] [Server thread/INFO]: Steve[/61.6.230.172:51317] [ClientID: -4947814557670629336] logged in with entity id 3280 at (world, 128, 28, 128)
-2017-08-18 [08:47:05] [Server thread/INFO]: midnightlovetes[/76.30.161.69:51590] logged out due to client disconnect
-2017-08-18 [08:47:06] [Server thread/INFO]: [主播]Zi_Jian : 谁要买
-2017-08-18 [08:47:10] [Server thread/INFO]: [主播]Zi_Jian : 2000起
-2017-08-18 [08:47:12] [Server thread/INFO]: [SVIP]liuliu2008 : 我
-2017-08-18 [08:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-18 [08:47:16] [Server thread/INFO]: Steve[/61.6.230.172:51317] logged out due to Kicked by admin. Reason: Time out!
-2017-08-18 [08:47:18] [Server thread/INFO]: [主播]Zi_Jian : 出价高者的
-2017-08-18 [08:47:19] [Server thread/INFO]: [我是男的]Maker : 我要買鑽石磚
-2017-08-18 [08:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-18 [08:47:27] [Server thread/INFO]: [主播]Zi_Jian : 出多少？
-2017-08-18 [08:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-18 [08:47:31] [Server thread/INFO]: [SVIP]liuliu2008 : 第一个买的优惠
-2017-08-18 [08:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-18 [08:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-18 [08:47:34] [Server thread/WARNING]: Maker moved wrongly!
-2017-08-18 [08:47:36] [Server thread/INFO]: [主播]Zi_Jian : 出多少
+2017-08-18 [08:47:56] [Server thread/NOTICE]: Player data not found for "jin", creating new profile
+2017-08-18 [08:47:56] [Server thread/INFO]: jin[/42.100.80.30:58801] [ClientID: -3765485732227664938] logged in with entity id 3289 at (world, 128, 28, 128)
+2017-08-18 [08:47:57] [Server thread/INFO]: [主播]Zi_Jian : 第一次
+2017-08-18 [08:48:00] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [08:48:05] [Server thread/INFO]: [SVIP]liuliu2008 : 对
+2017-08-18 [08:48:05] [Server thread/INFO]: WaxEndymion1913[/184.60.19.20:64112] [ClientID: 2253700130185326215] logged in with entity id 3291 at (world, 128, 64, 128)
+2017-08-18 [08:48:06] [Server thread/INFO]: [主播]Zi_Jian : 有没有人比他高
+2017-08-18 [08:48:08] [Server thread/INFO]: Steve[/180.108.82.245:57314] [ClientID: -8054968956949051392] logged in with entity id 3292 at (world, 128, 28, 128)
+2017-08-18 [08:48:09] [Server thread/INFO]: jin[/42.100.80.30:58801] logged out due to timeout
+2017-08-18 [08:48:12] [Server thread/INFO]: [主播]Zi_Jian : 第二次
+2017-08-18 [08:48:14] [Server thread/INFO]: [我是男的]Maker : 嗯
+2017-08-18 [08:48:17] [Server thread/INFO]: [主播]Zi_Jian : 第三次
+2017-08-18 [08:48:26] [Server thread/INFO]: Steve[/180.108.82.245:57314] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [08:48:27] [Server thread/INFO]: [SVIP]liuliu2008 : 1800
+2017-08-18 [08:48:28] [Server thread/INFO]: WaxEndymion1913[/184.60.19.20:64112] logged out due to client disconnect
+2017-08-18 [08:48:33] [Server thread/INFO]: [主播]Zi_Jian : 成交
+2017-08-18 [08:48:34] [Server thread/INFO]: [SVIP]liuliu2008 : 最高
+2017-08-18 [08:48:35] [Server thread/NOTICE]: Player data not found for "zide", creating new profile
+2017-08-18 [08:48:35] [Server thread/INFO]: zide[/75.40.51.104:58317] [ClientID: -5212297561536341988] logged in with entity id 3296 at (world, 128, 28, 128)
+2017-08-18 [08:48:42] [Server thread/INFO]: [主播]Zi_Jian : 。/give money
+2017-08-18 [08:48:55] [Server thread/INFO]: Steve[/180.108.82.245:57314] [ClientID: -8054968956949051392] logged in with entity id 3299 at (world, 128, 28, 128)
+2017-08-18 [08:48:57] [Server thread/INFO]: [主播]Zi_Jian : 送你了
+2017-08-18 [08:49:02] [Server thread/INFO]: zide[/75.40.51.104:58317] logged out due to timeout
+2017-08-18 [08:49:13] [Server thread/INFO]: Steve[/180.108.82.245:57314] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [08:49:17] [Server thread/INFO]: [SVIP]liuliu2008 : 没指令
+2017-08-18 [08:49:21] [Server thread/INFO]: * Maker 
+2017-08-18 [08:49:29] [Server thread/INFO]: * Zi_Jian 说：开拍
+2017-08-18 [08:49:29] [Server thread/INFO]: * Maker 说：开拍
+2017-08-18 [08:49:45] [Server thread/INFO]: * Maker 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:49:49] [Server thread/INFO]: [SVIP]liuliu2008 : 送你卖出的钱
+2017-08-18 [08:50:15] [Server thread/INFO]: Steve[/180.108.82.245:57314] [ClientID: -8054968956949051392] logged in with entity id 3303 at (world, 128, 28, 128)
+2017-08-18 [08:50:33] [Server thread/INFO]: Steve[/180.108.82.245:57314] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [08:50:47] [Server thread/INFO]: [主播]Zi_Jian : 要op。。。。。。。
+2017-08-18 [08:50:59] [Server thread/INFO]: [我是男的]Maker : 我要鑽石磚
+2017-08-18 [08:51:11] [Server thread/INFO]: [主播]Zi_Jian : 谁要
+2017-08-18 [08:51:15] [Server thread/INFO]: [主播]Zi_Jian : 拿去
+2017-08-18 [08:51:20] [Server thread/INFO]: [我是男的]Maker : 我現在回本但沒鑽石
+2017-08-18 [08:52:09] [Server thread/INFO]: * Maker sh
+2017-08-18 [08:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [08:52:17] [Server thread/INFO]: * Zi_Jian 说：本拍卖以交换为-主，钻石为货币
+2017-08-18 [08:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [08:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [08:52:31] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [08:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [08:52:35] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:36] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:36] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:36] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:39] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:39] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:39] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:39] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:39] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:40] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:40] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:40] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:41] [Server thread/INFO]: [SVIP]liuliu2008 : 两钻
+2017-08-18 [08:52:41] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:42] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:42] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:42] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:42] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:43] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:44] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:44] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:45] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:45] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:45] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:47] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:47] [Server thread/INFO]: * Zi_Jian 说：拍卖要开始了，请-大家坐好座位
+2017-08-18 [08:52:51] [Server thread/INFO]: [主播]Zi_Jian : 坐好
+2017-08-18 [08:52:55] [Server thread/INFO]: [主播]Zi_Jian : 拍卖钻块
+2017-08-18 [08:52:59] [Server thread/INFO]: * Zi_Jian 说：开拍
+2017-08-18 [08:53:08] [Server thread/INFO]: [主播]Zi_Jian : 两钻起拍
+2017-08-18 [08:53:12] [Server thread/INFO]: [SVIP]liuliu2008 : 竞争最高价
+2017-08-18 [08:53:24] [Server thread/INFO]: [主播]Zi_Jian : 两钻起拍
+2017-08-18 [08:53:55] [Server thread/INFO]: Steve[/113.174.195.42:58670] [ClientID: -47179427429562640] logged in with entity id 3315 at (world, 128, 28, 128)
+2017-08-18 [08:54:12] [Server thread/INFO]: [主播]Zi_Jian : 附魔金屁股
+2017-08-18 [08:54:13] [Server thread/INFO]: Steve[/113.174.195.42:58670] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [08:54:25] [Server thread/INFO]: [主播]Zi_Jian : 两钻起拍
+2017-08-18 [08:54:26] [Server thread/NOTICE]: Player data not found for "shakingstatue89", creating new profile
+2017-08-18 [08:54:26] [Server thread/INFO]: ShakingStatue89[/183.204.106.239:35497] [ClientID: -5379937456211053538] logged in with entity id 3317 at (world, 128, 28, 128)
+2017-08-18 [08:54:30] [Server thread/INFO]: [主播]Zi_Jian : 谁要
+2017-08-18 [08:54:36] [Server thread/INFO]: [我是男的]Maker : me
+2017-08-18 [08:54:42] [Server thread/INFO]: [主播]Zi_Jian : 出多少
+2017-08-18 [08:54:55] [Server thread/INFO]: [SVIP]liuliu2008 : 我出两钻
+2017-08-18 [08:54:59] [Server thread/INFO]: [我是男的]Maker : 64+63個鐵
+2017-08-18 [08:55:05] [Server thread/INFO]: [SVIP]liuliu2008 : 已经给了
+2017-08-18 [08:55:12] [Server thread/INFO]: [主播]Zi_Jian : 有没有人比两钻高？
+2017-08-18 [08:55:26] [Server thread/INFO]: [主播]Zi_Jian : 防pvp的神器
+2017-08-18 [08:55:40] [Server thread/INFO]: [SVIP]liuliu2008 : 金苹果
+2017-08-18 [08:55:42] [Server thread/INFO]: [主播]Zi_Jian : maker你出多少
+2017-08-18 [08:55:59] [Server thread/INFO]: [我是男的]Maker : 63+64鐵
+2017-08-18 [08:56:04] [Server thread/INFO]: [主播]Zi_Jian : 给你
+2017-08-18 [08:56:12] [Server thread/INFO]: Steve[/59.63.248.246:26414] [ClientID: 6438787007894227450] logged in with entity id 3321 at (world, 128, 28, 128)
+2017-08-18 [08:56:15] [Server thread/INFO]: [我是男的]Maker : 沒鐵了
+2017-08-18 [08:56:22] [Server thread/INFO]: [主播]Zi_Jian : 今天拍卖结束了
+2017-08-18 [08:56:29] [Server thread/INFO]: Steve[/59.63.248.246:26414] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [08:56:32] [Server thread/INFO]: [SVIP]liuliu2008 : 我要想办法陷害pvp
+2017-08-18 [08:56:33] [Server thread/INFO]: ShakingStatue89[/183.204.106.239:35497] logged out due to client disconnect
+2017-08-18 [08:56:35] [Server thread/INFO]: [主播]Zi_Jian : 感谢参加试运营
+2017-08-18 [08:56:36] [Server thread/INFO]: [我是男的]Maker : 搶鑽石活動
+2017-08-18 [08:56:39] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [08:56:51] [Server thread/INFO]: [主播]Zi_Jian : 造防pvp陷阱
+2017-08-18 [08:56:55] [Server thread/INFO]: [SVIP]liuliu2008 : Maker来
+2017-08-18 [08:56:55] [Server thread/INFO]: [主播]Zi_Jian : 一钻
+2017-08-18 [08:57:02] [Server thread/INFO]: [主播]Zi_Jian : 谁要造
+2017-08-18 [08:57:08] [Server thread/INFO]: [SVIP]liuliu2008 : 我
+2017-08-18 [08:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [08:57:18] [Server thread/INFO]: Steve[/59.63.248.246:26414] [ClientID: 6438787007894227450] logged in with entity id 3331 at (world, 128, 28, 128)
+2017-08-18 [08:57:20] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [08:57:23] [Server thread/INFO]: [主播]Zi_Jian : 造哪
+2017-08-18 [08:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [08:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [08:57:33] [Server thread/INFO]: [SVIP]liuliu2008 : 家旁
+2017-08-18 [08:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [08:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [08:57:35] [Server thread/INFO]: Steve[/59.63.248.246:26414] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [08:58:25] [Server thread/INFO]: [SVIP]liuliu2008 : good
+2017-08-18 [08:58:37] [Server thread/INFO]: [SVIP]liuliu2008 : 造高点
+2017-08-18 [08:58:57] [Server thread/INFO]: [SVIP]liuliu2008 : 不要让他看到
+2017-08-18 [08:59:29] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [08:59:39] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [08:59:57] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:00:05] [Server thread/INFO]: [主播]Zi_Jian : 造完了
+2017-08-18 [09:00:43] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:00:57] [Server thread/INFO]: Steve[/121.2.49.143:57214] [ClientID: -8776451526867635218] logged in with entity id 3369 at (world, 128, 28, 128)
+2017-08-18 [09:01:05] [Server thread/INFO]: [主播]Zi_Jian : 别撸
+2017-08-18 [09:01:20] [Server thread/INFO]: Steve[/121.2.49.143:57214] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:01:23] [Server thread/INFO]: [/1.198.209.75:1675] logged out due to client disconnect
+2017-08-18 [09:01:30] [Server thread/INFO]: [SVIP]liuliu2008 : 哪儿也放一个
+2017-08-18 [09:01:44] [Server thread/INFO]: [SVIP]liuliu2008 : 那
+2017-08-18 [09:01:54] [Server thread/INFO]: Steve[/121.2.49.143:57214] [ClientID: -8776451526867635218] logged in with entity id 3371 at (th, 130, 65, 131)
+2017-08-18 [09:02:02] [Server thread/INFO]: [SVIP]liuliu2008 : 过来
+2017-08-18 [09:02:05] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:02:16] [Server thread/INFO]: Steve[/121.2.49.143:57214] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:02:20] [Server thread/INFO]: TKECT[/218.79.197.28:53194] [ClientID: 1724351401881610917] logged in with entity id 3373 at (world, 131.9021, 64.5, 129.5893)
+2017-08-18 [09:02:22] [Server thread/INFO]: [AuthMePE] Player TKECT has logged in.
+2017-08-18 [09:02:22] [Server thread/INFO]: [AuthMePE] 玩家 TKECT 登录了游戏。
+2017-08-18 [09:02:22] [Server thread/INFO]: - TKECT is now online!
+2017-08-18 [09:02:22] [Server thread/INFO]: - TKECT 现在上线了!
+2017-08-18 [09:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:02:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:02:35] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:02:53] [Server thread/INFO]: [女大学生]TKECT : 怎么上去
+2017-08-18 [09:02:55] [Server thread/INFO]: Steve[/99.130.144.122:61192] [ClientID: 7156984540991445888] logged in with entity id 3374 at (th, 130.2261, 65, 130.8946)
+2017-08-18 [09:02:57] [Server thread/INFO]: Steve[/121.2.49.143:57214] logged out due to timeout
+2017-08-18 [09:02:59] [Server thread/INFO]: [主播]Zi_Jian : ？
+2017-08-18 [09:03:10] [Server thread/INFO]: [主播]Zi_Jian : 女大学生是什么鬼
+2017-08-18 [09:03:12] [Server thread/INFO]: Steve[/99.130.144.122:61192] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:03:21] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:03:22] [Server thread/INFO]: [女大学生]TKECT : 刚登陆就在一个洞里
+2017-08-18 [09:03:23] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:03:24] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:03:26] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:03:27] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:03:29] [Server thread/INFO]: [主播]Zi_Jian : 对
+2017-08-18 [09:03:35] [Server thread/INFO]: [主播]Zi_Jian : 服呗炸了
+2017-08-18 [09:03:35] [Server thread/INFO]: [女大学生]TKECT : 怎么上去
+2017-08-18 [09:03:36] [Server thread/INFO]: Steve[/99.130.144.122:61192] [ClientID: 7156984540991445888] logged in with entity id 3375 at (world, 128, 28, 128)
+2017-08-18 [09:03:37] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:03:43] [Server thread/INFO]: [主播]Zi_Jian : 看牌子
+2017-08-18 [09:03:47] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:03:47] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:03:53] [Server thread/INFO]: Steve[/99.130.144.122:61192] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:04:24] [Server thread/INFO]: [我是男的]Maker : 幫我蓋新家
+2017-08-18 [09:04:24] [Server thread/INFO]: - TKECT is now offline!
+2017-08-18 [09:04:24] [Server thread/INFO]: - TKECT 离开了游戏!
+2017-08-18 [09:04:24] [Server thread/INFO]: [AuthMePE] Player TKECT has logged out.
+2017-08-18 [09:04:24] [Server thread/INFO]: [AuthMePE] Player TKECT 离开了游戏.
+2017-08-18 [09:04:24] [Server thread/INFO]: TKECT[/218.79.197.28:53194] logged out due to timeout
+2017-08-18 [09:04:31] [Server thread/INFO]: [SVIP]liuliu2008 : 好
+2017-08-18 [09:04:40] [Server thread/INFO]: [我是男的]Maker : 找塊地
+2017-08-18 [09:04:40] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:04:41] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:04:57] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:05:51] [Server thread/INFO]: [SVIP]liuliu2008 : 来
+2017-08-18 [09:07:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:07:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:07:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:07:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理9个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:07:48] [Server thread/INFO]: [主播]Zi_Jian : 造完了
+2017-08-18 [09:07:59] [Server thread/INFO]: [SVIP]liuliu2008 : 造啥样的
+2017-08-18 [09:08:02] [Server thread/NOTICE]: Player data not found for "duanhejun", creating new profile
+2017-08-18 [09:08:02] [Server thread/INFO]: DuanHeJun[/1.198.209.75:2157] [ClientID: -7770629901792844990] logged in with entity id 3458 at (world, 128, 28, 128)
+2017-08-18 [09:08:28] [Server thread/INFO]: [主播]Zi_Jian : 造完了
+2017-08-18 [09:08:29] [Server thread/INFO]: [我是男的]Maker : 回家拿材料個
+2017-08-18 [09:08:30] [Server thread/INFO]: [主播]Zi_Jian : 来看
+2017-08-18 [09:08:42] [Server thread/INFO]: [主播]Zi_Jian : 看起来很简单
+2017-08-18 [09:08:51] [Server thread/INFO]: [SVIP]liuliu2008 : 材料
+2017-08-18 [09:08:52] [Server thread/INFO]: [主播]Zi_Jian : 来这里
+2017-08-18 [09:08:58] [Server thread/INFO]: [我是男的]Maker : 我去拿
+2017-08-18 [09:09:04] [Server thread/INFO]: [主播]Zi_Jian : 你们人呢
+2017-08-18 [09:09:05] [Server thread/INFO]: [SVIP]liuliu2008 : 好
+2017-08-18 [09:09:15] [Server thread/INFO]: [SVIP]liuliu2008 : 我造面积
+2017-08-18 [09:09:20] [Server thread/INFO]: [AuthMePE] Player DuanHeJun has logged in.
+2017-08-18 [09:09:20] [Server thread/INFO]: [AuthMePE] 玩家 DuanHeJun 登录了游戏。
+2017-08-18 [09:09:20] [Server thread/INFO]: - DuanHeJun is now online!
+2017-08-18 [09:09:20] [Server thread/INFO]: - DuanHeJun 现在上线了!
+2017-08-18 [09:09:25] [Server thread/INFO]: [主播]Zi_Jian : 来看看
+2017-08-18 [09:09:52] [Server thread/INFO]: - DuanHeJun is now offline!
+2017-08-18 [09:09:52] [Server thread/INFO]: - DuanHeJun 离开了游戏!
+2017-08-18 [09:09:52] [Server thread/INFO]: [AuthMePE] Player DuanHeJun has logged out.
+2017-08-18 [09:09:52] [Server thread/INFO]: [AuthMePE] Player DuanHeJun 离开了游戏.
+2017-08-18 [09:09:52] [Server thread/INFO]: DuanHeJun[/1.198.209.75:2157] logged out due to timeout
+2017-08-18 [09:10:21] [Server thread/NOTICE]: Player data not found for "kelly", creating new profile
+2017-08-18 [09:10:21] [Server thread/INFO]: kelly[/67.85.253.131:54632] [ClientID: 6950047320619003716] logged in with entity id 3477 at (world, 128, 28, 128)
+2017-08-18 [09:10:23] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:10:31] [Server thread/INFO]: kelly[/67.85.253.131:54632] logged out due to timeout
+2017-08-18 [09:11:01] [Server thread/INFO]: [SVIP]liuliu2008 : 这有别人的领地
+2017-08-18 [09:11:19] [Server thread/INFO]: [我是男的]Maker : 沒材料了少了只受這些
+2017-08-18 [09:11:24] [Server thread/INFO]: [主播]Zi_Jian : liu
+2017-08-18 [09:11:27] [Server thread/INFO]: [主播]Zi_Jian : 来看
+2017-08-18 [09:11:36] [Server thread/INFO]: [主播]Zi_Jian : 只要他站在沙子上
+2017-08-18 [09:11:40] [Server thread/INFO]: [主播]Zi_Jian : 投沙
+2017-08-18 [09:11:52] [Server thread/INFO]: [主播]Zi_Jian : 他就会掉洞里
+2017-08-18 [09:12:12] [Server thread/INFO]: [主播]Zi_Jian : 。。。。。。
+2017-08-18 [09:12:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:12:19] [Server thread/INFO]: [主播]Zi_Jian : 下去干嘛
+2017-08-18 [09:12:21] [Server thread/INFO]: [主播]Zi_Jian : 自杀
+2017-08-18 [09:12:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:12:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:12:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:12:44] [Server thread/INFO]: [主播]Zi_Jian : 你要来试试吗
+2017-08-18 [09:12:55] [Server thread/INFO]: [SVIP]liuliu2008 : Maker那旁边有别人的领地
+2017-08-18 [09:13:00] [Server thread/INFO]: [主播]Zi_Jian : 对
+2017-08-18 [09:13:10] [Server thread/INFO]: [主播]Zi_Jian : 我想放岩浆
+2017-08-18 [09:13:10] [Server thread/NOTICE]: Player data not found for "gaosi", creating new profile
+2017-08-18 [09:13:10] [Server thread/INFO]: gaosi[/218.74.28.143:61512] [ClientID: 4255197257025765657] logged in with entity id 3553 at (world, 128, 28, 128)
+2017-08-18 [09:13:22] [Server thread/INFO]: [主播]Zi_Jian : 站在沙子上
+2017-08-18 [09:13:23] [Server thread/INFO]: [我是男的]Maker : 所以？
+2017-08-18 [09:13:32] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:13:41] [Server thread/INFO]: [主播]Zi_Jian : 呵呵
+2017-08-18 [09:13:44] [Server thread/INFO]: [主播]Zi_Jian : 看到了吗
+2017-08-18 [09:13:46] [Server thread/INFO]: [主播]Zi_Jian : maker
+2017-08-18 [09:13:49] [Server thread/INFO]: [我是男的]Maker : 把他縮小
+2017-08-18 [09:13:55] [Server thread/INFO]: [主播]Zi_Jian : maker
+2017-08-18 [09:13:57] [Server thread/INFO]: [SVIP]liuliu2008 : 可
+2017-08-18 [09:13:57] [Server thread/INFO]: [主播]Zi_Jian : liuliu
+2017-08-18 [09:14:01] [Server thread/INFO]: [主播]Zi_Jian : 被坑了
+2017-08-18 [09:14:21] [Server thread/INFO]: [AuthMePE] Player gaosi has logged in.
+2017-08-18 [09:14:21] [Server thread/INFO]: [AuthMePE] 玩家 gaosi 登录了游戏。
+2017-08-18 [09:14:21] [Server thread/INFO]: - gaosi is now online!
+2017-08-18 [09:14:21] [Server thread/INFO]: - gaosi 现在上线了!
+2017-08-18 [09:14:39] [Server thread/INFO]: liuliu2008 was killed by magic
+2017-08-18 [09:14:40] [Server thread/INFO]: Maker was killed by magic
+2017-08-18 [09:14:48] [Server thread/INFO]: [主播]Zi_Jian : 我帮
+2017-08-18 [09:14:50] [Server thread/INFO]: [主播]Zi_Jian : 你们
+2017-08-18 [09:14:51] [Server thread/INFO]: [我是男的]Maker : 幫找塊地
+2017-08-18 [09:14:53] [Server thread/INFO]: [主播]Zi_Jian : 上来了
+2017-08-18 [09:15:07] [Server thread/INFO]: [SVIP]liuliu2008 : 那块地，有别人占领
+2017-08-18 [09:15:15] [Server thread/INFO]: [我是男的]Maker : 知道
+2017-08-18 [09:15:20] [Server thread/INFO]: [SVIP]liuliu2008 : 一半
+2017-08-18 [09:15:30] [Server thread/INFO]: [我是男的]Maker : 找別快
+2017-08-18 [09:15:47] [Server thread/WARNING]: gaosi moved wrongly!
+2017-08-18 [09:15:47] [Server thread/WARNING]: gaosi moved wrongly!
+2017-08-18 [09:16:03] [Server thread/INFO]: Jeff[/223.87.100.179:24528] [ClientID: 7682296866856763080] logged in with entity id 3604 at (world, 277.5419, 70, 272.6696)
+2017-08-18 [09:16:13] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:16:36] [Server thread/INFO]: [主播]Zi_Jian : 陷阱修好了
+2017-08-18 [09:16:38] [Server thread/INFO]: Jeff[/223.87.100.179:24528] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:16:42] [Server thread/INFO]: [/50.100.249.108:64016] logged out due to client disconnect
+2017-08-18 [09:17:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:17:23] [Server thread/INFO]: a[/200.186.69.106:35868] logged out due to Invalid name!
+2017-08-18 [09:17:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:17:25] [Server thread/NOTICE]: Player data not found for "lizzylizard613", creating new profile
+2017-08-18 [09:17:25] [Server thread/INFO]: LizzyLizard613[/68.37.103.195:57359] [ClientID: -3776510835869805537] logged in with entity id 3628 at (world, 128, 28, 128)
+2017-08-18 [09:17:25] [Server thread/INFO]: gaosi : 啊啊
+2017-08-18 [09:17:25] [Server thread/INFO]: Jeff[/223.87.100.179:24528] [ClientID: 7682296866856763080] logged in with entity id 3629 at (world, 128, 28, 128)
+2017-08-18 [09:17:26] [Server thread/NOTICE]: Player data not found for "biggyjay4", creating new profile
+2017-08-18 [09:17:26] [Server thread/INFO]: biggyjay4[/68.37.103.195:61629] [ClientID: -6907031749243661369] logged in with entity id 3630 at (world, 128, 28, 128)
+2017-08-18 [09:17:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:17:32] [Server thread/INFO]: a[/200.186.69.106:35868] logged out due to Invalid name!
+2017-08-18 [09:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:17:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:17:37] [Server thread/INFO]: LizzyLizard613[/68.37.103.195:57359] logged out due to timeout
+2017-08-18 [09:17:40] [Server thread/INFO]: gaosi : 什么东西
+2017-08-18 [09:17:53] [Server thread/INFO]: LizzyLizard613[/68.37.103.195:55690] [ClientID: -3776510835869805537] logged in with entity id 3631 at (world, 128, 28, 128)
+2017-08-18 [09:18:01] [Server thread/INFO]: gaosi fell from a high place
+2017-08-18 [09:18:04] [Server thread/INFO]: Jeff[/223.87.100.179:24528] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:18:07] [Server thread/INFO]: - gaosi is now offline!
+2017-08-18 [09:18:07] [Server thread/INFO]: - gaosi 离开了游戏!
+2017-08-18 [09:18:07] [Server thread/INFO]: [AuthMePE] Player gaosi has logged out.
+2017-08-18 [09:18:07] [Server thread/INFO]: [AuthMePE] Player gaosi 离开了游戏.
+2017-08-18 [09:18:07] [Server thread/INFO]: gaosi[/218.74.28.143:61512] logged out due to client disconnect
+2017-08-18 [09:18:10] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:18:10] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:18:32] [Server thread/INFO]: [主播]Zi_Jian : 你们人呢
+2017-08-18 [09:19:12] [Server thread/INFO]: [主播]Zi_Jian : 人呢
+2017-08-18 [09:19:22] [Server thread/INFO]: [AuthMePE] Player LizzyLizard613 has logged in.
+2017-08-18 [09:19:22] [Server thread/INFO]: [AuthMePE] 玩家 LizzyLizard613 登录了游戏。
+2017-08-18 [09:19:22] [Server thread/INFO]: - LizzyLizard613 is now online!
+2017-08-18 [09:19:22] [Server thread/INFO]: - LizzyLizard613 现在上线了!
+2017-08-18 [09:19:52] [Server thread/INFO]: [主播]Zi_Jian : 。。。。。。。。。
+2017-08-18 [09:19:58] [Server thread/INFO]: [SVIP]liuliu2008 : 对不起
+2017-08-18 [09:20:02] [Server thread/INFO]: [主播]Zi_Jian : 你们又毁了我的陷阱
+2017-08-18 [09:20:06] [Server thread/NOTICE]: Player data not found for "youxiaotiang", creating new profile
+2017-08-18 [09:20:06] [Server thread/INFO]: youxiaotiang[/117.149.101.107:51618] [ClientID: 7838280758038657610] logged in with entity id 3667 at (world, 128, 28, 128)
+2017-08-18 [09:20:12] [Server thread/INFO]: Maker was killed by magic
+2017-08-18 [09:20:12] [Server thread/INFO]: liuliu2008 was killed by magic
+2017-08-18 [09:20:42] [Server thread/INFO]: - LizzyLizard613 is now offline!
+2017-08-18 [09:20:42] [Server thread/INFO]: - LizzyLizard613 离开了游戏!
+2017-08-18 [09:20:42] [Server thread/INFO]: [AuthMePE] Player LizzyLizard613 has logged out.
+2017-08-18 [09:20:42] [Server thread/INFO]: [AuthMePE] Player LizzyLizard613 离开了游戏.
+2017-08-18 [09:20:42] [Server thread/INFO]: LizzyLizard613[/68.37.103.195:55690] logged out due to client disconnect
+2017-08-18 [09:20:46] [Server thread/INFO]: [AuthMePE] Player youxiaotiang has logged in.
+2017-08-18 [09:20:46] [Server thread/INFO]: [AuthMePE] 玩家 youxiaotiang 登录了游戏。
+2017-08-18 [09:20:46] [Server thread/INFO]: - youxiaotiang is now online!
+2017-08-18 [09:20:46] [Server thread/INFO]: - youxiaotiang 现在上线了!
+2017-08-18 [09:21:00] [Server thread/INFO]: [AuthMePE] Player biggyjay4 has logged in.
+2017-08-18 [09:21:00] [Server thread/INFO]: [AuthMePE] 玩家 biggyjay4 登录了游戏。
+2017-08-18 [09:21:00] [Server thread/INFO]: - biggyjay4 is now online!
+2017-08-18 [09:21:00] [Server thread/INFO]: - biggyjay4 现在上线了!
+2017-08-18 [09:21:02] [Server thread/INFO]: [SVIP]liuliu2008 : 小天
+2017-08-18 [09:21:05] [Server thread/INFO]: - youxiaotiang is now offline!
+2017-08-18 [09:21:05] [Server thread/INFO]: - youxiaotiang 离开了游戏!
+2017-08-18 [09:21:05] [Server thread/INFO]: [AuthMePE] Player youxiaotiang has logged out.
+2017-08-18 [09:21:05] [Server thread/INFO]: [AuthMePE] Player youxiaotiang 离开了游戏.
+2017-08-18 [09:21:05] [Server thread/INFO]: youxiaotiang[/117.149.101.107:51618] logged out due to client disconnect
+2017-08-18 [09:21:07] [Server thread/INFO]: yudingze[/113.222.203.245:1298] [ClientID: -4268168162490666647] logged in with entity id 3698 at (th, 80.3002, 65, 100.2584)
+2017-08-18 [09:21:08] [Server thread/INFO]: [AuthMePE] Player yudingze has logged in.
+2017-08-18 [09:21:08] [Server thread/INFO]: [AuthMePE] 玩家 yudingze 登录了游戏。
+2017-08-18 [09:21:08] [Server thread/INFO]: - yudingze is now online!
+2017-08-18 [09:21:08] [Server thread/INFO]: - yudingze 现在上线了!
+2017-08-18 [09:21:13] [Server thread/INFO]: [我是男的]Maker : 找塊地
+2017-08-18 [09:21:16] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:21:22] [Server thread/INFO]: Gaby Unicorn[/96.227.92.79:49799] logged out due to Invalid name!
+2017-08-18 [09:21:27] [Server thread/INFO]: Jeff[/223.87.100.179:24535] [ClientID: 7682296866856763080] logged in with entity id 3701 at (world, 128, 28, 128)
+2017-08-18 [09:21:27] [Server thread/INFO]: - biggyjay4 is now offline!
+2017-08-18 [09:21:27] [Server thread/INFO]: - biggyjay4 离开了游戏!
+2017-08-18 [09:21:27] [Server thread/INFO]: [AuthMePE] Player biggyjay4 has logged out.
+2017-08-18 [09:21:27] [Server thread/INFO]: [AuthMePE] Player biggyjay4 离开了游戏.
+2017-08-18 [09:21:27] [Server thread/INFO]: biggyjay4[/68.37.103.195:61629] logged out due to client disconnect
+2017-08-18 [09:21:40] [Server thread/INFO]: youxiaotiang[/117.149.101.107:51665] logged out due to timeout
+2017-08-18 [09:21:41] [Server thread/INFO]: LizzyLizard613[/68.37.103.195:55690] [ClientID: -3776510835869805537] logged in with entity id 3704 at (th, 120.911, 65, 133.3065)
+2017-08-18 [09:21:42] [Server thread/INFO]: yudingze : 生存服在哪里
+2017-08-18 [09:21:42] [Server thread/INFO]: biggyjay4[/68.37.103.195:61629] [ClientID: -6907031749243661369] logged in with entity id 3705 at (th, 149.3187, 65, 152.0784)
+2017-08-18 [09:21:43] [Server thread/INFO]: Jeff[/223.87.100.179:24535] logged out due to client disconnect
+2017-08-18 [09:21:45] [Server thread/INFO]: [主播]Zi_Jian : jeff？
+2017-08-18 [09:21:46] [Server thread/INFO]: [AuthMePE] Player biggyjay4 has logged in.
+2017-08-18 [09:21:46] [Server thread/INFO]: [AuthMePE] 玩家 biggyjay4 登录了游戏。
+2017-08-18 [09:21:46] [Server thread/INFO]: - biggyjay4 is now online!
+2017-08-18 [09:21:46] [Server thread/INFO]: - biggyjay4 现在上线了!
+2017-08-18 [09:21:47] [Server thread/INFO]: [AuthMePE] Player LizzyLizard613 has logged in.
+2017-08-18 [09:21:47] [Server thread/INFO]: [AuthMePE] 玩家 LizzyLizard613 登录了游戏。
+2017-08-18 [09:21:47] [Server thread/INFO]: - LizzyLizard613 is now online!
+2017-08-18 [09:21:47] [Server thread/INFO]: - LizzyLizard613 现在上线了!
+2017-08-18 [09:21:48] [Server thread/INFO]: [主播]Zi_Jian : 你逗我
+2017-08-18 [09:21:50] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:21:51] [Server thread/INFO]: youxiaotiang[/117.149.101.107:51618] [ClientID: 7838280758038657610] logged in with entity id 3707 at (th, 126.0152, 65, 131.0413)
+2017-08-18 [09:21:52] [Server thread/INFO]: [AuthMePE] Player youxiaotiang has logged in.
+2017-08-18 [09:21:52] [Server thread/INFO]: [AuthMePE] 玩家 youxiaotiang 登录了游戏。
+2017-08-18 [09:21:52] [Server thread/INFO]: - youxiaotiang is now online!
+2017-08-18 [09:21:52] [Server thread/INFO]: - youxiaotiang 现在上线了!
+2017-08-18 [09:22:05] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:22:05] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:22:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:22:14] [Server thread/WARNING]: youxiaotiang moved wrongly!
+2017-08-18 [09:22:16] [Server thread/INFO]: yudingze : 地皮怎么领取
+2017-08-18 [09:22:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:22:25] [Server thread/INFO]: [主播]Zi_Jian : 要买的
+2017-08-18 [09:22:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:22:31] [Server thread/WARNING]: youxiaotiang moved wrongly!
+2017-08-18 [09:22:31] [Server thread/INFO]: yudingze : 咋买
+2017-08-18 [09:22:32] [Server thread/INFO]: [主播]Zi_Jian : 别想了
+2017-08-18 [09:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:22:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:22:44] [Server thread/INFO]: - youxiaotiang is now offline!
+2017-08-18 [09:22:44] [Server thread/INFO]: - youxiaotiang 离开了游戏!
+2017-08-18 [09:22:44] [Server thread/INFO]: [AuthMePE] Player youxiaotiang has logged out.
+2017-08-18 [09:22:44] [Server thread/INFO]: [AuthMePE] Player youxiaotiang 离开了游戏.
+2017-08-18 [09:22:44] [Server thread/INFO]: youxiaotiang[/117.149.101.107:51618] logged out due to client disconnect
+2017-08-18 [09:22:46] [Server thread/INFO]: 李毕浪[/116.209.205.223:65107] logged out due to Invalid name!
+2017-08-18 [09:23:04] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:23:17] [Server thread/INFO]: [主播]Zi_Jian : 要我干啥
+2017-08-18 [09:23:21] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:23:47] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:23:49] [Server thread/INFO]: [主播]Zi_Jian : 快来
+2017-08-18 [09:23:52] [Server thread/INFO]: [主播]Zi_Jian : 块
+2017-08-18 [09:23:54] [Server thread/INFO]: [主播]Zi_Jian : 看这里
+2017-08-18 [09:23:56] [Server thread/WARNING]: LizzyLizard613 moved wrongly!
+2017-08-18 [09:24:03] [Server thread/INFO]: [主播]Zi_Jian : 看这里
+2017-08-18 [09:24:18] [Server thread/INFO]: [主播]Zi_Jian : 有人在居民区埋了tnt
+2017-08-18 [09:24:36] [Server thread/WARNING]: biggyjay4 moved wrongly!
+2017-08-18 [09:24:36] [Server thread/WARNING]: biggyjay4 moved wrongly!
+2017-08-18 [09:24:41] [Server thread/WARNING]: LizzyLizard613 moved wrongly!
+2017-08-18 [09:24:43] [Server thread/WARNING]: LizzyLizard613 moved wrongly!
+2017-08-18 [09:24:44] [Server thread/INFO]: yudingze : 哪里
+2017-08-18 [09:24:51] [Server thread/INFO]: [主播]Zi_Jian : 我拆了
+2017-08-18 [09:24:59] [Server thread/INFO]: [SVIP]liuliu2008 : 接受呀
+2017-08-18 [09:25:12] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:25:13] [Server thread/INFO]: [主播]Zi_Jian : 我就在你背后
+2017-08-18 [09:25:44] [Server thread/INFO]: [/117.149.101.107:51618] logged out due to client disconnect
+2017-08-18 [09:25:49] [Server thread/INFO]: [主播]Zi_Jian : 拆了
+2017-08-18 [09:25:58] [Server thread/INFO]: yudingze : 怎么ta
+2017-08-18 [09:26:01] [Server thread/INFO]: yudingze : t
+2017-08-18 [09:26:03] [Server thread/INFO]: yudingze : p
+2017-08-18 [09:26:06] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:26:28] [Server thread/INFO]: yudingze : 啊
+2017-08-18 [09:26:46] [Server thread/WARNING]: LizzyLizard613 moved wrongly!
+2017-08-18 [09:26:51] [Server thread/INFO]: yudingze : 杀了我
+2017-08-18 [09:27:02] [Server thread/INFO]: LizzyLizard613 was killed by magic
+2017-08-18 [09:27:02] [Server thread/INFO]: biggyjay4 was killed by magic
+2017-08-18 [09:27:09] [Server thread/INFO]: [主播]Zi_Jian : 杀完了
+2017-08-18 [09:27:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:27:13] [Server thread/INFO]: yudingze : 杀我
+2017-08-18 [09:27:17] [Server thread/INFO]: [主播]Zi_Jian : 杀错了
+2017-08-18 [09:27:19] [Server thread/INFO]: [主播]Zi_Jian : 对不行
+2017-08-18 [09:27:21] [Server thread/INFO]: [主播]Zi_Jian : 起
+2017-08-18 [09:27:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:27:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:27:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:27:40] [Server thread/INFO]: [SVIP]liuliu2008 : 要不造个警察局
+2017-08-18 [09:27:42] [Server thread/INFO]: [我是男的]Maker : 我要快地
+2017-08-18 [09:27:44] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:27:53] [Server thread/INFO]: yudingze : 我也要
+2017-08-18 [09:28:15] [Server thread/INFO]: - LizzyLizard613 is now offline!
+2017-08-18 [09:28:15] [Server thread/INFO]: - LizzyLizard613 离开了游戏!
+2017-08-18 [09:28:15] [Server thread/INFO]: [AuthMePE] Player LizzyLizard613 has logged out.
+2017-08-18 [09:28:15] [Server thread/INFO]: [AuthMePE] Player LizzyLizard613 离开了游戏.
+2017-08-18 [09:28:15] [Server thread/INFO]: LizzyLizard613[/68.37.103.195:55690] logged out due to client disconnect
+2017-08-18 [09:28:21] [Server thread/INFO]: [/117.149.101.107:51822] logged out due to client disconnect
+2017-08-18 [09:28:22] [Server thread/INFO]: [主播]Zi_Jian : 这个跑酷太简单了
+2017-08-18 [09:28:32] [Server thread/INFO]: - biggyjay4 is now offline!
+2017-08-18 [09:28:32] [Server thread/INFO]: - biggyjay4 离开了游戏!
+2017-08-18 [09:28:32] [Server thread/INFO]: [AuthMePE] Player biggyjay4 has logged out.
+2017-08-18 [09:28:32] [Server thread/INFO]: [AuthMePE] Player biggyjay4 离开了游戏.
+2017-08-18 [09:28:32] [Server thread/INFO]: biggyjay4[/68.37.103.195:61629] logged out due to client disconnect
+2017-08-18 [09:28:37] [Server thread/INFO]: [我是男的]Maker : 找個地給我蓋完我就買了
+2017-08-18 [09:28:51] [Server thread/INFO]: [我是男的]Maker : 我現在有13萬
+2017-08-18 [09:29:02] [Server thread/INFO]: yudingze : 杀了我
+2017-08-18 [09:29:06] [Server thread/INFO]: 李毕浪[/116.209.205.223:58449] logged out due to Invalid name!
+2017-08-18 [09:29:07] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:29:09] [Server thread/INFO]: yudingze was killed by magic
+2017-08-18 [09:29:12] [Server thread/INFO]: [/117.149.101.107:51902] logged out due to client disconnect
+2017-08-18 [09:29:13] [Server thread/INFO]: [主播]Zi_Jian : 好了
+2017-08-18 [09:29:16] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:29:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:29:25] [Server thread/INFO]: yudingze : 你是创造？
+2017-08-18 [09:29:29] [Server thread/INFO]: [主播]Zi_Jian : 对
+2017-08-18 [09:29:37] [Server thread/INFO]: yudingze : 咋弄得
+2017-08-18 [09:29:38] [Server thread/INFO]: [我是男的]Maker : 他作者
+2017-08-18 [09:29:40] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:29:41] [Server thread/INFO]: [主播]Zi_Jian : pvp
+2017-08-18 [09:29:44] [Server thread/INFO]: [主播]Zi_Jian : 要开始了
+2017-08-18 [09:29:47] [Server thread/INFO]: [主播]Zi_Jian : 谁要来
+2017-08-18 [09:29:50] [Server thread/INFO]: yudingze : 我
+2017-08-18 [09:29:56] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:29:56] [Server thread/INFO]: 李毕浪[/116.209.205.223:64954] logged out due to Invalid name!
+2017-08-18 [09:30:05] [Server thread/INFO]: [我是男的]Maker : 找鑽石哪時開始
+2017-08-18 [09:30:09] [Server thread/INFO]: [SVIP]liuliu2008 : pvp快来
+2017-08-18 [09:30:18] [Server thread/INFO]: [主播]Zi_Jian : 快来pvp
+2017-08-18 [09:30:34] [Server thread/INFO]: yudingze : 作者主城在哪
+2017-08-18 [09:30:39] [Server thread/INFO]: [主播]Zi_Jian : 炸了
+2017-08-18 [09:30:43] [Server thread/INFO]: [主播]Zi_Jian : 在修
+2017-08-18 [09:30:44] [Server thread/INFO]: [SVIP]liuliu2008 : 炸飞了
+2017-08-18 [09:30:57] [Server thread/NOTICE]: Player data not found for "spary1235079", creating new profile
+2017-08-18 [09:30:57] [Server thread/INFO]: spary1235079[/70.197.75.145:10879] [ClientID: 4183987406415668014] logged in with entity id 3875 at (world, 128, 28, 128)
+2017-08-18 [09:31:01] [Server thread/NOTICE]: Player data not found for "spartan", creating new profile
+2017-08-18 [09:31:01] [Server thread/INFO]: spartan[/108.204.244.178:51965] [ClientID: 4345981186459241618] logged in with entity id 3876 at (world, 128, 28, 128)
+2017-08-18 [09:31:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:31:21] [Server thread/INFO]: yudingze : 其他功能呢
+2017-08-18 [09:31:22] [Server thread/INFO]: [我是男的]Maker : 蓋棟新房子
+2017-08-18 [09:31:23] [Server thread/INFO]: Steve[/58.217.180.44:43287] [ClientID: 3224745534967508816] logged in with entity id 3878 at (world, 128, 28, 128)
+2017-08-18 [09:31:27] [Server thread/INFO]: yudingze : 我要建筑
+2017-08-18 [09:31:32] [Server thread/INFO]: [SVIP]liuliu2008 : 来
+2017-08-18 [09:31:38] [Server thread/WARNING]: Steve moved wrongly!
+2017-08-18 [09:31:41] [Server thread/INFO]: Steve[/58.217.180.44:43287] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:31:52] [Server thread/INFO]: [主播]Zi_Jian : 我要在这里做pvp
+2017-08-18 [09:32:02] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:32:03] [Server thread/INFO]: spartan[/108.204.244.178:51965] logged out due to client disconnect
+2017-08-18 [09:32:09] [Server thread/INFO]: yudingze : 我想帮你
+2017-08-18 [09:32:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:32:10] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:32:10] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:32:13] [Server thread/INFO]: * liuliu2008 被抓住的要说，抓人-的要说
+2017-08-18 [09:32:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:32:15] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:32:18] [Server thread/INFO]: [AuthMePE] Player spary1235079 has logged in.
+2017-08-18 [09:32:18] [Server thread/INFO]: [AuthMePE] 玩家 spary1235079 登录了游戏。
+2017-08-18 [09:32:18] [Server thread/INFO]: - spary1235079 is now online!
+2017-08-18 [09:32:18] [Server thread/INFO]: - spary1235079 现在上线了!
+2017-08-18 [09:32:22] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:32:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:32:24] [Server thread/INFO]: [SVIP]liuliu2008 : 找到地了
+2017-08-18 [09:32:25] [Server thread/INFO]: [/117.149.101.107:52161] logged out due to client disconnect
+2017-08-18 [09:32:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:32:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理24个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:32:41] [Server thread/WARNING]: spary1235079 moved wrongly!
+2017-08-18 [09:32:51] [Server thread/INFO]: yudingze : 可以吗？
+2017-08-18 [09:33:01] [Server thread/INFO]: [我是男的]Maker : 這塊吧
+2017-08-18 [09:33:11] [Server thread/INFO]: yudingze : 可以吗？
+2017-08-18 [09:33:12] [Server thread/INFO]: Steve[/1.196.5.220:30752] [ClientID: 4420756359127017594] logged in with entity id 4040 at (world, 127.9806, 28, 127.9972)
+2017-08-18 [09:33:26] [Server thread/INFO]: [我是男的]Maker : 幫蓋
+2017-08-18 [09:33:31] [Server thread/WARNING]: spary1235079 moved wrongly!
+2017-08-18 [09:33:34] [Server thread/WARNING]: spary1235079 moved wrongly!
+2017-08-18 [09:33:34] [Server thread/INFO]: yudingze : 作者我晚上遇见外挂
+2017-08-18 [09:33:39] [Server thread/INFO]: - spary1235079 is now offline!
+2017-08-18 [09:33:39] [Server thread/INFO]: - spary1235079 离开了游戏!
+2017-08-18 [09:33:39] [Server thread/INFO]: [AuthMePE] Player spary1235079 has logged out.
+2017-08-18 [09:33:39] [Server thread/INFO]: [AuthMePE] Player spary1235079 离开了游戏.
+2017-08-18 [09:33:39] [Server thread/INFO]: spary1235079[/70.197.75.145:10879] logged out due to client disconnect
+2017-08-18 [09:33:39] [Server thread/INFO]: [主播]Zi_Jian : 谁
+2017-08-18 [09:33:48] [Server thread/INFO]: Steve[/1.196.5.220:30752] logged out due to client disconnect
+2017-08-18 [09:33:49] [Server thread/INFO]: yudingze : 他可以刷东西
+2017-08-18 [09:33:55] [Server thread/INFO]: yudingze : 包括鞘翅
+2017-08-18 [09:33:55] [Server thread/INFO]: Steve[/1.196.5.220:30752] [ClientID: 4420756359127017594] logged in with entity id 4053 at (world, 128, 28, 128)
+2017-08-18 [09:33:55] [Server thread/INFO]: [主播]Zi_Jian : 叫什么
+2017-08-18 [09:34:06] [Server thread/INFO]: yudingze : an777好像
+2017-08-18 [09:34:08] [Server thread/INFO]: yudingze : 是
+2017-08-18 [09:34:10] [Server thread/INFO]: [SVIP]liuliu2008 : 什么形状
+2017-08-18 [09:34:10] [Server thread/INFO]: yudingze : 这个
+2017-08-18 [09:34:12] [Server thread/INFO]: Steve[/1.196.5.220:30752] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:34:20] [Server thread/INFO]: [我是男的]Maker : 都可
+2017-08-18 [09:34:21] [Server thread/INFO]: yudingze : 带你去看他箱子
+2017-08-18 [09:34:30] [Server thread/INFO]: Steve[/1.196.5.220:30752] [ClientID: 4420756359127017594] logged in with entity id 4112 at (world, 128, 28, 128)
+2017-08-18 [09:34:38] [Server thread/INFO]: yudingze : 来啊
+2017-08-18 [09:34:39] [Server thread/INFO]: [主播]Zi_Jian : 我忘了他是不是创造
+2017-08-18 [09:34:39] [Server thread/INFO]: [/117.149.101.107:52367] logged out due to client disconnect
+2017-08-18 [09:34:42] [Server thread/INFO]: [我是男的]Maker : 別太小
+2017-08-18 [09:34:46] [Server thread/INFO]: Steve[/1.196.5.220:30752] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:34:56] [Server thread/INFO]: yudingze : 他说他是op
+2017-08-18 [09:35:03] [Server thread/INFO]: [主播]Zi_Jian : 他是的
+2017-08-18 [09:35:09] [Server thread/INFO]: [我是男的]Maker : 給我慘子
+2017-08-18 [09:35:15] [Server thread/INFO]: [主播]Zi_Jian : 但是是创造
+2017-08-18 [09:35:20] [Server thread/INFO]: [主播]Zi_Jian : op是骗人的
+2017-08-18 [09:35:30] [Server thread/INFO]: [主播]Zi_Jian : 只有四个op
+2017-08-18 [09:35:33] [Server thread/INFO]: [主播]Zi_Jian : 我是
+2017-08-18 [09:35:35] [Server thread/INFO]: [我是男的]Maker : 慘子
+2017-08-18 [09:35:39] [Server thread/INFO]: [主播]Zi_Jian : 主城可以看
+2017-08-18 [09:35:42] [Server thread/INFO]: yudingze : 他今天看见我就刷我重生点
+2017-08-18 [09:35:43] [Server thread/INFO]: [SVIP]liuliu2008 : 材料
+2017-08-18 [09:35:51] [Server thread/INFO]: [主播]Zi_Jian : 杀你啊。
+2017-08-18 [09:35:53] [Server thread/INFO]: [主播]Zi_Jian : ？
+2017-08-18 [09:35:56] [Server thread/INFO]: yudingze : 对
+2017-08-18 [09:36:09] [Server thread/INFO]: yudingze : 怎么当op
+2017-08-18 [09:36:12] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:36:14] [Server thread/INFO]: [主播]Zi_Jian : 杀你？
+2017-08-18 [09:36:15] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:36:19] [Server thread/INFO]: [主播]Zi_Jian : 我ban了他
+2017-08-18 [09:36:26] [Server thread/INFO]: yudingze : 谢谢
+2017-08-18 [09:36:28] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:36:39] [Server thread/INFO]: Steve[/124.219.173.56:55903] [ClientID: -770511556283218507] logged in with entity id 4127 at (world, 128, 28, 128)
+2017-08-18 [09:36:42] [Server thread/INFO]: yudingze : 他还说服务器是他炸的
+2017-08-18 [09:37:00] [Server thread/INFO]: Steve[/124.219.173.56:55903] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:37:10] [Server thread/INFO]: yudingze : 他和PVP合作虐我
+2017-08-18 [09:37:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:37:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:37:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:37:33] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:37:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理19个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:37:34] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:38:02] [Server thread/INFO]: yudingze : PVP也要杀我
+2017-08-18 [09:38:03] [Server thread/INFO]: Steve[/124.219.173.56:55594] [ClientID: -770511556283218507] logged in with entity id 4188 at (world, 128, 28, 128)
+2017-08-18 [09:38:11] [Server thread/INFO]: yudingze : 他们合作
+2017-08-18 [09:38:20] [Server thread/INFO]: Steve[/124.219.173.56:55594] logged out due to client disconnect
+2017-08-18 [09:38:23] [Server thread/INFO]: [主播]Zi_Jian : 别理他
+2017-08-18 [09:38:30] [Server thread/INFO]: [主播]Zi_Jian : 他被我杀好几次
+2017-08-18 [09:38:42] [Server thread/INFO]: [主播]Zi_Jian : 我现在射了陷阱
+2017-08-18 [09:38:54] [Server thread/INFO]: yudingze : 怎么当op？
+2017-08-18 [09:39:09] [Server thread/INFO]: [主播]Zi_Jian : 首先，你要长得帅
+2017-08-18 [09:39:14] [Server thread/INFO]: yudingze : 有
+2017-08-18 [09:39:21] [Server thread/INFO]: [主播]Zi_Jian : 然后，你要有个好爸爸
+2017-08-18 [09:39:25] [Server thread/INFO]: yudingze : 有
+2017-08-18 [09:39:35] [Server thread/INFO]: [主播]Zi_Jian : 接着，你要会装b
+2017-08-18 [09:39:40] [Server thread/INFO]: yudingze : 有
+2017-08-18 [09:39:47] [Server thread/INFO]: [主播]Zi_Jian : 最后，你就会被ban了
+2017-08-18 [09:39:54] [Server thread/INFO]: yudingze : 啊？
+2017-08-18 [09:40:05] [Server thread/INFO]: [主播]Zi_Jian : liuliu
+2017-08-18 [09:40:12] [Server thread/INFO]: [主播]Zi_Jian : 我说的是不是实话
+2017-08-18 [09:40:29] [Server thread/INFO]: [我是男的]Maker : 我去砍木頭
+2017-08-18 [09:40:36] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:40:36] [Server thread/INFO]: [主播]Zi_Jian : 来挖泥土
+2017-08-18 [09:40:41] [Server thread/INFO]: [主播]Zi_Jian : 送钻石
+2017-08-18 [09:40:51] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:40:58] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [09:41:05] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:06] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:18] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:28] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:33] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:43] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:41:50] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:42:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:42:23] [Server thread/INFO]: Steve[/118.117.99.114:8718] [ClientID: 1182649043658807711] logged in with entity id 4414 at (world, 128, 28, 128)
+2017-08-18 [09:42:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:42:28] [Server thread/INFO]: jake paul[/71.93.182.128:50389] logged out due to Invalid name!
+2017-08-18 [09:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:42:31] [Server thread/INFO]: yudingze : 这个剑...
+2017-08-18 [09:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理9个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:42:38] [Server thread/INFO]: [主播]Zi_Jian : 谁来帮我挖
+2017-08-18 [09:42:39] [Server thread/INFO]: Steve[/118.117.99.114:8718] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:42:42] [Server thread/INFO]: [主播]Zi_Jian : 送钻块
+2017-08-18 [09:42:44] [Server thread/INFO]: yudingze : 我在挖
+2017-08-18 [09:42:47] [Server thread/INFO]: jake paul[/71.93.182.128:50389] logged out due to Invalid name!
+2017-08-18 [09:42:57] [Server thread/INFO]: [主播]Zi_Jian : liuliu
+2017-08-18 [09:43:00] [Server thread/INFO]: yudingze : 只是没铲子
+2017-08-18 [09:43:10] [Server thread/INFO]: [主播]Zi_Jian : 有人触发了陷阱
+2017-08-18 [09:43:19] [Server thread/INFO]: yudingze : 哪里
+2017-08-18 [09:43:32] [Server thread/INFO]: [SVIP]liuliu2008 : 别砍树了
+2017-08-18 [09:43:41] [Server thread/INFO]: yudingze : 没啊
+2017-08-18 [09:43:41] [Server thread/INFO]: [主播]Zi_Jian : 别砍了
+2017-08-18 [09:43:44] [Server thread/INFO]: [SVIP]liuliu2008 : 用石英盖
+2017-08-18 [09:43:46] [Server thread/INFO]: [主播]Zi_Jian : 来挖泥土
+2017-08-18 [09:43:49] [Server thread/INFO]: [我是男的]Maker : 嗯
+2017-08-18 [09:43:55] [Server thread/INFO]: [我是男的]Maker : 送多少
+2017-08-18 [09:43:56] [Server thread/INFO]: [SVIP]liuliu2008 : 地板木头
+2017-08-18 [09:44:00] [Server thread/INFO]: yudingze : op给个铲子
+2017-08-18 [09:44:15] [Server thread/INFO]: [主播]Zi_Jian : 要给了
+2017-08-18 [09:44:45] [Server thread/INFO]: matodada[/39.189.38.107:7949] [ClientID: 5398238330974171638] logged in with entity id 4599 at (world, 128, 28, 128)
+2017-08-18 [09:44:47] [Server thread/INFO]: [AuthMePE] Player matodada has logged in.
+2017-08-18 [09:44:47] [Server thread/INFO]: [AuthMePE] 玩家 matodada 登录了游戏。
+2017-08-18 [09:44:47] [Server thread/INFO]: - matodada is now online!
+2017-08-18 [09:44:47] [Server thread/INFO]: - matodada 现在上线了!
+2017-08-18 [09:44:57] [Server thread/INFO]: - matodada is now offline!
+2017-08-18 [09:44:57] [Server thread/INFO]: - matodada 离开了游戏!
+2017-08-18 [09:44:57] [Server thread/INFO]: [AuthMePE] Player matodada has logged out.
+2017-08-18 [09:44:57] [Server thread/INFO]: [AuthMePE] Player matodada 离开了游戏.
+2017-08-18 [09:44:57] [Server thread/INFO]: matodada[/39.189.38.107:7949] logged out due to client disconnect
+2017-08-18 [09:45:35] [Server thread/INFO]: yudingze has just earned the achievement Getting Wood
+2017-08-18 [09:45:48] [Server thread/INFO]: [SVIP]liuliu2008 : Maker别砍树了，用石英盖
+2017-08-18 [09:45:51] [Server thread/INFO]: [主播]Zi_Jian : liuliu
+2017-08-18 [09:45:54] [Server thread/INFO]: [主播]Zi_Jian : 过来
+2017-08-18 [09:46:06] [Server thread/INFO]: [SVIP]liuliu2008 : 干嘛
+2017-08-18 [09:46:10] [Server thread/INFO]: [主播]Zi_Jian : 来这
+2017-08-18 [09:46:19] [Server thread/INFO]: [主播]Zi_Jian : 陷阱
+2017-08-18 [09:46:27] [Server thread/INFO]: [主播]Zi_Jian : 被触发了
+2017-08-18 [09:46:36] [Server thread/INFO]: [主播]Zi_Jian : yudingze
+2017-08-18 [09:46:41] [Server thread/INFO]: [SVIP]liuliu2008 : 哈哈哈
+2017-08-18 [09:46:41] [Server thread/INFO]: [主播]Zi_Jian : 是不是你干的
+2017-08-18 [09:46:41] [Server thread/INFO]: yudingze : 啊
+2017-08-18 [09:46:45] [Server thread/INFO]: yudingze : 是啊
+2017-08-18 [09:46:51] [Server thread/INFO]: [主播]Zi_Jian : 触发了陷阱
+2017-08-18 [09:46:55] [Server thread/INFO]: yudingze : 挖掉啊
+2017-08-18 [09:46:56] [Server thread/INFO]: [主播]Zi_Jian : liuliu
+2017-08-18 [09:47:03] [Server thread/INFO]: [主播]Zi_Jian : 你可以选择打死他
+2017-08-18 [09:47:09] [Server thread/INFO]: yudingze : 得让他下来
+2017-08-18 [09:47:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:47:14] [Server thread/INFO]: yudingze was slain by liuliu2008
+2017-08-18 [09:47:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:47:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:47:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:47:34] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:47:35] [Server thread/INFO]: [主播]Zi_Jian : 好华丽
+2017-08-18 [09:47:47] [Server thread/INFO]: yudingze : 你们在哪里
+2017-08-18 [09:47:55] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:47:59] [Server thread/INFO]: yudingze : 怎么tp
+2017-08-18 [09:48:36] [Server thread/INFO]: [SVIP]liuliu2008 : 一起铺
+2017-08-18 [09:48:41] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:48:53] [Server thread/INFO]: yudingze : 怎么tp
+2017-08-18 [09:49:00] [Server thread/INFO]: [主播]Zi_Jian : 。/找人
+2017-08-18 [09:50:40] [Server thread/INFO]: [主播]Zi_Jian : liuliu
+2017-08-18 [09:50:42] [Server thread/INFO]: [主播]Zi_Jian : 来这里
+2017-08-18 [09:50:44] [Server thread/INFO]: [主播]Zi_Jian : 帮我
+2017-08-18 [09:50:48] [Server thread/INFO]: [主播]Zi_Jian : 我给你钻块
+2017-08-18 [09:50:53] [Server thread/INFO]: [主播]Zi_Jian : 一个一万
+2017-08-18 [09:51:07] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:51:10] [Server thread/INFO]: yudingze : 我没钻快
+2017-08-18 [09:51:25] [Server thread/INFO]: yudingze : ？
+2017-08-18 [09:51:57] [Server thread/INFO]: [SVIP]liuliu2008 : 我们俩去挖石英吧
+2017-08-18 [09:52:07] [Server thread/INFO]: [主播]Zi_Jian : 来帮我
+2017-08-18 [09:52:11] [Server thread/INFO]: [主播]Zi_Jian : 我给你们
+2017-08-18 [09:52:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:52:14] [Server thread/INFO]: [主播]Zi_Jian : 石英
+2017-08-18 [09:52:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:52:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:52:30] [Server thread/INFO]: shou[/39.177.29.158:27434] [ClientID: 3510788231074191813] logged in with entity id 5513 at (th, 122.2508, 65, 65.0592)
+2017-08-18 [09:52:31] [Server thread/INFO]: [AuthMePE] Player shou has logged in.
+2017-08-18 [09:52:31] [Server thread/INFO]: [AuthMePE] 玩家 shou 登录了游戏。
+2017-08-18 [09:52:31] [Server thread/INFO]: - shou is now online!
+2017-08-18 [09:52:31] [Server thread/INFO]: - shou 现在上线了!
+2017-08-18 [09:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:52:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理49个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:53:10] [Server thread/INFO]: Steve[/117.12.93.22:55341] [ClientID: -5889559427886232623] logged in with entity id 5607 at (th, 130, 65, 131)
+2017-08-18 [09:53:22] [Server thread/INFO]: yudingze : 什么时候给奖励
+2017-08-18 [09:53:28] [Server thread/INFO]: Steve[/117.12.93.22:55341] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:53:28] [Server thread/INFO]: [主播]Zi_Jian : 我造完
+2017-08-18 [09:53:47] [Server thread/INFO]: [SVIP]liuliu2008 : 出发吧
+2017-08-18 [09:53:51] [Server thread/INFO]: Steve[/117.12.93.22:55341] [ClientID: -5889559427886232623] logged in with entity id 5620 at (world, 128, 28, 128)
+2017-08-18 [09:53:53] [Server thread/NOTICE]: Player data not found for "thiagotechera28", creating new profile
+2017-08-18 [09:53:53] [Server thread/INFO]: thiagotechera28[/73.46.13.74:51285] [ClientID: 7819688170615769309] logged in with entity id 5621 at (world, 128, 28, 128)
+2017-08-18 [09:53:57] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:53:58] [Server thread/INFO]: [主播]Zi_Jian : 送你石英
+2017-08-18 [09:54:00] [Server thread/INFO]: [主播]Zi_Jian : 帮我挖
+2017-08-18 [09:54:09] [Server thread/INFO]: Steve[/117.12.93.22:55341] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:54:19] [Server thread/NOTICE]: Player data not found for "xiaoyu", creating new profile
+2017-08-18 [09:54:19] [Server thread/INFO]: xiaoyu[/27.30.21.221:64497] [ClientID: 924930759859274385] logged in with entity id 5629 at (world, 128, 28, 128)
+2017-08-18 [09:54:36] [Server thread/INFO]: [SVIP]liuliu2008 : 去挖石英吧
+2017-08-18 [09:54:43] [Server thread/INFO]: thiagotechera28[/73.46.13.74:51285] logged out due to client disconnect
+2017-08-18 [09:54:46] [Server thread/INFO]: Steve[/117.12.93.22:55341] [ClientID: -5889559427886232623] logged in with entity id 5690 at (world, 128.0195, 28, 128.002)
+2017-08-18 [09:54:47] [Server thread/WARNING]: Zi_Jian moved too fast, reverting movement
+2017-08-18 [09:55:00] [Server thread/INFO]: [我是男的]Maker : 我鎖左你鎖右
+2017-08-18 [09:55:03] [Server thread/INFO]: Steve[/117.12.93.22:55341] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [09:55:26] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged in.
+2017-08-18 [09:55:26] [Server thread/INFO]: [AuthMePE] 玩家 xiaoyu 登录了游戏。
+2017-08-18 [09:55:26] [Server thread/INFO]: - xiaoyu is now online!
+2017-08-18 [09:55:26] [Server thread/INFO]: - xiaoyu 现在上线了!
+2017-08-18 [09:55:30] [Server thread/INFO]: - shou is now offline!
+2017-08-18 [09:55:30] [Server thread/INFO]: - shou 离开了游戏!
+2017-08-18 [09:55:30] [Server thread/INFO]: [AuthMePE] Player shou has logged out.
+2017-08-18 [09:55:30] [Server thread/INFO]: [AuthMePE] Player shou 离开了游戏.
+2017-08-18 [09:55:30] [Server thread/INFO]: shou[/39.177.29.158:27434] logged out due to timeout
+2017-08-18 [09:55:36] [Server thread/INFO]: yudingze : 挖完了
+2017-08-18 [09:55:41] [Server thread/INFO]: [SVIP]liuliu2008 : 走
+2017-08-18 [09:55:44] [Server thread/INFO]: [我是男的]Maker : 嗯
+2017-08-18 [09:55:59] [Server thread/INFO]: [主播]Zi_Jian : 钻块在这
+2017-08-18 [09:56:09] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [09:56:11] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:56:18] [Server thread/INFO]: xiaoyu : 服务器被熊了?
+2017-08-18 [09:56:19] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [09:56:23] [Server thread/INFO]: [我是男的]Maker : 石英方塊有47個
+2017-08-18 [09:56:33] [Server thread/INFO]: [SVIP]liuliu2008 : 不够
+2017-08-18 [09:56:46] [Server thread/INFO]: [主播]Zi_Jian : 我把你家用石英包裹起来了
+2017-08-18 [09:57:02] [Server thread/INFO]: [主播]Zi_Jian : 这里
+2017-08-18 [09:57:06] [Server thread/WARNING]: xiaoyu moved wrongly!
+2017-08-18 [09:57:11] [Server thread/INFO]: [SVIP]liuliu2008 : 别搞了
+2017-08-18 [09:57:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [09:57:19] [Server thread/INFO]: - xiaoyu is now offline!
+2017-08-18 [09:57:19] [Server thread/INFO]: - xiaoyu 离开了游戏!
+2017-08-18 [09:57:19] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged out.
+2017-08-18 [09:57:19] [Server thread/INFO]: [AuthMePE] Player xiaoyu 离开了游戏.
+2017-08-18 [09:57:19] [Server thread/INFO]: xiaoyu[/27.30.21.221:64497] logged out due to timeout
+2017-08-18 [09:57:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [09:57:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [09:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [09:57:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理34个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [09:57:39] [Server thread/INFO]: yudingze : 我也要建
+2017-08-18 [09:58:11] [Server thread/INFO]: [SVIP]liuliu2008 : 我去过这
+2017-08-18 [09:58:14] [Server thread/INFO]: [/117.149.103.216:13484] logged out due to client disconnect
+2017-08-18 [09:59:00] [Server thread/INFO]: xiaoyu[/27.30.21.221:54555] [ClientID: 924930759859274385] logged in with entity id 5974 at (th, 103.5317, 65.5, 116.0152)
+2017-08-18 [09:59:02] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged in.
+2017-08-18 [09:59:02] [Server thread/INFO]: [AuthMePE] 玩家 xiaoyu 登录了游戏。
+2017-08-18 [09:59:02] [Server thread/INFO]: - xiaoyu is now online!
+2017-08-18 [09:59:02] [Server thread/INFO]: - xiaoyu 现在上线了!
+2017-08-18 [09:59:06] [Server thread/INFO]: yudingze : 我也要建
+2017-08-18 [09:59:12] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:00:13] [Server thread/INFO]: biggyjay4[/68.37.103.195:52404] logged out due to client disconnect
+2017-08-18 [10:00:27] [Server thread/NOTICE]: Player data not found for "yeshizui", creating new profile
+2017-08-18 [10:00:27] [Server thread/INFO]: yeshizui[/117.91.75.72:6795] [ClientID: -3450154498078801428] logged in with entity id 6000 at (world, 128, 28, 128)
+2017-08-18 [10:00:55] [Server thread/INFO]: xiaoyu : 有没有大神带我这个新手玩
+2017-08-18 [10:01:10] [Server thread/INFO]: yudingze : 钻石？
+2017-08-18 [10:01:31] [Server thread/INFO]: [AuthMePE] Player yeshizui has logged in.
+2017-08-18 [10:01:31] [Server thread/INFO]: [AuthMePE] 玩家 yeshizui 登录了游戏。
+2017-08-18 [10:01:31] [Server thread/INFO]: - yeshizui is now online!
+2017-08-18 [10:01:31] [Server thread/INFO]: - yeshizui 现在上线了!
+2017-08-18 [10:01:33] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:01:46] [Server thread/INFO]: yudingze was killed by magic
+2017-08-18 [10:02:01] [Server thread/INFO]: - xiaoyu is now offline!
+2017-08-18 [10:02:01] [Server thread/INFO]: - xiaoyu 离开了游戏!
+2017-08-18 [10:02:01] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged out.
+2017-08-18 [10:02:01] [Server thread/INFO]: [AuthMePE] Player xiaoyu 离开了游戏.
+2017-08-18 [10:02:01] [Server thread/INFO]: xiaoyu[/27.30.21.221:54555] logged out due to timeout
+2017-08-18 [10:02:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:02:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:02:25] [Server thread/INFO]: [主播]Zi_Jian : 不许挖
+2017-08-18 [10:02:26] [Server thread/INFO]: [SVIP]liuliu2008 : 来
+2017-08-18 [10:02:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:02:32] [Server thread/INFO]: - yeshizui is now offline!
+2017-08-18 [10:02:32] [Server thread/INFO]: - yeshizui 离开了游戏!
+2017-08-18 [10:02:32] [Server thread/INFO]: [AuthMePE] Player yeshizui has logged out.
+2017-08-18 [10:02:32] [Server thread/INFO]: [AuthMePE] Player yeshizui 离开了游戏.
+2017-08-18 [10:02:32] [Server thread/INFO]: yeshizui[/117.91.75.72:6795] logged out due to client disconnect
+2017-08-18 [10:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:02:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理13个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:02:35] [Server thread/INFO]: yudingze : 你自己说挖
+2017-08-18 [10:02:42] [Server thread/INFO]: xiaoyu[/27.30.21.221:55478] [ClientID: 924930759859274385] logged in with entity id 6155 at (th, 137.3406, 65, 139.4987)
+2017-08-18 [10:02:44] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged in.
+2017-08-18 [10:02:44] [Server thread/INFO]: [AuthMePE] 玩家 xiaoyu 登录了游戏。
+2017-08-18 [10:02:44] [Server thread/INFO]: - xiaoyu is now online!
+2017-08-18 [10:02:44] [Server thread/INFO]: - xiaoyu 现在上线了!
+2017-08-18 [10:02:52] [Server thread/INFO]: yudingze : 没看见后面
+2017-08-18 [10:02:56] [Server thread/INFO]: yudingze : ....
+2017-08-18 [10:03:14] [Server thread/INFO]: yudingze : 我也要建
+2017-08-18 [10:03:41] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:03:41] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:03:43] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:03:43] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:03:51] [Server thread/NOTICE]: Player data not found for "dai", creating new profile
+2017-08-18 [10:03:51] [Server thread/INFO]: dai[/120.82.145.30:51794] [ClientID: -3277904783018268293] logged in with entity id 6187 at (world, 128, 28, 128)
+2017-08-18 [10:04:03] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:04:16] [Server thread/INFO]: yudingze : 我造个第三？
+2017-08-18 [10:04:25] [Server thread/INFO]: xiaoyu : 怎么玩
+2017-08-18 [10:04:41] [Server thread/INFO]: [SVIP]liuliu2008 : 主播教
+2017-08-18 [10:04:41] [Server thread/NOTICE]: Player data not found for "goodme11", creating new profile
+2017-08-18 [10:04:41] [Server thread/INFO]: Goodme11[/114.161.33.50:52086] [ClientID: -1945041523400863737] logged in with entity id 6206 at (world, 128, 28, 128)
+2017-08-18 [10:04:46] [Server thread/INFO]: [主播]Zi_Jian : 走开
+2017-08-18 [10:04:57] [Server thread/INFO]: [AuthMePE] Player dai has logged in.
+2017-08-18 [10:04:57] [Server thread/INFO]: [AuthMePE] 玩家 dai 登录了游戏。
+2017-08-18 [10:04:57] [Server thread/INFO]: - dai is now online!
+2017-08-18 [10:04:57] [Server thread/INFO]: - dai 现在上线了!
+2017-08-18 [10:04:57] [Server thread/INFO]: xiaoyu : 主播是谁
+2017-08-18 [10:05:09] [Server thread/INFO]: wuge[/223.87.199.104:16328] [ClientID: 2260440317174756807] logged in with entity id 6243 at (world, 128, 28, 128)
+2017-08-18 [10:05:10] [Server thread/INFO]: liuliu2008 tried to swim in lava
+2017-08-18 [10:05:10] [Server thread/INFO]: Maker tried to swim in lava
+2017-08-18 [10:05:17] [Server thread/INFO]: [主播]Zi_Jian : 呵呵
+2017-08-18 [10:05:25] [Server thread/INFO]: wuge[/223.87.199.104:16328] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:05:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:05:28] [Server thread/INFO]: - dai is now offline!
+2017-08-18 [10:05:28] [Server thread/INFO]: - dai 离开了游戏!
+2017-08-18 [10:05:28] [Server thread/INFO]: [AuthMePE] Player dai has logged out.
+2017-08-18 [10:05:28] [Server thread/INFO]: [AuthMePE] Player dai 离开了游戏.
+2017-08-18 [10:05:28] [Server thread/INFO]: dai[/120.82.145.30:51794] logged out due to client disconnect
+2017-08-18 [10:05:40] [Server thread/WARNING]: Zi_Jian moved too fast, reverting movement
+2017-08-18 [10:05:42] [Server thread/INFO]: Goodme11[/114.161.33.50:52086] logged out due to client disconnect
+2017-08-18 [10:05:42] [Server thread/INFO]: - xiaoyu is now offline!
+2017-08-18 [10:05:42] [Server thread/INFO]: - xiaoyu 离开了游戏!
+2017-08-18 [10:05:42] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged out.
+2017-08-18 [10:05:42] [Server thread/INFO]: [AuthMePE] Player xiaoyu 离开了游戏.
+2017-08-18 [10:05:42] [Server thread/INFO]: xiaoyu[/27.30.21.221:55478] logged out due to timeout
+2017-08-18 [10:05:42] [Server thread/INFO]: wuge[/223.87.199.104:16328] [ClientID: 2260440317174756807] logged in with entity id 6266 at (world, 128, 28, 128)
+2017-08-18 [10:05:49] [Server thread/INFO]: yudingze : 手
+2017-08-18 [10:05:49] [Server thread/INFO]: wuge[/223.87.199.104:16328] logged out due to Kicked by admin. Reason: 
+Max amount of tries reached!
+Try again 3 minutes later.
+2017-08-18 [10:05:51] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:06:06] [Server thread/INFO]: Steve[/27.187.94.2:25411] [ClientID: -5422308471862726603] logged in with entity id 6295 at (world, 128, 28, 128)
+2017-08-18 [10:06:06] [Server thread/INFO]: wuge[/223.87.199.104:16328] [ClientID: 2260440317174756807] logged in with entity id 6296 at (world, 128, 28, 128)
+2017-08-18 [10:06:08] [Server thread/INFO]: wuge[/223.87.199.104:16328] logged out due to Kicked by admin. Reason: Due to security issue, 
+this account has been blocked temporary.  
+Please try again later.
+
+
+
+-AuthMePE Authentication System
+2017-08-18 [10:06:08] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1122
+2017-08-18 [10:06:08] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-08-18 [10:06:08] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Fri_Aug_18-10.06.08-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling Asign v1.4
+2017-08-18 [10:06:09] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-08-18 [10:06:09] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling db v1.0.0
+2017-08-18 [10:06:09] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-08-18 [10:06:09] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-08-18 [10:06:09] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling ld v流星优化
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling AuthMePE v1.0.1
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-08-18 [10:06:09] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-08-18 [10:06:09] [Server thread/INFO]: Zi_Jian left the game
+2017-08-18 [10:06:09] [Server thread/INFO]: Zi_Jian[/222.64.214.167:62394] logged out due to Server closed
+2017-08-18 [10:06:09] [Server thread/INFO]: Maker left the game
+2017-08-18 [10:06:09] [Server thread/INFO]: Maker[/111.242.62.232:63268] logged out due to Server closed
+2017-08-18 [10:06:09] [Server thread/INFO]: liuliu2008 left the game
+2017-08-18 [10:06:09] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] logged out due to Server closed
+2017-08-18 [10:06:09] [Server thread/INFO]: yudingze left the game
+2017-08-18 [10:06:09] [Server thread/INFO]: yudingze[/113.222.203.245:1298] logged out due to Server closed
+2017-08-18 [10:06:09] [Server thread/INFO]: Steve left the game
+2017-08-18 [10:06:09] [Server thread/INFO]: Steve[/27.187.94.2:25411] logged out due to Server closed
+2017-08-18 [10:06:09] [Server thread/INFO]: Unloading level "world"
+2017-08-18 [10:06:09] [Server thread/INFO]: Unloading level "nether"
+2017-08-18 [10:06:09] [Server thread/INFO]: Unloading level "ender"
+2017-08-18 [10:06:09] [Server thread/INFO]: Unloading level "world"
+2017-08-18 [10:06:09] [Server thread/INFO]: Unloading level "th"
+2017-08-18 [02:06:13] [Server thread/WARNING]: OpenSSL extension not found
+2017-08-18 [02:06:13] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-08-18 [02:06:13] [Server thread/INFO]: Selected English (eng) as the base language
+2017-08-18 [02:06:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-08-18 [02:06:13] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-08-18 [02:06:13] [Server thread/INFO]: Loading recipes...
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading resource packs...
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading Asign v1.4
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading db v1.0.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading ld v流星优化
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading AuthMePE v1.0.1
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-08-18 [02:06:14] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-08-18 [02:06:14] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling db v1.0.0
+2017-08-18 [02:06:14] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-08-18 [02:06:14] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-08-18 [02:06:14] [Server thread/INFO]: Preparing level "world"
+2017-08-18 [02:06:14] [Server thread/INFO]: Preparing level "nether"
+2017-08-18 [02:06:14] [Server thread/INFO]: Preparing level "ender"
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling Asign v1.4
+2017-08-18 [02:06:14] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-08-18 [02:06:14] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-08-18 [02:06:14] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-08-18 [10:06:14] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-08-18 [10:06:14] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-08-18 [10:06:14] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-08-18 [10:06:14] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-08-18 [10:06:14] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-08-18 [10:06:14] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-08-18 [10:06:14] [Server thread/INFO]: SWorld loaded!
+2017-08-18 [10:06:14] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-08-18 [10:06:14] [Server thread/INFO]: Preparing level "world"
+2017-08-18 [10:06:14] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-08-18 [10:06:14] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-08-18 [10:06:14] [Server thread/INFO]: Preparing level "th"
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-08-18 [10:06:14] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-08-18 [10:06:14] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling ld v流星优化
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling AuthMePE v1.0.1
+2017-08-18 [10:06:14] [Server thread/INFO]: [AuthMePE] 加载成功!
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-18 [10:06:14] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-08-18 [10:06:14] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-08-18 [10:06:14] [Server thread/INFO]: Starting GS4 status listener
+2017-08-18 [10:06:14] [Server thread/INFO]: Setting query port to 19132
+2017-08-18 [10:06:14] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-08-18 [10:06:14] [Server thread/INFO]: Default game type: Survival Mode
+2017-08-18 [10:06:14] [Server thread/INFO]: Done (0.678s)! For help, type "help" or "?"
+2017-08-18 [10:06:33] [Server thread/INFO]: Zi_Jian[/222.64.214.167:62394] [ClientID: -1406958944971828348] logged in with entity id 1 at (th, -97.2246, 72.7485, 180.3265)
+2017-08-18 [10:06:34] [Server thread/INFO]: Maker[/111.242.62.232:63268] [ClientID: 8105549868030226964] logged in with entity id 2 at (th, -0.5023, 62, 158.3)
+2017-08-18 [10:06:34] [Server thread/INFO]: jeffxiang[/223.87.199.104:16328] logged out due to You are banned
+2017-08-18 [10:06:36] [Server thread/INFO]: [AuthMePE] Player Maker has logged in.
+2017-08-18 [10:06:36] [Server thread/INFO]: [AuthMePE] 玩家 Maker 登录了游戏。
+2017-08-18 [10:06:36] [Server thread/INFO]: - Maker is now online!
+2017-08-18 [10:06:36] [Server thread/INFO]: - Maker 现在上线了!
+2017-08-18 [10:06:41] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
+2017-08-18 [10:06:41] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
+2017-08-18 [10:06:41] [Server thread/INFO]: - Zi_Jian is now online!
+2017-08-18 [10:06:41] [Server thread/INFO]: - Zi_Jian 现在上线了!
+2017-08-18 [10:06:47] [Server thread/INFO]: yudingze[/113.222.203.245:1298] [ClientID: -4268168162490666647] logged in with entity id 5 at (th, -97.8809, 65, 178.1466)
+2017-08-18 [10:06:49] [Server thread/INFO]: [AuthMePE] Player yudingze has logged in.
+2017-08-18 [10:06:49] [Server thread/INFO]: [AuthMePE] 玩家 yudingze 登录了游戏。
+2017-08-18 [10:06:49] [Server thread/INFO]: - yudingze is now online!
+2017-08-18 [10:06:49] [Server thread/INFO]: - yudingze 现在上线了!
+2017-08-18 [10:06:50] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] [ClientID: 6961735811638613043] logged in with entity id 6 at (th, -94.1913, 66, 194.3506)
+2017-08-18 [10:06:52] [Server thread/NOTICE]: Player data not found for "summoner", creating new profile
+2017-08-18 [10:06:52] [Server thread/INFO]: summoner[/27.187.94.2:25411] [ClientID: -5422308471862726603] logged in with entity id 9 at (world, 128, 28, 128)
+2017-08-18 [10:06:53] [Server thread/INFO]: jeffxiang[/223.87.199.104:16328] logged out due to You are banned
+2017-08-18 [10:06:57] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
+2017-08-18 [10:06:57] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
+2017-08-18 [10:06:57] [Server thread/INFO]: - liuliu2008 is now online!
+2017-08-18 [10:06:57] [Server thread/INFO]: - liuliu2008 现在上线了!
+2017-08-18 [10:07:21] [Server thread/INFO]: 100_11011[/112.26.229.189:32242] [ClientID: -1665466026895793531] logged in with entity id 15 at (world, 128, 28, 128)
+2017-08-18 [10:07:22] [Server thread/INFO]: jeffxiang[/223.87.199.104:16328] logged out due to You are banned
+2017-08-18 [10:07:37] [Server thread/INFO]: 100_11011[/112.26.229.189:32242] logged out due to timeout
+2017-08-18 [10:07:53] [Server thread/INFO]: [SVIP]liuliu2008 : 接受呀
+2017-08-18 [10:08:07] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:08:09] [Server thread/INFO]: summoner[/27.187.94.2:25411] logged out due to client disconnect
+2017-08-18 [10:08:20] [Server thread/INFO]: [我是男的]Maker : 這要幹嘛
+2017-08-18 [10:08:21] [Server thread/INFO]: yudingze : 怎么领地皮
+2017-08-18 [10:08:44] [Server thread/INFO]: [SVIP]liuliu2008 : 继续挖
+2017-08-18 [10:09:05] [Server thread/INFO]: xiaoyu[/27.30.21.221:57983] [ClientID: 924930759859274385] logged in with entity id 32 at (th, 139.3691, 66.2954, 181.0274)
+2017-08-18 [10:09:07] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged in.
+2017-08-18 [10:09:07] [Server thread/INFO]: [AuthMePE] 玩家 xiaoyu 登录了游戏。
+2017-08-18 [10:09:07] [Server thread/INFO]: - xiaoyu is now online!
+2017-08-18 [10:09:07] [Server thread/INFO]: - xiaoyu 现在上线了!
+2017-08-18 [10:09:19] [Server thread/INFO]: [主播]Zi_Jian : pvp比赛了
+2017-08-18 [10:09:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:09:23] [Server thread/INFO]: an777[/191.115.108.199:54162] logged out due to timeout
+2017-08-18 [10:09:28] [Server thread/INFO]: [我是男的]Maker : 要幾個
+2017-08-18 [10:09:30] [Server thread/INFO]: [主播]Zi_Jian : 第一奖钻石块
+2017-08-18 [10:09:40] [Server thread/INFO]: yudingze : 你把我奖励全弄没了
+2017-08-18 [10:09:43] [Server thread/INFO]: yudingze : op
+2017-08-18 [10:09:50] [Server thread/INFO]: [我是男的]Maker : 嗯
+2017-08-18 [10:09:56] [Server thread/INFO]: yudingze : 我没钻石快了
+2017-08-18 [10:09:59] [Server thread/INFO]: yudingze : 呜呜呜呜呜
+2017-08-18 [10:09:59] [Server thread/INFO]: [主播]Zi_Jian : 比赛即将开始
+2017-08-18 [10:10:01] [Server thread/INFO]: xiaoyu : 主播你哪直播，我关注你
+2017-08-18 [10:10:05] [Server thread/WARNING]: xiaoyu moved wrongly!
+2017-08-18 [10:10:06] [Server thread/WARNING]: xiaoyu moved wrongly!
+2017-08-18 [10:10:11] [Server thread/INFO]: [主播]Zi_Jian : 场上的比赛
+2017-08-18 [10:10:17] [Server thread/INFO]: * liuliu2008 说：开拍
+2017-08-18 [10:10:17] [Server thread/INFO]: yudingze : 我刚刚是不是你把我搞闪退了
+2017-08-18 [10:10:23] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:10:29] [Server thread/INFO]: [SVIP]liuliu2008 : 开始
+2017-08-18 [10:10:33] [Server thread/INFO]: [主播]Zi_Jian : 没人就yudingze第一le
+2017-08-18 [10:10:37] [Server thread/INFO]: [主播]Zi_Jian : 开始
+2017-08-18 [10:10:40] [Server thread/INFO]: [我是男的]Maker : 全不嗎？
+2017-08-18 [10:10:45] [Server thread/INFO]: [主播]Zi_Jian : 开始
+2017-08-18 [10:10:45] [Server thread/INFO]: yudingze was slain by liuliu2008
+2017-08-18 [10:10:53] [Server thread/INFO]: Steve[/223.72.66.233:19297] [ClientID: -1766398219211466529] logged in with entity id 46 at (world, 128, 28, 128)
+2017-08-18 [10:10:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:10:59] [Server thread/INFO]: yudingze : 我没东西
+2017-08-18 [10:11:02] [Server thread/INFO]: yeshizui[/117.91.75.72:7381] [ClientID: -3450154498078801428] logged in with entity id 49 at (th, 101.1304, 65, 121.2057)
+2017-08-18 [10:11:04] [Server thread/INFO]: [主播]Zi_Jian : 加油
+2017-08-18 [10:11:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:11:04] [Server thread/INFO]: [SVIP]liuliu2008 : pvp开始
+2017-08-18 [10:11:06] [Server thread/INFO]: [AuthMePE] Player yeshizui has logged in.
+2017-08-18 [10:11:06] [Server thread/INFO]: [AuthMePE] 玩家 yeshizui 登录了游戏。
+2017-08-18 [10:11:06] [Server thread/INFO]: - yeshizui is now online!
+2017-08-18 [10:11:06] [Server thread/INFO]: - yeshizui 现在上线了!
+2017-08-18 [10:11:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:11:09] [Server thread/INFO]: yudingze : 被清了
+2017-08-18 [10:11:10] [Server thread/INFO]: Steve[/223.72.66.233:19297] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:11:10] [Server thread/INFO]: [主播]Zi_Jian : 开始
+2017-08-18 [10:11:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:11:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:11:19] [Server thread/INFO]: [/36.102.208.24:56153] logged out due to client disconnect
+2017-08-18 [10:11:22] [Server thread/INFO]: - xiaoyu is now offline!
+2017-08-18 [10:11:22] [Server thread/INFO]: - xiaoyu 离开了游戏!
+2017-08-18 [10:11:22] [Server thread/INFO]: [AuthMePE] Player xiaoyu has logged out.
+2017-08-18 [10:11:22] [Server thread/INFO]: [AuthMePE] Player xiaoyu 离开了游戏.
+2017-08-18 [10:11:22] [Server thread/INFO]: xiaoyu[/27.30.21.221:57983] logged out due to timeout
+2017-08-18 [10:11:22] [Server thread/INFO]: [主播]Zi_Jian : 第一争夺
+2017-08-18 [10:11:26] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:11:26] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:11:28] [Server thread/INFO]: Steve[/223.72.66.233:19297] [ClientID: -1766398219211466529] logged in with entity id 53 at (world, 128, 28, 128)
+2017-08-18 [10:11:29] [Server thread/NOTICE]: Player data not found for "jacky1913", creating new profile
+2017-08-18 [10:11:29] [Server thread/INFO]: jacky1913[/27.109.184.133:58390] [ClientID: -697831092162902743] logged in with entity id 54 at (world, 128, 28, 128)
+2017-08-18 [10:11:31] [Server thread/INFO]: [主播]Zi_Jian : 块
+2017-08-18 [10:11:33] [Server thread/INFO]: [SVIP]liuliu2008 : 可不敢打
+2017-08-18 [10:11:40] [Server thread/INFO]: [主播]Zi_Jian : 打
+2017-08-18 [10:11:44] [Server thread/INFO]: [主播]Zi_Jian : 没关系的
+2017-08-18 [10:11:45] [Server thread/INFO]: Steve[/223.72.66.233:19297] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:12:05] [Server thread/INFO]: [主播]Zi_Jian : 不打没奖励
+2017-08-18 [10:12:07] [Server thread/INFO]: [SVIP]liuliu2008 : 真打吗
+2017-08-18 [10:12:14] [Server thread/INFO]: [主播]Zi_Jian : 打呀
+2017-08-18 [10:12:15] [Server thread/INFO]: [主播]Zi_Jian : pvp
+2017-08-18 [10:12:23] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:12:24] [Server thread/INFO]: [/166.170.223.40:34995] logged out due to timeout
+2017-08-18 [10:12:30] [Server thread/INFO]: poopcraft gamer[/73.197.212.117:61480] logged out due to Invalid name!
+2017-08-18 [10:12:41] [Server thread/INFO]: yudingze : 我没东西了
+2017-08-18 [10:12:49] [Server thread/INFO]: [主播]Zi_Jian : 三个人
+2017-08-18 [10:12:52] [Server thread/INFO]: steven[/76.170.129.160:65489] [ClientID: -617837334135602424] logged in with entity id 68 at (world, 128, 28, 128)
+2017-08-18 [10:12:52] [Server thread/INFO]: [主播]Zi_Jian : 决斗
+2017-08-18 [10:12:55] [Server thread/INFO]: [我是男的]Maker : 嗯ㄨㄛ
+2017-08-18 [10:13:03] [Server thread/INFO]: Steve[/125.44.236.77:26307] [ClientID: -8212971051000488267] logged in with entity id 72 at (th, 130, 65, 131)
+2017-08-18 [10:13:05] [Server thread/INFO]: yudingze was slain by Maker
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:17] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:18] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:18] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:18] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:18] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:19] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/INFO]: Steve[/125.44.236.77:26307] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:20] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:21] [Server thread/WARNING]: jacky1913 moved too fast, reverting movement
+2017-08-18 [10:13:27] [Server thread/INFO]: steven[/76.170.129.160:65489] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:13:29] [Server thread/INFO]: dai[/120.82.145.30:59072] [ClientID: -3277904783018268293] logged in with entity id 75 at (th, 136.925, 65, 187.0692)
+2017-08-18 [10:13:33] [Server thread/INFO]: - yeshizui is now offline!
+2017-08-18 [10:13:33] [Server thread/INFO]: - yeshizui 离开了游戏!
+2017-08-18 [10:13:33] [Server thread/INFO]: [AuthMePE] Player yeshizui has logged out.
+2017-08-18 [10:13:33] [Server thread/INFO]: [AuthMePE] Player yeshizui 离开了游戏.
+2017-08-18 [10:13:33] [Server thread/INFO]: yeshizui[/117.91.75.72:7381] logged out due to timeout
+2017-08-18 [10:13:36] [Server thread/INFO]: jacky1913[/27.109.184.133:58390] logged out due to timeout
+2017-08-18 [10:13:41] [Server thread/INFO]: Steve[/125.44.236.77:26307] [ClientID: -8212971051000488267] logged in with entity id 96 at (world, 128, 28, 128)
+2017-08-18 [10:13:45] [Server thread/INFO]: [AuthMePE] Player dai has logged in.
+2017-08-18 [10:13:45] [Server thread/INFO]: [AuthMePE] 玩家 dai 登录了游戏。
+2017-08-18 [10:13:45] [Server thread/INFO]: - dai is now online!
+2017-08-18 [10:13:45] [Server thread/INFO]: - dai 现在上线了!
+2017-08-18 [10:13:54] [Server thread/INFO]: yudingze : 给我装备我可以打死他们
+2017-08-18 [10:13:58] [Server thread/INFO]: Steve[/125.44.236.77:26307] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:14:00] [Server thread/WARNING]: Zi_Jian moved too fast, reverting movement
+2017-08-18 [10:14:06] [Server thread/NOTICE]: Player data not found for "mineckrak", creating new profile
+2017-08-18 [10:14:06] [Server thread/INFO]: Mineckrak[/189.160.236.131:58124] [ClientID: -843844422562670142] logged in with entity id 117 at (world, 128, 28, 128)
+2017-08-18 [10:14:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:14:14] [Server thread/WARNING]: dai moved wrongly!
+2017-08-18 [10:14:15] [Server thread/WARNING]: dai moved wrongly!
+2017-08-18 [10:14:19] [Server thread/INFO]: yudingze was slain by Maker
+2017-08-18 [10:14:23] [Server thread/INFO]: [主播]Zi_Jian : 呵呵
+2017-08-18 [10:14:24] [Server thread/INFO]: liuliu2008 was slain by Maker
+2017-08-18 [10:14:25] [Server thread/INFO]: - liuliu2008 is now offline!
+2017-08-18 [10:14:25] [Server thread/INFO]: - liuliu2008 离开了游戏!
+2017-08-18 [10:14:25] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged out.
+2017-08-18 [10:14:25] [Server thread/INFO]: [AuthMePE] Player liuliu2008 离开了游戏.
+2017-08-18 [10:14:25] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] logged out due to client disconnect
+2017-08-18 [10:14:30] [Server thread/INFO]: [我是男的]Maker : 贏了
+2017-08-18 [10:14:30] [Server thread/INFO]: [主播]Zi_Jian : 你赢了
+2017-08-18 [10:14:31] [Server thread/INFO]: yudingze : 欺负我
+2017-08-18 [10:14:52] [Server thread/INFO]: steven[/76.170.129.160:65489] [ClientID: -617837334135602424] logged in with entity id 123 at (world, 128, 28, 128)
+2017-08-18 [10:14:56] [Server thread/INFO]: liuliu2008[/101.87.230.230:65039] [ClientID: 6961735811638613043] logged in with entity id 124 at (th, -102.3889, 66.138, 170.3636)
+2017-08-18 [10:15:02] [Server thread/INFO]: - dai is now offline!
+2017-08-18 [10:15:02] [Server thread/INFO]: - dai 离开了游戏!
+2017-08-18 [10:15:02] [Server thread/INFO]: [AuthMePE] Player dai has logged out.
+2017-08-18 [10:15:02] [Server thread/INFO]: [AuthMePE] Player dai 离开了游戏.
+2017-08-18 [10:15:02] [Server thread/INFO]: dai[/120.82.145.30:59072] logged out due to timeout
+2017-08-18 [10:15:02] [Server thread/INFO]: [主播]Zi_Jian : 你可以上台子玩
+2017-08-18 [10:15:02] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
+2017-08-18 [10:15:02] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
+2017-08-18 [10:15:02] [Server thread/INFO]: - liuliu2008 is now online!
+2017-08-18 [10:15:02] [Server thread/INFO]: - liuliu2008 现在上线了!
+2017-08-18 [10:15:04] [Server thread/INFO]: [我是男的]Maker : 在打ㄅ
+2017-08-18 [10:15:16] [Server thread/INFO]: yudingze : 我装备没了
+2017-08-18 [10:15:24] [Server thread/INFO]: yudingze : 我闪退了
+2017-08-18 [10:15:27] [Server thread/INFO]: steven[/76.170.129.160:65489] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:15:32] [Server thread/INFO]: yudingze : 呜呜呜呜
+2017-08-18 [10:15:33] [Server thread/INFO]: [主播]Zi_Jian : 我们都闪退哦
+2017-08-18 [10:15:51] [Server thread/INFO]: yudingze : 我一把铁剑......
+2017-08-18 [10:15:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:16:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:16:09] [Server thread/INFO]: liuliu2008 died
+2017-08-18 [10:16:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:16:11] [Server thread/INFO]: [主播]Zi_Jian : 看这四块地皮
+2017-08-18 [10:16:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:16:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:16:14] [Server thread/INFO]: [主播]Zi_Jian : 都是我的
+2017-08-18 [10:16:36] [Server thread/INFO]: Mineckrak[/189.160.236.131:58124] logged out due to timeout
+2017-08-18 [10:16:50] [Server thread/INFO]: yudingze : 给我装备就好了
+2017-08-18 [10:16:58] [Server thread/INFO]: [我是男的]Maker : 過來
+2017-08-18 [10:17:08] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:17:12] [Server thread/INFO]: Steve[/223.72.66.233:19150] [ClientID: -1766398219211466529] logged in with entity id 133 at (world, 128, 28, 128)
+2017-08-18 [10:17:15] [Server thread/INFO]: [SVIP]liuliu2008 : 等一下
+2017-08-18 [10:17:25] [Server thread/INFO]: Jeff[/118.115.169.165:1568] [ClientID: 853995473468951096] logged in with entity id 139 at (world, 128, 28, 128)
+2017-08-18 [10:17:29] [Server thread/INFO]: Steve[/223.72.66.233:19150] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:17:36] [Server thread/INFO]: [AuthMePE] Player Jeff has logged in.
+2017-08-18 [10:17:36] [Server thread/INFO]: [AuthMePE] 玩家 Jeff 登录了游戏。
+2017-08-18 [10:17:36] [Server thread/INFO]: - Jeff is now online!
+2017-08-18 [10:17:36] [Server thread/INFO]: - Jeff 现在上线了!
+2017-08-18 [10:17:41] [Server thread/WARNING]: Zi_Jian moved too fast, reverting movement
+2017-08-18 [10:17:48] [Server thread/INFO]: Steve[/223.72.66.233:19150] [ClientID: -1766398219211466529] logged in with entity id 142 at (th, 130.0187, 65, 131.0057)
+2017-08-18 [10:18:00] [Server thread/INFO]: yudingze : 造个玩鞘翅的地方
+2017-08-18 [10:18:04] [Server thread/INFO]: Steve[/223.72.66.233:19150] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:18:29] [Server thread/INFO]: matodada[/39.189.38.107:7949] [ClientID: 5398238330974171638] logged in with entity id 144 at (th, 127.8749, 65, 128.6236)
+2017-08-18 [10:18:31] [Server thread/INFO]: [AuthMePE] Player matodada has logged in.
+2017-08-18 [10:18:31] [Server thread/INFO]: [AuthMePE] 玩家 matodada 登录了游戏。
+2017-08-18 [10:18:31] [Server thread/INFO]: - matodada is now online!
+2017-08-18 [10:18:31] [Server thread/INFO]: - matodada 现在上线了!
+2017-08-18 [10:18:46] [Server thread/INFO]: matodada : matodada
+2017-08-18 [10:18:50] [Server thread/INFO]: - matodada is now offline!
+2017-08-18 [10:18:50] [Server thread/INFO]: - matodada 离开了游戏!
+2017-08-18 [10:18:50] [Server thread/INFO]: [AuthMePE] Player matodada has logged out.
+2017-08-18 [10:18:50] [Server thread/INFO]: [AuthMePE] Player matodada 离开了游戏.
+2017-08-18 [10:18:50] [Server thread/INFO]: matodada[/39.189.38.107:7949] logged out due to client disconnect
+2017-08-18 [10:18:58] [Server thread/INFO]: [我是男的]Maker : 蓋房子
+2017-08-18 [10:19:06] [Server thread/INFO]: yudingze : 额
+2017-08-18 [10:19:10] [Server thread/INFO]: [SVIP]liuliu2008 : 要石英
+2017-08-18 [10:19:20] [Server thread/INFO]: [SVIP]liuliu2008 : 继续挖
+2017-08-18 [10:19:30] [Server thread/INFO]: yudingze : qaq
+2017-08-18 [10:19:30] [Server thread/INFO]: [SVIP]liuliu2008 : 还有吗
+2017-08-18 [10:19:38] [Server thread/INFO]: [SVIP]liuliu2008 : 多少
+2017-08-18 [10:20:04] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:20:08] [Server thread/INFO]: [我是男的]Maker : 50幾
+2017-08-18 [10:20:23] [Server thread/INFO]: [我是男的]Maker : 別用石英蓋了
+2017-08-18 [10:20:33] [Server thread/INFO]: yudingze fell from a high place
+2017-08-18 [10:20:37] [Server thread/INFO]: steven[/76.170.129.160:65489] [ClientID: -617837334135602424] logged in with entity id 146 at (world, 128, 28, 128)
+2017-08-18 [10:20:41] [Server thread/INFO]: [SVIP]liuliu2008 : 为什么
+2017-08-18 [10:20:54] [Server thread/INFO]: [我是男的]Maker : 可給石英
+2017-08-18 [10:20:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:21:00] [Server thread/INFO]: Steve[/111.19.36.49:19107] [ClientID: -5678614831952386575] logged in with entity id 147 at (th, 130.2396, 65, 131.0695)
+2017-08-18 [10:21:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:21:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:21:12] [Server thread/INFO]: steven[/76.170.129.160:65489] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:21:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:21:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:21:26] [Server thread/INFO]: Steve[/111.19.36.49:19107] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:21:56] [Server thread/INFO]: [SVIP]liuliu2008 : 我已经想好用石英gai l
+2017-08-18 [10:22:08] [Server thread/WARNING]: Jeff moved wrongly!
+2017-08-18 [10:22:12] [Server thread/WARNING]: Jeff moved wrongly!
+2017-08-18 [10:22:24] [Server thread/INFO]: Steve[/111.19.36.49:19107] [ClientID: -5678614831952386575] logged in with entity id 151 at (world, 128, 28, 128)
+2017-08-18 [10:22:50] [Server thread/INFO]: Steve[/111.19.36.49:19107] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:22:55] [Server thread/INFO]: [我是男的]Maker : 殺我一下
+2017-08-18 [10:23:02] [Server thread/WARNING]: Jeff moved wrongly!
+2017-08-18 [10:23:09] [Server thread/INFO]: Maker was slain by yudingze
+2017-08-18 [10:23:17] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:23:41] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:23:46] [Server thread/INFO]: yudingze : 短了
+2017-08-18 [10:23:54] [Server thread/INFO]: - Jeff is now offline!
+2017-08-18 [10:23:54] [Server thread/INFO]: - Jeff 离开了游戏!
+2017-08-18 [10:23:54] [Server thread/INFO]: [AuthMePE] Player Jeff has logged out.
+2017-08-18 [10:23:54] [Server thread/INFO]: [AuthMePE] Player Jeff 离开了游戏.
+2017-08-18 [10:23:54] [Server thread/INFO]: Jeff[/118.115.169.165:1568] logged out due to client disconnect
+2017-08-18 [10:24:03] [Server thread/INFO]: Steve[/74.105.141.118:54527] [ClientID: 1770470717010870585] logged in with entity id 155 at (world, 128, 28, 128)
+2017-08-18 [10:24:09] [Server thread/NOTICE]: Player data not found for "wangguan", creating new profile
+2017-08-18 [10:24:09] [Server thread/INFO]: wangguan[/42.238.170.142:49214] [ClientID: 2551296870004323158] logged in with entity id 156 at (world, 128, 28, 128)
+2017-08-18 [10:24:16] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:24:17] [Server thread/INFO]: summoner[/27.187.94.2:22826] [ClientID: -5422308471862726603] logged in with entity id 157 at (world, 128, 28, 128)
+2017-08-18 [10:24:20] [Server thread/INFO]: Steve[/74.105.141.118:54527] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:24:24] [Server thread/INFO]: [SVIP]liuliu2008 : 再来比赛吧
+2017-08-18 [10:24:26] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:24:42] [Server thread/INFO]: yudingze : 有吃的吗
+2017-08-18 [10:24:47] [Server thread/INFO]: summoner[/27.187.94.2:22826] logged out due to client disconnect
+2017-08-18 [10:24:55] [Server thread/INFO]: yudingze fell from a high place
+2017-08-18 [10:24:57] [Server thread/INFO]: [我是男的]Maker : 蓋房子
+2017-08-18 [10:25:02] [Server thread/INFO]: [SVIP]liuliu2008 : OK
+2017-08-18 [10:25:19] [Server thread/INFO]: Steve[/74.105.141.118:53769] [ClientID: 1770470717010870585] logged in with entity id 158 at (world, 128, 28, 128)
+2017-08-18 [10:25:29] [Server thread/INFO]: [SVIP]liuliu2008 : 石英给我
+2017-08-18 [10:25:34] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:25:36] [Server thread/INFO]: Steve[/74.105.141.118:53769] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:25:36] [Server thread/INFO]: wangguan[/42.238.170.142:49214] logged out due to client disconnect
+2017-08-18 [10:25:38] [Server thread/INFO]: yudingze fell from a high place
+2017-08-18 [10:25:41] [Server thread/INFO]: [主播]Zi_Jian : 呵呵
+2017-08-18 [10:25:45] [Server thread/INFO]: summoner[/27.187.94.2:22948] [ClientID: -5422308471862726603] logged in with entity id 159 at (world, 128, 28, 128)
+2017-08-18 [10:25:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:26:01] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:26:02] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:26:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:26:07] [Server thread/INFO]: summoner[/27.187.94.2:22948] logged out due to client disconnect
+2017-08-18 [10:26:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:26:10] [Server thread/INFO]: [我是男的]Maker : 跟我來
+2017-08-18 [10:26:11] [Server thread/INFO]: [SVIP]liuliu2008 : 石英给我
+2017-08-18 [10:26:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:26:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:26:47] [Server thread/INFO]: [我是男的]Maker : 房子
+2017-08-18 [10:27:01] [Server thread/INFO]: [SVIP]liuliu2008 : 咋了
+2017-08-18 [10:27:12] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:27:29] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:27:34] [Server thread/INFO]: [主播]Zi_Jian : 看你家
+2017-08-18 [10:27:39] [Server thread/INFO]: Steve[/39.187.95.255:12846] [ClientID: -8267781369134531693] logged in with entity id 160 at (world, 128, 28, 128)
+2017-08-18 [10:27:57] [Server thread/INFO]: Steve[/39.187.95.255:12846] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:28:11] [Server thread/INFO]: [我是男的]Maker : 過來
+2017-08-18 [10:28:17] [Server thread/INFO]: Steve[/39.187.95.255:12846] [ClientID: -8267781369134531693] logged in with entity id 197 at (world, 128, 28, 128)
+2017-08-18 [10:28:24] [Server thread/INFO]: Steve[/39.187.95.255:12846] logged out due to Kicked by admin. Reason: logged in from another location
+2017-08-18 [10:28:24] [Server thread/INFO]: Steve[/139.226.86.78:12866] [ClientID: -6021782033950339091] logged in with entity id 198 at (world, 128, 28, 128)
+2017-08-18 [10:28:36] [Server thread/INFO]: Steve[/139.226.86.78:12866] logged out due to client disconnect
+2017-08-18 [10:29:00] [Server thread/INFO]: [我是男的]Maker : 我去木頭世界一下
+2017-08-18 [10:29:08] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:29:10] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:29:17] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:29:29] [Server thread/INFO]: yudingze : 我造个跑酷
+2017-08-18 [10:29:32] [Server thread/INFO]: Steve[/121.230.16.243:17905] [ClientID: -2647407865491549799] logged in with entity id 216 at (world, 128, 28, 128)
+2017-08-18 [10:29:43] [Server thread/INFO]: * Zi_Jian 觉得Zi_Jian棒棒哒
+2017-08-18 [10:29:46] [Server thread/INFO]: [主播]Zi_Jian : 这里有
+2017-08-18 [10:29:50] [Server thread/INFO]: yudingze : 额
+2017-08-18 [10:29:51] [Server thread/INFO]: Steve[/121.230.16.243:17905] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:29:52] [Server thread/INFO]: [主播]Zi_Jian : 有奖的
+2017-08-18 [10:29:54] [Server thread/INFO]: [主播]Zi_Jian : 我造的
+2017-08-18 [10:29:56] [Server thread/INFO]: yudingze : 太简单
+2017-08-18 [10:30:08] [Server thread/INFO]: [主播]Zi_Jian : 很难的
+2017-08-18 [10:30:15] [Server thread/INFO]: [主播]Zi_Jian : 你走错路
+2017-08-18 [10:30:23] [Server thread/INFO]: [主播]Zi_Jian : 这里
+2017-08-18 [10:30:26] [Server thread/INFO]: [主播]Zi_Jian : 起点
+2017-08-18 [10:30:28] [Server thread/INFO]: Steve[/121.230.16.243:17905] [ClientID: -2647407865491549799] logged in with entity id 217 at (world, 128, 28, 128)
+2017-08-18 [10:30:28] [Server thread/INFO]: [我是男的]Maker : 還要木頭嗎？
+2017-08-18 [10:30:46] [Server thread/INFO]: Steve[/121.230.16.243:17905] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:30:48] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:30:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:31:01] [Server thread/INFO]: [主播]Zi_Jian : 哈哈
+2017-08-18 [10:31:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:31:05] [Server thread/INFO]: [主播]Zi_Jian : 简单？
+2017-08-18 [10:31:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:31:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:31:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:31:23] [Server thread/INFO]: [主播]Zi_Jian : 简单？
+2017-08-18 [10:31:24] [Server thread/INFO]: Steve[/121.230.16.243:17905] [ClientID: -2647407865491549799] logged in with entity id 221 at (world, 128, 28, 128)
+2017-08-18 [10:31:25] [Server thread/INFO]: yudingze : 疾跑有问题
+2017-08-18 [10:31:31] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:31:42] [Server thread/INFO]: Steve[/121.230.16.243:17905] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:31:57] [Server thread/INFO]: [主播]Zi_Jian : 哈哈
+2017-08-18 [10:32:21] [Server thread/INFO]: Steve[/121.230.16.243:17905] logged out due to timeout
+2017-08-18 [10:32:44] [Server thread/INFO]: yudingze : 你来试试
+2017-08-18 [10:32:50] [Server thread/INFO]: [主播]Zi_Jian : 是简单的
+2017-08-18 [10:33:11] [Server thread/INFO]: [主播]Zi_Jian : 看到了吗
+2017-08-18 [10:33:38] [Server thread/INFO]: Jack[/124.65.199.146:42116] [ClientID: 4114516456152206308] logged in with entity id 225 at (world, 128, 28, 128)
+2017-08-18 [10:33:51] [Server thread/INFO]: [主播]Zi_Jian : 我跳不起来
+2017-08-18 [10:33:54] [Server thread/INFO]: Jack[/124.65.199.146:42116] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:34:02] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:34:16] [Server thread/INFO]: Jack[/124.65.199.146:42116] [ClientID: 4114516456152206308] logged in with entity id 228 at (th, 130, 65, 131)
+2017-08-18 [10:34:25] [Server thread/INFO]: [主播]Zi_Jian : 这里是全图最难
+2017-08-18 [10:34:33] [Server thread/INFO]: [主播]Zi_Jian : 最难的
+2017-08-18 [10:34:33] [Server thread/INFO]: Jack[/124.65.199.146:42116] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:34:35] [Server thread/INFO]: [SVIP]liuliu2008 : 石英没了
+2017-08-18 [10:34:41] [Server thread/INFO]: [主播]Zi_Jian : 这里
+2017-08-18 [10:34:51] [Server thread/INFO]: [我是男的]Maker : 走去挖
+2017-08-18 [10:34:54] [Server thread/INFO]: [主播]Zi_Jian : 。。。。
+2017-08-18 [10:34:59] [Server thread/INFO]: [主播]Zi_Jian : 下面有史莱姆
+2017-08-18 [10:35:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:35:33] [Server thread/WARNING]: Zi_Jian moved too fast, reverting movement
+2017-08-18 [10:35:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:35:58] [Server thread/INFO]: [SVIP]liuliu2008 : 我们一次行挖吧
+2017-08-18 [10:36:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:36:08] [Server thread/INFO]: [我是男的]Maker : 嗯
+2017-08-18 [10:36:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:36:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:36:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:36:16] [Server thread/INFO]: [SVIP]liuliu2008 : 一下挖很多
+2017-08-18 [10:36:36] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:36:39] [Server thread/INFO]: yudingze : 旋转跳
+2017-08-18 [10:37:00] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:37:13] [Server thread/INFO]: [SVIP]liuliu2008 : 空
+2017-08-18 [10:37:24] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:37:36] [Server thread/INFO]: [主播]Zi_Jian : 。。。。。。
+2017-08-18 [10:37:44] [Server thread/INFO]: yudingze : 你来啊
+2017-08-18 [10:37:49] [Server thread/INFO]: [主播]Zi_Jian : 这里只有三个人过去过
+2017-08-18 [10:37:50] [Server thread/INFO]: Steve[/223.72.66.233:19014] [ClientID: -1766398219211466529] logged in with entity id 258 at (th, 130, 65, 131)
+2017-08-18 [10:38:02] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:38:02] [Server thread/INFO]: * Zi_Jian 觉得Zi_Jian棒棒哒
+2017-08-18 [10:38:07] [Server thread/INFO]: Steve[/223.72.66.233:19014] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:38:16] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:38:21] [Server thread/INFO]: Steve[/223.72.66.233:19014] [ClientID: -1766398219211466529] logged in with entity id 262 at (th, 130, 65, 131)
+2017-08-18 [10:38:28] [Server thread/INFO]: EquineSkydiver3[/99.122.206.115:53162] [ClientID: -2499167952320947053] logged in with entity id 265 at (world, 128, 64, 128)
+2017-08-18 [10:38:33] [Server thread/INFO]: yudingze : 你可以吗
+2017-08-18 [10:38:38] [Server thread/INFO]: Steve[/223.72.66.233:19014] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:38:39] [Server thread/INFO]: liuliu2008 tried to swim in lava
+2017-08-18 [10:38:42] [Server thread/INFO]: [主播]Zi_Jian : 一次成功了
+2017-08-18 [10:38:53] [Server thread/INFO]: yudingze : 给点吃的
+2017-08-18 [10:38:58] [Server thread/INFO]: Steve[/108.205.138.156:53772] [ClientID: -6061231611573412755] logged in with entity id 269 at (world, 128, 28, 128)
+2017-08-18 [10:39:04] [Server thread/INFO]: * Zi_Jian 觉得Zi_Jian棒棒哒
+2017-08-18 [10:39:09] [Server thread/INFO]: yudingze fell from a high place
+2017-08-18 [10:39:15] [Server thread/INFO]: Steve[/108.205.138.156:53772] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:39:25] [Server thread/INFO]: [SVIP]liuliu2008 : Maker
+2017-08-18 [10:39:26] [Server thread/NOTICE]: Player data not found for "slenderbacon555", creating new profile
+2017-08-18 [10:39:26] [Server thread/INFO]: SlenderBacon555[/73.34.149.39:62309] [ClientID: -4429885582819979521] logged in with entity id 273 at (world, 128, 28, 128)
+2017-08-18 [10:39:28] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:30] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:30] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:30] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:30] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:30] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:31] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:31] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:31] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:31] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:31] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:32] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:32] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:32] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:32] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:39:32] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:32] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:32] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:33] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:33] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:33] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:33] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:33] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:38] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:38] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:38] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:39:50] [Server thread/INFO]: SlenderBacon555[/73.34.149.39:62309] logged out due to client disconnect
+2017-08-18 [10:40:35] [Server thread/INFO]: EquineSkydiver3[/99.122.206.115:53162] logged out due to client disconnect
+2017-08-18 [10:40:38] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:40:46] [Server thread/INFO]: * Zi_Jian 说：开party了，/找人 Zi_Jian过来
+2017-08-18 [10:40:50] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:51] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:51] [Server thread/INFO]: Steve[/39.68.96.25:32427] [ClientID: -6357559800597681726] logged in with entity id 322 at (world, 128, 28, 128)
+2017-08-18 [10:40:51] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:51] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:51] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:52] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:52] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:52] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:52] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:52] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:52] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:53] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:53] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:53] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:53] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:53] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:54] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:54] [Server thread/INFO]: * yudingze 觉得Zi_Jian棒棒哒
+2017-08-18 [10:40:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:40:54] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:54] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:55] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:55] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:55] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:55] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:55] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:56] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:40:56] [Server thread/INFO]: * yudingze 觉得这个party很棒
+2017-08-18 [10:41:03] [Server thread/INFO]: [主播]Zi_Jian : 过来
+2017-08-18 [10:41:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:41:08] [Server thread/INFO]: [主播]Zi_Jian : 过来
+2017-08-18 [10:41:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:41:09] [Server thread/INFO]: Steve[/39.68.96.25:32427] logged out due to Kicked by admin. Reason: Time out!
+2017-08-18 [10:41:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:41:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:41:14] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:41:18] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:41:19] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:41:25] [Server thread/INFO]: [我是男的]Maker : 夠了嗎？
+2017-08-18 [10:41:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:41:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:41:32] [Server thread/INFO]: [SVIP]liuliu2008 : 不够
+2017-08-18 [10:41:33] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:41:40] [Server thread/INFO]: [我是男的]Maker : 幾個
+2017-08-18 [10:41:41] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:41:45] [Server thread/INFO]: [SVIP]liuliu2008 : 4组
+2017-08-18 [10:41:51] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:41:51] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:41:57] [Server thread/INFO]: [SVIP]liuliu2008 : 也不够
+2017-08-18 [10:42:01] [Server thread/INFO]: [主播]Zi_Jian : 我帮你造
+2017-08-18 [10:42:07] [Server thread/INFO]: [主播]Zi_Jian : 我有无数组
+2017-08-18 [10:42:11] [Server thread/INFO]: [我是男的]Maker : 柱子用石英就好了呀
+2017-08-18 [10:42:16] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:42:25] [Server thread/INFO]: [我是男的]Maker : 嗯
+2017-08-18 [10:42:26] [Server thread/INFO]: [SVIP]liuliu2008 : 全石英
+2017-08-18 [10:42:30] [Server thread/INFO]: [我是男的]Maker : 好哇
+2017-08-18 [10:42:45] [Server thread/INFO]: * Zi_Jian 说：准备开始躲猫猫了！
+2017-08-18 [10:42:45] [Server thread/INFO]: * Zi_Jian 3
+2017-08-18 [10:42:47] [Server thread/INFO]: * Zi_Jian 2
+2017-08-18 [10:42:49] [Server thread/INFO]: * Zi_Jian 1
+2017-08-18 [10:43:05] [Server thread/INFO]: [SVIP]liuliu2008 : 我的们猜要机组石英
+2017-08-18 [10:43:15] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:43:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:43:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-18 [10:43:23] [Server thread/INFO]: yeshizui[/117.91.75.72:8097] [ClientID: -3450154498078801428] logged in with entity id 470 at (th, 218.3949, 66, 206.6146)
+2017-08-18 [10:43:27] [Server thread/INFO]: - Zi_Jian is now offline!
+2017-08-18 [10:43:27] [Server thread/INFO]: - Zi_Jian 离开了游戏!
+2017-08-18 [10:43:27] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged out.
+2017-08-18 [10:43:27] [Server thread/INFO]: [AuthMePE] Player Zi_Jian 离开了游戏.
+2017-08-18 [10:43:27] [Server thread/INFO]: Zi_Jian[/222.64.214.167:62394] logged out due to client disconnect
+2017-08-18 [10:43:27] [Server thread/INFO]: [AuthMePE] Player yeshizui has logged in.
+2017-08-18 [10:43:27] [Server thread/INFO]: [AuthMePE] 玩家 yeshizui 登录了游戏。
+2017-08-18 [10:43:27] [Server thread/INFO]: - yeshizui is now online!
+2017-08-18 [10:43:27] [Server thread/INFO]: - yeshizui 现在上线了!
+2017-08-18 [10:43:41] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:43:41] [Server thread/WARNING]: yudingze moved wrongly!
+2017-08-18 [10:43:45] [Server thread/NOTICE]: Player data not found for "midwaywriter423", creating new profile
+2017-08-18 [10:43:45] [Server thread/INFO]: MidwayWriter423[/58.217.224.140:11302] [ClientID: 2440924165530335468] logged in with entity id 512 at (world, 128, 28, 128)
+2017-08-18 [10:43:51] [Server thread/INFO]: MidwayWriter423[/58.217.224.140:11302] logged out due to client disconnect
+2017-08-18 [10:44:02] [Server thread/INFO]: [SVIP]liuliu2008 : 我猜16组
+2017-08-18 [10:44:03] [Server thread/INFO]: [/111.113.216.89:28820] logged out due to client disconnect
+2017-08-18 [10:44:05] [Server thread/INFO]: MidwayWriter423[/58.217.224.140:11302] [ClientID: 2440924165530335468] logged in with entity id 521 at (world, 128, 28, 128)
+2017-08-18 [10:44:19] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:44:20] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:45:11] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:45:17] [Server thread/WARNING]: yeshizui moved wrongly!
+2017-08-18 [10:45:30] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:45:50] [Server thread/WARNING]: Maker moved wrongly!
+2017-08-18 [10:45:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-18 [10:46:04] [Server thread/INFO]: [SVIP]liuliu2008 : 我吃了附魔苹果
+2017-08-18 [10:46:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-18 [10:46:05] [Server thread/INFO]: MidwayWriter423[/58.217.224.140:11302] logged out due to client disconnect
+2017-08-18 [10:46:06] [Server thread/INFO]: - yeshizui is now offline!
+2017-08-18 [10:46:06] [Server thread/INFO]: - yeshizui 离开了游戏!
+2017-08-18 [10:46:06] [Server thread/INFO]: [AuthMePE] Player yeshizui has logged out.
+2017-08-18 [10:46:06] [Server thread/INFO]: [AuthMePE] Player yeshizui 离开了游戏.
+2017-08-18 [10:46:06] [Server thread/INFO]: yeshizui[/117.91.75.72:8097] logged out due to timeout
+2017-08-18 [10:46:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-18 [10:46:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-18 [10:46:14] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-08-18 [10:46:22] [Server thread/INFO]: PVPVNSaccen[/113.173.137.221:55670] [ClientID: 6197703772272090460] logged in with entity id 631 at (world, 129.7, 28, 127.3)
+2017-08-18 [10:46:24] [Server thread/INFO]: [AuthMePE] Player PVPVNSaccen has logged in.
+2017-08-18 [10:46:24] [Server thread/INFO]: [AuthMePE] 玩家 PVPVNSaccen 登录了游戏。
+2017-08-18 [10:46:24] [Server thread/INFO]: - PVPVNSaccen is now online!
+2017-08-18 [10:46:24] [Server thread/INFO]: - PVPVNSaccen 现在上线了!
+2017-08-18 [10:46:26] [Server thread/INFO]: - PVPVNSaccen is now offline!
+2017-08-18 [10:46:26] [Server thread/INFO]: - PVPVNSaccen 离开了游戏!
+2017-08-18 [10:46:26] [Server thread/INFO]: [AuthMePE] Player PVPVNSaccen has logged out.
+2017-08-18 [10:46:26] [Server thread/INFO]: [AuthMePE] Player PVPVNSaccen 离开了游戏.
+2017-08-18 [10:46:26] [Server thread/INFO]: PVPVNSaccen[/113.173.137.221:55670] logged out due to client disconnect
+2017-08-18 [10:46:39] [Server thread/INFO]: [我是男的]Maker : 柱子石英就好了
+2017-08-18 [10:47:02] [Server thread/INFO]: [SVIP]liuliu2008 : 我们造个不一样的
+2017-08-18 [10:47:04] [Server thread/INFO]: yudingze : plomd
+2017-08-18 [10:47:30] [Server thread/INFO]: [我是男的]Maker : 我先回去放東西
+2017-08-18 [10:47:43] [Server thread/INFO]: [SVIP]liuliu2008 : 你先回去
+2017-08-18 [10:47:50] [Server thread/WARNING]: Maker moved wrongly!
