@@ -2939,4 +2939,26 @@
   level: th
   invitee: []
   expires: ~
+302:
+  ID: 302
+  startX: -379
+  endX: -342
+  startZ: 154
+  endZ: 188
+  price: 118800
+  owner: BANG
+  level: th
+  invitee: []
+  expires: ~
+303:
+  ID: 303
+  startX: -239
+  endX: -206
+  startZ: 77
+  endZ: 110
+  price: 102400
+  owner: BANG
+  level: th
+  invitee: []
+  expires: ~
 ...
