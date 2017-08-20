@@ -2983,4 +2983,15 @@
   level: th
   invitee: []
   expires: ~
+306:
+  ID: 306
+  startX: -193
+  endX: -181
+  startZ: 189
+  endZ: 193
+  price: 3300
+  owner: Maker
+  level: th
+  invitee: []
+  expires: ~
 ...
