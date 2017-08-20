@@ -1,632 +1,137 @@
-2017-08-20 [22:58:13] [Server thread/INFO]: LUCARIO : 哦
-2017-08-20 [22:58:23] [Server thread/INFO]: [AuthMePE] Player Dady has logged in.
-2017-08-20 [22:58:23] [Server thread/INFO]: [AuthMePE] 玩家 Dady 登录了游戏。
-2017-08-20 [22:58:23] [Server thread/INFO]: - Dady is now online!
-2017-08-20 [22:58:23] [Server thread/INFO]: - Dady 现在上线了!
-2017-08-20 [22:58:32] [Server thread/INFO]: Dady : hi
-2017-08-20 [22:58:37] [Server thread/INFO]: LUCARIO : 嗨
-2017-08-20 [22:58:39] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:58:39] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:58:41] [Server thread/INFO]: DTZF : hallo
-2017-08-20 [22:58:45] [Server thread/INFO]: DTZF : hello
-2017-08-20 [22:58:50] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [22:58:54] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [22:58:58] [Server thread/INFO]: Steve[/116.28.118.251:51826] [ClientID: -7565571970711943633] logged in with entity id 1960 at (world, 128, 28, 128)
-2017-08-20 [22:59:04] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [22:59:05] [Server thread/INFO]: LUCARIO : ？
-2017-08-20 [22:59:05] [Server thread/INFO]: Dady : 这是国副副吗
-2017-08-20 [22:59:08] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:59:09] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:59:10] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [22:59:11] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [22:59:11] [Server thread/INFO]: LUCARIO : 对啊
-2017-08-20 [22:59:14] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [22:59:15] [Server thread/INFO]: Steve[/116.28.118.251:51826] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [22:59:18] [Server thread/INFO]: Dady : 哦
-2017-08-20 [22:59:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [22:59:22] [Server thread/INFO]: Steve[/116.28.118.251:51826] [ClientID: -7565571970711943633] logged in with entity id 1961 at (world, 128, 28, 128)
-2017-08-20 [22:59:24] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [22:59:24] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [22:59:26] [Server thread/WARNING]: Dady moved too fast, reverting movement
-2017-08-20 [22:59:40] [Server thread/INFO]: Steve[/116.28.118.251:51826] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [22:59:42] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:59:42] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:59:43] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:59:47] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [22:59:49] [Server thread/INFO]: HitherWhistle95[/1.161.62.187:58025] [ClientID: 731726325722476948] logged in with entity id 1964 at (th, -218.3, 52, 155.2207)
-2017-08-20 [22:59:51] [Server thread/INFO]: LUCARIO : 哇，奇葩景观
-2017-08-20 [22:59:53] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [22:59:54] [Server thread/INFO]: DTZF fell from a high place
-2017-08-20 [23:00:01] [Server thread/INFO]: - Dady is now offline!
-2017-08-20 [23:00:01] [Server thread/INFO]: - Dady 离开了游戏!
-2017-08-20 [23:00:01] [Server thread/INFO]: [AuthMePE] Player Dady has logged out.
-2017-08-20 [23:00:01] [Server thread/INFO]: [AuthMePE] Player Dady 离开了游戏.
-2017-08-20 [23:00:01] [Server thread/INFO]: Dady[/223.73.67.239:54167] logged out due to timeout
-2017-08-20 [23:00:06] [Server thread/INFO]: HitherWhistle95[/1.161.62.187:58025] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:00:06] [Server thread/INFO]: xiao jian[/111.227.19.238:38978] logged out due to Invalid name!
-2017-08-20 [23:00:24] [Server thread/INFO]: DTZF : 回家
-2017-08-20 [23:00:27] [Server thread/INFO]: HitherWhistle95[/1.161.62.187:58025] [ClientID: 731726325722476948] logged in with entity id 1968 at (world, 128, 28, 128)
-2017-08-20 [23:00:33] [Server thread/INFO]: DTZF : 你回来
-2017-08-20 [23:00:38] [Server thread/INFO]: DTZF : 我在你家
-2017-08-20 [23:00:40] [Server thread/INFO]: [AuthMePE] Player HitherWhistle95 has logged in.
-2017-08-20 [23:00:40] [Server thread/INFO]: [AuthMePE] 玩家 HitherWhistle95 登录了游戏。
-2017-08-20 [23:00:40] [Server thread/INFO]: - HitherWhistle95 is now online!
-2017-08-20 [23:00:40] [Server thread/INFO]: - HitherWhistle95 现在上线了!
-2017-08-20 [23:00:40] [Server thread/INFO]: Steve[/36.238.55.123:55012] [ClientID: -5979372714141162952] logged in with entity id 1972 at (world, 128, 28, 128)
-2017-08-20 [23:00:54] [Server thread/INFO]: LUCARIO : 哦，我在山顶，让我狼叫一声
-2017-08-20 [23:00:59] [Server thread/INFO]: Steve[/36.238.55.123:55012] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:01:11] [Server thread/INFO]: xiao jian[/111.227.19.238:38966] logged out due to Invalid name!
-2017-08-20 [23:01:12] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:01:12] [Server thread/INFO]: LUCARIO : 路卡～
-2017-08-20 [23:01:13] [Server thread/INFO]: Dady[/223.73.67.239:54165] [ClientID: -4411556928851594272] logged in with entity id 1977 at (th, 192.7063, 65, 180.6457)
-2017-08-20 [23:01:21] [Server thread/INFO]: [AuthMePE] Player Dady has logged in.
-2017-08-20 [23:01:21] [Server thread/INFO]: [AuthMePE] 玩家 Dady 登录了游戏。
-2017-08-20 [23:01:21] [Server thread/INFO]: - Dady is now online!
-2017-08-20 [23:01:21] [Server thread/INFO]: - Dady 现在上线了!
-2017-08-20 [23:01:38] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:01:39] [Server thread/INFO]: LUCARIO : 好了
-2017-08-20 [23:01:45] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [23:01:46] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [23:01:49] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:01:50] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:02:01] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:02:04] [Server thread/INFO]: HitherWhistle95 : 有人可以給我裝備嗎
-2017-08-20 [23:02:12] [Server thread/INFO]: LUCARIO : 没人
-2017-08-20 [23:02:18] [Server thread/INFO]: LUCARIO : 因为没装备
-2017-08-20 [23:02:30] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:02:36] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:02:37] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:02:39] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:02:59] [Server thread/INFO]: HitherWhistle95 : 那有武器嗎
-2017-08-20 [23:03:00] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21793] [ClientID: 3036730296650954731] logged in with entity id 1995 at (th, 120.4962, 66, -19.1048)
-2017-08-20 [23:03:08] [Server thread/INFO]: LUCARIO : 一把石剑
-2017-08-20 [23:03:13] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
-2017-08-20 [23:03:13] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
-2017-08-20 [23:03:13] [Server thread/INFO]: - zhumengzhiying is now online!
-2017-08-20 [23:03:13] [Server thread/INFO]: - zhumengzhiying 现在上线了!
-2017-08-20 [23:03:13] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [23:03:13] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:03:24] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:03:33] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:03:34] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:03:37] [Server thread/INFO]: LUCARIO : 你过来，打/找人 lucario
-2017-08-20 [23:03:41] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:03:42] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-20 [23:03:44] [Server thread/WARNING]: Dady moved wrongly!
-2017-08-20 [23:03:56] [Server thread/INFO]: - Dady is now offline!
-2017-08-20 [23:03:56] [Server thread/INFO]: - Dady 离开了游戏!
-2017-08-20 [23:03:56] [Server thread/INFO]: [AuthMePE] Player Dady has logged out.
-2017-08-20 [23:03:56] [Server thread/INFO]: [AuthMePE] Player Dady 离开了游戏.
-2017-08-20 [23:03:56] [Server thread/INFO]: Dady[/223.73.67.239:54165] logged out due to timeout
-2017-08-20 [23:03:59] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:04:32] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:04:39] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:04:39] [Server thread/INFO]: DTZF suffocated in a wall
-2017-08-20 [23:04:50] [Server thread/INFO]: LUCARIO : 额？
-2017-08-20 [23:04:56] [Server thread/INFO]: LUCARIO : 钻石套？
-2017-08-20 [23:05:10] [Server thread/INFO]: HitherWhistle95 : 嗯
-2017-08-20 [23:05:21] [Server thread/INFO]: LUCARIO : 你没有钻石剑？
-2017-08-20 [23:05:30] [Server thread/INFO]: DTZF : 深情对视
-2017-08-20 [23:05:49] [Server thread/INFO]: HitherWhistle95 : 我沒有裝備啊
-2017-08-20 [23:05:54] [Server thread/NOTICE]: Player data not found for "nanazk33", creating new profile
-2017-08-20 [23:05:54] [Server thread/INFO]: NANAzk33[/124.239.251.2:53520] [ClientID: -8861141070204933451] logged in with entity id 2038 at (world, 128, 28, 128)
-2017-08-20 [23:05:59] [Server thread/INFO]: LUCARIO : 你的钻石套.....
-2017-08-20 [23:06:04] [Server thread/INFO]: - DTZF is now offline!
-2017-08-20 [23:06:04] [Server thread/INFO]: - DTZF 离开了游戏!
-2017-08-20 [23:06:04] [Server thread/INFO]: [AuthMePE] Player DTZF has logged out.
-2017-08-20 [23:06:04] [Server thread/INFO]: [AuthMePE] Player DTZF 离开了游戏.
-2017-08-20 [23:06:04] [Server thread/INFO]: DTZF[/113.195.162.112:16205] logged out due to client disconnect
-2017-08-20 [23:06:12] [Server thread/INFO]: HitherWhistle95 : 我有穿？
-2017-08-20 [23:06:13] [Server thread/INFO]: LUCARIO : 额好吧
-2017-08-20 [23:06:18] [Server thread/INFO]: LUCARIO : 有啊
-2017-08-20 [23:06:25] [Server thread/INFO]: [我是女的]zhumengzhiying : bug
-2017-08-20 [23:06:29] [Server thread/INFO]: LUCARIO : 我打你看你掉血吗
-2017-08-20 [23:06:37] [Server thread/INFO]: HitherWhistle95 : 嗯
-2017-08-20 [23:06:44] [Server thread/INFO]: LUCARIO : 掉吗
-2017-08-20 [23:06:51] [Server thread/INFO]: NANAzk33[/124.239.251.2:53520] logged out due to timeout
-2017-08-20 [23:06:59] [Server thread/INFO]: HitherWhistle95 : 在打ㄧ次
-2017-08-20 [23:07:10] [Server thread/INFO]: - zhumengzhiying is now offline!
-2017-08-20 [23:07:10] [Server thread/INFO]: - zhumengzhiying 离开了游戏!
-2017-08-20 [23:07:10] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged out.
-2017-08-20 [23:07:10] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying 离开了游戏.
-2017-08-20 [23:07:10] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21793] logged out due to timeout
-2017-08-20 [23:07:19] [Server thread/INFO]: LUCARIO : 掉吗
-2017-08-20 [23:07:24] [Server thread/NOTICE]: Player data not found for "exiledmeerkat26", creating new profile
-2017-08-20 [23:07:24] [Server thread/INFO]: ExiledMeerkat26[/183.226.157.176:17980] [ClientID: -8330950084393066985] logged in with entity id 2054 at (world, 128, 28, 128)
-2017-08-20 [23:07:27] [Server thread/INFO]: HitherWhistle95 : 沒有
-2017-08-20 [23:07:38] [Server thread/INFO]: LUCARIO : 哦，你穿着呢
-2017-08-20 [23:07:47] [Server thread/INFO]: HitherWhistle95 : 是喔
-2017-08-20 [23:08:03] [Server thread/INFO]: ExiledMeerkat26[/183.226.157.176:17980] logged out due to timeout
-2017-08-20 [23:08:29] [Server thread/INFO]: HitherWhistle95 : 怎麼擁有地
-2017-08-20 [23:08:36] [Server thread/INFO]: LUCARIO : 买啊
-2017-08-20 [23:08:37] [Server thread/INFO]: jason[/85.187.111.62:58743] [ClientID: 664076665772388051] logged in with entity id 2061 at (th, 130, 65, 131)
-2017-08-20 [23:08:49] [Server thread/INFO]: HitherWhistle95 : 怎麼買？
-2017-08-20 [23:08:54] [Server thread/INFO]: jason[/85.187.111.62:58743] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:09:05] [Server thread/INFO]: jason[/85.187.111.62:58743] [ClientID: 664076665772388051] logged in with entity id 2063 at (th, 129.9967, 65, 130.8109)
-2017-08-20 [23:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:09:19] [Server thread/INFO]: jason[/85.187.111.62:58743] logged out due to client disconnect
-2017-08-20 [23:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:09:24] [Server thread/INFO]: DTZF[/113.195.162.112:17085] [ClientID: 5275645616464994948] logged in with entity id 2065 at (th, -93.8592, 66, 391.576)
-2017-08-20 [23:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:09:27] [Server thread/INFO]: [AuthMePE] Player DTZF has logged in.
-2017-08-20 [23:09:27] [Server thread/INFO]: [AuthMePE] 玩家 DTZF 登录了游戏。
-2017-08-20 [23:09:27] [Server thread/INFO]: - DTZF is now online!
-2017-08-20 [23:09:27] [Server thread/INFO]: - DTZF 现在上线了!
-2017-08-20 [23:09:32] [Server thread/INFO]: LUCARIO : 输入/str什么，在你找的下一个地方打/en什么
-2017-08-20 [23:10:09] [Server thread/INFO]: DTZF : 你们两个
-2017-08-20 [23:10:14] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:10:21] [Server thread/INFO]: LUCARIO : 最后找一个有/plcms land buy的牌子点那个牌子
-2017-08-20 [23:10:25] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:10:40] [Server thread/INFO]: HitherWhistle95 : 嗯
-2017-08-20 [23:10:51] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:10:54] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:10:58] [Server thread/INFO]: LUCARIO was pricked to death
-2017-08-20 [23:11:01] [Server thread/WARNING]: DTZF moved wrongly!
-2017-08-20 [23:11:11] [Server thread/INFO]: DTZF : 要死一起
-2017-08-20 [23:11:12] [Server thread/INFO]: DTZF was pricked to death
-2017-08-20 [23:11:30] [Server thread/INFO]: LUCARIO : 额，我只是回饱食度
-2017-08-20 [23:11:41] [Server thread/INFO]: DTZF : 呃呃呃尴尬
-2017-08-20 [23:11:47] [Server thread/INFO]: LUCARIO : 额
-2017-08-20 [23:12:20] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:12:35] [Server thread/INFO]: LUCARIO : 对了，你pvp（打架）技术怎么样
-2017-08-20 [23:12:42] [Server thread/INFO]: DTZF : 还好
-2017-08-20 [23:12:45] [Server thread/INFO]: LUCARIO : 哦
-2017-08-20 [23:13:08] [Server thread/INFO]: LUCARIO : 那打怪呢（pve）
-2017-08-20 [23:13:19] [Server thread/INFO]: DTZF : 带着仇恨
-2017-08-20 [23:13:23] [Server thread/INFO]: LUCARIO : 嗯
-2017-08-20 [23:13:27] [Server thread/INFO]: DTZF : 往死里打
-2017-08-20 [23:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:14:21] [Server thread/NOTICE]: Player data not found for "lucky050422", creating new profile
-2017-08-20 [23:14:21] [Server thread/INFO]: Lucky050422[/223.88.170.108:65188] [ClientID: 5679238991896837422] logged in with entity id 2077 at (world, 128, 28, 128)
-2017-08-20 [23:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:14:31] [Server thread/INFO]: LUCARIO : 打僵尸乱刀，打小白影刀，打小黑念刀，打凋零骷髅瞬刀
-2017-08-20 [23:14:41] [Server thread/INFO]: DTZF : 哎 我的东西又没了
-2017-08-20 [23:14:45] [Server thread/INFO]: LUCARIO : 额
-2017-08-20 [23:14:50] [Server thread/INFO]: DTZF : 啥
-2017-08-20 [23:14:59] [Server thread/INFO]: kissman[/111.249.72.45:62718] [ClientID: 5903278655021412276] logged in with entity id 2078 at (world, 85.4089, 70, 189.3036)
-2017-08-20 [23:14:59] [Server thread/INFO]: DTZF : 呃呃
-2017-08-20 [23:15:02] [Server thread/INFO]: DTZF : 66
-2017-08-20 [23:15:05] [Server thread/INFO]: DTZF : 6
-2017-08-20 [23:15:05] [Server thread/NOTICE]: Player data not found for "arazhulhd", creating new profile
-2017-08-20 [23:15:05] [Server thread/INFO]: ArazhulHD[/151.248.130.100:54821] [ClientID: -5582595279051068878] logged in with entity id 2079 at (world, 128, 28, 128)
-2017-08-20 [23:15:16] [Server thread/INFO]: kissman[/111.249.72.45:62718] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:16:01] [Server thread/INFO]: LUCARIO : 乱刀，乱砍，影刀，冲上去两刀快砍，念刀，靠意念，瞬刀和影刀差不多
-2017-08-20 [23:16:18] [Server thread/INFO]: DTZF : what
-2017-08-20 [23:16:22] [Server thread/INFO]: LUCARIO : 嗯
-2017-08-20 [23:16:25] [Server thread/INFO]: DTZF : 我表示不懂
-2017-08-20 [23:16:30] [Server thread/INFO]: LUCARIO : 额
-2017-08-20 [23:16:34] [Server thread/INFO]: [AuthMePE] Player ArazhulHD has logged in.
-2017-08-20 [23:16:34] [Server thread/INFO]: [AuthMePE] 玩家 ArazhulHD 登录了游戏。
-2017-08-20 [23:16:34] [Server thread/INFO]: - ArazhulHD is now online!
-2017-08-20 [23:16:34] [Server thread/INFO]: - ArazhulHD 现在上线了!
-2017-08-20 [23:16:51] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:16:59] [Server thread/INFO]: - ArazhulHD is now offline!
-2017-08-20 [23:16:59] [Server thread/INFO]: - ArazhulHD 离开了游戏!
-2017-08-20 [23:16:59] [Server thread/INFO]: [AuthMePE] Player ArazhulHD has logged out.
-2017-08-20 [23:16:59] [Server thread/INFO]: [AuthMePE] Player ArazhulHD 离开了游戏.
-2017-08-20 [23:16:59] [Server thread/INFO]: ArazhulHD[/151.248.130.100:54821] logged out due to client disconnect
-2017-08-20 [23:17:08] [Server thread/INFO]: DTZF : 算了
-2017-08-20 [23:17:14] [Server thread/INFO]: Lucky050422[/223.88.170.108:65188] logged out due to client disconnect
-2017-08-20 [23:17:21] [Server thread/INFO]: DTZF : 我把所有矿都卖掉
-2017-08-20 [23:17:23] [Server thread/INFO]: LUCARIO : 你可以造个箱子把装备弄里面
-2017-08-20 [23:17:32] [Server thread/WARNING]: LUCARIO moved wrongly!
-2017-08-20 [23:17:34] [Server thread/INFO]: DTZF : 反正都没了
-2017-08-20 [23:17:38] [Server thread/INFO]: LUCARIO : 额
-2017-08-20 [23:17:41] [Server thread/INFO]: DTZF : 但是可以卖
-2017-08-20 [23:17:44] [Server thread/INFO]: DTZF : 哈哈哈
-2017-08-20 [23:17:50] [Server thread/INFO]: LUCARIO : 哦额
-2017-08-20 [23:17:53] [Server thread/INFO]: DTZF : 天助我
-2017-08-20 [23:18:03] [Server thread/INFO]: DTZF : 我去卖咯
-2017-08-20 [23:18:05] [Server thread/INFO]: La_Mu[/111.8.138.5:12192] [ClientID: -214424528556026683] logged in with entity id 2090 at (th, 488.2903, 75, -0.8494)
-2017-08-20 [23:18:07] [Server thread/INFO]: [AuthMePE] Player La_Mu has logged in.
-2017-08-20 [23:18:07] [Server thread/INFO]: [AuthMePE] 玩家 La_Mu 登录了游戏。
-2017-08-20 [23:18:07] [Server thread/INFO]: - La_Mu is now online!
-2017-08-20 [23:18:07] [Server thread/INFO]: - La_Mu 现在上线了!
-2017-08-20 [23:18:08] [Server thread/INFO]: DTZF : 拜拜
-2017-08-20 [23:18:11] [Server thread/INFO]: LUCARIO : 你在哪买
-2017-08-20 [23:18:23] [Server thread/INFO]: DTZF : 木头世界
-2017-08-20 [23:18:34] [Server thread/INFO]: LUCARIO : 资源世界
-2017-08-20 [23:18:35] [Server thread/INFO]: HitherWhistle95 : 4200节操怎麼付
-2017-08-20 [23:18:59] [Server thread/INFO]: LUCARIO : 你付得起吗
-2017-08-20 [23:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:19:17] [Server thread/INFO]: DTZF : 15000了
-2017-08-20 [23:19:19] [Server thread/INFO]: ArazhulHD[/151.248.130.100:54821] [ClientID: -5582595279051068878] logged in with entity id 2101 at (th, 95.4281, 65, 139.7024)
-2017-08-20 [23:19:19] [Server thread/INFO]: Rainie[/61.70.46.166:58553] [ClientID: -489706715662468456] logged in with entity id 2102 at (th, -113.8139, 65, 157.3)
-2017-08-20 [23:19:21] [Server thread/INFO]: [AuthMePE] Player ArazhulHD has logged in.
-2017-08-20 [23:19:21] [Server thread/INFO]: [AuthMePE] 玩家 ArazhulHD 登录了游戏。
-2017-08-20 [23:19:21] [Server thread/INFO]: - ArazhulHD is now online!
-2017-08-20 [23:19:21] [Server thread/INFO]: - ArazhulHD 现在上线了!
-2017-08-20 [23:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:19:23] [Server thread/INFO]: LUCARIO : 哦
-2017-08-20 [23:19:24] [Server thread/INFO]: HitherWhistle95 : 我不知道
-2017-08-20 [23:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-20 [23:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:19:31] [Server thread/INFO]: [AuthMePE] Player Rainie has logged in.
-2017-08-20 [23:19:31] [Server thread/INFO]: [AuthMePE] 玩家 Rainie 登录了游戏。
-2017-08-20 [23:19:31] [Server thread/INFO]: - Rainie is now online!
-2017-08-20 [23:19:31] [Server thread/INFO]: - Rainie 现在上线了!
-2017-08-20 [23:19:38] [Server thread/INFO]: LUCARIO : 你多少节操呸钱
-2017-08-20 [23:19:43] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:19:45] [Server thread/INFO]: - La_Mu is now offline!
-2017-08-20 [23:19:45] [Server thread/INFO]: - La_Mu 离开了游戏!
-2017-08-20 [23:19:45] [Server thread/INFO]: [AuthMePE] Player La_Mu has logged out.
-2017-08-20 [23:19:45] [Server thread/INFO]: [AuthMePE] Player La_Mu 离开了游戏.
-2017-08-20 [23:19:45] [Server thread/INFO]: La_Mu[/111.8.138.5:12192] logged out due to client disconnect
-2017-08-20 [23:19:48] [Server thread/INFO]: DTZF : 15000
-2017-08-20 [23:19:56] [Server thread/INFO]: LUCARIO : 不是说你
-2017-08-20 [23:19:57] [Server thread/INFO]: La_Mu[/111.8.138.5:12192] [ClientID: -214424528556026683] logged in with entity id 2109 at (world, 128.3521, 27, 127.3)
-2017-08-20 [23:19:59] [Server thread/INFO]: [AuthMePE] Player La_Mu has logged in.
-2017-08-20 [23:19:59] [Server thread/INFO]: [AuthMePE] 玩家 La_Mu 登录了游戏。
-2017-08-20 [23:19:59] [Server thread/INFO]: - La_Mu is now online!
-2017-08-20 [23:19:59] [Server thread/INFO]: - La_Mu 现在上线了!
-2017-08-20 [23:20:01] [Server thread/WARNING]: ArazhulHD moved wrongly!
-2017-08-20 [23:20:02] [Server thread/INFO]: DTZF : 呃呃
-2017-08-20 [23:20:05] [Server thread/INFO]: HitherWhistle95 : 那看的到？
-2017-08-20 [23:20:06] [Server thread/INFO]: - ArazhulHD is now offline!
-2017-08-20 [23:20:06] [Server thread/INFO]: - ArazhulHD 离开了游戏!
-2017-08-20 [23:20:06] [Server thread/INFO]: [AuthMePE] Player ArazhulHD has logged out.
-2017-08-20 [23:20:06] [Server thread/INFO]: [AuthMePE] Player ArazhulHD 离开了游戏.
-2017-08-20 [23:20:06] [Server thread/INFO]: ArazhulHD[/151.248.130.100:54821] logged out due to client disconnect
-2017-08-20 [23:20:14] [Server thread/WARNING]: DTZF moved too fast, reverting movement
-2017-08-20 [23:20:15] [Server thread/INFO]: Steve[/119.146.190.74:52748] [ClientID: 5535670012612875897] logged in with entity id 2112 at (th, 130, 65, 131)
-2017-08-20 [23:20:17] [Server thread/INFO]: LUCARIO : 下面一堆字
-2017-08-20 [23:20:17] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:20:32] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:20:34] [Server thread/INFO]: Steve[/119.146.190.74:52748] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-20 [23:20:34] [Server thread/INFO]: Steve[/86.188.169.100:59676] [ClientID: -4258008123333287390] logged in with entity id 2116 at (th, 130, 65, 131)
-2017-08-20 [23:20:37] [Server thread/INFO]: HitherWhistle95 : 1000
-2017-08-20 [23:20:42] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:20:45] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:20:46] [Server thread/INFO]: LUCARIO : 哦买不起走吧
-2017-08-20 [23:20:46] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:20:51] [Server thread/INFO]: Steve[/86.188.169.100:59676] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:20:56] [Server thread/INFO]: HitherWhistle95 : 要怎麼賺
-2017-08-20 [23:21:09] [Server thread/INFO]: LUCARIO : 卖矿物
-2017-08-20 [23:21:14] [Server thread/INFO]: DTZF : 拜拜我shule
-2017-08-20 [23:21:17] [Server thread/INFO]: - DTZF is now offline!
-2017-08-20 [23:21:17] [Server thread/INFO]: - DTZF 离开了游戏!
-2017-08-20 [23:21:17] [Server thread/INFO]: [AuthMePE] Player DTZF has logged out.
-2017-08-20 [23:21:17] [Server thread/INFO]: [AuthMePE] Player DTZF 离开了游戏.
-2017-08-20 [23:21:17] [Server thread/INFO]: DTZF[/113.195.162.112:17085] logged out due to client disconnect
-2017-08-20 [23:21:19] [Server thread/INFO]: La_Mu fell from a high place
-2017-08-20 [23:21:22] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:21:30] [Server thread/INFO]: HitherWhistle95 : 賣給誰？
-2017-08-20 [23:21:34] [Server thread/INFO]: - Rainie is now offline!
-2017-08-20 [23:21:34] [Server thread/INFO]: - Rainie 离开了游戏!
-2017-08-20 [23:21:34] [Server thread/INFO]: [AuthMePE] Player Rainie has logged out.
-2017-08-20 [23:21:34] [Server thread/INFO]: [AuthMePE] Player Rainie 离开了游戏.
-2017-08-20 [23:21:34] [Server thread/INFO]: Rainie[/61.70.46.166:58553] logged out due to client disconnect
-2017-08-20 [23:21:48] [Server thread/INFO]: LUCARIO : 在/w zy里的附近的白墙上有卖的地方
-2017-08-20 [23:21:52] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:21:53] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:21:54] [Server thread/NOTICE]: Player data not found for "dean123", creating new profile
-2017-08-20 [23:21:54] [Server thread/INFO]: dean123[/194.224.49.252:22340] [ClientID: 7896638327769468008] logged in with entity id 2125 at (world, 128, 28, 128)
-2017-08-20 [23:22:12] [Server thread/INFO]: HitherWhistle95 : 嗯
-2017-08-20 [23:22:15] [Server thread/INFO]: dean123[/194.224.49.252:22340] logged out due to client disconnect
-2017-08-20 [23:22:28] [Server thread/INFO]: huy anh[/42.112.238.219:55550] logged out due to Invalid name!
-2017-08-20 [23:22:33] [Server thread/INFO]: - LUCARIO is now offline!
-2017-08-20 [23:22:33] [Server thread/INFO]: - LUCARIO 离开了游戏!
-2017-08-20 [23:22:33] [Server thread/INFO]: [AuthMePE] Player LUCARIO has logged out.
-2017-08-20 [23:22:33] [Server thread/INFO]: [AuthMePE] Player LUCARIO 离开了游戏.
-2017-08-20 [23:22:33] [Server thread/INFO]: LUCARIO[/106.114.15.186:5689] logged out due to client disconnect
-2017-08-20 [23:22:35] [Server thread/INFO]: huy anh[/42.112.238.219:55550] logged out due to Invalid name!
-2017-08-20 [23:23:13] [Server thread/NOTICE]: Player data not found for "sky530", creating new profile
-2017-08-20 [23:23:13] [Server thread/INFO]: sky530[/123.203.161.118:60732] [ClientID: 832700040] logged in with entity id 2136 at (world, 128, 28, 128)
-2017-08-20 [23:23:37] [Server thread/INFO]: Steve[/86.153.232.154:59672] [ClientID: -3485368843870123802] logged in with entity id 2144 at (world, 128, 28, 128)
-2017-08-20 [23:23:44] [Server thread/INFO]: Sou sou0610[/126.148.142.180:56895] logged out due to Invalid name!
-2017-08-20 [23:23:56] [Server thread/INFO]: Steve[/86.153.232.154:59672] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:24:00] [Server thread/INFO]: [AuthMePE] Player sky530 has logged in.
-2017-08-20 [23:24:00] [Server thread/INFO]: [AuthMePE] 玩家 sky530 登录了游戏。
-2017-08-20 [23:24:00] [Server thread/INFO]: - sky530 is now online!
-2017-08-20 [23:24:00] [Server thread/INFO]: - sky530 现在上线了!
-2017-08-20 [23:24:04] [Server thread/INFO]: Sou sou0610[/126.148.142.180:56895] logged out due to Invalid name!
-2017-08-20 [23:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:24:09] [Server thread/INFO]: Rainie[/61.70.46.166:58553] [ClientID: -489706715662468456] logged in with entity id 2151 at (th, -139.9707, 65.498, 157.9125)
-2017-08-20 [23:24:10] [Server thread/INFO]: [AuthMePE] Player Rainie has logged in.
-2017-08-20 [23:24:10] [Server thread/INFO]: [AuthMePE] 玩家 Rainie 登录了游戏。
-2017-08-20 [23:24:10] [Server thread/INFO]: - Rainie is now online!
-2017-08-20 [23:24:10] [Server thread/INFO]: - Rainie 现在上线了!
-2017-08-20 [23:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:24:26] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:24:28] [Server thread/INFO]: Steve[/86.153.232.154:59672] logged out due to timeout
-2017-08-20 [23:24:42] [Server thread/INFO]: - sky530 is now offline!
-2017-08-20 [23:24:42] [Server thread/INFO]: - sky530 离开了游戏!
-2017-08-20 [23:24:42] [Server thread/INFO]: [AuthMePE] Player sky530 has logged out.
-2017-08-20 [23:24:42] [Server thread/INFO]: [AuthMePE] Player sky530 离开了游戏.
-2017-08-20 [23:24:42] [Server thread/INFO]: sky530[/123.203.161.118:60732] logged out due to timeout
-2017-08-20 [23:24:47] [Server thread/INFO]: Steve[/86.153.232.154:59672] [ClientID: -3485368843870123802] logged in with entity id 2159 at (world, 128, 28, 128)
-2017-08-20 [23:25:08] [Server thread/INFO]: Steve[/86.153.232.154:59672] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:25:22] [Server thread/INFO]: sky530[/123.203.161.118:54091] [ClientID: 832700040] logged in with entity id 2185 at (th, 148.4871, 65, 153.202)
-2017-08-20 [23:25:24] [Server thread/INFO]: [AuthMePE] Player sky530 has logged in.
-2017-08-20 [23:25:24] [Server thread/INFO]: [AuthMePE] 玩家 sky530 登录了游戏。
-2017-08-20 [23:25:24] [Server thread/INFO]: - sky530 is now online!
-2017-08-20 [23:25:24] [Server thread/INFO]: - sky530 现在上线了!
-2017-08-20 [23:26:20] [Server thread/INFO]: La_Mu has just earned the achievement Getting an Upgrade
-2017-08-20 [23:26:23] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:26:26] [Server thread/INFO]: Sou sou0610[/126.148.142.180:56895] logged out due to Invalid name!
-2017-08-20 [23:26:34] [Server thread/WARNING]: sky530 moved wrongly!
-2017-08-20 [23:28:07] [Server thread/INFO]: * HitherWhistle95 说：开party了，/找人 Zi_Jian过来
-2017-08-20 [23:28:13] [Server thread/NOTICE]: Player data not found for "txgunns", creating new profile
-2017-08-20 [23:28:13] [Server thread/INFO]: TxGunns[/76.198.232.33:57341] [ClientID: -511901369964215063] logged in with entity id 2228 at (world, 128, 28, 128)
-2017-08-20 [23:28:32] [Server thread/INFO]: Konjuko17[/78.145.211.158:54889] [ClientID: 6535768776121886663] logged in with entity id 2231 at (th, 97.2193, 55, 81.6445)
-2017-08-20 [23:28:34] [Server thread/INFO]: [AuthMePE] Player Konjuko17 has logged in.
-2017-08-20 [23:28:34] [Server thread/INFO]: [AuthMePE] 玩家 Konjuko17 登录了游戏。
-2017-08-20 [23:28:34] [Server thread/INFO]: - Konjuko17 is now online!
-2017-08-20 [23:28:34] [Server thread/INFO]: - Konjuko17 现在上线了!
-2017-08-20 [23:28:47] [Server thread/WARNING]: Konjuko17 moved wrongly!
-2017-08-20 [23:28:47] [Server thread/WARNING]: Konjuko17 moved wrongly!
-2017-08-20 [23:28:54] [Server thread/INFO]: TxGunns[/76.198.232.33:57341] logged out due to client disconnect
-2017-08-20 [23:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:29:08] [Server thread/INFO]: Konjuko17 : i need to eat
-2017-08-20 [23:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:29:25] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:29:26] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:29:26] [Server thread/INFO]: Konjuko17 : someone help
-2017-08-20 [23:29:28] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:29:57] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:30:29] [Server thread/INFO]: Steve[/129.208.231.99:58915] [ClientID: 6171340746319941797] logged in with entity id 2245 at (world, 128, 28, 128)
-2017-08-20 [23:30:43] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:30:48] [Server thread/INFO]: Steve[/129.208.231.99:58915] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:30:55] [Server thread/INFO]: Konjuko17 fell from a high place
-2017-08-20 [23:31:08] [Server thread/INFO]: Steve[/129.208.231.99:58915] [ClientID: 6171340746319941797] logged in with entity id 2256 at (world, 128, 28, 128)
-2017-08-20 [23:31:14] [Server thread/INFO]: sky530 tried to swim in lava
-2017-08-20 [23:31:19] [Server thread/INFO]: - Konjuko17 is now offline!
-2017-08-20 [23:31:19] [Server thread/INFO]: - Konjuko17 离开了游戏!
-2017-08-20 [23:31:19] [Server thread/INFO]: [AuthMePE] Player Konjuko17 has logged out.
-2017-08-20 [23:31:19] [Server thread/INFO]: [AuthMePE] Player Konjuko17 离开了游戏.
-2017-08-20 [23:31:19] [Server thread/INFO]: Konjuko17[/78.145.211.158:54889] logged out due to client disconnect
-2017-08-20 [23:31:23] [Server thread/INFO]: Steve[/129.208.231.99:58915] logged out due to client disconnect
-2017-08-20 [23:31:25] [Server thread/INFO]: - sky530 is now offline!
-2017-08-20 [23:31:25] [Server thread/INFO]: - sky530 离开了游戏!
-2017-08-20 [23:31:25] [Server thread/INFO]: [AuthMePE] Player sky530 has logged out.
-2017-08-20 [23:31:25] [Server thread/INFO]: [AuthMePE] Player sky530 离开了游戏.
-2017-08-20 [23:31:25] [Server thread/INFO]: sky530[/123.203.161.118:54091] logged out due to client disconnect
-2017-08-20 [23:31:37] [Server thread/INFO]: The Awsome Robux[/81.152.127.36:60704] logged out due to Invalid name!
-2017-08-20 [23:32:09] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:32:10] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:32:31] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:32:35] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21808] [ClientID: 3036730296650954731] logged in with entity id 2277 at (th, 145.1906, 73.9216, -31.395)
-2017-08-20 [23:32:42] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
-2017-08-20 [23:32:42] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
-2017-08-20 [23:32:42] [Server thread/INFO]: - zhumengzhiying is now online!
-2017-08-20 [23:32:42] [Server thread/INFO]: - zhumengzhiying 现在上线了!
-2017-08-20 [23:32:46] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:32:52] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-20 [23:33:38] [Server thread/INFO]: Kainen8[/107.195.154.73:50106] [ClientID: -5036975273905385190] logged in with entity id 2290 at (world, 128, 64, 128)
-2017-08-20 [23:33:52] [Server thread/INFO]: Kainen8[/107.195.154.73:50106] logged out due to client disconnect
-2017-08-20 [23:34:00] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:34:01] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:34:01] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:34:08] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:34:11] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:34:26] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:34:26] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:34:46] [Server thread/INFO]: La_Mu has just earned the achievement Hot Topic
-2017-08-20 [23:34:49] [Server thread/INFO]: Steve[/38.140.85.55:51129] [ClientID: -17766008669954011] logged in with entity id 2317 at (world, 128, 28, 128)
-2017-08-20 [23:35:06] [Server thread/INFO]: Steve[/38.140.85.55:51129] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:35:18] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:35:18] [Server thread/WARNING]: La_Mu moved wrongly!
-2017-08-20 [23:35:25] [Server thread/INFO]: Steve[/38.140.85.55:51129] [ClientID: -17766008669954011] logged in with entity id 2335 at (world, 128, 28, 128)
-2017-08-20 [23:35:41] [Server thread/INFO]: Steve[/38.140.85.55:51129] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:35:50] [Server thread/INFO]: Steve[/38.140.85.55:51129] [ClientID: -17766008669954011] logged in with entity id 2350 at (world, 128, 28, 128)
-2017-08-20 [23:36:07] [Server thread/INFO]: Steve[/38.140.85.55:51129] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:36:16] [Server thread/INFO]: HitherWhistle95 : rainie我們去挖礦
-2017-08-20 [23:36:27] [Server thread/INFO]: Steve[/38.140.85.55:51129] [ClientID: -17766008669954011] logged in with entity id 2360 at (world, 128, 28, 128)
-2017-08-20 [23:36:37] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:36:40] [Server thread/INFO]: - La_Mu is now offline!
-2017-08-20 [23:36:40] [Server thread/INFO]: - La_Mu 离开了游戏!
-2017-08-20 [23:36:40] [Server thread/INFO]: [AuthMePE] Player La_Mu has logged out.
-2017-08-20 [23:36:40] [Server thread/INFO]: [AuthMePE] Player La_Mu 离开了游戏.
-2017-08-20 [23:36:40] [Server thread/INFO]: La_Mu[/111.8.138.5:12192] logged out due to client disconnect
-2017-08-20 [23:36:44] [Server thread/INFO]: Steve[/38.140.85.55:51129] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:37:09] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:37:10] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:37:18] [Server thread/NOTICE]: Player data not found for "guestabyss688", creating new profile
-2017-08-20 [23:37:18] [Server thread/INFO]: GuestAbyss688[/220.241.172.241:50760] [ClientID: -6083856118293875946] logged in with entity id 2361 at (world, 128, 28, 128)
-2017-08-20 [23:37:29] [Server thread/WARNING]: HitherWhistle95 moved wrongly!
-2017-08-20 [23:37:46] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:37:48] [Server thread/INFO]: - HitherWhistle95 is now offline!
-2017-08-20 [23:37:48] [Server thread/INFO]: - HitherWhistle95 离开了游戏!
-2017-08-20 [23:37:48] [Server thread/INFO]: [AuthMePE] Player HitherWhistle95 has logged out.
-2017-08-20 [23:37:48] [Server thread/INFO]: [AuthMePE] Player HitherWhistle95 离开了游戏.
-2017-08-20 [23:37:48] [Server thread/INFO]: HitherWhistle95[/1.161.62.187:58025] logged out due to client disconnect
-2017-08-20 [23:38:03] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:38:42] [Server thread/INFO]: [AuthMePE] Player GuestAbyss688 has logged in.
-2017-08-20 [23:38:42] [Server thread/INFO]: [AuthMePE] 玩家 GuestAbyss688 登录了游戏。
-2017-08-20 [23:38:42] [Server thread/INFO]: - GuestAbyss688 is now online!
-2017-08-20 [23:38:42] [Server thread/INFO]: - GuestAbyss688 现在上线了!
-2017-08-20 [23:39:00] [Server thread/INFO]: Rainie : hi
-2017-08-20 [23:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:39:07] [Server thread/INFO]: [我是女的]zhumengzhiying : hi
-2017-08-20 [23:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:39:28] [Server thread/INFO]: - GuestAbyss688 is now offline!
-2017-08-20 [23:39:28] [Server thread/INFO]: - GuestAbyss688 离开了游戏!
-2017-08-20 [23:39:28] [Server thread/INFO]: [AuthMePE] Player GuestAbyss688 has logged out.
-2017-08-20 [23:39:28] [Server thread/INFO]: [AuthMePE] Player GuestAbyss688 离开了游戏.
-2017-08-20 [23:39:28] [Server thread/INFO]: GuestAbyss688[/220.241.172.241:50760] logged out due to timeout
-2017-08-20 [23:39:47] [Server thread/INFO]: Rainie : 好少人哦
-2017-08-20 [23:40:12] [Server thread/INFO]: Rainie : 你在哪裡
-2017-08-20 [23:40:23] [Server thread/INFO]: [我是女的]zhumengzhiying : 我在挖矿区
-2017-08-20 [23:41:46] [Server thread/INFO]: Rainie : 在wzy嗎
-2017-08-20 [23:42:03] [Server thread/INFO]: [我是女的]zhumengzhiying : 那是木头世界
-2017-08-20 [23:42:41] [Server thread/INFO]: Rainie : 那挖礦區在哪
-2017-08-20 [23:43:02] [Server thread/INFO]: [我是女的]zhumengzhiying : 输/传送 挖矿
-2017-08-20 [23:43:14] [Server thread/INFO]: Rainie : 謝謝
-2017-08-20 [23:43:49] [Server thread/INFO]: [/183.193.39.134:21065] logged out due to client disconnect
-2017-08-20 [23:44:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:44:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:44:18] [Server thread/INFO]: girly gamer[/47.186.64.251:55655] logged out due to Invalid name!
-2017-08-20 [23:44:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:44:38] [Server thread/INFO]: girly gamer[/47.186.64.251:55655] logged out due to Invalid name!
-2017-08-20 [23:44:44] [Server thread/INFO]: Rainie : 不行...
-2017-08-20 [23:45:03] [Server thread/INFO]: [/183.193.39.134:21138] logged out due to client disconnect
-2017-08-20 [23:45:06] [Server thread/INFO]: [我是女的]zhumengzhiying : 输了斜杠么
-2017-08-20 [23:45:39] [Server thread/INFO]: Rainie : 輸入了
-2017-08-20 [23:45:50] [Server thread/INFO]: Rainie : 還是沒用
-2017-08-20 [23:45:57] [Server thread/INFO]: [我是女的]zhumengzhiying : 额，那我就不知道了
-2017-08-20 [23:47:10] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-20 [23:47:35] [Server thread/INFO]: liusihua[/79.145.201.112:65535] [ClientID: 4237296759801754685] logged in with entity id 2404 at (th, 130.0026, 65, 131.0053)
-2017-08-20 [23:47:45] [Server thread/INFO]: [AuthMePE] Player liusihua has logged in.
-2017-08-20 [23:47:45] [Server thread/INFO]: [AuthMePE] 玩家 liusihua 登录了游戏。
-2017-08-20 [23:47:45] [Server thread/INFO]: - liusihua is now online!
-2017-08-20 [23:47:45] [Server thread/INFO]: - liusihua 现在上线了!
-2017-08-20 [23:47:59] [Server thread/INFO]: - Rainie is now offline!
-2017-08-20 [23:47:59] [Server thread/INFO]: - Rainie 离开了游戏!
-2017-08-20 [23:47:59] [Server thread/INFO]: [AuthMePE] Player Rainie has logged out.
-2017-08-20 [23:47:59] [Server thread/INFO]: [AuthMePE] Player Rainie 离开了游戏.
-2017-08-20 [23:47:59] [Server thread/INFO]: Rainie[/61.70.46.166:58553] logged out due to client disconnect
-2017-08-20 [23:48:34] [Server thread/INFO]: Steve[/70.213.2.89:4758] logged out due to timeout
-2017-08-20 [23:48:39] [Server thread/INFO]: liusihua fell out of the world
-2017-08-20 [23:49:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:49:06] [Server thread/NOTICE]: Player data not found for "jumper", creating new profile
-2017-08-20 [23:49:06] [Server thread/INFO]: jumper[/107.142.165.118:57700] [ClientID: -8016425839790797567] logged in with entity id 2416 at (world, 128, 28, 128)
-2017-08-20 [23:49:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:49:19] [Server thread/INFO]: zoli games[/179.235.198.39:54372] logged out due to Invalid name!
-2017-08-20 [23:49:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:49:48] [Server thread/INFO]: zoli games[/179.235.198.39:54372] logged out due to Invalid name!
-2017-08-20 [23:49:59] [Server thread/INFO]: jumper[/107.142.165.118:57700] logged out due to client disconnect
-2017-08-20 [23:50:05] [Server thread/WARNING]: zhumengzhiying moved wrongly!
-2017-08-20 [23:50:24] [Server thread/INFO]: - zhumengzhiying is now offline!
-2017-08-20 [23:50:24] [Server thread/INFO]: - zhumengzhiying 离开了游戏!
-2017-08-20 [23:50:24] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged out.
-2017-08-20 [23:50:24] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying 离开了游戏.
-2017-08-20 [23:50:24] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21808] logged out due to timeout
-2017-08-20 [23:51:09] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:51:10] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:51:11] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:51:12] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:52:12] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:52:59] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:53:18] [Server thread/INFO]: MintFlyer17055[/111.252.83.116:53539] [ClientID: -4301337056149686308] logged in with entity id 2486 at (world, 128, 64, 128)
-2017-08-20 [23:53:39] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:53:39] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:54:00] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:54:00] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:54:05] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:54:05] [Server thread/WARNING]: liusihua moved wrongly!
-2017-08-20 [23:54:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:54:09] [Server thread/INFO]: liusihua suffocated in a wall
-2017-08-20 [23:54:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:54:18] [Server thread/INFO]: - liusihua is now offline!
-2017-08-20 [23:54:18] [Server thread/INFO]: - liusihua 离开了游戏!
-2017-08-20 [23:54:18] [Server thread/INFO]: [AuthMePE] Player liusihua has logged out.
-2017-08-20 [23:54:18] [Server thread/INFO]: [AuthMePE] Player liusihua 离开了游戏.
-2017-08-20 [23:54:18] [Server thread/INFO]: liusihua[/79.145.201.112:65535] logged out due to client disconnect
-2017-08-20 [23:54:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:54:59] [Server thread/INFO]: MintFlyer17055[/111.252.83.116:53539] logged out due to client disconnect
-2017-08-20 [23:55:48] [Server thread/INFO]: huaji[/36.250.86.205:6703] [ClientID: 5002303843317626459] logged in with entity id 2492 at (th, 153.905, 65, 108.3812)
-2017-08-20 [23:56:27] [Server thread/INFO]: huaji[/36.250.86.205:6703] logged out due to client disconnect
-2017-08-20 [23:56:41] [Server thread/INFO]: huaji[/36.250.86.205:6703] [ClientID: 5002303843317626459] logged in with entity id 2493 at (th, 153.905, 65, 108.3812)
-2017-08-20 [23:56:58] [Server thread/INFO]: huaji[/36.250.86.205:6703] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:57:20] [Server thread/INFO]: huaji[/36.250.86.205:6703] [ClientID: 5002303843317626459] logged in with entity id 2494 at (world, 128, 28, 128)
-2017-08-20 [23:57:33] [Server thread/NOTICE]: Player data not found for "sourishbeatle29", creating new profile
-2017-08-20 [23:57:33] [Server thread/INFO]: SourishBeatle29[/73.92.78.124:57025] [ClientID: 5925581445579389106] logged in with entity id 2495 at (world, 128, 28, 128)
-2017-08-20 [23:57:37] [Server thread/INFO]: huaji[/36.250.86.205:6703] logged out due to Kicked by admin. Reason: Time out!
-2017-08-20 [23:59:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-20 [23:59:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-20 [23:59:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-20 [23:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-20 [23:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-20 [23:59:30] [Server thread/INFO]: SourishBeatle29[/73.92.78.124:57025] logged out due to client disconnect
-2017-08-21 [00:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:12:12] [Server thread/NOTICE]: Player data not found for "wrieryew5901673", creating new profile
-2017-08-21 [00:12:12] [Server thread/INFO]: WrierYew5901673[/36.225.82.241:45187] [ClientID: 4715650141673541190] logged in with entity id 2496 at (world, 128, 28, 128)
-2017-08-21 [00:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:14:11] [Server thread/INFO]: [AuthMePE] Player WrierYew5901673 has logged in.
-2017-08-21 [00:14:11] [Server thread/INFO]: [AuthMePE] 玩家 WrierYew5901673 登录了游戏。
-2017-08-21 [00:14:11] [Server thread/INFO]: - WrierYew5901673 is now online!
-2017-08-21 [00:14:11] [Server thread/INFO]: - WrierYew5901673 现在上线了!
-2017-08-21 [00:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:15:13] [Server thread/INFO]: liusihua[/79.145.201.112:65535] [ClientID: 4237296759801754685] logged in with entity id 2497 at (world, 129.6399, 28, 127.6229)
-2017-08-21 [00:15:14] [Server thread/INFO]: liusihua[/79.145.201.112:65535] logged out due to client disconnect
-2017-08-21 [00:15:18] [Server thread/WARNING]: WrierYew5901673 moved wrongly!
-2017-08-21 [00:15:32] [Server thread/INFO]: liusihua[/79.145.201.112:50553] [ClientID: 4237296759801754685] logged in with entity id 2498 at (world, 129.6399, 28, 127.6229)
-2017-08-21 [00:15:35] [Server thread/INFO]: liusihua[/79.145.201.112:50553] logged out due to client disconnect
-2017-08-21 [00:16:32] [Server thread/INFO]: - WrierYew5901673 is now offline!
-2017-08-21 [00:16:32] [Server thread/INFO]: - WrierYew5901673 离开了游戏!
-2017-08-21 [00:16:32] [Server thread/INFO]: [AuthMePE] Player WrierYew5901673 has logged out.
-2017-08-21 [00:16:32] [Server thread/INFO]: [AuthMePE] Player WrierYew5901673 离开了游戏.
-2017-08-21 [00:16:32] [Server thread/INFO]: WrierYew5901673[/36.225.82.241:45187] logged out due to client disconnect
-2017-08-21 [00:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:44:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:44:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:44:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:49:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:49:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:49:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [00:54:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [00:54:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [00:54:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [00:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [00:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [00:59:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [00:59:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [00:59:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [00:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [00:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:14:40] [Server thread/INFO]: Konjuko17[/78.145.211.158:54889] [ClientID: 6535768776121886663] logged in with entity id 2499 at (th, 139.6547, 65, 118.5938)
+2017-08-21 [01:14:42] [Server thread/INFO]: [AuthMePE] Player Konjuko17 has logged in.
+2017-08-21 [01:14:42] [Server thread/INFO]: [AuthMePE] 玩家 Konjuko17 登录了游戏。
+2017-08-21 [01:14:42] [Server thread/INFO]: - Konjuko17 is now online!
+2017-08-21 [01:14:42] [Server thread/INFO]: - Konjuko17 现在上线了!
+2017-08-21 [01:16:31] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:16:31] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:16:44] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:17:18] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:17:18] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:19:05] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:19:06] [Server thread/WARNING]: Konjuko17 moved wrongly!
+2017-08-21 [01:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:19:08] [Server thread/INFO]: - Konjuko17 is now offline!
+2017-08-21 [01:19:08] [Server thread/INFO]: - Konjuko17 离开了游戏!
+2017-08-21 [01:19:08] [Server thread/INFO]: [AuthMePE] Player Konjuko17 has logged out.
+2017-08-21 [01:19:08] [Server thread/INFO]: [AuthMePE] Player Konjuko17 离开了游戏.
+2017-08-21 [01:19:08] [Server thread/INFO]: Konjuko17[/78.145.211.158:54889] logged out due to client disconnect
+2017-08-21 [01:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理7个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:44:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:44:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:44:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:49:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:49:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:49:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:54:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:54:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:54:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [01:59:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [01:59:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [01:59:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [01:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [01:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:44:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:44:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:44:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:49:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:49:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:49:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [02:54:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [02:54:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [02:54:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [02:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [02:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
