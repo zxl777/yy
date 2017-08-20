@@ -3082,4 +3082,15 @@
   level: th
   invitee: []
   expires: ~
+315:
+  ID: 315
+  startX: -109
+  endX: -89
+  startZ: 380
+  endZ: 401
+  price: 38000
+  owner: LUCARIO
+  level: th
+  invitee: []
+  expires: ~
 ...
