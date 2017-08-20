@@ -3093,4 +3093,15 @@
   level: th
   invitee: []
   expires: ~
+316:
+  ID: 316
+  startX: -6
+  endX: -4
+  startZ: -88
+  endZ: -86
+  price: 100
+  owner: jack
+  level: world
+  invitee: []
+  expires: ~
 ...

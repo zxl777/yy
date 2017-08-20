@@ -1,7 +1,7 @@
 ---
 lihaoyy:
   password: e8099e6d1af98af7d406bf3337e0ae1c
-  times: 2
+  times: 0
   ip: "no"
   email: 2073750279@qq.com
 100_hjs:
@@ -546,7 +546,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 0
+  times: 1
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -2790,7 +2790,7 @@ uitsrustl:
   ip: "yes"
 mmp:
   password: 9aef0951a754af6faf0a91db891c969a
-  times: 1
+  times: 0
   ip: "yes"
 dantdm:
   password: acb2078d342e8192e6df12560420e6d4
@@ -6346,4 +6346,32 @@ starsuperior551:
   password: 7ebe703d50c98a5c4db62058723d34a3
   times: 0
   ip: "no"
+da_cheng_zi:
+  password: d68f93063856faff3769af34a94ac663
+  times: 0
+  ip: "yes"
+foreveren:
+  password: 54354785aa842b81445ceaf47284e285
+  times: 0
+  ip: "yes"
+pvp2:
+  password: 4e2d24ca4282a986a6ceecade47067fd
+  times: 0
+  ip: "yes"
+deathmoon999:
+  password: b626b8ffd105b7e7dd0f05646e166964
+  times: 0
+  ip: "no"
+yyyyyy:
+  password: 631a0c6eb9129d9b5b8c15ed001a634b
+  times: 0
+  ip: "no"
+ggwp:
+  password: aec16c15724111a51c1ba74907049c8a
+  times: 0
+  ip: "no"
+yiliqi:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  confirm: "123456"
 ...
