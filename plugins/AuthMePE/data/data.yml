@@ -546,7 +546,7 @@ oliverchoy66:
   ip: "yes"
 steve:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 0
+  times: 3
   ip: "yes"
 kevin:
   password: d6f6d23ba1c2d60b463b82e1c7707b98
@@ -666,7 +666,7 @@ scout:
   ip: "no"
 xiaotian:
   password: aeeb7749105a752fbe90989d71cfab4d
-  times: 0
+  times: 1
   ip: "yes"
 zhumengzhiying:
   password: 7eb4c17e5688c092e38477fd16e4cf88
@@ -735,7 +735,7 @@ walkway2:
   ip: "yes"
 summer:
   password: d262a994c808ed94f4dfa544c56288be
-  times: 0
+  times: 1
   ip: "yes"
 jacky1029:
   password: f9186a3a5531352aeeca2438c999913c
@@ -1189,7 +1189,7 @@ zizibaipeng:
   email: 1760692031@qq.com
 tnt:
   password: 6d431248d2fa75b88e8485e989422102
-  times: 0
+  times: 3
   ip: "yes"
 zzzq:
   password: b2dc0704df217b6705273c1c09d344b5
@@ -1638,7 +1638,7 @@ wsfa:
   email: 2135833329@qq.com
 alex:
   password: 9cea796d06e5e08ac71c628243ef2be1
-  times: 1
+  times: 2
   ip: "yes"
   email: 3293344565@qq.com
 anyeqishi:
@@ -2155,7 +2155,7 @@ enoch:
   ip: "yes"
 ste:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 0
+  times: 1
   ip: "no"
 zhuangzicheng:
   password: 9787a15f4588e3655cffc271c84fd1f1
@@ -3361,7 +3361,7 @@ fasl:
   confirm: /about 123456789
 zxcvbnmsssbbbb:
   password: 3ea6e49ac0ed13319653ad2815bc39cb
-  times: 1
+  times: 0
   ip: "yes"
 xiaoling:
   password: aed8a8718dfa99067d5c0de671a7940e
@@ -4727,7 +4727,7 @@ rainie:
   ip: "no"
 kim:
   password: a4fcff72bbe3b49c988f80e1fc340ddc
-  times: 0
+  times: 2
   ip: "yes"
 xd_ouo:
   password: 4d91fa6501f86c9c50b9253f3cbbec4b
@@ -6512,6 +6512,50 @@ aike2383e:
   times: 0
 20171017:
   password: 49628af71da1ff6e6cb4f832bf3e34cd
+  times: 0
+  ip: "yes"
+damy:
+  password: 3a2b43e11c81e3406912cd5031f2912c
+  times: 0
+  ip: "yes"
+5ge:
+  password: 65441f32d81ec5d61cf13adac13e877c
+  times: 0
+  ip: "yes"
+sishengjui:
+  password: 8533f0f97cc1db240f5cf9fdf390636f
+  times: 0
+  ip: "no"
+yikin_dien:
+  password: 76130755db29fa22e6023ca79b9b0406
+  times: 0
+  ip: "yes"
+shiyage:
+  password: 7a51841c308b60c2e26b86327e6d1601
+  times: 0
+  ip: "yes"
+opgame:
+  password: 72ea81674e89b932ea76ffba71699a16
+  times: 0
+  ip: "yes"
+alice123:
+  password: 27f97f3c26d253189bd66e7a518c9f46
+  times: 0
+  ip: "yes"
+xgaming:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  ip: "yes"
+momo:
+  password: 3413eaf033abeb8ad81f90f09c06cb9a
+  times: 0
+  ip: "no"
+culculcul186:
+  password: 6a4f24ec5a89b74e42fd0a1cde8b2b7e
+  times: 0
+  ip: "yes"
+exiledmeerkat26:
+  password: 763a9983b156b897216edfe5ff6dd65f
   times: 0
   ip: "yes"
 ...
