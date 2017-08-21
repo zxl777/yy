@@ -578,12 +578,6 @@
   kind: E
   name: §e§l杰夫
   money: "1000"
--141:67:168:th:
-  kind: B
-  name: 牛排
-  count: "64"
-  money: ""
-  id: 牛排
 -141:67:169:th:
   kind: E
   name: §4好§6玩§2的§3p§9a§1r§5t§6y
@@ -596,12 +590,6 @@
   kind: E
   name: §6SSVIP
   money: ~
--141:66:169:th:
-  kind: B
-  name: 夜视药水
-  count: "1"
-  money: ~
-  id: 夜视药水
 -143:67:169:th:
   kind: E
   name: §4p§6a§2r§9t§5y§7の§6尊贵客人
@@ -642,12 +630,6 @@
   kind: E
   name: §8我的字是隐形灰的⊙∀⊙！
   money: ~
--141:67:167:th:
-  kind: B
-  name: 九折的钻石
-  count: "1"
-  money: "1000"
-  id: 钻石
 -141:66:167:th:
   kind: E
   name: §4性别♀§1不明♂
@@ -660,4 +642,29 @@
   kind: E
   name: §0死神–灵魂收割者
   money: ~
+-141:66:169:th:
+  kind: E
+  name: §6
+  money: ~
+149:71:117:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "264"
+-141:67:167:th:
+  kind: B
+  name: 九折的钻石
+  count: "1"
+  money: "1000"
+  id: "264"
+-141:67:168:th:
+  kind: B
+  name: 牛排
+  count: "64"
+  money: "0"
+  id: "364"
+-111:66:220:th:
+  kind: E
+  name: fuck
+  money: you
 ...
