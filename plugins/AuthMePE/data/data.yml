@@ -666,7 +666,7 @@ scout:
   ip: "no"
 xiaotian:
   password: aeeb7749105a752fbe90989d71cfab4d
-  times: 1
+  times: 0
   ip: "yes"
 zhumengzhiying:
   password: 7eb4c17e5688c092e38477fd16e4cf88
@@ -2384,7 +2384,7 @@ roy0001:
   ip: "yes"
 zi_jian:
   password: 4b44f4658318b60ac55558d62636b482
-  times: 0
+  times: 1
   ip: "no"
 mohuan:
   password: 320175c2145fa0f3deecefb2388056d0
@@ -6724,7 +6724,7 @@ skyarcher1993:
   ip: "yes"
 ccocc:
   password: d68f93063856faff3769af34a94ac663
-  times: 2
+  times: 3
   ip: "no"
 555555:
   password: 631a0c6eb9129d9b5b8c15ed001a634b
@@ -6829,6 +6829,58 @@ demacia:
   ip: "yes"
 ldadsrs0217:
   password: 3e1f177b7495cc5e268c7d9826b228a9
+  times: 0
+  ip: "yes"
+daisydoudousong:
+  password: f6fe0236053751c98b219e09ef3ba5f0
+  times: 0
+  ip: "yes"
+aa2006199:
+  password: 2150a7783fa2fe607e81a153507249ab
+  times: 0
+  ip: "yes"
+shenyixu:
+  password: 3aa943c00e9790667a3832befe0fb84b
+  times: 0
+  ip: "yes"
+creeper:
+  password: bd15bdf71bce2757c7ce23ca6abc433b
+  times: 0
+  ip: "yes"
+firedtadpole812:
+  password: ec577dc617522740dc550694766e9841
+  times: 0
+  ip: "yes"
+slopingmender95:
+  password: d9e918f948650b472fd8225238535aa2
+  times: 0
+  ip: "yes"
+gameisland90367:
+  password: 4f89faa3fc6c9735a8930a518e3ce12f
+  times: 0
+  confirm: lucinda19
+elias:
+  password: 09bff0e9f922e170e572fc39f0aa24c6
+  times: 0
+  ip: "yes"
+bernardobr:
+  password: 79df4db19e769044c47ebfcad0c5371b
+  times: 0
+  confirm: /rmpass Bernardo123
+dryercarp180769:
+  password: acb08df203bc5d39b660061615e39388
+  times: 0
+  ip: "yes"
+tico:
+  password: d683766264c21ad14771c4ee9533612d
+  times: 0
+  ip: "yes"
+zhu:
+  password: 5b03ce6d6f68380175791c54ed03c148
+  times: 0
+  ip: "yes"
+woyydaqian:
+  password: 5b03ce6d6f68380175791c54ed03c148
   times: 0
   ip: "yes"
 ...
