@@ -2871,7 +2871,8 @@
   price: 133000
   owner: Maker
   level: th
-  invitee: []
+  invitee:
+    Zzzzzz: true
   expires: ~
 296:
   ID: 296

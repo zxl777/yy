@@ -634,10 +634,6 @@
   kind: E
   name: §4性别♀§1不明♂
   money: ~
--143:67:167:th:
-  kind: E
-  name: §7Hero§8bri§0ne
-  money: ~
 -143:66:167:th:
   kind: E
   name: §0死神–灵魂收割者
@@ -651,20 +647,20 @@
   count: "1"
   money: "1000"
   id: "264"
--141:67:167:th:
-  kind: B
-  name: 九折的钻石
-  count: "1"
-  money: "1000"
-  id: "264"
--141:67:168:th:
-  kind: B
-  name: 牛排
-  count: "64"
-  money: "0"
-  id: "364"
 -111:66:220:th:
   kind: E
   name: fuck
   money: you
+-141:67:167:th:
+  kind: E
+  name: §9我§8爱§4她
+  money: ~
+-141:67:168:th:
+  kind: E
+  name: §9他§8爱§4我
+  money: ~
+-143:67:167:th:
+  kind: E
+  name: §6大帅逼
+  money: ~
 ...
