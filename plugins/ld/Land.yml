@@ -2788,6 +2788,7 @@
   invitee:
     Maker: true
     Zzzzz: true
+    liuliu2008: true
   expires: ~
 288:
   ID: 288
@@ -2864,7 +2865,9 @@
   price: 115200
   owner: BINBIN
   level: th
-  invitee: []
+  invitee:
+    Maker: true
+    Zzzzzz: true
   expires: ~
 295:
   ID: 295
@@ -2877,6 +2880,7 @@
   level: th
   invitee:
     Zzzzzz: true
+    liuliu2008: true
   expires: ~
 296:
   ID: 296
