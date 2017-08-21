@@ -1,4 +1,4 @@
-# Updated 08/21/17 15:48 by GenisysPro 1.1devc47625b
+# Updated 08/21/17 18:43 by GenisysPro 1.1devc47625b
 # victim name | ban date | banned by | banned until | reason
 
 i# updated 08/16/17 15:51 by genisyspro 1.1devc47625b|2017-08-16 08:15:09 +0000|(Unknown)|Forever|Banned by an operator.
@@ -18,3 +18,9 @@ pvp|2017-08-20 19:49:13 +0800|lihaoyy|Forever|Banned by an operator.
 mssss|2017-08-21 10:11:20 +0800|Zi_Jian|Forever|Banned by an operator.
 dtzf|2017-08-21 13:13:30 +0800|sin|Forever|Banned by an operator.
 kwkkwk123|2017-08-21 15:48:07 +0800|lihaoyy|Forever|Banned by an operator.
+wohaiyy|2017-08-21 17:57:29 +0800|Zi_Jian|Forever|Banned by an operator.
+woaiyy|2017-08-21 17:57:55 +0800|Zi_Jian|Forever|Banned by an operator.
+zijianshabi|2017-08-21 18:00:12 +0800|Zi_Jian|Forever|Banned by an operator.
+zijianqwe|2017-08-21 18:06:24 +0800|Zijian|Forever|Banned by an operator.
+yyyyyy|2017-08-21 18:35:18 +0800|Zijian|Forever|Banned by an operator.
+sin|2017-08-21 18:43:48 +0800|Zijian|Forever|Banned by an operator.

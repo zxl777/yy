@@ -658,4 +658,9 @@
   kind: E
   name: §6大帅逼
   money: ~
+149:71:117:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "264"
 ...
