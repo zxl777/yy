@@ -642,11 +642,6 @@
   kind: E
   name: §6
   money: ~
-149:71:117:zy:
-  kind: sell
-  count: "1"
-  money: "1000"
-  id: "264"
 -111:66:220:th:
   kind: E
   name: fuck

@@ -1075,7 +1075,8 @@
   price: 102400
   owner: A790434290
   level: th
-  invitee: []
+  invitee:
+    zhumengzhiying: true
   expires: ~
 106:
   ID: 106
@@ -2772,7 +2773,8 @@
   price: 160000
   owner: zhumengzhiying
   level: world
-  invitee: []
+  invitee:
+    A790434290: true
   expires: ~
 287:
   ID: 287
@@ -2783,7 +2785,9 @@
   price: 125800
   owner: liuliu2008
   level: th
-  invitee: []
+  invitee:
+    Maker: true
+    Zzzzz: true
   expires: ~
 288:
   ID: 288
@@ -3180,6 +3184,17 @@
   price: 59800
   owner: liuliu2008
   level: th
+  invitee: []
+  expires: ~
+324:
+  ID: 324
+  startX: -79
+  endX: -48
+  startZ: 234
+  endZ: 274
+  price: 117000
+  owner: lihaoyy
+  level: world
   invitee: []
   expires: ~
 ...
