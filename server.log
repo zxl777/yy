@@ -1,172 +1,1409 @@
-2017-08-21 [04:59:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [04:59:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [04:59:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [04:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [04:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:13:59] [Server thread/INFO]: Steve[/108.4.135.78:63802] [ClientID: 1819709400236821875] logged in with entity id 2525 at (world, 128, 28, 128)
-2017-08-21 [05:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:14:16] [Server thread/INFO]: Steve[/108.4.135.78:63802] logged out due to Kicked by admin. Reason: Time out!
-2017-08-21 [05:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:44:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:44:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:44:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:49:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:49:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:49:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:54:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:54:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:54:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [05:59:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [05:59:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [05:59:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [05:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [05:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:35:17] [Server thread/INFO]: Zi_Jian[/222.64.214.167:55332] [ClientID: -1406958944971828348] logged in with entity id 2526 at (th, 160.271, 65, 145.5651)
-2017-08-21 [06:35:25] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
-2017-08-21 [06:35:25] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
-2017-08-21 [06:35:25] [Server thread/INFO]: - Zi_Jian is now online!
-2017-08-21 [06:35:25] [Server thread/INFO]: - Zi_Jian 现在上线了!
-2017-08-21 [06:36:11] [Server thread/INFO]: - Zi_Jian is now offline!
-2017-08-21 [06:36:11] [Server thread/INFO]: - Zi_Jian 离开了游戏!
-2017-08-21 [06:36:11] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged out.
-2017-08-21 [06:36:11] [Server thread/INFO]: [AuthMePE] Player Zi_Jian 离开了游戏.
-2017-08-21 [06:36:11] [Server thread/INFO]: Zi_Jian[/222.64.214.167:55332] logged out due to client disconnect
-2017-08-21 [06:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:44:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:44:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:44:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:44:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:45:13] [Server thread/INFO]: kissman[/111.249.72.45:58090] [ClientID: 5903278655021412276] logged in with entity id 2545 at (th, 130, 65, 131)
-2017-08-21 [06:45:22] [Server thread/INFO]: [AuthMePE] Player kissman has logged in.
-2017-08-21 [06:45:22] [Server thread/INFO]: [AuthMePE] 玩家 kissman 登录了游戏。
-2017-08-21 [06:45:22] [Server thread/INFO]: - kissman is now online!
-2017-08-21 [06:45:22] [Server thread/INFO]: - kissman 现在上线了!
-2017-08-21 [06:45:41] [Server thread/WARNING]: kissman moved wrongly!
-2017-08-21 [06:46:21] [Server thread/INFO]: kissman died
-2017-08-21 [06:46:25] [Server thread/INFO]: - kissman is now offline!
-2017-08-21 [06:46:25] [Server thread/INFO]: - kissman 离开了游戏!
-2017-08-21 [06:46:25] [Server thread/INFO]: [AuthMePE] Player kissman has logged out.
-2017-08-21 [06:46:25] [Server thread/INFO]: [AuthMePE] Player kissman 离开了游戏.
-2017-08-21 [06:46:25] [Server thread/INFO]: kissman[/111.249.72.45:58090] logged out due to client disconnect
-2017-08-21 [06:49:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:49:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:49:20] [Server thread/INFO]: Uncle_red[/122.239.184.209:40780] [ClientID: 6170325902796551053] logged in with entity id 2546 at (world, 128, 28, 128)
-2017-08-21 [06:49:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:49:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:49:39] [Server thread/INFO]: Uncle_red[/122.239.184.209:40780] logged out due to Kicked by admin. Reason: Time out!
-2017-08-21 [06:53:24] [Server thread/INFO]: zi_jian[/222.64.214.167:55332] [ClientID: -1406958944971828348] logged in with entity id 2547 at (th, 131.3, 68.6626, 94.3)
-2017-08-21 [06:53:32] [Server thread/INFO]: blue_sky[/111.249.72.45:64418] logged out due to You are banned
-2017-08-21 [06:53:56] [Server thread/INFO]: zi_jian[/222.64.214.167:55332] logged out due to Kicked by admin. Reason: Time out!
-2017-08-21 [06:54:03] [Server thread/INFO]: worldfire53[/111.249.72.45:64418] logged out due to You are banned
-2017-08-21 [06:54:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-21 [06:54:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-21 [06:54:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-21 [06:54:23] [Server thread/INFO]: jack[/111.249.72.45:64418] logged out due to You are banned
-2017-08-21 [06:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-21 [06:54:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-21 [06:54:47] [Server thread/INFO]: Zi_Jian[/222.64.214.167:55332] [ClientID: -1406958944971828348] logged in with entity id 2548 at (th, 130, 65, 131)
-2017-08-21 [06:54:52] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
-2017-08-21 [06:54:52] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
-2017-08-21 [06:54:52] [Server thread/INFO]: - Zi_Jian is now online!
-2017-08-21 [06:54:52] [Server thread/INFO]: - Zi_Jian 现在上线了!
-2017-08-21 [06:55:32] [Server thread/INFO]: - Zi_Jian is now offline!
-2017-08-21 [06:55:32] [Server thread/INFO]: - Zi_Jian 离开了游戏!
-2017-08-21 [06:55:32] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged out.
-2017-08-21 [06:55:32] [Server thread/INFO]: [AuthMePE] Player Zi_Jian 离开了游戏.
-2017-08-21 [06:55:32] [Server thread/INFO]: Zi_Jian[/222.64.214.167:55332] logged out due to client disconnect
-2017-08-21 [06:55:51] [Server thread/INFO]: sams[/111.249.72.45:64418] [ClientID: 5903278655021412276] logged in with entity id 2550 at (world, -182.8381, 72, 193.8882)
-2017-08-21 [06:55:57] [Server thread/INFO]: sams[/111.249.72.45:64418] logged out due to client disconnect
-2017-08-21 [06:56:26] [Server thread/INFO]: wuge[/111.249.72.45:64418] [ClientID: 5903278655021412276] logged in with entity id 2551 at (world, -184.7, 72, 197.0886)
-2017-08-21 [06:56:43] [Server thread/INFO]: wuge[/111.249.72.45:64418] logged out due to Kicked by admin. Reason: Time out!
-2017-08-21 [06:57:08] [Server thread/INFO]: kissman[/111.249.72.45:64418] [ClientID: 5903278655021412276] logged in with entity id 2552 at (world, 128, 28, 128)
-2017-08-21 [06:57:10] [Server thread/INFO]: [AuthMePE] Player kissman has logged in.
-2017-08-21 [06:57:10] [Server thread/INFO]: [AuthMePE] 玩家 kissman 登录了游戏。
-2017-08-21 [06:57:10] [Server thread/INFO]: - kissman is now online!
-2017-08-21 [06:57:10] [Server thread/INFO]: - kissman 现在上线了!
-2017-08-21 [06:57:22] [Server thread/INFO]: kissman died
-2017-08-21 [06:57:47] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [06:59:05] [Server thread/INFO]: [主播]Zi_Jian : hi
+2017-08-21 [06:59:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [06:59:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [06:59:19] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [06:59:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [06:59:25] [Server thread/INFO]: [Zi_Jian: Teleported kissman to Zi_Jian]
+2017-08-21 [06:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [06:59:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [06:59:29] [Server thread/INFO]: [主播]Zi_Jian : hi
+2017-08-21 [06:59:34] [Server thread/INFO]: kissman : hi
+2017-08-21 [06:59:51] [Server thread/INFO]: [主播]Zi_Jian : 我要实验
+2017-08-21 [06:59:54] [Server thread/INFO]: kissman : 給我創造
+2017-08-21 [07:00:05] [Server thread/INFO]: kissman died
+2017-08-21 [07:00:05] [Server thread/INFO]: [Zi_Jian: Killed kissman]
+2017-08-21 [07:00:10] [Server thread/INFO]: [主播]Zi_Jian : 对不起
+2017-08-21 [07:00:12] [Server thread/INFO]: [主播]Zi_Jian : 试试
+2017-08-21 [07:00:48] [Server thread/INFO]: kissman : 我們可以把伺服器用好
+2017-08-21 [07:01:21] [Server thread/INFO]: [主播]Zi_Jian : 哈哈
+2017-08-21 [07:01:31] [Server thread/INFO]: [主播]Zi_Jian : 我知道刷钱的办法
+2017-08-21 [07:01:38] [Server thread/INFO]: kissman : 腐竹又不上線
+2017-08-21 [07:01:45] [Server thread/INFO]: [主播]Zi_Jian : 钻石块卖一元
+2017-08-21 [07:01:53] [Server thread/INFO]: [主播]Zi_Jian : 但算了
+2017-08-21 [07:02:21] [Server thread/INFO]: kissman : 你怎麼會有op
+2017-08-21 [07:02:29] [Server thread/INFO]: [主播]Zi_Jian : 。。。。。。
+2017-08-21 [07:02:34] [Server thread/INFO]: [主播]Zi_Jian : 本来就有
+2017-08-21 [07:02:41] [Server thread/INFO]: [Zi_Jian: Teleported kissman to Zi_Jian]
+2017-08-21 [07:03:00] [Server thread/INFO]: kissman : 唉
+2017-08-21 [07:03:34] [Server thread/INFO]: kissman : 把我的blue_sky的帳號打開
+2017-08-21 [07:04:00] [Server thread/INFO]: [主播]Zi_Jian : 失败了
+2017-08-21 [07:04:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:04:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:04:33] [Server thread/INFO]: kissman : 把我blue_sky的帳號來再說來載打開
+2017-08-21 [07:04:52] [Server thread/INFO]: kissman : 我會
+2017-08-21 [07:05:06] [Server thread/INFO]: kissman : 告事牌給我
+2017-08-21 [07:05:57] [Server thread/INFO]: kissman : 蓋不上去
+2017-08-21 [07:06:15] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:15] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:15] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:15] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:15] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:15] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:16] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:17] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:17] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:17] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:17] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:17] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:06:17] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:06:33] [Server thread/INFO]: [主播]Zi_Jian : a
+2017-08-21 [07:06:43] [Server thread/INFO]: [主播]Zi_Jian : 你在干嘛
+2017-08-21 [07:06:55] [Server thread/INFO]: kissman : 要先換亢
+2017-08-21 [07:07:13] [Server thread/INFO]: [主播]Zi_Jian : ？
+2017-08-21 [07:07:54] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:07:54] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:07:54] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:07:54] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:07:55] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:07:55] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:07:55] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:07:55] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:07:57] [Server thread/INFO]: kissman : 可以給我創造嗎^_^
+2017-08-21 [07:08:03] [Server thread/INFO]: [主播]Zi_Jian : 不行
+2017-08-21 [07:08:31] [Server thread/INFO]: kissman : 把我blue_sky的帳號解掉
+2017-08-21 [07:08:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:08:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:08:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-08-21 [07:08:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:08:35] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:08:44] [Server thread/INFO]: [主播]Zi_Jian : why
+2017-08-21 [07:08:47] [Server thread/INFO]: kissman suffocated in a wall
+2017-08-21 [07:08:54] [Server thread/INFO]: [主播]Zi_Jian : 但是
+2017-08-21 [07:09:06] [Server thread/INFO]: [主播]Zi_Jian : 会让你是生存
+2017-08-21 [07:09:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:09:17] [Server thread/NOTICE]: Player data not found for "zombie", creating new profile
+2017-08-21 [07:09:17] [Server thread/INFO]: zombie[/70.242.162.148:54412] [ClientID: -5897414515523018354] logged in with entity id 2560 at (world, 128, 28, 128)
+2017-08-21 [07:09:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:09:44] [Server thread/INFO]: kissman : 我是創新造(blue_sky)
+2017-08-21 [07:09:53] [Server thread/INFO]: zombie[/70.242.162.148:54412] logged out due to client disconnect
+2017-08-21 [07:10:02] [Server thread/INFO]: [主播]Zi_Jian : hi
+2017-08-21 [07:10:17] [Server thread/NOTICE]: Player data not found for "jencarlos10", creating new profile
+2017-08-21 [07:10:17] [Server thread/INFO]: jencarlos10[/108.208.118.204:52674] [ClientID: 1729662769525893428] logged in with entity id 2561 at (world, 128, 28, 128)
+2017-08-21 [07:10:18] [Server thread/INFO]: [主播]Zi_Jian : 我说
+2017-08-21 [07:10:19] [Server thread/INFO]: kissman : a what
+2017-08-21 [07:10:20] [Server thread/INFO]: Steve[/189.33.50.145:59926] [ClientID: -9160997790692896550] logged in with entity id 2562 at (world, 128, 28, 128)
+2017-08-21 [07:10:22] [Server thread/INFO]: [主播]Zi_Jian : 如果
+2017-08-21 [07:10:36] [Server thread/INFO]: [主播]Zi_Jian : 我不ban
+2017-08-21 [07:10:38] [Server thread/INFO]: [主播]Zi_Jian : 但是
+2017-08-21 [07:10:39] [Server thread/INFO]: Steve[/189.33.50.145:59926] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:10:39] [Server thread/WARNING]: jencarlos10 moved wrongly!
+2017-08-21 [07:10:42] [Server thread/INFO]: [主播]Zi_Jian : bluesky
+2017-08-21 [07:10:46] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:10:49] [Server thread/INFO]: [主播]Zi_Jian : 我要帮你变成
+2017-08-21 [07:10:55] [Server thread/INFO]: [主播]Zi_Jian : 生存
+2017-08-21 [07:11:01] [Server thread/INFO]: Pokémon[/72.199.179.206:53331] logged out due to Invalid name!
+2017-08-21 [07:11:02] [Server thread/INFO]: Steve[/189.33.50.145:59926] [ClientID: -9160997790692896550] logged in with entity id 2563 at (world, 128, 28, 128)
+2017-08-21 [07:11:10] [Server thread/INFO]: kissman : 蛤，why
+2017-08-21 [07:11:21] [Server thread/INFO]: Steve[/189.33.50.145:59926] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:11:29] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:11:34] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:11:37] [Server thread/INFO]: [主播]Zi_Jian : hi
+2017-08-21 [07:11:45] [Server thread/INFO]: kissman tried to swim in lava
+2017-08-21 [07:11:49] [Server thread/INFO]: [Zi_Jian: Teleported jencarlos10 to Zi_Jian]
+2017-08-21 [07:11:53] [Server thread/INFO]: kissman : QAQ
+2017-08-21 [07:11:55] [Server thread/INFO]: jencarlos10[/108.208.118.204:52674] logged out due to timeout
+2017-08-21 [07:12:13] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:12:14] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:12:15] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:12:21] [Server thread/INFO]: zombie[/70.242.162.148:54412] [ClientID: -5897414515523018354] logged in with entity id 2564 at (world, 128, 28, 128)
+2017-08-21 [07:12:38] [Server thread/NOTICE]: Player data not found for "zoe40432", creating new profile
+2017-08-21 [07:12:38] [Server thread/INFO]: Zoe40432[/61.62.74.110:53037] [ClientID: 5135595570103004560] logged in with entity id 2565 at (world, 128, 28, 128)
+2017-08-21 [07:12:47] [Server thread/INFO]: [主播]Zi_Jian : 我暂时退了
+2017-08-21 [07:12:49] [Server thread/INFO]: - Zi_Jian is now offline!
+2017-08-21 [07:12:49] [Server thread/INFO]: - Zi_Jian 离开了游戏!
+2017-08-21 [07:12:49] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged out.
+2017-08-21 [07:12:49] [Server thread/INFO]: [AuthMePE] Player Zi_Jian 离开了游戏.
+2017-08-21 [07:12:49] [Server thread/INFO]: Zi_Jian[/222.64.214.167:55332] logged out due to client disconnect
+2017-08-21 [07:12:53] [Server thread/INFO]: kissman : 我什麼要把我blue_sky的帳號便
+2017-08-21 [07:12:58] [Server thread/INFO]: - kissman is now offline!
+2017-08-21 [07:12:58] [Server thread/INFO]: - kissman 离开了游戏!
+2017-08-21 [07:12:58] [Server thread/INFO]: [AuthMePE] Player kissman has logged out.
+2017-08-21 [07:12:58] [Server thread/INFO]: [AuthMePE] Player kissman 离开了游戏.
+2017-08-21 [07:12:58] [Server thread/INFO]: kissman[/111.249.72.45:64418] logged out due to client disconnect
+2017-08-21 [07:13:19] [Server thread/INFO]: blue_sky[/111.249.72.45:64418] logged out due to You are banned
+2017-08-21 [07:13:39] [Server thread/INFO]: Steve[/51.36.51.73:1085] [ClientID: 3198057798565927501] logged in with entity id 2566 at (world, 127.9806, 28, 127.9971)
+2017-08-21 [07:13:39] [Server thread/INFO]: kissman[/111.249.72.45:64418] [ClientID: 5903278655021412276] logged in with entity id 2567 at (th, 152.8094, 65, 115.4298)
+2017-08-21 [07:13:41] [Server thread/INFO]: [AuthMePE] Player kissman has logged in.
+2017-08-21 [07:13:41] [Server thread/INFO]: [AuthMePE] 玩家 kissman 登录了游戏。
+2017-08-21 [07:13:41] [Server thread/INFO]: - kissman is now online!
+2017-08-21 [07:13:41] [Server thread/INFO]: - kissman 现在上线了!
+2017-08-21 [07:13:56] [Server thread/INFO]: Steve[/51.36.51.73:1085] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:14:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:14:10] [Server thread/INFO]: kissman died
+2017-08-21 [07:14:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:14:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:14:21] [Server thread/INFO]: Steve[/51.36.51.73:1085] [ClientID: 3198057798565927501] logged in with entity id 2568 at (world, 128, 28, 128)
+2017-08-21 [07:14:23] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:14:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:14:39] [Server thread/INFO]: Steve[/51.36.51.73:1085] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:14:51] [Server thread/INFO]: - kissman is now offline!
+2017-08-21 [07:14:51] [Server thread/INFO]: - kissman 离开了游戏!
+2017-08-21 [07:14:51] [Server thread/INFO]: [AuthMePE] Player kissman has logged out.
+2017-08-21 [07:14:51] [Server thread/INFO]: [AuthMePE] Player kissman 离开了游戏.
+2017-08-21 [07:14:51] [Server thread/INFO]: kissman[/111.249.72.45:64418] logged out due to client disconnect
+2017-08-21 [07:15:11] [Server thread/INFO]: Steve[/51.36.51.73:1085] [ClientID: 3198057798565927501] logged in with entity id 2569 at (world, 128, 28, 128)
+2017-08-21 [07:15:18] [Server thread/INFO]: zombie[/70.242.162.148:54412] logged out due to timeout
+2017-08-21 [07:15:29] [Server thread/INFO]: Steve[/51.36.51.73:1085] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:15:31] [Server thread/INFO]: Da_Cheng_Zi[/58.217.251.87:3243] [ClientID: -4936913859101544289] logged in with entity id 2571 at (th, 80.2262, 62, 37.2122)
+2017-08-21 [07:15:32] [Server thread/INFO]: Zoe40432[/61.62.74.110:53037] logged out due to client disconnect
+2017-08-21 [07:15:34] [Server thread/INFO]: [AuthMePE] Player Da_Cheng_Zi has logged in.
+2017-08-21 [07:15:34] [Server thread/INFO]: [AuthMePE] 玩家 Da_Cheng_Zi 登录了游戏。
+2017-08-21 [07:15:34] [Server thread/INFO]: - Da_Cheng_Zi is now online!
+2017-08-21 [07:15:34] [Server thread/INFO]: - Da_Cheng_Zi 现在上线了!
+2017-08-21 [07:15:49] [Server thread/INFO]: Zi_Jian[/222.64.214.167:33617] [ClientID: -2431630630530707483] logged in with entity id 2573 at (th, -141.5283, 65.9999, 167.9099)
+2017-08-21 [07:15:52] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
+2017-08-21 [07:15:52] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
+2017-08-21 [07:15:52] [Server thread/INFO]: - Zi_Jian is now online!
+2017-08-21 [07:15:52] [Server thread/INFO]: - Zi_Jian 现在上线了!
+2017-08-21 [07:15:59] [Server thread/INFO]: [主播]Zi_Jian : hi
+2017-08-21 [07:16:05] [Server thread/INFO]: [主播]Zi_Jian : 我换了手机
+2017-08-21 [07:16:08] [Server thread/NOTICE]: Player data not found for "fin", creating new profile
+2017-08-21 [07:16:08] [Server thread/INFO]: Fin[/67.81.174.175:61192] [ClientID: -3044983314813518171] logged in with entity id 2576 at (world, 128, 28, 128)
+2017-08-21 [07:16:10] [Server thread/INFO]: Da_Cheng_Zi : hi
+2017-08-21 [07:16:17] [Server thread/INFO]: Da_Cheng_Zi : o
+2017-08-21 [07:16:25] [Server thread/INFO]: Fin[/67.81.174.175:61192] logged out due to client disconnect
+2017-08-21 [07:16:27] [Server thread/WARNING]: Da_Cheng_Zi moved too fast, reverting movement
+2017-08-21 [07:16:34] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:16:42] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:16:44] [Server thread/INFO]: kissman[/111.249.72.45:62155] [ClientID: 5903278655021412276] logged in with entity id 2578 at (th, 192.6843, 65, -1.2289)
+2017-08-21 [07:16:46] [Server thread/INFO]: zombie[/70.242.162.148:64038] [ClientID: -5897414515523018354] logged in with entity id 2579 at (th, 130, 65, 131)
+2017-08-21 [07:16:47] [Server thread/INFO]: [AuthMePE] Player kissman has logged in.
+2017-08-21 [07:16:47] [Server thread/INFO]: [AuthMePE] 玩家 kissman 登录了游戏。
+2017-08-21 [07:16:47] [Server thread/INFO]: - kissman is now online!
+2017-08-21 [07:16:47] [Server thread/INFO]: - kissman 现在上线了!
+2017-08-21 [07:16:48] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:16:48] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:16:54] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:16:54] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:16:56] [Server thread/NOTICE]: Player data not found for "actionkiller23", creating new profile
+2017-08-21 [07:16:56] [Server thread/INFO]: Actionkiller23[/98.206.61.150:58832] [ClientID: -8585305070584714143] logged in with entity id 2581 at (world, 128, 28, 128)
+2017-08-21 [07:17:08] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [07:17:10] [Server thread/NOTICE]: Player data not found for "icy", creating new profile
+2017-08-21 [07:17:10] [Server thread/INFO]: Icy[/67.143.160.17:44237] [ClientID: -643064262911068782] logged in with entity id 2583 at (world, 128, 28, 128)
+2017-08-21 [07:17:10] [Server thread/INFO]: kissman : a
+2017-08-21 [07:17:15] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:17:32] [Server thread/INFO]: kissman died
+2017-08-21 [07:17:33] [Server thread/WARNING]: Actionkiller23 moved wrongly!
+2017-08-21 [07:17:37] [Server thread/WARNING]: Actionkiller23 moved wrongly!
+2017-08-21 [07:17:37] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [07:17:57] [Server thread/INFO]: Actionkiller23[/98.206.61.150:58832] logged out due to client disconnect
+2017-08-21 [07:18:04] [Server thread/INFO]: kissman : 唉，傷心（，，）
+2017-08-21 [07:18:05] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:18:08] [Server thread/WARNING]: Da_Cheng_Zi moved too fast, reverting movement
+2017-08-21 [07:18:10] [Server thread/WARNING]: Da_Cheng_Zi moved wrongly!
+2017-08-21 [07:18:12] [Server thread/INFO]: [主播]Zi_Jian : 怎么了
+2017-08-21 [07:18:24] [Server thread/INFO]: - Da_Cheng_Zi is now offline!
+2017-08-21 [07:18:24] [Server thread/INFO]: - Da_Cheng_Zi 离开了游戏!
+2017-08-21 [07:18:24] [Server thread/INFO]: [AuthMePE] Player Da_Cheng_Zi has logged out.
+2017-08-21 [07:18:24] [Server thread/INFO]: [AuthMePE] Player Da_Cheng_Zi 离开了游戏.
+2017-08-21 [07:18:24] [Server thread/INFO]: Da_Cheng_Zi[/58.217.251.87:3243] logged out due to timeout
+2017-08-21 [07:18:36] [Server thread/INFO]: kissman : 伺服器殘不忍賭
+2017-08-21 [07:18:40] [Server thread/INFO]: zombie[/70.242.162.148:64038] logged out due to client disconnect
+2017-08-21 [07:18:50] [Server thread/INFO]: [AuthMePE] Player Icy has logged in.
+2017-08-21 [07:18:50] [Server thread/INFO]: [AuthMePE] 玩家 Icy 登录了游戏。
+2017-08-21 [07:18:50] [Server thread/INFO]: - Icy is now online!
+2017-08-21 [07:18:50] [Server thread/INFO]: - Icy 现在上线了!
+2017-08-21 [07:18:51] [Server thread/INFO]: kissman : 一個又一個洞
+2017-08-21 [07:19:01] [Server thread/INFO]: [主播]Zi_Jian : 买称号的指令怎能高搞
+2017-08-21 [07:19:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:19:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:19:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-08-21 [07:19:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:19:30] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [07:19:31] [Server thread/INFO]: kissman : 我blue_sky的帳沒op
+2017-08-21 [07:19:36] [Server thread/INFO]: - Icy is now offline!
+2017-08-21 [07:19:36] [Server thread/INFO]: - Icy 离开了游戏!
+2017-08-21 [07:19:36] [Server thread/INFO]: [AuthMePE] Player Icy has logged out.
+2017-08-21 [07:19:36] [Server thread/INFO]: [AuthMePE] Player Icy 离开了游戏.
+2017-08-21 [07:19:36] [Server thread/INFO]: Icy[/67.143.160.17:44237] logged out due to timeout
+2017-08-21 [07:19:41] [Server thread/INFO]: Ayden6043[/184.170.126.212:60862] [ClientID: 7417667338846424434] logged in with entity id 2601 at (nether, 128, 42, 128)
+2017-08-21 [07:19:53] [Server thread/INFO]: kissman : 指是錢很多
+2017-08-21 [07:20:53] [Server thread/INFO]: [主播]Zi_Jian : 怎么做商店呀
+2017-08-21 [07:21:16] [Server thread/INFO]: kissman : 我會
+2017-08-21 [07:21:24] [Server thread/INFO]: kissman : 但
+2017-08-21 [07:21:47] [Server thread/INFO]: kissman : 我沒辦法用說的
+2017-08-21 [07:22:08] [Server thread/INFO]: [主播]Zi_Jian : why
+2017-08-21 [07:22:21] [Server thread/INFO]: kissman : 太難了
+2017-08-21 [07:22:24] [Server thread/INFO]: Ayden6043[/184.170.126.212:60862] logged out due to timeout
+2017-08-21 [07:22:33] [Server thread/INFO]: [主播]Zi_Jian : 说吧
+2017-08-21 [07:23:03] [Server thread/INFO]: kissman : 說啥
+2017-08-21 [07:23:24] [Server thread/INFO]: [Zi_Jian: Teleported kissman to Zi_Jian]
+2017-08-21 [07:23:26] [Server thread/NOTICE]: Player data not found for "time", creating new profile
+2017-08-21 [07:23:26] [Server thread/INFO]: time[/27.196.10.190:52946] [ClientID: -5010034212477897147] logged in with entity id 2609 at (world, 128, 28, 128)
+2017-08-21 [07:23:40] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [07:24:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:24:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:24:16] [Server thread/INFO]: kissman : 幹嘛把我傳到這
+2017-08-21 [07:24:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:24:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:25:13] [Server thread/INFO]: [AuthMePE] Player time has logged in.
+2017-08-21 [07:25:13] [Server thread/INFO]: [AuthMePE] 玩家 time 登录了游戏。
+2017-08-21 [07:25:13] [Server thread/INFO]: - time is now online!
+2017-08-21 [07:25:13] [Server thread/INFO]: - time 现在上线了!
+2017-08-21 [07:25:37] [Server thread/WARNING]: time moved wrongly!
+2017-08-21 [07:25:38] [Server thread/WARNING]: time moved wrongly!
+2017-08-21 [07:25:39] [Server thread/WARNING]: time moved wrongly!
+2017-08-21 [07:25:43] [Server thread/WARNING]: time moved wrongly!
+2017-08-21 [07:25:46] [Server thread/INFO]: Steve[/183.131.67.210:6673] [ClientID: 6514904377416066309] logged in with entity id 2611 at (world, 128, 28, 128)
+2017-08-21 [07:25:48] [Server thread/INFO]: time fell from a high place
+2017-08-21 [07:26:03] [Server thread/INFO]: Steve[/183.131.67.210:6673] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:26:18] [Server thread/INFO]: - time is now offline!
+2017-08-21 [07:26:18] [Server thread/INFO]: - time 离开了游戏!
+2017-08-21 [07:26:18] [Server thread/INFO]: [AuthMePE] Player time has logged out.
+2017-08-21 [07:26:18] [Server thread/INFO]: [AuthMePE] Player time 离开了游戏.
+2017-08-21 [07:26:18] [Server thread/INFO]: time[/27.196.10.190:52946] logged out due to timeout
+2017-08-21 [07:26:24] [Server thread/INFO]: Steve[/183.131.67.210:6673] [ClientID: 6514904377416066309] logged in with entity id 2612 at (world, 128, 28, 128)
+2017-08-21 [07:26:40] [Server thread/INFO]: Steve[/183.131.67.210:6673] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:26:47] [Server thread/INFO]: Lukas[/70.242.162.148:60202] [ClientID: -5897414515523018354] logged in with entity id 2613 at (world, 128, 64, 128)
+2017-08-21 [07:27:35] [Server thread/NOTICE]: Player data not found for "kingdoper", creating new profile
+2017-08-21 [07:27:35] [Server thread/INFO]: kingdoper[/69.125.164.131:64325] [ClientID: 5505369084354039560] logged in with entity id 2614 at (world, 128, 28, 128)
+2017-08-21 [07:28:02] [Server thread/INFO]: kingdoper[/69.125.164.131:64325] logged out due to client disconnect
+2017-08-21 [07:28:26] [Server thread/INFO]: samS[/112.8.10.200:27039] [ClientID: -2530508739272191362] logged in with entity id 2615 at (world, 128, 28, 128)
+2017-08-21 [07:28:28] [Server thread/INFO]: [AuthMePE] Player samS has logged in.
+2017-08-21 [07:28:28] [Server thread/INFO]: [AuthMePE] 玩家 samS 登录了游戏。
+2017-08-21 [07:28:28] [Server thread/INFO]: - samS is now online!
+2017-08-21 [07:28:28] [Server thread/INFO]: - samS 现在上线了!
+2017-08-21 [07:28:28] [Server thread/INFO]: kissman : a zijain
+2017-08-21 [07:28:32] [Server thread/INFO]: Zoe40432[/61.62.74.110:53037] [ClientID: 5135595570103004560] logged in with entity id 2616 at (th, 130, 65, 131)
+2017-08-21 [07:28:49] [Server thread/INFO]: Zoe40432[/61.62.74.110:53037] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:29:01] [Server thread/INFO]: kissman : 受
+2017-08-21 [07:29:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:29:13] [Server thread/INFO]: [督察者watcher]Zi_Jian : hi
+2017-08-21 [07:29:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:29:20] [Server thread/INFO]: [督察者watcher]Zi_Jian : 我换了称号
+2017-08-21 [07:29:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:29:23] [Server thread/INFO]: [我是女的]samS : hi
+2017-08-21 [07:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:29:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:29:43] [Server thread/INFO]: kissman : 我有新家
+2017-08-21 [07:29:47] [Server thread/INFO]: Lukas[/70.242.162.148:60202] logged out due to timeout
+2017-08-21 [07:29:48] [Server thread/INFO]: [我是女的]samS : 哦
+2017-08-21 [07:30:01] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:30:03] [Server thread/INFO]: kissman : w th
+2017-08-21 [07:30:22] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:30:29] [Server thread/INFO]: kingdoper[/69.125.164.131:53554] [ClientID: 5505369084354039560] logged in with entity id 2619 at (world, 128, 28, 128)
+2017-08-21 [07:30:35] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:31:02] [Server thread/INFO]: kingdoper[/69.125.164.131:53554] logged out due to client disconnect
+2017-08-21 [07:31:14] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:31:27] [Server thread/INFO]: [我是女的]samS : 你在哪。。。。
+2017-08-21 [07:31:44] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:31:44] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:31:53] [Server thread/INFO]: [督察者watcher]Zi_Jian : 来这
+2017-08-21 [07:31:55] [Server thread/INFO]: [督察者watcher]Zi_Jian : 看
+2017-08-21 [07:32:47] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:32:47] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:33:55] [Server thread/INFO]: [Zi_Jian: Teleported kissman to Zi_Jian]
+2017-08-21 [07:34:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:34:08] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:34:08] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:34:08] [Server thread/INFO]: [督察者watcher]Zi_Jian : 看
+2017-08-21 [07:34:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:34:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:34:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:34:51] [Server thread/INFO]: kissman : 看來你需要很多人蓋
+2017-08-21 [07:34:55] [Server thread/INFO]: samS was pricked to death
+2017-08-21 [07:35:04] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:04] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:07] [Server thread/INFO]: [Zi_Jian: Teleported samS to Zi_Jian]
+2017-08-21 [07:35:25] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:25] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:44] [Server thread/INFO]: Steve[/118.180.16.22:45331] [ClientID: -8979264268528852197] logged in with entity id 2631 at (world, 128, 28, 128)
+2017-08-21 [07:35:56] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:56] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:58] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:35:59] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:35:59] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:36:01] [Server thread/INFO]: Steve[/118.180.16.22:45331] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:36:10] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:36:10] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:36:27] [Server thread/INFO]: [好玩的party]Zi_Jian : 来这
+2017-08-21 [07:36:33] [Server thread/INFO]: [好玩的party]Zi_Jian : 买称号
+2017-08-21 [07:36:35] [Server thread/INFO]: [好玩的party]kissman : ㄞㄞ
+2017-08-21 [07:37:01] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:37:01] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:37:05] [Server thread/INFO]: [好玩的party]kissman : 可以把他去掉嗎
+2017-08-21 [07:37:10] [Server thread/INFO]: [好玩的party]Zi_Jian : 。。。。。。。
+2017-08-21 [07:37:13] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:37:15] [Server thread/INFO]: [好玩的party]Zi_Jian : 好像。。。。。。。
+2017-08-21 [07:37:16] [Server thread/INFO]: [好玩的party]samS : 。。。
+2017-08-21 [07:37:31] [Server thread/INFO]: [好玩的party]samS : 嗯？好玩的party？？
+2017-08-21 [07:37:39] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:38:29] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:38:29] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:38:33] [Server thread/INFO]: [好玩的party]kissman : 你需要管理員
+2017-08-21 [07:38:33] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:38:36] [Server thread/INFO]: Dampgamemode[/115.56.180.28:26878] [ClientID: 4510739273009363870] logged in with entity id 2637 at (th, -1.7933, 65.5, 155.9101)
+2017-08-21 [07:38:39] [Server thread/INFO]: [AuthMePE] Player Dampgamemode has logged in.
+2017-08-21 [07:38:39] [Server thread/INFO]: [AuthMePE] 玩家 Dampgamemode 登录了游戏。
+2017-08-21 [07:38:39] [Server thread/INFO]: - Dampgamemode is now online!
+2017-08-21 [07:38:39] [Server thread/INFO]: - Dampgamemode 现在上线了!
+2017-08-21 [07:38:56] [Server thread/INFO]: wuge[/113.73.28.204:57157] [ClientID: -7760030538589010939] logged in with entity id 2639 at (world, 128, 28, 128)
+2017-08-21 [07:39:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:39:09] [Server thread/INFO]: [AuthMePE] Player wuge has logged in.
+2017-08-21 [07:39:09] [Server thread/INFO]: [AuthMePE] 玩家 wuge 登录了游戏。
+2017-08-21 [07:39:09] [Server thread/INFO]: - wuge is now online!
+2017-08-21 [07:39:09] [Server thread/INFO]: - wuge 现在上线了!
+2017-08-21 [07:39:11] [Server thread/INFO]: [好玩的party]kissman : 你需要管理員
+2017-08-21 [07:39:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:39:20] [Server thread/INFO]: [好玩的party]samS : wuge
+2017-08-21 [07:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:39:26] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:39:28] [Server thread/INFO]: [Zi_Jian: Teleported wuge to Zi_Jian]
+2017-08-21 [07:39:48] [Server thread/INFO]: [好玩的party]kissman : 不然有人會亂殺
+2017-08-21 [07:39:55] [Server thread/INFO]: [好玩的party]samS : zijian怎么改回来啊。。。
+2017-08-21 [07:40:09] [Server thread/WARNING]: Dampgamemode moved wrongly!
+2017-08-21 [07:40:13] [Server thread/INFO]: [好玩的party]Zi_Jian : 。。。。。。。你想改成什么
+2017-08-21 [07:40:27] [Server thread/INFO]: [好玩的party]samS : 名片啊。。。。
+2017-08-21 [07:40:43] [Server thread/INFO]: [好玩的party]kissman : 老公和老婆
+2017-08-21 [07:40:48] [Server thread/INFO]: [好玩的party]samS : 不喜欢白色字体。。。
+2017-08-21 [07:40:53] [Server thread/INFO]: - Dampgamemode is now offline!
+2017-08-21 [07:40:53] [Server thread/INFO]: - Dampgamemode 离开了游戏!
+2017-08-21 [07:40:53] [Server thread/INFO]: [AuthMePE] Player Dampgamemode has logged out.
+2017-08-21 [07:40:53] [Server thread/INFO]: [AuthMePE] Player Dampgamemode 离开了游戏.
+2017-08-21 [07:40:53] [Server thread/INFO]: Dampgamemode[/115.56.180.28:26878] logged out due to timeout
+2017-08-21 [07:40:56] [Server thread/INFO]: [我真是人]Zi_Jian : hi
+2017-08-21 [07:40:57] [Server thread/NOTICE]: Player data not found for "qazwsxedcrfvtg3", creating new profile
+2017-08-21 [07:40:57] [Server thread/INFO]: qazwsxedcrfvtg3[/120.204.60.212:27507] [ClientID: 7273974907644380092] logged in with entity id 2640 at (world, 128, 28, 128)
+2017-08-21 [07:41:10] [Server thread/INFO]: [我真是人]Zi_Jian : 。。。。。。。。
+2017-08-21 [07:41:14] [Server thread/INFO]: [好玩的party]samS : wtf。。。
+2017-08-21 [07:41:33] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:41:33] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:41:35] [Server thread/INFO]: [AuthMePE] Player qazwsxedcrfvtg3 has logged in.
+2017-08-21 [07:41:35] [Server thread/INFO]: [AuthMePE] 玩家 qazwsxedcrfvtg3 登录了游戏。
+2017-08-21 [07:41:35] [Server thread/INFO]: - qazwsxedcrfvtg3 is now online!
+2017-08-21 [07:41:35] [Server thread/INFO]: - qazwsxedcrfvtg3 现在上线了!
+2017-08-21 [07:41:44] [Server thread/WARNING]: qazwsxedcrfvtg3 moved wrongly!
+2017-08-21 [07:41:46] [Server thread/INFO]: [我真是人]Zi_Jian : hi
+2017-08-21 [07:42:00] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:42:05] [Server thread/INFO]: [好玩的party]samS : zijian可以换个字体颜色吗
+2017-08-21 [07:42:17] [Server thread/INFO]: Steve[/118.180.16.22:45350] [ClientID: -8979264268528852197] logged in with entity id 2641 at (world, 128, 28, 128)
+2017-08-21 [07:42:28] [Server thread/INFO]: [好玩的party]kissman : 管理員？！！！！！！！！！！！！！ㄝ
+2017-08-21 [07:42:31] [Server thread/INFO]: liuliu2008[/101.87.230.230:52712] [ClientID: 6961735811638613043] logged in with entity id 2647 at (th, -136.958, 67.1838, 143.8336)
+2017-08-21 [07:42:33] [Server thread/INFO]: Steve[/118.180.16.22:45350] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:42:36] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
+2017-08-21 [07:42:36] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
+2017-08-21 [07:42:36] [Server thread/INFO]: - liuliu2008 is now online!
+2017-08-21 [07:42:36] [Server thread/INFO]: - liuliu2008 现在上线了!
+2017-08-21 [07:42:50] [Server thread/INFO]: [好玩的party]kissman : 沒管理員指有2個
+2017-08-21 [07:42:50] [Server thread/INFO]: Steve[/118.180.16.22:45350] [ClientID: -8979264268528852197] logged in with entity id 2654 at (world, 128, 28, 128)
+2017-08-21 [07:42:57] [Server thread/INFO]: [好玩的party]kissman : 不夠了
+2017-08-21 [07:43:04] [Server thread/INFO]: Steve[/118.180.16.22:45350] logged out due to Kicked by admin. Reason: 
+Max amount of tries reached!
+Try again 3 minutes later.
+2017-08-21 [07:43:07] [Server thread/INFO]: [好玩的party]kissman : 要有5個
+2017-08-21 [07:43:20] [Server thread/INFO]: Steve[/118.180.16.22:45350] [ClientID: -8979264268528852197] logged in with entity id 2655 at (world, 128, 28, 128)
+2017-08-21 [07:43:21] [Server thread/INFO]: Steve[/118.180.16.22:45350] logged out due to Kicked by admin. Reason: Due to security issue, 
+this account has been blocked temporary.  
+Please try again later.
+
+
+
+-AuthMePE Authentication System
+2017-08-21 [07:43:21] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1122
+2017-08-21 [07:43:21] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-08-21 [07:43:21] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Mon_Aug_21-07.43.21-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling Asign v1.4
+2017-08-21 [07:43:22] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-08-21 [07:43:22] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling db v1.0.0
+2017-08-21 [07:43:22] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-08-21 [07:43:22] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-08-21 [07:43:22] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling ld v流星优化
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling RealKeepInventory v0.0.1
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling AuthMePE v1.0.1
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-08-21 [07:43:22] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-08-21 [07:43:22] [Server thread/INFO]: Zi_Jian left the game
+2017-08-21 [07:43:22] [Server thread/INFO]: Zi_Jian[/222.64.214.167:33617] logged out due to Server closed
+2017-08-21 [07:43:22] [Server thread/INFO]: kissman left the game
+2017-08-21 [07:43:22] [Server thread/INFO]: kissman[/111.249.72.45:62155] logged out due to Server closed
+2017-08-21 [07:43:22] [Server thread/INFO]: samS left the game
+2017-08-21 [07:43:22] [Server thread/INFO]: samS[/112.8.10.200:27039] logged out due to Server closed
+2017-08-21 [07:43:22] [Server thread/INFO]: wuge left the game
+2017-08-21 [07:43:22] [Server thread/INFO]: wuge[/113.73.28.204:57157] logged out due to Server closed
+2017-08-21 [07:43:22] [Server thread/INFO]: qazwsxedcrfvtg3 left the game
+2017-08-21 [07:43:22] [Server thread/INFO]: qazwsxedcrfvtg3[/120.204.60.212:27507] logged out due to Server closed
+2017-08-21 [07:43:22] [Server thread/INFO]: liuliu2008 left the game
+2017-08-21 [07:43:22] [Server thread/INFO]: liuliu2008[/101.87.230.230:52712] logged out due to Server closed
+2017-08-21 [07:43:22] [Server thread/INFO]: Unloading level "world"
+2017-08-21 [07:43:23] [Server thread/INFO]: Unloading level "nether"
+2017-08-21 [07:43:23] [Server thread/INFO]: Unloading level "ender"
+2017-08-21 [07:43:23] [Server thread/INFO]: Unloading level "world"
+2017-08-21 [07:43:23] [Server thread/INFO]: Unloading level "th"
+2017-08-20 [23:43:27] [Server thread/WARNING]: OpenSSL extension not found
+2017-08-20 [23:43:27] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-08-20 [23:43:27] [Server thread/INFO]: Selected English (eng) as the base language
+2017-08-20 [23:43:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-08-20 [23:43:27] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading recipes...
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading resource packs...
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading Asign v1.4
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading db v1.0.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading ld v流星优化
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading AuthMePE v1.0.1
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-08-20 [23:43:27] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-08-20 [23:43:27] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling db v1.0.0
+2017-08-20 [23:43:27] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-08-20 [23:43:27] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-08-20 [23:43:27] [Server thread/INFO]: Preparing level "world"
+2017-08-20 [23:43:27] [Server thread/INFO]: Preparing level "nether"
+2017-08-20 [23:43:27] [Server thread/INFO]: Preparing level "ender"
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling Asign v1.4
+2017-08-20 [23:43:27] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-08-20 [23:43:27] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-08-20 [23:43:27] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-08-21 [07:43:27] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-08-21 [07:43:27] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-08-21 [07:43:27] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-08-21 [07:43:27] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-08-21 [07:43:27] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-08-21 [07:43:27] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-08-21 [07:43:27] [Server thread/INFO]: SWorld loaded!
+2017-08-21 [07:43:27] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-08-21 [07:43:27] [Server thread/INFO]: Preparing level "world"
+2017-08-21 [07:43:27] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-08-21 [07:43:27] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-08-21 [07:43:27] [Server thread/INFO]: Preparing level "th"
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-08-21 [07:43:27] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-08-21 [07:43:27] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling ld v流星优化
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling AuthMePE v1.0.1
+2017-08-21 [07:43:27] [Server thread/INFO]: [AuthMePE] 加载成功!
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-21 [07:43:27] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-08-21 [07:43:27] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-08-21 [07:43:27] [Server thread/INFO]: Starting GS4 status listener
+2017-08-21 [07:43:27] [Server thread/INFO]: Setting query port to 19132
+2017-08-21 [07:43:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-08-21 [07:43:27] [Server thread/INFO]: Default game type: Survival Mode
+2017-08-21 [07:43:27] [Server thread/INFO]: Done (0.658s)! For help, type "help" or "?"
+2017-08-21 [07:43:34] [Server thread/INFO]: kissman[/111.249.72.45:62155] [ClientID: 5903278655021412276] logged in with entity id 1 at (th, -127.2055, 65, 157.4207)
+2017-08-21 [07:43:36] [Server thread/INFO]: [AuthMePE] Player kissman has logged in.
+2017-08-21 [07:43:36] [Server thread/INFO]: [AuthMePE] 玩家 kissman 登录了游戏。
+2017-08-21 [07:43:36] [Server thread/INFO]: - kissman is now online!
+2017-08-21 [07:43:36] [Server thread/INFO]: - kissman 现在上线了!
+2017-08-21 [07:43:50] [Server thread/INFO]: qazwsxedcrfvtg3[/120.204.60.212:27507] logged out due to timeout
+2017-08-21 [07:43:52] [Server thread/INFO]: kissman died
+2017-08-21 [07:43:53] [Server thread/INFO]: wuge[/113.73.28.204:57157] [ClientID: -7760030538589010939] logged in with entity id 5 at (world, -180.6611, 69, 200.08)
+2017-08-21 [07:43:56] [Server thread/INFO]: [AuthMePE] Player wuge has logged in.
+2017-08-21 [07:43:56] [Server thread/INFO]: [AuthMePE] 玩家 wuge 登录了游戏。
+2017-08-21 [07:43:56] [Server thread/INFO]: - wuge is now online!
+2017-08-21 [07:43:56] [Server thread/INFO]: - wuge 现在上线了!
+2017-08-21 [07:44:28] [Server thread/INFO]: samS[/112.8.10.200:27039] [ClientID: -2530508739272191362] logged in with entity id 9 at (th, -121.941, 65.5, 172.879)
+2017-08-21 [07:44:30] [Server thread/INFO]: [AuthMePE] Player samS has logged in.
+2017-08-21 [07:44:30] [Server thread/INFO]: [AuthMePE] 玩家 samS 登录了游戏。
+2017-08-21 [07:44:30] [Server thread/INFO]: - samS is now online!
+2017-08-21 [07:44:30] [Server thread/INFO]: - samS 现在上线了!
+2017-08-21 [07:44:54] [Server thread/INFO]: [好玩的party]samS : 。。
+2017-08-21 [07:45:26] [Server thread/INFO]: [/117.61.10.224:38896] logged out due to client disconnect
+2017-08-21 [07:46:27] [Server thread/INFO]: Zi_Jian[/222.64.214.167:33617] [ClientID: -2431630630530707483] logged in with entity id 48 at (th, -124.528, 65, 170.8156)
+2017-08-21 [07:46:33] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21946] [ClientID: 3036730296650954731] logged in with entity id 51 at (world, -29.7863, 70, -83.0547)
+2017-08-21 [07:46:35] [Server thread/INFO]: [AuthMePE] Player Zi_Jian has logged in.
+2017-08-21 [07:46:35] [Server thread/INFO]: [AuthMePE] 玩家 Zi_Jian 登录了游戏。
+2017-08-21 [07:46:35] [Server thread/INFO]: - Zi_Jian is now online!
+2017-08-21 [07:46:35] [Server thread/INFO]: - Zi_Jian 现在上线了!
+2017-08-21 [07:46:37] [Server thread/INFO]: [我真是人]Zi_Jian : hi
+2017-08-21 [07:46:41] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged in.
+2017-08-21 [07:46:41] [Server thread/INFO]: [AuthMePE] 玩家 zhumengzhiying 登录了游戏。
+2017-08-21 [07:46:41] [Server thread/INFO]: - zhumengzhiying is now online!
+2017-08-21 [07:46:41] [Server thread/INFO]: - zhumengzhiying 现在上线了!
+2017-08-21 [07:46:42] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:46:52] [Server thread/INFO]: [SVIP]wuge : 走吧
+2017-08-21 [07:46:57] [Server thread/INFO]: [好玩的party]samS : 嗯嗯
+2017-08-21 [07:47:11] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:47:12] [Server thread/INFO]: liuliu2008[/101.87.230.230:52712] [ClientID: 6961735811638613043] logged in with entity id 58 at (th, 114.2267, 65, 128.127)
+2017-08-21 [07:47:13] [Server thread/INFO]: [SVIP]wuge : 有人叫
+2017-08-21 [07:47:15] [Server thread/INFO]: [SVIP]wuge : sams
+2017-08-21 [07:47:16] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
+2017-08-21 [07:47:16] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
+2017-08-21 [07:47:16] [Server thread/INFO]: - liuliu2008 is now online!
+2017-08-21 [07:47:16] [Server thread/INFO]: - liuliu2008 现在上线了!
+2017-08-21 [07:47:23] [Server thread/INFO]: [好玩的party]samS : 嗯？
+2017-08-21 [07:47:28] [Server thread/INFO]: [SVIP]wuge : 额
+2017-08-21 [07:47:33] [Server thread/INFO]: [SVIP]wuge : 看错了
+2017-08-21 [07:47:39] [Server thread/INFO]: [好玩的party]samS : 好吧。。。
+2017-08-21 [07:48:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:48:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:48:20] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:48:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:48:24] [Server thread/INFO]: [好玩的party]kissman : 需要管理員
+2017-08-21 [07:48:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:48:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:49:04] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:49:44] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:50:19] [Server thread/INFO]: Steve[/42.48.140.138:35805] [ClientID: 8923527753798282108] logged in with entity id 86 at (world, 128, 28.2, 128)
+2017-08-21 [07:50:19] [Server thread/INFO]: samS was pricked to death
+2017-08-21 [07:50:27] [Server thread/INFO]: [SVIP]liuliu2008 : 有羊毛吗
+2017-08-21 [07:50:37] [Server thread/INFO]: Steve[/42.48.140.138:35805] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:50:43] [Server thread/INFO]: [好玩的party]Zi_Jian : hi
+2017-08-21 [07:50:48] [Server thread/INFO]: Steve[/42.48.140.138:35805] [ClientID: 8923527753798282108] logged in with entity id 90 at (world, 128, 28, 128)
+2017-08-21 [07:50:52] [Server thread/INFO]: [好玩的party]Zi_Jian : 来这
+2017-08-21 [07:50:54] [Server thread/INFO]: [SVIP]wuge : sams你想吃啥
+2017-08-21 [07:50:57] [Server thread/INFO]: FVitor23[/183.236.19.67:31241] [ClientID: 1959801907878689680] logged in with entity id 92 at (th, -73.2134, 65, 113.8069)
+2017-08-21 [07:50:57] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:51:00] [Server thread/INFO]: [好玩的party]Zi_Jian : 换称号
+2017-08-21 [07:51:05] [Server thread/INFO]: Steve[/42.48.140.138:35805] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:51:06] [Server thread/INFO]: [AuthMePE] Player FVitor23 has logged in.
+2017-08-21 [07:51:06] [Server thread/INFO]: [AuthMePE] 玩家 FVitor23 登录了游戏。
+2017-08-21 [07:51:06] [Server thread/INFO]: - FVitor23 is now online!
+2017-08-21 [07:51:06] [Server thread/INFO]: - FVitor23 现在上线了!
+2017-08-21 [07:51:08] [Server thread/INFO]: [好玩的party]samS : 什么东西啊
+2017-08-21 [07:51:14] [Server thread/INFO]: [好玩的party]samS : 都行
+2017-08-21 [07:51:14] [Server thread/INFO]: FVitor23 : 284271
+2017-08-21 [07:51:24] [Server thread/INFO]: Steve[/42.48.140.138:35805] [ClientID: 8923527753798282108] logged in with entity id 96 at (world, 128, 28, 128)
+2017-08-21 [07:51:26] [Server thread/INFO]: [SVIP]wuge : 粮食
+2017-08-21 [07:51:34] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:51:34] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:51:41] [Server thread/INFO]: Steve[/42.48.140.138:35805] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [07:51:42] [Server thread/INFO]: [好玩的party]samS : 土豆～
+2017-08-21 [07:51:47] [Server thread/INFO]: [好玩的party]samS : 胡萝卜～
+2017-08-21 [07:51:49] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:51:49] [Server thread/INFO]: [好玩的party]Zi_Jian : 这个好不好
+2017-08-21 [07:51:51] [Server thread/INFO]: [SVIP]wuge : 好
+2017-08-21 [07:52:04] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:52:10] [Server thread/INFO]: [SVIP]liuliu2008 : 怎么弄的
+2017-08-21 [07:52:13] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:52:17] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:52:29] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:52:30] [Server thread/INFO]: [好玩的party]liuliu2008 : …
+2017-08-21 [07:52:32] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:52:33] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:52:34] [Server thread/INFO]: [好玩的party]Zi_Jian : ......
+2017-08-21 [07:52:34] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:52:36] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:52:41] [Server thread/INFO]: [好玩的party]Zi_Jian : 来这
+2017-08-21 [07:52:45] [Server thread/INFO]: [好玩的party]Zi_Jian : 免费送
+2017-08-21 [07:52:50] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:52:53] [Server thread/INFO]: FVitor23 fell from a high place
+2017-08-21 [07:52:58] [Server thread/INFO]: [好玩的party]liuliu2008 : 怎么弄的
+2017-08-21 [07:53:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:53:10] [Server thread/INFO]: [好玩的party]liuliu2008 : 我想换回去
+2017-08-21 [07:53:16] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:53:16] [Server thread/WARNING]: FVitor23 moved wrongly!
+2017-08-21 [07:53:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:53:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:53:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:53:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:53:28] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:53:28] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:53:28] [Server thread/INFO]: [好玩的party]kissman : zi你需要在受3個管理員
+2017-08-21 [07:53:28] [Server thread/INFO]: - FVitor23 is now offline!
+2017-08-21 [07:53:28] [Server thread/INFO]: - FVitor23 离开了游戏!
+2017-08-21 [07:53:28] [Server thread/INFO]: [AuthMePE] Player FVitor23 has logged out.
+2017-08-21 [07:53:28] [Server thread/INFO]: [AuthMePE] Player FVitor23 离开了游戏.
+2017-08-21 [07:53:28] [Server thread/INFO]: FVitor23[/183.236.19.67:31241] logged out due to timeout
+2017-08-21 [07:53:32] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:53:39] [Server thread/INFO]: [好玩的party]kissman : ㄚㄚ
+2017-08-21 [07:53:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:54:09] [Server thread/INFO]: [好玩的party]samS : wuge可以再种一点小麦吗
+2017-08-21 [07:54:16] [Server thread/INFO]: [SVIP]wuge : 可以
+2017-08-21 [07:54:18] [Server thread/INFO]: [好玩的party]kissman : zi_jain你需要在3個管理員
+2017-08-21 [07:54:21] [Server thread/INFO]: [好玩的party]samS : 嗯好
+2017-08-21 [07:54:35] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:54:45] [Server thread/INFO]: [好玩的party]kissman : 因為有人會進來一直ban
+2017-08-21 [07:54:53] [Server thread/INFO]: [好玩的party]kissman : 是bane
+2017-08-21 [07:55:01] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:55:06] [Server thread/INFO]: [好玩的party]samS : hi
+2017-08-21 [07:55:13] [Server thread/INFO]: [我是女的]zhumengzhiying : 这块地你们还没买？
+2017-08-21 [07:55:21] [Server thread/INFO]: [SVIP]wuge : 嗯
+2017-08-21 [07:55:23] [Server thread/INFO]: [好玩的party]samS : 好想还没有
+2017-08-21 [07:55:32] [Server thread/INFO]: [好玩的party]samS : 但应该不会有人来的
+2017-08-21 [07:55:37] [Server thread/INFO]: [我是女的]zhumengzhiying : 反正别人找不到
+2017-08-21 [07:55:39] [Server thread/INFO]: [SVIP]wuge : 怎么买
+2017-08-21 [07:55:43] [Server thread/INFO]: [好玩的party]samS : 嗯对。。。
+2017-08-21 [07:55:47] [Server thread/WARNING]: kissman moved wrongly!
+2017-08-21 [07:55:56] [Server thread/INFO]: [好玩的party]samS : land buy是吧。。。
+2017-08-21 [07:55:59] [Server thread/INFO]: [我是女的]zhumengzhiying : 前两步和原来一样
+2017-08-21 [07:56:06] [Server thread/INFO]: liuliu2008 fell from a high place
+2017-08-21 [07:56:11] [Server thread/INFO]: [我是女的]zhumengzhiying : 最后要放个牌子
+2017-08-21 [07:56:17] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:56:26] [Server thread/INFO]: [我是女的]zhumengzhiying : 第二行打plcmd
+2017-08-21 [07:56:42] [Server thread/INFO]: [我是女的]zhumengzhiying : 第三行打land buy
+2017-08-21 [07:56:56] [Server thread/INFO]: [我是女的]zhumengzhiying : 然后点一下牌子
+2017-08-21 [07:56:57] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [07:56:57] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [07:57:06] [Server thread/INFO]: [好玩的party]Zi_Jian : hi
+2017-08-21 [07:57:07] [Server thread/INFO]: [好玩的party]liuliu2008 : 主播怎么弄到的
+2017-08-21 [07:57:11] [Server thread/INFO]: [我是女的]zhumengzhiying : 就购买完成了
+2017-08-21 [07:57:12] [Server thread/INFO]: [好玩的party]Zi_Jian : 我回来了
+2017-08-21 [07:57:14] [Server thread/INFO]: [SVIP]wuge : sams
+2017-08-21 [07:57:18] [Server thread/INFO]: [好玩的party]samS : 嗯
+2017-08-21 [07:57:21] [Server thread/INFO]: [SVIP]wuge : 你帮我弄
+2017-08-21 [07:57:26] [Server thread/INFO]: [好玩的party]samS : 哦好
+2017-08-21 [07:57:31] [Server thread/INFO]: [SVIP]wuge : 我有健忘症
+2017-08-21 [07:57:34] [Server thread/INFO]: [好玩的party]samS : 。。。。
+2017-08-21 [07:57:37] [Server thread/INFO]: [好玩的party]liuliu2008 : 我也要设计一个
+2017-08-21 [07:57:50] [Server thread/INFO]: [SVIP]wuge : ying
+2017-08-21 [07:57:55] [Server thread/INFO]: [好玩的party]samS : 前两部时什么。。
+2017-08-21 [07:57:59] [Server thread/INFO]: [SVIP]wuge : 你也可以来我家
+2017-08-21 [07:58:03] [Server thread/INFO]: [SVIP]wuge : 住
+2017-08-21 [07:58:07] [Server thread/INFO]: [好玩的party]samS : zhumeng
+2017-08-21 [07:58:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [07:58:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [07:58:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [07:58:23] [Server thread/INFO]: [我是女的]zhumengzhiying : 在第一个点输/startp
+2017-08-21 [07:58:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:58:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [07:58:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [07:58:31] [Server thread/INFO]: [好玩的party]samS : 哦
+2017-08-21 [07:58:34] [Server thread/INFO]: [好玩的party]samS : 然后捏
+2017-08-21 [07:58:42] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [07:58:46] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:58:59] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [07:59:04] [Server thread/INFO]: [好玩的party]samS : 然后捏
+2017-08-21 [07:59:08] [Server thread/INFO]: [我是女的]zhumengzhiying : 在第二个点输/endp
+2017-08-21 [07:59:33] [Server thread/INFO]: [SVIP]wuge : 不错吧
+2017-08-21 [07:59:40] [Server thread/INFO]: [督查者watcher]Zi_Jian : hi
+2017-08-21 [07:59:50] [Server thread/INFO]: [我是女的]zhumengzhiying : zizhang不玩了么
+2017-08-21 [08:00:01] [Server thread/INFO]: [好玩的party]samS : 嗯是的
+2017-08-21 [08:00:08] [Server thread/INFO]: [SVIP]wuge : ying你可以帮我弄吗
+2017-08-21 [08:00:11] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:00:18] [Server thread/INFO]: [好玩的party]samS : 给我一个牌子
+2017-08-21 [08:00:20] [Server thread/INFO]: [好玩的party]samS : wuge
+2017-08-21 [08:00:36] [Server thread/INFO]: [我是女的]zhumengzhiying : 让你守寡了
+2017-08-21 [08:00:42] [Server thread/INFO]: [SSVIP]Zi_Jian : hi
+2017-08-21 [08:00:43] [Server thread/INFO]: [好玩的party]samS : 。。。。
+2017-08-21 [08:01:02] [Server thread/INFO]: [SVIP]wuge : 2008
+2017-08-21 [08:01:15] [Server thread/WARNING]: zhumengzhiying moved wrongly!
+2017-08-21 [08:01:22] [Server thread/INFO]: [SVIP]wuge : 佳好看吗
+2017-08-21 [08:01:27] [Server thread/INFO]: [SVIP]wuge : 我的家
+2017-08-21 [08:01:33] [Server thread/INFO]: [好玩的party]liuliu2008 : OK
+2017-08-21 [08:01:38] [Server thread/INFO]: [好玩的party]kissman : 給我創造啦zi
+2017-08-21 [08:01:50] [Server thread/INFO]: [SVIP]wuge : 要一个点
+2017-08-21 [08:01:54] [Server thread/INFO]: [督察者Watcher]Zi_Jian : hi
+2017-08-21 [08:01:54] [Server thread/INFO]: [好玩的party]samS : 等等这样可以了吗
+2017-08-21 [08:01:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:01:59] [Server thread/INFO]: [好玩的party]kissman : 拜偷
+2017-08-21 [08:02:06] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:02:06] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 这个称号帅
+2017-08-21 [08:02:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:02:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:02:11] [Server thread/WARNING]: zhumengzhiying moved wrongly!
+2017-08-21 [08:02:12] [Server thread/WARNING]: zhumengzhiying moved wrongly!
+2017-08-21 [08:02:20] [Server thread/INFO]: [SVIP]wuge : 要个点
+2017-08-21 [08:02:23] [Server thread/INFO]: Fzt12345678[/123.97.152.20:62494] [ClientID: -4449616216439839282] logged in with entity id 116 at (world, 128, 28, 128)
+2017-08-21 [08:02:25] [Server thread/INFO]: [我是女的]zhumengzhiying : wuge你不会弄？
+2017-08-21 [08:02:30] [Server thread/INFO]: [SVIP]wuge : 嗯
+2017-08-21 [08:02:32] [Server thread/INFO]: Fzt12345678[/123.97.152.20:62494] logged out due to client disconnect
+2017-08-21 [08:02:38] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 我会
+2017-08-21 [08:02:38] [Server thread/INFO]: [我是女的]zhumengzhiying : 跟我来
+2017-08-21 [08:02:41] [Server thread/INFO]: [好玩的party]samS : 再怎么点点
+2017-08-21 [08:03:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:03:09] [Server thread/INFO]: [我是女的]zhumengzhiying : 站在我在的方块上
+2017-08-21 [08:03:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:03:22] [Server thread/INFO]: [我是女的]zhumengzhiying : 输 /startp
+2017-08-21 [08:03:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:03:24] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:24] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:03:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:03:28] [Server thread/INFO]: [好玩的party]liuliu2008 : 帮你改装一下
+2017-08-21 [08:03:29] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:29] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:30] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:30] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:03:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:34] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:34] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:38] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:38] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:38] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:38] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:39] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:39] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:39] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:03:39] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:03:41] [Server thread/INFO]: - kissman is now offline!
+2017-08-21 [08:03:41] [Server thread/INFO]: - kissman 离开了游戏!
+2017-08-21 [08:03:41] [Server thread/INFO]: [AuthMePE] Player kissman has logged out.
+2017-08-21 [08:03:41] [Server thread/INFO]: [AuthMePE] Player kissman 离开了游戏.
+2017-08-21 [08:03:41] [Server thread/INFO]: kissman[/111.249.72.45:62155] logged out due to client disconnect
+2017-08-21 [08:03:48] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:03:49] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 来这里
+2017-08-21 [08:03:49] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:03:52] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 开趴
+2017-08-21 [08:03:57] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 谁要来
+2017-08-21 [08:04:02] [Server thread/INFO]: [我是女的]zhumengzhiying : wuge过来
+2017-08-21 [08:04:16] [Server thread/INFO]: [Zi_Jian: Teleported zhumengzhiying to Zi_Jian]
+2017-08-21 [08:04:16] [Server thread/INFO]: [好玩的party]samS : 怎么点点啊
+2017-08-21 [08:04:30] [Server thread/INFO]: [我是女的]zhumengzhiying : 站那就好
+2017-08-21 [08:04:33] [Server thread/INFO]: [Zi_Jian: Teleported wuge to Zi_Jian]
+2017-08-21 [08:04:35] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:04:41] [Server thread/INFO]: [SVIP]wuge : 考
+2017-08-21 [08:04:44] [Server thread/INFO]: [Zi_Jian: Teleported samS to Zi_Jian]
+2017-08-21 [08:04:52] [Server thread/INFO]: [好玩的party]samS : ？？
+2017-08-21 [08:04:54] [Server thread/INFO]: [SVIP]wuge : 我本身可以弄好的
+2017-08-21 [08:05:01] [Server thread/INFO]: [SVIP]wuge : 啊啊啊啊啊啊啊啊啊啊啊
+2017-08-21 [08:05:07] [Server thread/INFO]: [我是女的]zhumengzhiying : 我也想要创造....
+2017-08-21 [08:05:14] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 这里卖ssvip的称号
+2017-08-21 [08:05:14] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:05:14] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:05:20] [Server thread/INFO]: [SVIP]wuge : 给你玩我的号
+2017-08-21 [08:05:24] [Server thread/INFO]: [SSVIP]samS : 买了。。。
+2017-08-21 [08:05:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:05:35] [Server thread/INFO]: [我是女的]zhumengzhiying : ........
+2017-08-21 [08:05:45] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:05:55] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [08:06:00] [Server thread/INFO]: [我是女的]zhumengzhiying : 玩你的号又没法帮我自己盖城堡
+2017-08-21 [08:06:08] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 我调了晴天
+2017-08-21 [08:06:40] [Server thread/INFO]: [我是女的]zhumengzhiying : 就是可以刷钱....
+2017-08-21 [08:06:50] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 什么
+2017-08-21 [08:06:53] [Server thread/INFO]: [督察者Watcher]Zi_Jian : ⊙∀⊙？
+2017-08-21 [08:06:54] [Server thread/INFO]: Steve[/141.126.63.31:61642] [ClientID: -1112785954852420028] logged in with entity id 171 at (world, 128, 28, 128)
+2017-08-21 [08:06:55] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:07:05] [Server thread/NOTICE]: Player data not found for "availingfox3454", creating new profile
+2017-08-21 [08:07:05] [Server thread/INFO]: AvailingFox3454[/118.180.16.22:45356] [ClientID: -8979264268528852197] logged in with entity id 172 at (world, 128, 28, 128)
+2017-08-21 [08:07:10] [Server thread/INFO]: Steve[/141.126.63.31:61642] logged out due to timeout
+2017-08-21 [08:07:18] [Server thread/INFO]: [我是女的]zhumengzhiying : 反正你给我玩你的号对我帮助不大
+2017-08-21 [08:07:24] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [08:07:28] [Server thread/WARNING]: zhumengzhiying moved wrongly!
+2017-08-21 [08:07:33] [Server thread/INFO]: Steve[/141.126.63.31:61642] [ClientID: -1112785954852420028] logged in with entity id 183 at (world, 128, 28, 128)
+2017-08-21 [08:07:35] [Server thread/INFO]: [SSVIP]samS : 。。。。。。
+2017-08-21 [08:07:40] [Server thread/INFO]: [我是女的]zhumengzhiying : QAQ
+2017-08-21 [08:07:51] [Server thread/INFO]: Steve[/141.126.63.31:61642] logged out due to timeout
+2017-08-21 [08:07:54] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:08:05] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:08:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:08:14] [Server thread/INFO]: [AuthMePE] Player AvailingFox3454 has logged in.
+2017-08-21 [08:08:14] [Server thread/INFO]: [AuthMePE] 玩家 AvailingFox3454 登录了游戏。
+2017-08-21 [08:08:14] [Server thread/INFO]: - AvailingFox3454 is now online!
+2017-08-21 [08:08:14] [Server thread/INFO]: - AvailingFox3454 现在上线了!
+2017-08-21 [08:08:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:08:18] [Server thread/INFO]: * zhumengzhiying 觉得这个party很棒
+2017-08-21 [08:08:20] [Server thread/INFO]: * zhumengzhiying 觉得Zi_Jian棒棒哒
+2017-08-21 [08:08:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:08:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:08:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:08:56] [Server thread/WARNING]: AvailingFox3454 moved wrongly!
+2017-08-21 [08:08:56] [Server thread/INFO]: [SVIP]wuge : 第二个点
+2017-08-21 [08:09:01] [Server thread/INFO]: [SVIP]wuge : 怎么弄
+2017-08-21 [08:09:09] [Server thread/INFO]: AvailingFox3454 fell from a high place
+2017-08-21 [08:09:21] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:09:33] [Server thread/INFO]: [SVIP]wuge : 对不起
+2017-08-21 [08:09:39] [Server thread/INFO]: [SSVIP]samS : 没事
+2017-08-21 [08:09:54] [Server thread/INFO]: [我是女的]zhumengzhiying : 你现在站在房子外面 正对你们家门
+2017-08-21 [08:10:04] [Server thread/INFO]: - AvailingFox3454 is now offline!
+2017-08-21 [08:10:04] [Server thread/INFO]: - AvailingFox3454 离开了游戏!
+2017-08-21 [08:10:04] [Server thread/INFO]: [AuthMePE] Player AvailingFox3454 has logged out.
+2017-08-21 [08:10:04] [Server thread/INFO]: [AuthMePE] Player AvailingFox3454 离开了游戏.
+2017-08-21 [08:10:04] [Server thread/INFO]: AvailingFox3454[/118.180.16.22:45356] logged out due to timeout
+2017-08-21 [08:10:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:10:16] [Server thread/INFO]: [SSVIP]samS : 然后呢
+2017-08-21 [08:10:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:10:27] [Server thread/INFO]: [SVIP]wuge : 还是一个
+2017-08-21 [08:10:48] [Server thread/INFO]: [我是女的]zhumengzhiying : 然后到右边最后一个木头柱子上输 /endp
+2017-08-21 [08:10:53] [Server thread/INFO]: Steve[/183.214.37.138:20731] [ClientID: -5058030229861565425] logged in with entity id 192 at (world, 128, 28, 128)
+2017-08-21 [08:11:01] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:11:06] [Server thread/INFO]: [partyの尊贵客人]Zi_Jian : hi
+2017-08-21 [08:11:10] [Server thread/INFO]: Steve[/183.214.37.138:20731] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:11:17] [Server thread/INFO]: [partyの尊贵客人]Zi_Jian : 新称号
+2017-08-21 [08:11:29] [Server thread/INFO]: Steve[/183.214.37.138:20731] [ClientID: -5058030229861565425] logged in with entity id 193 at (world, 128, 28, 128)
+2017-08-21 [08:11:43] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:11:46] [Server thread/INFO]: Steve[/183.214.37.138:20731] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:12:05] [Server thread/INFO]: Steve[/183.214.37.138:20731] [ClientID: -5058030229861565425] logged in with entity id 195 at (world, 128, 28, 128)
+2017-08-21 [08:12:22] [Server thread/INFO]: Steve[/183.214.37.138:20731] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:12:24] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:12:39] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:12:41] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:13:00] [Server thread/INFO]: [SSVIP]samS : 我已经花了200了
+2017-08-21 [08:13:02] [Server thread/INFO]: [SVIP]wuge : 可以了
+2017-08-21 [08:13:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:13:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:13:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:13:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:13:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:13:28] [Server thread/INFO]: [SVIP]wuge : 我要去 part 片
+2017-08-21 [08:13:31] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:13:47] [Server thread/INFO]: [籽鉴的男♂粉丝]Zi_Jian : hi
+2017-08-21 [08:14:06] [Server thread/INFO]: [SSVIP]samS : wuge
+2017-08-21 [08:14:08] [Server thread/INFO]: [SSVIP]samS : 可以了吗
+2017-08-21 [08:14:14] [Server thread/INFO]: [SVIP]wuge : 可以了
+2017-08-21 [08:14:18] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:14:25] [Server thread/INFO]: [SSVIP]samS : 哦
+2017-08-21 [08:14:37] [Server thread/INFO]: [SVIP]wuge : 你娃个东西实施
+2017-08-21 [08:14:46] [Server thread/INFO]: [SSVIP]samS : 刚挖了
+2017-08-21 [08:14:53] [Server thread/INFO]: [SSVIP]samS : 能挖掉啊。。。
+2017-08-21 [08:15:13] [Server thread/INFO]: [籽鉴的女♀粉丝]Zi_Jian : hi
+2017-08-21 [08:15:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:30] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:31] [Server thread/INFO]: [SVIP]wuge : 额
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:31] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:32] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:33] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:15:34] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:15:34] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:16:21] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:16:22] [Server thread/INFO]: [SVIP]wuge : 我家有一半
+2017-08-21 [08:16:25] [Server thread/INFO]: [SVIP]wuge : 是你的
+2017-08-21 [08:16:30] [Server thread/INFO]: [SSVIP]samS : ？？？
+2017-08-21 [08:16:36] [Server thread/INFO]: [SVIP]wuge : 有一帮是我的
+2017-08-21 [08:16:38] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:17:03] [Server thread/INFO]: snowball0913[/117.82.97.95:27648] [ClientID: -5833097095930266693] logged in with entity id 222 at (world, -28, 67, 128)
+2017-08-21 [08:17:17] [Server thread/INFO]: [AuthMePE] Player snowball0913 has logged in.
+2017-08-21 [08:17:17] [Server thread/INFO]: [AuthMePE] 玩家 snowball0913 登录了游戏。
+2017-08-21 [08:17:17] [Server thread/INFO]: - snowball0913 is now online!
+2017-08-21 [08:17:17] [Server thread/INFO]: - snowball0913 现在上线了!
+2017-08-21 [08:17:37] [Server thread/INFO]: [SSVIP]samS : 没事反正也没人来着
+2017-08-21 [08:17:41] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:17:43] [Server thread/INFO]: [SVIP]wuge : 额
+2017-08-21 [08:17:59] [Server thread/INFO]: [SSVIP]samS : 这个床。。
+2017-08-21 [08:18:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:18:08] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:18:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:18:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:18:23] [Server thread/INFO]: [Rainbow]Zi_Jian : hi
+2017-08-21 [08:18:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:18:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:18:28] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:18:28] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:18:32] [Server thread/INFO]: [Rainbow]Zi_Jian : 我来自彩虹
+2017-08-21 [08:19:03] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:19:04] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:19:06] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 有人吗
+2017-08-21 [08:19:11] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:19:12] [Server thread/INFO]: [我是女的]zhumengzhiying : 有
+2017-08-21 [08:19:19] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 来party
+2017-08-21 [08:19:29] [Server thread/INFO]: [我是女的]zhumengzhiying : 等等
+2017-08-21 [08:19:34] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 我调晴天
+2017-08-21 [08:19:44] [Server thread/INFO]: [Zi_Jian: Set the time to 0]
+2017-08-21 [08:20:08] [Server thread/INFO]: [SSVIP]samS : 我要淡蓝色的。。。
+2017-08-21 [08:20:23] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 什么
+2017-08-21 [08:20:29] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:20:31] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:20:46] [Server thread/INFO]: [SSVIP]samS : 不是。。。
+2017-08-21 [08:20:53] [Server thread/INFO]: [SSVIP]samS : 我和wuge
+2017-08-21 [08:20:59] [Server thread/INFO]: [SVIP]wuge : 嗯
+2017-08-21 [08:21:04] [Server thread/INFO]: [SVIP]wuge : 这
+2017-08-21 [08:21:12] [Server thread/INFO]: [SSVIP]samS : 。。。。
+2017-08-21 [08:21:19] [Server thread/INFO]: [SSVIP]samS :  可以。。
+2017-08-21 [08:21:25] [Server thread/INFO]: [SVIP]wuge : 嘿嘿
+2017-08-21 [08:21:25] [Server thread/INFO]: [SSVIP]samS : 颜色
+2017-08-21 [08:21:31] [Server thread/INFO]: [SSVIP]samS : 可以换吗
+2017-08-21 [08:21:44] [Server thread/INFO]: [SVIP]wuge : 可以
+2017-08-21 [08:21:58] [Server thread/INFO]: [SSVIP]samS : 我要淡蓝色的行吗。。。
+2017-08-21 [08:22:07] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]Zi_Jian : wow
+2017-08-21 [08:22:09] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:22:14] [Server thread/INFO]: [SSVIP]samS : 。。。。。。。。
+2017-08-21 [08:22:56] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:22:57] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:22:57] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:22:58] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:22:58] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:22:58] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:23:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:23:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:23:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:23:27] [Server thread/INFO]: [SSVIP]samS : 。。。。hh可以的
+2017-08-21 [08:23:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:23:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理8个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:23:49] [Server thread/INFO]: [我的字是姨妈色的⊙∀⊙！]Zi_Jian : hi
+2017-08-21 [08:23:57] [Server thread/INFO]: [SSVIP]samS : 。。。。
+2017-08-21 [08:24:00] [Server thread/INFO]: [我是女的]zhumengzhiying : 咳咳
+2017-08-21 [08:24:06] [Server thread/INFO]: [SVIP]wuge : 我要去 party
+2017-08-21 [08:24:16] [Server thread/INFO]: [Zi_Jian: Teleported wuge to Zi_Jian]
+2017-08-21 [08:24:38] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:24:38] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:24:57] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:25:11] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:25:17] [Server thread/INFO]: [SSVIP]wuge : ying你想来我家住吗？
+2017-08-21 [08:25:24] [Server thread/INFO]: [我的字是帽子绿的⊙∀⊙！]Zi_Jian : hi
+2017-08-21 [08:25:27] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:25:30] [Server thread/INFO]: [我是女的]zhumengzhiying : 不用了
+2017-08-21 [08:25:33] [Server thread/INFO]: Steve[/183.198.30.235:21823] [ClientID: -8036785565669684859] logged in with entity id 590 at (th, 130, 65, 131)
+2017-08-21 [08:25:39] [Server thread/INFO]: [SSVIP]samS : 原谅色。。。。。
+2017-08-21 [08:25:42] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:25:42] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:25:45] [Server thread/WARNING]: wuge moved too fast, reverting movement
+2017-08-21 [08:25:48] [Server thread/INFO]: [我是女的]zhumengzhiying : 不要用“绿的”
+2017-08-21 [08:25:51] [Server thread/INFO]: Steve[/183.198.30.235:21823] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:25:56] [Server thread/INFO]: [我是女的]zhumengzhiying : 用原谅色
+2017-08-21 [08:26:03] [Server thread/INFO]: [SSVIP]samS : 。。。。
+2017-08-21 [08:26:24] [Server thread/INFO]: [我的字是本子黄的⊙∀⊙！]Zi_Jian : hi
+2017-08-21 [08:26:30] [Server thread/INFO]: [我是女的]zhumengzhiying : ........
+2017-08-21 [08:26:35] [Server thread/INFO]: [SSVIP]samS : 。。。。
+2017-08-21 [08:26:50] [Server thread/INFO]: [SSVIP]samS : 有没有基佬紫。。。。
+2017-08-21 [08:26:50] [Server thread/INFO]: [我是女的]zhumengzhiying : 这人好坏...
+2017-08-21 [08:27:08] [Server thread/INFO]: [我是女的]zhumengzhiying : 对对对基佬紫
+2017-08-21 [08:27:24] [Server thread/INFO]: [SSVIP]samS : hh真的是
+2017-08-21 [08:27:33] [Server thread/WARNING]: samS moved wrongly!
+2017-08-21 [08:27:39] [Server thread/INFO]: []Zi_Jian : hi
+2017-08-21 [08:27:52] [Server thread/INFO]: [SSVIP]wuge : 你想死
+2017-08-21 [08:27:59] [Server thread/INFO]: [SSVIP]wuge : 对不对
+2017-08-21 [08:28:01] [Server thread/INFO]: ARTICUNO female[/24.52.9.66:62991] logged out due to Invalid name!
+2017-08-21 [08:28:06] [Server thread/INFO]: [-老司机-]snowball0913 : 这个服怎么回事
+2017-08-21 [08:28:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:28:17] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:28:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:28:21] [Server thread/INFO]: ARTICUNO female[/24.52.9.66:62991] logged out due to Invalid name!
+2017-08-21 [08:28:21] [Server thread/INFO]: [我是女的]zhumengzhiying : wuge男的女的
+2017-08-21 [08:28:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:28:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:28:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:28:32] [Server thread/INFO]: [SSVIP]wuge : 你猜
+2017-08-21 [08:28:38] [Server thread/INFO]: [SSVIP]samS : 。。。。
+2017-08-21 [08:28:42] [Server thread/INFO]: - liuliu2008 is now offline!
+2017-08-21 [08:28:42] [Server thread/INFO]: - liuliu2008 离开了游戏!
+2017-08-21 [08:28:42] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged out.
+2017-08-21 [08:28:42] [Server thread/INFO]: [AuthMePE] Player liuliu2008 离开了游戏.
+2017-08-21 [08:28:42] [Server thread/INFO]: liuliu2008[/101.87.230.230:52712] logged out due to timeout
+2017-08-21 [08:28:47] [Server thread/INFO]: [我是女的]zhumengzhiying : 别人让我猜
+2017-08-21 [08:28:57] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]Zi_Jian : hi
+2017-08-21 [08:29:00] [Server thread/INFO]: [SSVIP]wuge : 哦
+2017-08-21 [08:29:04] [Server thread/INFO]: [-老司机-]snowball0913 : 现在怎么去商店买东西
+2017-08-21 [08:29:04] [Server thread/INFO]: [我是女的]zhumengzhiying : 我都会说是中性人
+2017-08-21 [08:29:04] [Server thread/INFO]: [SSVIP]wuge : 那你说
+2017-08-21 [08:29:30] [Server thread/INFO]: liuliu2008[/101.87.228.242:52712] [ClientID: 6961735811638613043] logged in with entity id 629 at (world, 132.0839, 70, 115.6691)
+2017-08-21 [08:29:31] [Server thread/INFO]: [SSVIP]wuge : 女的
+2017-08-21 [08:29:34] [Server thread/INFO]: [SSVIP]samS : summer 是女的吗
+2017-08-21 [08:29:36] [Server thread/INFO]: [SSVIP]wuge : 你信吗？
+2017-08-21 [08:29:40] [Server thread/INFO]: DTZF[/113.195.162.112:19431] [ClientID: 5275645616464994948] logged in with entity id 630 at (world, -167.193, 70, 238.0503)
+2017-08-21 [08:29:43] [Server thread/INFO]: [AuthMePE] Player DTZF has logged in.
+2017-08-21 [08:29:43] [Server thread/INFO]: [AuthMePE] 玩家 DTZF 登录了游戏。
+2017-08-21 [08:29:43] [Server thread/INFO]: - DTZF is now online!
+2017-08-21 [08:29:43] [Server thread/INFO]: - DTZF 现在上线了!
+2017-08-21 [08:29:45] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
+2017-08-21 [08:29:45] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
+2017-08-21 [08:29:45] [Server thread/INFO]: - liuliu2008 is now online!
+2017-08-21 [08:29:45] [Server thread/INFO]: - liuliu2008 现在上线了!
+2017-08-21 [08:29:59] [Server thread/INFO]: [我是女的]zhumengzhiying : 不认识summer
+2017-08-21 [08:30:27] [Server thread/INFO]: DTZF : hi
+2017-08-21 [08:30:32] [Server thread/INFO]: [SSVIP]samS : wuge我下了～
+2017-08-21 [08:30:38] [Server thread/INFO]: [SSVIP]wuge : 为啥
+2017-08-21 [08:30:48] [Server thread/INFO]: [SSVIP]samS : 有点事
+2017-08-21 [08:30:58] [Server thread/NOTICE]: Player data not found for "sasuke999", creating new profile
+2017-08-21 [08:30:58] [Server thread/INFO]: sasuke999[/93.169.96.53:1467] [ClientID: 8488707177494057682] logged in with entity id 631 at (world, 128, 28, 128)
+2017-08-21 [08:30:59] [Server thread/INFO]: [SSVIP]wuge : 我知道的
+2017-08-21 [08:31:00] [Server thread/INFO]: [我是女的]zhumengzhiying : 丝袜黑
+2017-08-21 [08:31:01] [Server thread/INFO]: [SSVIP]samS : 表还没打出来。。。。
+2017-08-21 [08:31:01] [Server thread/INFO]: DTZF : SSVIP
+2017-08-21 [08:31:03] [Server thread/INFO]: [SSVIP]wuge : 对吧
+2017-08-21 [08:31:05] [Server thread/INFO]: DTZF : ??
+2017-08-21 [08:31:08] [Server thread/INFO]: [SSVIP]wuge : 额
+2017-08-21 [08:31:09] [Server thread/INFO]: liuliu2008 died
+2017-08-21 [08:31:16] [Server thread/INFO]: [我的字是隐形灰的⊙∀⊙！]Zi_Jian : hi
+2017-08-21 [08:31:21] [Server thread/INFO]: [-老司机-]snowball0913 : 怎么去商店啊！！！！！
+2017-08-21 [08:31:24] [Server thread/INFO]: DTZF : hi
+2017-08-21 [08:31:28] [Server thread/INFO]: [SSVIP]samS : 拜拜～打表去了。。。。
+2017-08-21 [08:31:29] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:31:33] [Server thread/INFO]: [我是女的]zhumengzhiying : 不咋滴隐形
+2017-08-21 [08:31:37] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:31:39] [Server thread/INFO]: [我是女的]zhumengzhiying : 我也下了
+2017-08-21 [08:31:42] [Server thread/INFO]: - samS is now offline!
+2017-08-21 [08:31:42] [Server thread/INFO]: - samS 离开了游戏!
+2017-08-21 [08:31:42] [Server thread/INFO]: [AuthMePE] Player samS has logged out.
+2017-08-21 [08:31:42] [Server thread/INFO]: [AuthMePE] Player samS 离开了游戏.
+2017-08-21 [08:31:42] [Server thread/INFO]: samS[/112.8.10.200:27039] logged out due to client disconnect
+2017-08-21 [08:31:50] [Server thread/INFO]: DTZF : 怎么弄称号
+2017-08-21 [08:31:51] [Server thread/INFO]: [我是女的]zhumengzhiying : 我现在还躺在床上
+2017-08-21 [08:31:53] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : zi jian
+2017-08-21 [08:32:05] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 你是不是想屎了
+2017-08-21 [08:32:20] [Server thread/INFO]: sasuke999[/93.169.96.53:1467] logged out due to client disconnect
+2017-08-21 [08:32:26] [Server thread/INFO]: - zhumengzhiying is now offline!
+2017-08-21 [08:32:26] [Server thread/INFO]: - zhumengzhiying 离开了游戏!
+2017-08-21 [08:32:26] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying has logged out.
+2017-08-21 [08:32:26] [Server thread/INFO]: [AuthMePE] Player zhumengzhiying 离开了游戏.
+2017-08-21 [08:32:26] [Server thread/INFO]: zhumengzhiying[/125.73.199.200:21946] logged out due to client disconnect
+2017-08-21 [08:32:39] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:32:39] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:32:39] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我也不玩了
+2017-08-21 [08:32:40] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:32:41] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:32:42] [Server thread/INFO]: DTZF : 怎么弄的？？？
+2017-08-21 [08:32:43] [Server thread/INFO]: - wuge is now offline!
+2017-08-21 [08:32:43] [Server thread/INFO]: - wuge 离开了游戏!
+2017-08-21 [08:32:43] [Server thread/INFO]: [AuthMePE] Player wuge has logged out.
+2017-08-21 [08:32:43] [Server thread/INFO]: [AuthMePE] Player wuge 离开了游戏.
+2017-08-21 [08:32:43] [Server thread/INFO]: wuge[/113.73.28.204:57157] logged out due to client disconnect
+2017-08-21 [08:32:47] [Server thread/INFO]: DTZF : 呃呃
+2017-08-21 [08:32:53] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:33:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:33:09] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 谁在线
+2017-08-21 [08:33:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:33:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:33:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:33:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理7个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:33:31] [Server thread/INFO]: [SSVIP]liuliu2008 : hi
+2017-08-21 [08:34:09] [Server thread/INFO]: DTZF : 你们怎么弄的
+2017-08-21 [08:34:26] [Server thread/INFO]: NANAzk33[/124.131.85.9:27868] [ClientID: -8861141070204933451] logged in with entity id 764 at (world, 128, 28, 128)
+2017-08-21 [08:34:29] [Server thread/INFO]: [Zi_Jian: Teleported DTZF to Zi_Jian]
+2017-08-21 [08:34:38] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:34:43] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:34:43] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:35:12] [Server thread/INFO]: DTZF : 呃呃
+2017-08-21 [08:35:14] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:35:16] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:35:16] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:35:40] [Server thread/INFO]: [AuthMePE] Player NANAzk33 has logged in.
+2017-08-21 [08:35:40] [Server thread/INFO]: [AuthMePE] 玩家 NANAzk33 登录了游戏。
+2017-08-21 [08:35:40] [Server thread/INFO]: - NANAzk33 is now online!
+2017-08-21 [08:35:40] [Server thread/INFO]: - NANAzk33 现在上线了!
+2017-08-21 [08:35:42] [Server thread/INFO]: [SSVIP]DTZF : 呃呃
+2017-08-21 [08:36:04] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 呃呃
+2017-08-21 [08:36:10] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 666
+2017-08-21 [08:36:16] [Server thread/INFO]: [性别♀不明♂]Zi_Jian : hi
+2017-08-21 [08:36:30] [Server thread/INFO]: - liuliu2008 is now offline!
+2017-08-21 [08:36:30] [Server thread/INFO]: - liuliu2008 离开了游戏!
+2017-08-21 [08:36:30] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged out.
+2017-08-21 [08:36:30] [Server thread/INFO]: [AuthMePE] Player liuliu2008 离开了游戏.
+2017-08-21 [08:36:30] [Server thread/INFO]: liuliu2008[/101.87.228.242:52712] logged out due to client disconnect
+2017-08-21 [08:36:32] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:36:50] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:37:04] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:37:04] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:37:08] [Server thread/WARNING]: DTZF moved wrongly!
+2017-08-21 [08:37:33] [Server thread/INFO]: snowball0913 has just earned the achievement Time to Mine!
+2017-08-21 [08:38:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:38:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:38:19] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:38:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:38:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:38:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:38:28] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:38:32] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:38:32] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:38:33] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:38:34] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:38:35] [Server thread/INFO]: [萌萌哒]Zi_Jian : hi
+2017-08-21 [08:38:40] [Server thread/INFO]: sin[/111.242.69.126:63834] [ClientID: -652737209171362336] logged in with entity id 917 at (th, 131.6806, 83, 89.3119)
+2017-08-21 [08:38:47] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 哈喽
+2017-08-21 [08:38:49] [Server thread/INFO]: [AuthMePE] Player sin has logged in.
+2017-08-21 [08:38:49] [Server thread/INFO]: [AuthMePE] 玩家 sin 登录了游戏。
+2017-08-21 [08:38:49] [Server thread/INFO]: - sin is now online!
+2017-08-21 [08:38:49] [Server thread/INFO]: - sin 现在上线了!
+2017-08-21 [08:38:59] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 吓死你
+2017-08-21 [08:39:04] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 我们的称号
+2017-08-21 [08:39:14] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:39:17] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 你干脆写个him
+2017-08-21 [08:39:25] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:39:26] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:39:29] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:39:30] [Server thread/INFO]: [-老司机-]snowball0913 : 没错
+2017-08-21 [08:39:46] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:39:47] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:39:48] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 来换称号吧
+2017-08-21 [08:39:49] [Server thread/INFO]: [-老司机-]snowball0913 : 有本事你写个him
+2017-08-21 [08:39:57] [Server thread/INFO]: [督察者Watcher]Zi_Jian : him
+2017-08-21 [08:40:02] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:40:02] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:40:05] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:40:07] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 用白色
+2017-08-21 [08:40:29] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 白色恐惧 him
+2017-08-21 [08:40:39] [Server thread/INFO]: [-老司机-]snowball0913 : 再有本事换成him的皮肤
+2017-08-21 [08:40:40] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:40:55] [Server thread/INFO]: [/112.14.101.217:16255] logged out due to timeout
+2017-08-21 [08:40:59] [Server thread/INFO]: liuliu2008[/101.87.228.242:52712] [ClientID: 6961735811638613043] logged in with entity id 957 at (th, -148.208, 64, 182.534)
+2017-08-21 [08:40:59] [Server thread/INFO]: snowball0913 has just earned the achievement Getting an Upgrade
+2017-08-21 [08:41:02] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:41:05] [Server thread/INFO]: [AuthMePE] Player liuliu2008 has logged in.
+2017-08-21 [08:41:05] [Server thread/INFO]: [AuthMePE] 玩家 liuliu2008 登录了游戏。
+2017-08-21 [08:41:05] [Server thread/INFO]: - liuliu2008 is now online!
+2017-08-21 [08:41:05] [Server thread/INFO]: - liuliu2008 现在上线了!
+2017-08-21 [08:41:14] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:41:14] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:41:16] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:41:27] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:41:27] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:42:03] [Server thread/INFO]: [Herobrine]Zi_Jian : hi
+2017-08-21 [08:42:13] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 呃呃
+2017-08-21 [08:42:30] [Server thread/INFO]: [Herobrine]Zi_Jian : 这样
+2017-08-21 [08:42:34] [Server thread/INFO]: [Herobrine]Zi_Jian : ¬_¬｀
+2017-08-21 [08:42:37] [Server thread/INFO]: [Herobrine]Zi_Jian : m
+2017-08-21 [08:42:44] [Server thread/INFO]: [Herobrine]Zi_Jian : hi
+2017-08-21 [08:42:51] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:43:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:43:10] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:43:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:43:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:43:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:43:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:43:42] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:43:48] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:43:57] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:44:18] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 谁能告诉我怎么圈地
+2017-08-21 [08:44:22] [Server thread/INFO]: [死神–灵魂收割者]Zi_Jian : gi
+2017-08-21 [08:44:28] [Server thread/INFO]: [死神–灵魂收割者]Zi_Jian : hi
+2017-08-21 [08:44:32] [Server thread/INFO]: NANAzk33 : 这小镇是被炸过吗
+2017-08-21 [08:44:32] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 呃呃
+2017-08-21 [08:44:36] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 酷
+2017-08-21 [08:45:10] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 怎么圈地
+2017-08-21 [08:45:14] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:45:14] [Server thread/INFO]: [Zi_Jian: Given Command Block (137:0) * 64 to Zi_Jian]
+2017-08-21 [08:45:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:45:26] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:45:33] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:45:41] [Server thread/INFO]: [Zi_Jian: Given Command Block (137:0) * 64 to Zi_Jian]
+2017-08-21 [08:46:26] [Server thread/INFO]: [sin: Set own game mode to Survival Mode]
+2017-08-21 [08:46:40] [Server thread/NOTICE]: Player data not found for "noob321", creating new profile
+2017-08-21 [08:46:40] [Server thread/INFO]: noob321[/42.2.67.159:52632] [ClientID: -5422026629681300673] logged in with entity id 1051 at (world, 128, 28, 128)
+2017-08-21 [08:46:43] [Server thread/INFO]: [Zi_Jian: Teleported sin to Zi_Jian]
+2017-08-21 [08:47:03] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:47:14] [Server thread/INFO]: Steve[/106.112.68.244:5311] [ClientID: -8050845923593637409] logged in with entity id 1053 at (th, 130, 65, 131)
+2017-08-21 [08:47:16] [Server thread/INFO]: sin : 你怎麼強制传送
+2017-08-21 [08:47:17] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:47:22] [Server thread/INFO]: [Zi_Jian: Teleported sin to Zi_Jian]
+2017-08-21 [08:47:24] [Server thread/INFO]: sin fell from a high place
+2017-08-21 [08:47:29] [Server thread/INFO]: [督察者Watcher]Zi_Jian : ............
+2017-08-21 [08:47:31] [Server thread/INFO]: Steve[/106.112.68.244:5311] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:47:42] [Server thread/INFO]: [sin: Set own game mode to Creative Mode]
+2017-08-21 [08:47:48] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 我以为你要过来
+2017-08-21 [08:47:49] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 子jian教我
+2017-08-21 [08:47:52] [Server thread/INFO]: sin : 怎麼用的
+2017-08-21 [08:47:59] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 怎么圈地
+2017-08-21 [08:48:02] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:48:04] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:48:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:48:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:48:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:48:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:48:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:48:28] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:48:45] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:48:58] [Server thread/INFO]: NANAzk33 : 圈地干嘛
+2017-08-21 [08:49:00] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:49:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:49:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:49:36] [Server thread/INFO]: NANAzk33 has just earned the achievement Getting Wood
+2017-08-21 [08:49:48] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:49:55] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : Zi_jian
+2017-08-21 [08:49:58] [Server thread/INFO]: [Zi_Jian: Set own game mode to Survival Mode]
+2017-08-21 [08:50:06] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 教我
+2017-08-21 [08:50:10] [Server thread/INFO]: swp[/153.35.189.59:63148] [ClientID: 7013911024529605075] logged in with entity id 1133 at (th, 124.4538, 65, 108.1324)
+2017-08-21 [08:50:12] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 打我
+2017-08-21 [08:50:18] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 好吗？
+2017-08-21 [08:50:25] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 打我
+2017-08-21 [08:50:28] [Server thread/INFO]: swp[/153.35.189.59:63148] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:50:35] [Server thread/INFO]: [sin: Set own game mode to Survival Mode]
+2017-08-21 [08:50:39] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:50:46] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 打我呀
+2017-08-21 [08:50:46] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:50:48] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:50:50] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:50:50] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:50:52] [Server thread/INFO]: snowball0913 fell out of the world
+2017-08-21 [08:50:52] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:50:53] [Server thread/INFO]: swp[/153.35.189.59:63148] [ClientID: 7013911024529605075] logged in with entity id 1141 at (world, 128, 28, 128)
+2017-08-21 [08:50:54] [Server thread/INFO]: sin was slain by Zi_Jian
+2017-08-21 [08:51:03] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 成功了
+2017-08-21 [08:51:03] [Server thread/INFO]: [AuthMePE] Player swp has logged in.
+2017-08-21 [08:51:03] [Server thread/INFO]: [AuthMePE] 玩家 swp 登录了游戏。
+2017-08-21 [08:51:03] [Server thread/INFO]: - swp is now online!
+2017-08-21 [08:51:03] [Server thread/INFO]: - swp 现在上线了!
+2017-08-21 [08:51:08] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:51:09] [Server thread/WARNING]: Zi_Jian moved wrongly!
+2017-08-21 [08:51:11] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:51:20] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:51:21] [Server thread/INFO]: sin : 你買一級秒殺
+2017-08-21 [08:51:24] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:51:24] [Server thread/WARNING]: swp moved wrongly!
+2017-08-21 [08:51:24] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:51:24] [Server thread/WARNING]: swp moved wrongly!
+2017-08-21 [08:51:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:51:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:51:35] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 不是
+2017-08-21 [08:51:38] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 这么土
+2017-08-21 [08:51:47] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 是指令
+2017-08-21 [08:51:50] [Server thread/INFO]: [督察者Watcher]Zi_Jian : effect
+2017-08-21 [08:51:52] [Server thread/INFO]: sin : 商店修好了？
+2017-08-21 [08:52:00] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:52:01] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 这是指令
+2017-08-21 [08:52:06] [Server thread/INFO]: [督察者Watcher]Zi_Jian : effect指令
+2017-08-21 [08:52:14] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 有卖的地方吗
+2017-08-21 [08:52:21] [Server thread/INFO]: [-老司机-]snowball0913 : 干什么
+2017-08-21 [08:52:22] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 没
+2017-08-21 [08:52:36] [Server thread/INFO]: swp : 你家被炸过
+2017-08-21 [08:52:38] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 造诣个呗
+2017-08-21 [08:52:45] [Server thread/WARNING]: Zi_Jian moved wrongly!
+2017-08-21 [08:52:46] [Server thread/WARNING]: DTZF moved wrongly!
+2017-08-21 [08:52:52] [Server thread/WARNING]: DTZF moved wrongly!
+2017-08-21 [08:52:56] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerInteractEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282 on QituShop\QituShop
+2017-08-21 [08:52:56] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/pmmp/plugins/超级商店.phar/src/QituShop/QituShop.php on line 282" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-08-21 [08:52:57] [Server thread/WARNING]: Zi_Jian moved wrongly!
+2017-08-21 [08:53:00] [Server thread/WARNING]: Zi_Jian moved wrongly!
+2017-08-21 [08:53:06] [Server thread/INFO]: [-老司机-]snowball0913 : 本来是有的
+2017-08-21 [08:53:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:53:13] [Server thread/INFO]: [sin: Set own game mode to Creative Mode]
+2017-08-21 [08:53:13] [Server thread/INFO]: TitianSleet2424[/36.40.28.153:34102] [ClientID: -1770381691193146152] logged in with entity id 1258 at (th, 109.9802, 63.2848, 102.451)
+2017-08-21 [08:53:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:53:19] [Server thread/WARNING]: Zi_Jian moved wrongly!
+2017-08-21 [08:53:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:53:23] [Server thread/INFO]: [AuthMePE] Player TitianSleet2424 has logged in.
+2017-08-21 [08:53:23] [Server thread/INFO]: [AuthMePE] 玩家 TitianSleet2424 登录了游戏。
+2017-08-21 [08:53:23] [Server thread/INFO]: - TitianSleet2424 is now online!
+2017-08-21 [08:53:23] [Server thread/INFO]: - TitianSleet2424 现在上线了!
+2017-08-21 [08:53:24] [Server thread/INFO]: noob321[/42.2.67.159:52632] logged out due to client disconnect
+2017-08-21 [08:53:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:53:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理19个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:53:28] [Server thread/WARNING]: DTZF moved wrongly!
+2017-08-21 [08:53:29] [Server thread/INFO]: swp : 我又炸了一次
+2017-08-21 [08:53:44] [Server thread/WARNING]: TitianSleet2424 moved too fast, reverting movement
+2017-08-21 [08:53:46] [Server thread/INFO]: swp : 和另一个老司机
+2017-08-21 [08:53:54] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:06] [Server thread/WARNING]: swp moved wrongly!
+2017-08-21 [08:54:09] [Server thread/INFO]: NANAzk33 : ，，，这个群。不能加
+2017-08-21 [08:54:17] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:17] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:21] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:22] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:34] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 来打死我
+2017-08-21 [08:54:36] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:37] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:37] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:46] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:53] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:54:55] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 打死我
+2017-08-21 [08:55:02] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 用钻见
+2017-08-21 [08:55:02] [Server thread/WARNING]: DTZF moved wrongly!
+2017-08-21 [08:55:10] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:55:12] [Server thread/INFO]: [督察者Watcher]Zi_Jian : hh
+2017-08-21 [08:55:19] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:55:32] [Server thread/INFO]: NANAzk33 has just earned the achievement Benchmarking
+2017-08-21 [08:55:38] [Server thread/INFO]: sin : 打不死
+2017-08-21 [08:55:41] [Server thread/INFO]: [督察者Watcher]Zi_Jian : hh
+2017-08-21 [08:55:50] [Server thread/INFO]: [Zi_Jian: Set own game mode to Creative Mode]
+2017-08-21 [08:55:52] [Server thread/INFO]: sin : 你又用了啥
+2017-08-21 [08:56:00] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:56:11] [Server thread/WARNING]: TitianSleet2424 moved wrongly!
+2017-08-21 [08:56:15] [Server thread/INFO]: - TitianSleet2424 is now offline!
+2017-08-21 [08:56:15] [Server thread/INFO]: - TitianSleet2424 离开了游戏!
+2017-08-21 [08:56:15] [Server thread/INFO]: [AuthMePE] Player TitianSleet2424 has logged out.
+2017-08-21 [08:56:15] [Server thread/INFO]: [AuthMePE] Player TitianSleet2424 离开了游戏.
+2017-08-21 [08:56:15] [Server thread/INFO]: TitianSleet2424[/36.40.28.153:34102] logged out due to client disconnect
+2017-08-21 [08:56:15] [Server thread/INFO]: NANAzk33 has just earned the achievement Time to Mine!
+2017-08-21 [08:56:23] [Server thread/INFO]: sin : 現在指令怎麼多了這些
+2017-08-21 [08:56:27] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:56:39] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:56:40] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:56:51] [Server thread/INFO]: [Zi_Jian: Set own game mode to Survival Mode]
+2017-08-21 [08:56:52] [Server thread/WARNING]: DTZF moved wrongly!
+2017-08-21 [08:57:01] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:57:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:57:28] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 放个铁砧
+2017-08-21 [08:57:34] [Server thread/INFO]: DTZF was killed by magic
+2017-08-21 [08:57:46] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 我的发科
+2017-08-21 [08:57:52] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-08-21 [08:57:53] [Server thread/INFO]: sin : 藥水也殺不死
+2017-08-21 [08:57:55] [Server thread/WARNING]: swp moved wrongly!
+2017-08-21 [08:57:59] [Server thread/INFO]: [我的字是淡蓝色的⊙∀⊙！]DTZF : 谢特
+2017-08-21 [08:58:02] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:58:05] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:58:05] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-08-21 [08:58:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-21 [08:58:09] [Server thread/INFO]: swp was killed by magic
+2017-08-21 [08:58:10] [Server thread/INFO]: Flylo_lol[/183.216.102.48:53928] [ClientID: -6286819449924982683] logged in with entity id 1568 at (world, 127.1351, 64.9948, 122.8438)
+2017-08-21 [08:58:14] [Server thread/INFO]: [督察者Watcher]Zi_Jian : 给我放个铁砧
+2017-08-21 [08:58:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-21 [08:58:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-21 [08:58:23] [Server thread/INFO]: BigmAnguY!!'[/174.55.229.45:58963] logged out due to Invalid name!
+2017-08-21 [08:58:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-21 [08:58:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-08-21 [08:58:32] [Server thread/INFO]: - DTZF is now offline!
+2017-08-21 [08:58:32] [Server thread/INFO]: - DTZF 离开了游戏!
+2017-08-21 [08:58:32] [Server thread/INFO]: [AuthMePE] Player DTZF has logged out.
+2017-08-21 [08:58:32] [Server thread/INFO]: [AuthMePE] Player DTZF 离开了游戏.
+2017-08-21 [08:58:32] [Server thread/INFO]: DTZF[/113.195.162.112:19431] logged out due to timeout
+2017-08-21 [08:58:36] [Server thread/INFO]: Steve[/221.200.18.48:54514] [ClientID: 6071354573434241526] logged in with entity id 1575 at (world, 128, 28, 128)
+2017-08-21 [08:58:41] [Server thread/INFO]: BigmAnguY!!'[/174.55.229.45:58963] logged out due to Invalid name!
+2017-08-21 [08:58:48] [Server thread/INFO]: Flylo_lol[/183.216.102.48:53928] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:58:52] [Server thread/INFO]: Steve[/221.200.18.48:54514] logged out due to Kicked by admin. Reason: Time out!
+2017-08-21 [08:58:55] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-08-21 [08:59:02] [Server thread/INFO]: Steve[/221.200.18.48:54514] [ClientID: 6071354573434241526] logged in with entity id 1621 at (world, 128, 28, 128)
