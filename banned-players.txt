@@ -1,4 +1,4 @@
-# Updated 08/22/17 12:02 by GenisysPro 1.1devc47625b
+# Updated 08/22/17 16:25 by GenisysPro 1.1devc47625b
 # victim name | ban date | banned by | banned until | reason
 
 i# updated 08/16/17 15:51 by genisyspro 1.1devc47625b|2017-08-16 08:15:09 +0000|(Unknown)|Forever|Banned by an operator.
@@ -31,7 +31,6 @@ ri|2017-08-22 10:02:51 +0800|Zi_Jian|Forever|Banned by an operator.
 ricardo|2017-08-22 10:03:03 +0800|Zi_Jian|Forever|Banned by an operator.
 no|2017-08-22 10:11:44 +0800|555555|Forever|Zi_Jian
 555555|2017-08-22 10:37:37 +0800|watcher|Forever|Banned by an operator.
-ninegood|2017-08-22 10:40:47 +0800|Zi_Jian|Forever|Banned by an operator.
 5555555|2017-08-22 11:15:11 +0800|Zi_Jian|Forever|Banned by an operator.
 55555555|2017-08-22 11:17:07 +0800|Zi_Jian|Forever|Banned by an operator.
 green_sky|2017-08-22 11:34:14 +0800|Zi_Jian|Forever|Banned by an operator.
