@@ -663,4 +663,28 @@
   count: "1"
   money: "1000"
   id: "264"
+-83:65:130:th:
+  kind: E
+  name: §0漆黑的魅影
+  money: "10000"
+-83:65:131:th:
+  kind: E
+  name: §6SSVIP+
+  money: "2000000"
+-83:65:132:th:
+  kind: E
+  name: §4我§6是§2创§9造§5！
+  money: "999999999"
+-112:65:120:th:
+  kind: E
+  name: §3制造者§9Maker
+  money: ~
+-83:65:133:th:
+  kind: E
+  name: §4我§6是§2o§9p§5！
+  money: "9999999999"
+-112:65:122:th:
+  kind: E
+  name: §8隐藏者§0hider
+  money: ~
 ...
