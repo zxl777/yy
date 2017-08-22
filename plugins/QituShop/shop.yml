@@ -752,4 +752,88 @@
   count: "1"
   money: "1000"
   id: "264"
+-188:66:141:th:
+  kind: B
+  name: 弓
+  count: "1"
+  money: "1000"
+  id: "261"
+-188:66:139:th:
+  kind: B
+  name: 箭
+  count: "64"
+  money: "1000"
+  id: "262"
+-188:66:137:th:
+  kind: B
+  name: 钻石剑
+  count: "1"
+  money: "2000"
+  id: "276"
+-185:66:141:th:
+  kind: B
+  name: 原木
+  count: "64"
+  money: "1000"
+  id: "17"
+-185:66:139:th:
+  kind: B
+  name: 腐竹的deadbush
+  count: "1"
+  money: "100000"
+  id: "32"
+-188:66:135:th:
+  kind: B
+  name: 钻石帽
+  count: "1"
+  money: "5000"
+  id: "310"
+-188:66:133:th:
+  kind: B
+  name: 钻石甲
+  count: "1"
+  money: "8000"
+  id: "311"
+-188:66:131:th:
+  kind: B
+  name: 钻石裤
+  count: "1"
+  money: "7000"
+  id: "312"
+-188:66:129:th:
+  kind: B
+  name: 钻石鞋
+  count: "1"
+  money: "4000"
+  id: "313"
+-188:66:127:th:
+  kind: B
+  name: 基岩
+  count: "1"
+  money: "10000"
+  id: "7"
+-188:66:125:th:
+  kind: B
+  name: 黑曜石
+  count: "1"
+  money: "750"
+  id: "49"
+-185:66:137:th:
+  kind: B
+  name: 龙蛋
+  count: "1"
+  money: "20000"
+  id: "122"
+-185:66:135:th:
+  kind: B
+  name: 附魔台
+  count: "1"
+  money: "7500"
+  id: "116"
+-185:66:133:th:
+  kind: B
+  name: 末影箱，慎用
+  count: "1"
+  money: "7500"
+  id: "130"
 ...
