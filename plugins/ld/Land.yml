@@ -3150,17 +3150,6 @@
     swp: true
     pvp: true
   expires: ~
-323:
-  ID: 323
-  startX: 227
-  endX: 254
-  startZ: -62
-  endZ: -38
-  price: 59800
-  owner: liuliu2008
-  level: th
-  invitee: []
-  expires: ~
 324:
   ID: 324
   startX: -79
@@ -3170,17 +3159,6 @@
   price: 117000
   owner: lihaoyy
   level: world
-  invitee: []
-  expires: ~
-325:
-  ID: 325
-  startX: 227
-  endX: 262
-  startZ: -37
-  endZ: 2
-  price: 129200
-  owner: liuliu2008
-  level: th
   invitee: []
   expires: ~
 326:

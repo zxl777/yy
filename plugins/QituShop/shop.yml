@@ -679,10 +679,6 @@
   kind: E
   name: §3制造者§9Maker
   money: ~
--83:65:133:th:
-  kind: E
-  name: §4我§6是§2o§9p§5！
-  money: "9999999999"
 -112:65:122:th:
   kind: E
   name: §8隐藏者§0hider
@@ -836,4 +832,43 @@
   count: "1"
   money: "7500"
   id: "130"
+-185:66:131:th:
+  kind: D
+  name: 一击秒人
+  time: "999999"
+  lv: "999999"
+  money: "500000"
+  id: "5"
+-185:66:129:th:
+  kind: D
+  name: 无坚不摧
+  time: "999999"
+  lv: "999999"
+  money: "500000"
+  id: "11"
+-185:66:127:th:
+  kind: D
+  name: 一飞冲天
+  time: "999999"
+  lv: "999999"
+  money: "0"
+  id: "8"
+-185:66:125:th:
+  kind: D
+  name: 给我一个盾
+  time: "999999"
+  lv: "999999"
+  money: "100000"
+  id: "22"
+-182:66:141:th:
+  kind: D
+  name: 我饱了
+  time: "999999"
+  lv: "999999"
+  money: "100000"
+  id: "23"
+-110:65:118:th:
+  kind: E
+  name: §2辩论者§9Talker
+  money: ~
 ...
