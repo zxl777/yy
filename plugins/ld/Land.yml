@@ -2676,17 +2676,6 @@
   level: th
   invitee: []
   expires: ~
-278:
-  ID: 278
-  startX: 63
-  endX: 80
-  startZ: 222
-  endZ: 241
-  price: 28800
-  owner: Maker
-  level: zy
-  invitee: []
-  expires: ~
 279:
   ID: 279
   startX: -113
@@ -2706,17 +2695,6 @@
   endZ: 249
   price: 34200
   owner: BINBIN
-  level: zy
-  invitee: []
-  expires: ~
-281:
-  ID: 281
-  startX: 69
-  endX: 81
-  startZ: 241
-  endZ: 252
-  price: 11000
-  owner: Maker
   level: zy
   invitee: []
   expires: ~
@@ -2820,17 +2798,6 @@
   endZ: 250
   price: 2100
   owner: BINBIN
-  level: zy
-  invitee: []
-  expires: ~
-291:
-  ID: 291
-  startX: 24
-  endX: 26
-  startZ: 238
-  endZ: 240
-  price: 100
-  owner: Maker
   level: zy
   invitee: []
   expires: ~
@@ -3177,7 +3144,8 @@
   price: 188500
   owner: liuliu2008
   level: th
-  invitee: []
+  invitee:
+    Maker: true
   expires: ~
 323:
   ID: 323

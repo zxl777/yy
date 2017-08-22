@@ -695,4 +695,61 @@
   kind: E
   name: §4传送者§9Teleporter
   money: ~
+128:65:129:th:
+  kind: B
+  name: 石砖
+  count: "64"
+  money: "0"
+  id: "98"
+-191:66:141:th:
+  kind: B
+  name: 钻石
+  count: "1"
+  money: "1100"
+  id: "264"
+-191:66:135:th:
+  kind: sell
+  count: "1000"
+  money: ~
+  id: "264"
+-191:66:139:th:
+  kind: A
+  name: 钻石
+  need: "265"
+  count: "5"
+  id: "264"
+-191:66:137:th:
+  kind: A
+  name: 钻石
+  need: "266"
+  count: "3"
+  id: "264"
+-191:66:133:th:
+  kind: B
+  name: 金锭
+  count: "1"
+  money: "400"
+  id: "266"
+-191:66:131:th:
+  kind: A
+  name: 金锭
+  need: "265"
+  count: "2"
+  id: "266"
+-191:66:129:th:
+  kind: sell
+  count: "1"
+  money: "300"
+  id: "266"
+-191:66:127:th:
+  kind: B
+  name: 铁锭
+  count: "1"
+  money: "250"
+  id: "265"
+-191:66:125:th:
+  kind: sell
+  count: "1"
+  money: "150"
+  id: "265"
 ...
