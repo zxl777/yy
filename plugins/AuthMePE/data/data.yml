@@ -1699,7 +1699,7 @@ xuouyang10:
   ip: "yes"
 thehotsummer:
   password: ce3f897eff255c1598b98cc6189a4f9b
-  times: 1
+  times: 0
   ip: "no"
 xxchengzixx:
   password: c37a54b2f382af9b79989efd03efb29f
@@ -2155,7 +2155,7 @@ enoch:
   ip: "yes"
 ste:
   password: 5b03ce6d6f68380175791c54ed03c148
-  times: 1
+  times: 0
   ip: "no"
 zhuangzicheng:
   password: 9787a15f4588e3655cffc271c84fd1f1
@@ -5859,9 +5859,6 @@ cchocolateangel:
   password: 1451236cc045cbe835880f1bc61f95c5
   times: 0
   ip: "yes"
-fullmetal:
-  password: 3febdf6e2598e8c991e4d61ffa46ce5f
-  times: 0
 66666:
   password: f68b7926b867e33b4fac5e4b914f2860
   times: 0
@@ -7244,6 +7241,34 @@ lhw:
   ip: "no"
 alaroub200:
   password: aeeb7749105a752fbe90989d71cfab4d
+  times: 0
+  ip: "yes"
+minipopo12:
+  password: fb3a4df6cf222bcbbea279cd822364ff
+  times: 0
+  ip: "yes"
+fawnnest329043:
+  password: 292a905c274ebb9cfd5d8133826e3e68
+  times: 0
+deadlyhickory60:
+  password: b71b3c7e2e8fb67ab7ef35e24a399825
+  times: 0
+thesunwukong:
+  password: ce3f897eff255c1598b98cc6189a4f9b
+  times: 0
+  ip: "yes"
+ghostysinger278:
+  password: 617c9ade009cf0e0fd553f1a1930113b
+  times: 0
+  confirm: j
+nikacat:
+  password: 8f640f89f3b02327458170b60537fc0d
+  times: 0
+huy:
+  password: 0df22aa83faa927b4c19ceac69ac6973
+  times: 0
+terry:
+  password: 4922467e08467dec0ac470f7b2cf8aad
   times: 0
   ip: "yes"
 ...
