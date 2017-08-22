@@ -3271,4 +3271,16 @@
   level: th
   invitee: []
   expires: ~
+336:
+  ID: 336
+  startX: -243
+  endX: -204
+  startZ: 115
+  endZ: 149
+  price: 125400
+  owner: Zi_Jian
+  level: th
+  invitee:
+    kissman: true
+  expires: ~
 ...
