@@ -2830,7 +2830,7 @@
   startZ: 155
   endZ: 188
   price: 115200
-  owner: BINBIN
+  owner: Maker
   level: th
   invitee:
     Maker: true
@@ -3146,6 +3146,8 @@
   level: th
   invitee:
     Maker: true
+    swp: true
+    pvp: true
   expires: ~
 323:
   ID: 323
@@ -3221,6 +3223,61 @@
   endZ: 154
   price: 900
   owner: caramel
+  level: th
+  invitee: []
+  expires: ~
+330:
+  ID: 330
+  startX: -188
+  endX: -164
+  startZ: 202
+  endZ: 209
+  price: 13800
+  owner: Maker
+  level: th
+  invitee: []
+  expires: ~
+331:
+  ID: 331
+  startX: -180
+  endX: -165
+  startZ: 190
+  endZ: 203
+  price: 16800
+  owner: Maker
+  level: th
+  invitee: []
+  expires: ~
+332:
+  ID: 332
+  startX: 257
+  endX: 259
+  startZ: 59
+  endZ: 61
+  price: 100
+  owner: kissman
+  level: th
+  invitee: []
+  expires: ~
+333:
+  ID: 333
+  startX: 257
+  endX: 259
+  startZ: 64
+  endZ: 66
+  price: 100
+  owner: kissman
+  level: th
+  invitee: []
+  expires: ~
+334:
+  ID: 334
+  startX: 254
+  endX: 256
+  startZ: 68
+  endZ: 70
+  price: 100
+  owner: kissman
   level: th
   invitee: []
   expires: ~

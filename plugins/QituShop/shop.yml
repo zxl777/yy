@@ -707,11 +707,6 @@
   count: "1"
   money: "1100"
   id: "264"
--191:66:135:th:
-  kind: sell
-  count: "1000"
-  money: ~
-  id: "264"
 -191:66:139:th:
   kind: A
   name: 钻石
@@ -730,12 +725,6 @@
   count: "1"
   money: "400"
   id: "266"
--191:66:131:th:
-  kind: A
-  name: 金锭
-  need: "265"
-  count: "2"
-  id: "266"
 -191:66:129:th:
   kind: sell
   count: "1"
@@ -752,4 +741,15 @@
   count: "1"
   money: "150"
   id: "265"
+-191:66:131:th:
+  kind: A
+  name: 金锭
+  need: "265"
+  count: "2"
+  id: "266"
+-191:66:135:th:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "264"
 ...
