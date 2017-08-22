@@ -1,4 +1,4 @@
-# Updated 08/22/17 08:49 by GenisysPro 1.1devc47625b
+# Updated 08/22/17 10:40 by GenisysPro 1.1devc47625b
 # victim name | ban date | banned by | banned until | reason
 
 i# updated 08/16/17 15:51 by genisyspro 1.1devc47625b|2017-08-16 08:15:09 +0000|(Unknown)|Forever|Banned by an operator.
@@ -10,7 +10,7 @@ speedyhhaha|2017-08-14 18:01:22 +0800|lihaoyy|Forever|Banned by an operator.
 blue_sky|2017-08-15 12:48:16 +0800|lihaoyy|Forever|Banned by an operator.
 [worldfire53|2017-08-16 16:18:21 +0800|Jeffxiang|Forever|Banned by an operator.
 11011|2017-08-22 08:38:23 +0800|Zi_Jian|Forever|Banned by an operator.
-jeffxiang|2017-08-17 15:11:19 +0800|lihaoyy|Forever|Banned by an operator.
+jeffxiang|2017-08-22 09:28:00 +0800|Zi_Jian|Forever|Banned by an operator.
 worldfire53|2017-08-16 18:11:27 +0800|lihaoyy|Forever|Banned by an operator.
 jack|2017-08-20 19:50:59 +0800|lihaoyy|Forever|Banned by an operator.
 kwkkwk|2017-08-20 19:48:17 +0800|lihaoyy|Forever|Banned by an operator.
@@ -24,7 +24,11 @@ zijianshabi|2017-08-21 18:00:12 +0800|Zi_Jian|Forever|Banned by an operator.
 zijianqwe|2017-08-21 18:06:24 +0800|Zijian|Forever|Banned by an operator.
 yyyyyy|2017-08-21 18:35:18 +0800|Zijian|Forever|Banned by an operator.
 sin|2017-08-21 18:43:48 +0800|Zijian|Forever|Banned by an operator.
-zijian|2017-08-21 19:04:42 +0800|aaaaa|Forever|Banned by an operator.
 bbbbb|2017-08-21 19:43:19 +0800|watcher|Forever|Banned by an operator.
 aaaaa|2017-08-21 19:43:27 +0800|watcher|Forever|Banned by an operator.
 an777|2017-08-22 08:38:15 +0800|Zi_Jian|Forever|Banned by an operator.
+ri|2017-08-22 10:02:51 +0800|Zi_Jian|Forever|Banned by an operator.
+ricardo|2017-08-22 10:03:03 +0800|Zi_Jian|Forever|Banned by an operator.
+no|2017-08-22 10:11:44 +0800|555555|Forever|Zi_Jian
+555555|2017-08-22 10:37:37 +0800|watcher|Forever|Banned by an operator.
+ninegood|2017-08-22 10:40:47 +0800|Zi_Jian|Forever|Banned by an operator.

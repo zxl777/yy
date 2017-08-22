@@ -687,4 +687,12 @@
   kind: E
   name: §8隐藏者§0hider
   money: ~
+-112:65:124:th:
+  kind: E
+  name: §9搏斗者§0Fighter
+  money: ~
+-112:65:126:th:
+  kind: E
+  name: §4传送者§9Teleporter
+  money: ~
 ...
