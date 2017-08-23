@@ -3472,4 +3472,15 @@
   level: th
   invitee: []
   expires: ~
+354:
+  ID: 354
+  startX: 470
+  endX: 483
+  startZ: 143
+  endZ: 145
+  price: 1200
+  owner: caramel
+  level: th
+  invitee: []
+  expires: ~
 ...
