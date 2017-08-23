@@ -139,12 +139,6 @@
   count: "16"
   money: "200"
   id: "82"
-162:66:103:world:
-  kind: B
-  name: §c硬化粘土
-  count: "16"
-  money: "250"
-  id: "172"
 10002:69:9996:th:
   kind: E
   name: §a§l副腐竹
@@ -339,12 +333,6 @@
   kind: E
   name: §a§l副腐竹
   money: "9999999999"
-151:74:117:world:
-  kind: B
-  name: §7箭
-  count: "64"
-  money: "500"
-  id: "262"
 106:71:149:zy:
   kind: C
   name: power777888
@@ -681,7 +669,7 @@
   money: ~
 -112:65:122:th:
   kind: E
-  name: §8隐藏者§0hider
+  name: §7隐藏者§3Hider
   money: ~
 -112:65:124:th:
   kind: E
@@ -870,5 +858,9 @@
 -110:65:118:th:
   kind: E
   name: §2辩论者§9Talker
+  money: ~
+-110:65:120:th:
+  kind: E
+  name: §3审判者§7Juidge
   money: ~
 ...
