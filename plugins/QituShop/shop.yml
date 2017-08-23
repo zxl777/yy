@@ -27,11 +27,6 @@
   count: "1"
   money: "500"
   id: "266"
-149:71:118:zy:
-  kind: sell
-  count: "1"
-  money: "1000"
-  id: "388"
 149:70:115:zy:
   kind: sell
   count: "1"
@@ -646,11 +641,6 @@
   kind: E
   name: §6大帅逼
   money: ~
-149:71:117:zy:
-  kind: sell
-  count: "1"
-  money: "1000"
-  id: "264"
 -83:65:130:th:
   kind: E
   name: §0漆黑的魅影
@@ -863,4 +853,33 @@
   kind: E
   name: §3审判者§7Juidge
   money: ~
+-182:66:139:th:
+  kind: B
+  name: 廉价石英
+  count: "64"
+  money: "1000"
+  id: "155"
+-182:66:137:th:
+  kind: B
+  name: 牛排
+  count: "1"
+  money: "100"
+  id: "364"
+-182:66:135:th:
+  kind: B
+  name: 钻石
+  count: "1"
+  money: "50"
+  id: "263"
+-179:66:139:th:
+  kind: B
+  name: 末影珍珠
+  count: "1"
+  money: "500"
+  id: "368"
+-179:66:137:th:
+  kind: sell
+  count: "64"
+  money: "500"
+  id: "4"
 ...
