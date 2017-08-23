@@ -1,4 +1,4 @@
-# Updated 08/23/17 12:38 by GenisysPro 1.1devc47625b
+# Updated 08/23/17 13:33 by GenisysPro 1.1devc47625b
 # victim name | ban date | banned by | banned until | reason
 
 i# updated 08/16/17 15:51 by genisyspro 1.1devc47625b|2017-08-16 08:15:09 +0000|(Unknown)|Forever|Banned by an operator.
@@ -10,14 +10,11 @@ speedyhhaha|2017-08-14 18:01:22 +0800|lihaoyy|Forever|Banned by an operator.
 blue_sky|2017-08-15 12:48:16 +0800|lihaoyy|Forever|Banned by an operator.
 [worldfire53|2017-08-16 16:18:21 +0800|Jeffxiang|Forever|Banned by an operator.
 11011|2017-08-22 08:38:23 +0800|Zi_Jian|Forever|Banned by an operator.
-jeffxiang|2017-08-22 09:28:00 +0800|Zi_Jian|Forever|Banned by an operator.
-worldfire53|2017-08-16 18:11:27 +0800|lihaoyy|Forever|Banned by an operator.
 jack|2017-08-22 21:16:59 +0800|lihaoyy|Forever|Banned by an operator.
 kwkkwk|2017-08-20 19:48:17 +0800|lihaoyy|Forever|Banned by an operator.
 pvp|2017-08-20 19:49:13 +0800|lihaoyy|Forever|Banned by an operator.
 mssss|2017-08-23 10:02:26 +0800|Zi_Jian|Forever|Banned by an operator.
 dtzf|2017-08-21 13:13:30 +0800|sin|Forever|Banned by an operator.
-kwkkwk123|2017-08-22 08:49:39 +0800|Zi_Jian|Forever|Banned by an operator.
 wohaiyy|2017-08-21 17:57:29 +0800|Zi_Jian|Forever|Banned by an operator.
 woaiyy|2017-08-21 17:57:55 +0800|Zi_Jian|Forever|Banned by an operator.
 zijianshabi|2017-08-21 18:00:12 +0800|Zi_Jian|Forever|Banned by an operator.
@@ -32,11 +29,9 @@ no|2017-08-22 10:11:44 +0800|555555|Forever|Zi_Jian
 555555|2017-08-22 10:37:37 +0800|watcher|Forever|Banned by an operator.
 5555555|2017-08-22 11:15:11 +0800|Zi_Jian|Forever|Banned by an operator.
 55555555|2017-08-22 11:17:07 +0800|Zi_Jian|Forever|Banned by an operator.
-green_sky|2017-08-22 11:34:14 +0800|Zi_Jian|Forever|Banned by an operator.
 lamy|2017-08-22 12:01:23 +0800|Zi_Jian|Forever|Banned by an operator.
 iamnyauuii|2017-08-22 12:02:22 +0800|Zi_Jian|Forever|Banned by an operator.
 wolf|2017-08-23 07:46:48 +0800|Zi_Jian|Forever|Banned by an operator.
 kwkw123|2017-08-23 10:12:44 +0800|Zi_Jian|Forever|Banned by an operator.
 kwkkw123|2017-08-23 10:12:57 +0800|Zi_Jian|Forever|Banned by an operator.
-mao|2017-08-23 11:11:15 +0800|lihaoyy|Forever|Banned by an operator.
 summer|2017-08-23 11:11:28 +0800|lihaoyy|Forever|Banned by an operator.
