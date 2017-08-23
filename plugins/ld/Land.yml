@@ -3368,4 +3368,15 @@
   level: th
   invitee: []
   expires: ~
+344:
+  ID: 344
+  startX: -242
+  endX: -198
+  startZ: 273
+  endZ: 293
+  price: 81700
+  owner: zhumengzhiying
+  level: world
+  invitee: []
+  expires: ~
 ...
