@@ -3488,4 +3488,19 @@
   level: th
   invitee: []
   expires: ~
+355:
+  ID: 355
+  startX: -182
+  endX: -138
+  startZ: 228
+  endZ: 261
+  price: 137600
+  owner: Maker
+  level: th
+  invitee:
+    liuliu2008: true
+    zxcvbanmsssbbb: true
+    zxcbanmssbbbb: true
+    Zzzzzz: true
+  expires: ~
 ...
