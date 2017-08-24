@@ -2486,7 +2486,12 @@
   price: 118400
   owner: liuliu2008
   level: th
-  invitee: []
+  invitee:
+    BANG: true
+    swp: true
+    Zzzzz: true
+    Zzzzzzz: true
+    Zzzzzz: true
   expires: ~
 259:
   ID: 259
