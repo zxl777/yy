@@ -669,12 +669,6 @@
   kind: E
   name: §4传送者§9Teleporter
   money: ~
-128:65:129:th:
-  kind: B
-  name: 石砖
-  count: "64"
-  money: "0"
-  id: "98"
 -191:66:141:th:
   kind: B
   name: 钻石
@@ -721,11 +715,6 @@
   need: "265"
   count: "2"
   id: "266"
--191:66:135:th:
-  kind: sell
-  count: "1"
-  money: "1000"
-  id: "264"
 -188:66:141:th:
   kind: B
   name: 弓
@@ -750,24 +739,12 @@
   count: "64"
   money: "1000"
   id: "17"
--185:66:139:th:
-  kind: B
-  name: 腐竹的deadbush
-  count: "1"
-  money: "100000"
-  id: "32"
 -188:66:135:th:
   kind: B
   name: 钻石帽
   count: "1"
   money: "5000"
   id: "310"
--188:66:133:th:
-  kind: B
-  name: 钻石甲
-  count: "1"
-  money: "8000"
-  id: "311"
 -188:66:131:th:
   kind: B
   name: 钻石裤
@@ -871,12 +848,6 @@
   count: "1"
   money: "50"
   id: "263"
--179:66:139:th:
-  kind: B
-  name: 末影珍珠
-  count: "1"
-  money: "500"
-  id: "368"
 -179:66:137:th:
   kind: sell
   count: "64"

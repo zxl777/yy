@@ -8142,4 +8142,16 @@ wearybard195952:
   password: aeeb7749105a752fbe90989d71cfab4d
   times: 0
   ip: "yes"
+bro:
+  password: 1c3572894b11a06e5a08af17f06ee6e0
+  times: 0
+  ip: "yes"
+fishwarrior:
+  password: b2f94eba14e0420b59d214f01ae9cfc0
+  times: 0
+  ip: "yes"
+bella:
+  password: c65bd3ce135fb2e82a37593ad86c0280
+  times: 0
+  ip: "no"
 ...
