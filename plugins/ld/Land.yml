@@ -3557,6 +3557,40 @@
   price: 23400
   owner: zxcvbnmsssbbbb
   level: th
+  invitee:
+    liuliu2008: true
+  expires: ~
+361:
+  ID: 361
+  startX: -116
+  endX: -77
+  startZ: 154
+  endZ: 190
+  price: 133000
+  owner: zxcvbnmsssbbbb
+  level: th
+  invitee: []
+  expires: ~
+362:
+  ID: 362
+  startX: -81
+  endX: -63
+  startZ: 1466
+  endZ: 1468
+  price: 1700
+  owner: zxcvbnmsssbbbb
+  level: th
+  invitee: []
+  expires: ~
+363:
+  ID: 363
+  startX: -59
+  endX: -51
+  startZ: 1507
+  endZ: 1516
+  price: 5600
+  owner: ganweihao188
+  level: th
   invitee: []
   expires: ~
 ...
