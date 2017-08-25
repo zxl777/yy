@@ -3546,7 +3546,8 @@
   price: 30600
   owner: zxcvbnmsssbbbb
   level: th
-  invitee: []
+  invitee:
+    liuliu2008: true
   expires: ~
 360:
   ID: 360
