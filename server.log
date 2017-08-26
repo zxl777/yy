@@ -1,0 +1,116 @@
+2017-08-26 [19:43:22] [Server thread/WARNING]: OpenSSL extension not found
+2017-08-26 [19:43:22] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-08-26 [19:43:22] [Server thread/INFO]: Selected English (eng) as the base language
+2017-08-26 [19:43:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-08-26 [19:43:22] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-08-26 [19:43:22] [Server thread/INFO]: Loading recipes...
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading resource packs...
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading Asign v1.4
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading db v1.0.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading ld v流星优化
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading RealKeepInventory v0.0.1
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading AuthMePE v1.0.1
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-08-26 [19:43:23] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-08-26 [19:43:23] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling db v1.0.0
+2017-08-26 [19:43:23] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-08-26 [19:43:23] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-08-26 [19:43:23] [Server thread/INFO]: Preparing level "world"
+2017-08-26 [19:43:23] [Server thread/INFO]: Preparing level "nether"
+2017-08-26 [19:43:23] [Server thread/INFO]: Preparing level "ender"
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling Asign v1.4
+2017-08-26 [19:43:23] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-08-26 [19:43:23] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-08-26 [19:43:23] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-08-27 [03:43:23] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-08-27 [03:43:23] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-08-27 [03:43:23] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-08-27 [03:43:23] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-08-27 [03:43:23] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-08-27 [03:43:23] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-08-27 [03:43:23] [Server thread/INFO]: SWorld loaded!
+2017-08-27 [03:43:23] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-08-27 [03:43:23] [Server thread/INFO]: Preparing level "world"
+2017-08-27 [03:43:23] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-08-27 [03:43:23] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-08-27 [03:43:23] [Server thread/INFO]: Preparing level "th"
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-08-27 [03:43:23] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-08-27 [03:43:23] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling ld v流星优化
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling RealKeepInventory v0.0.1
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling AuthMePE v1.0.1
+2017-08-27 [03:43:23] [Server thread/INFO]: [AuthMePE] 加载成功!
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-27 [03:43:23] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-08-27 [03:43:23] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-08-27 [03:43:23] [Server thread/INFO]: Starting GS4 status listener
+2017-08-27 [03:43:23] [Server thread/INFO]: Setting query port to 19132
+2017-08-27 [03:43:23] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-08-27 [03:43:23] [Server thread/INFO]: Default game type: Survival Mode
+2017-08-27 [03:43:23] [Server thread/INFO]: Done (1.044s)! For help, type "help" or "?"
+2017-08-27 [03:48:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [03:48:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [03:48:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [03:48:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [03:48:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [03:53:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [03:53:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [03:53:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [03:53:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [03:53:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [03:58:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [03:58:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [03:58:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [03:58:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [03:58:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:03:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [04:03:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [04:03:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [04:03:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [04:03:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:08:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [04:08:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [04:08:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [04:08:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [04:08:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:13:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [04:13:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [04:13:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [04:13:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [04:13:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:18:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [04:18:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [04:18:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [04:18:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [04:18:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:23:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [04:23:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [04:23:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [04:23:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [04:23:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:28:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-27 [04:28:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-27 [04:28:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-27 [04:28:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-27 [04:28:23] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-27 [04:29:13] [Server thread/INFO]: Dudeitscarter20[/66.69.38.48:55110] [ClientID: 7086161613392884708] logged in with entity id 1 at (world, 203.3681, 76, 164.5993)
