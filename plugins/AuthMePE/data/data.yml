@@ -2554,7 +2554,7 @@ wolf:
   ip: "yes"
 bang:
   password: 45bb4d1bd0cec570cf2dc88d7c451dd6
-  times: 3
+  times: 0
   ip: "yes"
 benji:
   password: 45bb4d1bd0cec570cf2dc88d7c451dd6
@@ -8173,4 +8173,8 @@ sjw:
   password: fb31028a577e22e892e32accd1cb995e
   times: 0
   ip: "yes"
+brainyclamp9214:
+  password: d404b0f431bd58df66a1bd0df92a764c
+  times: 0
+  confirm: qq2576769420
 ...
