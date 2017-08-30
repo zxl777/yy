@@ -20,8 +20,8 @@ level:
  #Set if weather is enabled (rain may cause lag to older devices)
  weather: true
  #Weather random duration
- weather-random-duration-min: 6000
- weather-random-duration-max: 12000
+ weather-random-duration-min: 60000
+ weather-random-duration-max: 120000
  #Random lightning interval，default as 10s, 0 = disable
  lightning-time: 200
  #Set if lightning strikes have fire afterwards
@@ -35,11 +35,11 @@ player:
  #Choose if experience is enabled
  experience: true
  #Choose if to keep a player's inventory after they die
- keep-inventory: false
+ keep-inventory: true
  #Clear the inventory of a player upon them changing their gamemode
  auto-clear-inventory : true
  #Choose if to keep a player's experience after they die
- keep-experience: false
+ keep-experience: true
 
 developer:
   #This setting allows the server to load plugins through the source directory over a .phar file
@@ -99,9 +99,9 @@ redstone:
  ################################################
  #If it is false, the redstone system won't work#
  ################################################
- enable: false
+ enable: true
  #Choose if frequency pulses are enabled
- frequency-pulse: false
+ frequency-pulse: true
  #Set the frequency of pulse. Default = 1s
  pulse-frequency: 1
 
