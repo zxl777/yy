@@ -1,308 +1,122 @@
-2017-08-30 [22:06:05] [Server thread/INFO]: SixGamertag79[/60.255.40.165:20318] [ClientID: -556723870231997126] logged in with entity id 3 at (world, 82.9208, 70, 117.0667)
-2017-08-30 [22:06:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:06:55] [Server thread/INFO]: him[/113.92.73.88:12758] [ClientID: -2495397180151395] logged in with entity id 4 at (th, 206.0499, 65, 93.9464)
-2017-08-30 [22:07:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:07:05] [Server thread/INFO]: SixGamertag79[/60.255.40.165:20318] logged out due to client disconnect
-2017-08-30 [22:07:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:07:15] [Server thread/INFO]: [AuthMePE] 玩家 him 已经登陆游戏.
-2017-08-30 [22:07:15] [Server thread/INFO]: - him 成功登入了游戏
-2017-08-30 [22:07:15] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [22:07:15] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [22:08:09] [Server thread/INFO]: [我是男的]him : wo r l d f
-2017-08-30 [22:08:21] [Server thread/INFO]: mao[/114.93.222.25:63781] logged out due to You are banned
-2017-08-30 [22:08:40] [Server thread/INFO]: wuge[/113.73.175.242:52789] [ClientID: -7760030538589010939] logged in with entity id 5 at (th, 110.152, 65.5, 61.9206)
-2017-08-30 [22:08:44] [Server thread/INFO]: [AuthMePE] 玩家 wuge 已经登陆游戏.
-2017-08-30 [22:08:44] [Server thread/INFO]: - wuge 成功登入了游戏
-2017-08-30 [22:08:44] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [22:08:44] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [22:08:44] [Server thread/INFO]: [我是男的]him : worldfireo503
-2017-08-30 [22:09:08] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:10:28] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:10:46] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:11:02] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 来打我呀
-2017-08-30 [22:11:17] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 居民区等你
-2017-08-30 [22:11:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:11:52] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:11:53] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:11:56] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:11:59] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:12:01] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:03] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:12:08] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:12:13] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:15] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:12:18] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:12:22] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:25] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [22:12:35] [Server thread/INFO]: - wuge离开了服务器
-2017-08-30 [22:12:35] [Server thread/INFO]: [AuthMePE] Player wuge 退出了游戏.
-2017-08-30 [22:12:35] [Server thread/INFO]: wuge[/113.73.175.242:52789] logged out due to timeout
-2017-08-30 [22:12:42] [Server thread/WARNING]: him moved too fast, reverting movement
-2017-08-30 [22:12:48] [Server thread/WARNING]: him moved too fast, reverting movement
-2017-08-30 [22:12:56] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:12:59] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:13:05] [Server thread/WARNING]: him moved too fast, reverting movement
-2017-08-30 [22:13:12] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:13:19] [Server thread/WARNING]: him moved too fast, reverting movement
-2017-08-30 [22:13:26] [Server thread/WARNING]: him moved too fast, reverting movement
-2017-08-30 [22:13:27] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:13:31] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:13:35] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:13:39] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [22:14:51] [Server thread/INFO]: him tried to swim in lava
-2017-08-30 [22:14:56] [Server thread/INFO]: - him离开了服务器
-2017-08-30 [22:14:56] [Server thread/INFO]: [AuthMePE] Player him 退出了游戏.
-2017-08-30 [22:14:56] [Server thread/INFO]: him[/113.92.73.88:12758] logged out due to client disconnect
-2017-08-30 [22:16:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:17:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:17:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:21:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:22:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:22:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:26:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:27:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:27:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:31:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:32:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:32:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:32:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:32:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:36:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:37:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:37:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:37:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:37:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:41:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:42:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:42:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:42:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:42:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:46:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:47:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:47:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:47:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:47:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:51:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:52:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:52:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:52:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:52:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:56:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:57:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:57:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:57:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:57:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:58:34] [Server thread/INFO]: him[/113.92.73.88:11952] [ClientID: -2495397180151395] logged in with entity id 7 at (world, 126.7167, 65.2522, 121.3468)
-2017-08-30 [22:58:57] [Server thread/INFO]: him[/113.92.73.88:11952] logged out due to timeout
-2017-08-30 [23:01:05] [Server thread/INFO]: him[/113.92.73.88:11952] [ClientID: -2495397180151395] logged in with entity id 8 at (world, 126.7167, 65.2522, 121.3468)
-2017-08-30 [23:01:40] [Server thread/INFO]: him[/113.92.73.88:11952] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [23:01:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:02:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:02:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:02:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:02:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:03:15] [Server thread/INFO]: him[/113.92.73.88:11952] logged out due to timeout
-2017-08-30 [23:06:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:07:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:07:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:11:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:12:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:12:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:16:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:17:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:17:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:21:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:22:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:22:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:26:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:27:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:27:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:27:26] [Server thread/INFO]: 0ZIMU0[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 9 at (world, 128, 64, 128)
-2017-08-30 [23:27:46] [Server thread/INFO]: [AuthMePE] 玩家 0ZIMU0 已经登陆游戏.
-2017-08-30 [23:27:46] [Server thread/INFO]: - 0ZIMU0 成功登入了游戏
-2017-08-30 [23:27:46] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [23:27:46] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [23:27:52] [Server thread/INFO]: - 0ZIMU0离开了服务器
-2017-08-30 [23:27:52] [Server thread/INFO]: [AuthMePE] Player 0ZIMU0 退出了游戏.
-2017-08-30 [23:27:52] [Server thread/INFO]: 0ZIMU0[/223.87.199.98:46154] logged out due to client disconnect
-2017-08-30 [23:28:05] [Server thread/INFO]: wuge[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 10 at (th, 107.7016, 65, 138.4086)
-2017-08-30 [23:28:19] [Server thread/INFO]: wuge[/223.87.199.98:46154] logged out due to client disconnect
-2017-08-30 [23:28:46] [Server thread/INFO]: BANG[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 11 at (world, 128, 64.2, 128)
-2017-08-30 [23:28:58] [Server thread/INFO]: [AuthMePE] 玩家 BANG 已经登陆游戏.
-2017-08-30 [23:28:58] [Server thread/INFO]: - BANG 成功登入了游戏
-2017-08-30 [23:28:59] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [23:28:59] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [23:29:15] [Server thread/INFO]: - BANG离开了服务器
-2017-08-30 [23:29:15] [Server thread/INFO]: [AuthMePE] Player BANG 退出了游戏.
-2017-08-30 [23:29:15] [Server thread/INFO]: BANG[/223.87.199.98:46154] logged out due to client disconnect
-2017-08-30 [23:29:43] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 12 at (th, 114.0053, 65, 115.6287)
-2017-08-30 [23:29:51] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] logged out due to Kicked by admin. Reason: 
-尝试太多次输入密码
-请在 3 分钟后尝试
-
-
-本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [23:30:08] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 13 at (world, 128, 64, 128)
-2017-08-30 [23:30:10] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] logged out due to Kicked by admin. Reason: 太多尝试
-踢出游戏
-请在几分钟后尝试
-2017-08-30 [23:30:10] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [23:30:10] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [23:30:10] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-23.30.10-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [23:30:11] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [23:30:11] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [23:30:11] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [23:30:11] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [23:30:11] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [23:30:11] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [23:30:11] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [15:30:15] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [15:30:15] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [15:30:15] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [15:30:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [15:30:16] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading recipes...
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [15:30:16] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [15:30:16] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [15:30:16] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [15:30:16] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [15:30:16] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [15:30:16] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [15:30:16] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [15:30:16] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [15:30:16] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [15:30:16] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [23:30:16] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [23:30:16] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [23:30:16] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [23:30:16] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [23:30:16] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [23:30:16] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [23:30:16] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [23:30:16] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [23:30:16] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [23:30:16] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [23:30:16] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [23:30:16] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [23:30:16] [Server thread/INFO]: [AuthMePE] 
-		############
-		####SAuth####
-		##Made by lyj##
-		############
-2017-08-30 [23:30:16] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [23:30:16] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [23:30:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [23:30:16] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [23:30:16] [Server thread/INFO]: Done (0.689s)! For help, type "help" or "?"
-2017-08-30 [23:34:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:35:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:35:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:39:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:40:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:40:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:44:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:45:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:45:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:49:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:50:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:50:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:54:23] [Server thread/INFO]: fishwarrior[/81.247.75.222:50636] [ClientID: -6626202139810258320] logged in with entity id 1 at (world, 128, 64, 128)
-2017-08-30 [23:54:46] [Server thread/INFO]: fishwarrior[/81.247.75.222:50636] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [23:54:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [23:55:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [23:55:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [23:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [23:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [23:59:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [00:00:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [00:00:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [00:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [00:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [00:04:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [00:05:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [00:05:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [00:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [00:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:09:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:10:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:10:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:10:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:10:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:14:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:15:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:15:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:15:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:15:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:19:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:20:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:20:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:20:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:20:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:24:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:25:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:25:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:25:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:25:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:29:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:30:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:30:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:30:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:30:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:34:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:35:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:35:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:39:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:40:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:40:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:44:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:45:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:45:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:49:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:50:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:50:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:54:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:55:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:55:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:59:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:00:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:00:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:04:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:05:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:05:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:09:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:10:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:10:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:10:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:10:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:14:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:15:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:15:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:15:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:15:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:19:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:20:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:20:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:20:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:20:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:24:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:25:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:25:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:25:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:25:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:28:22] [Server thread/INFO]: FadedMythX[/82.41.32.154:63538] [ClientID: -4864540787061661694] logged in with entity id 2 at (world, 128.4928, 64, 153.8929)
+2017-08-31 [01:29:23] [Server thread/INFO]: FadedMythX[/82.41.32.154:63538] logged out due to client disconnect
+2017-08-31 [01:29:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:30:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:30:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:30:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:30:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:34:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:35:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:35:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:39:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:40:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:40:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:44:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:45:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:45:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:49:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:50:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:50:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:54:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [01:55:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [01:55:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [01:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [01:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [01:59:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [02:00:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [02:00:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [02:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [02:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [02:04:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [02:05:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [02:05:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [02:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [02:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
