@@ -1,1590 +1,308 @@
-2017-08-30 [20:05:34] [Server thread/INFO]: - him离开了服务器
-2017-08-30 [20:05:34] [Server thread/INFO]: [AuthMePE] Player him 退出了游戏.
-2017-08-30 [20:05:34] [Server thread/INFO]: him[/113.92.73.88:11129] logged out due to client disconnect
-2017-08-30 [20:05:38] [Server thread/INFO]: fishwarrior[/178.116.106.197:58104] [ClientID: -6626202139810258320] logged in with entity id 553 at (world, 142.9452, 64.2, 160.0222)
-2017-08-30 [20:06:01] [Server thread/INFO]: fishwarrior[/178.116.106.197:58104] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:06:45] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:06:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:07:00] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:07:05] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:07:05] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:07:31] [Server thread/INFO]: him[/113.92.73.88:11129] [ClientID: -2495397180151395] logged in with entity id 557 at (world, 133.9374, 64, 116.7368)
-2017-08-30 [20:07:51] [Server thread/INFO]: [AuthMePE] 玩家 him 已经登陆游戏.
-2017-08-30 [20:07:51] [Server thread/INFO]: - him 成功登入了游戏
-2017-08-30 [20:07:51] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:07:51] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:08:02] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:09:18] [Server thread/INFO]: him fell out of the world
-2017-08-30 [20:09:40] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:09:40] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:09:48] [Server thread/INFO]: tung[/58.176.47.216:49503] [ClientID: 5951401022358610268] logged in with entity id 565 at (th, -168.3, 65, 122.3)
-2017-08-30 [20:10:08] [Server thread/INFO]: tung[/58.176.47.216:49503] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:10:50] [Server thread/INFO]: tung[/58.176.47.216:49503] [ClientID: 5951401022358610268] logged in with entity id 571 at (world, 128, 64, 128)
-2017-08-30 [20:11:02] [Server thread/INFO]: [AuthMePE] 玩家 tung 已经登陆游戏.
-2017-08-30 [20:11:02] [Server thread/INFO]: - tung 成功登入了游戏
-2017-08-30 [20:11:02] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:11:02] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:11:40] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:11:41] [Server thread/INFO]: tung tried to swim in lava
-2017-08-30 [20:11:45] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:11:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:12:00] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:12:05] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:12:05] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:12:18] [Server thread/INFO]: [好玩的party]tung : 有人嗎
-2017-08-30 [20:12:19] [Server thread/INFO]: him fell from a high place
-2017-08-30 [20:12:28] [Server thread/INFO]: [我是男的]him : 哈喽
-2017-08-30 [20:12:39] [Server thread/INFO]: [好玩的party]tung : 哈喽
-2017-08-30 [20:12:49] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:13:03] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:13:09] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:13:18] [Server thread/WARNING]: him moved too fast, reverting movement
-2017-08-30 [20:13:31] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:13:33] [Server thread/INFO]: JeffXiang[/221.237.21.88:14849] [ClientID: 7682296866856763080] logged in with entity id 581 at (world, 128, 64, 128)
-2017-08-30 [20:13:42] [Server thread/NOTICE]: Player data not found for "yu432", creating new profile
-2017-08-30 [20:13:42] [Server thread/INFO]: YU432[/119.242.111.193:51748] [ClientID: -1792779568864592808] logged in with entity id 582 at (world, 128, 64, 128)
-2017-08-30 [20:13:43] [Server thread/INFO]: fishwarrior[/178.116.106.197:58104] [ClientID: -6626202139810258320] logged in with entity id 583 at (world, 128, 64, 128)
-2017-08-30 [20:13:54] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [20:13:54] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [20:13:54] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:13:54] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:13:59] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:14:01] [Server thread/INFO]: andy[/219.128.83.72:50752] [ClientID: -5197922822021770300] logged in with entity id 584 at (th, -208.7687, 65, 135.1102)
-2017-08-30 [20:14:06] [Server thread/INFO]: fishwarrior[/178.116.106.197:58104] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:14:18] [Server thread/INFO]: andy[/219.128.83.72:50752] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:14:34] [Server thread/INFO]: tung fell from a high place
-2017-08-30 [20:15:00] [Server thread/INFO]: tung fell from a high place
-2017-08-30 [20:15:02] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:15:06] [Server thread/INFO]: [杰夫]JeffXiang : 有木有人来pvp
-2017-08-30 [20:15:13] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:25] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:48] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:48] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:49] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:54] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:57] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:15:58] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:05] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:10] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:12] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:12] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:19] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:24] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:24] [Server thread/INFO]: YU432[/119.242.111.193:51748] logged out due to timeout
-2017-08-30 [20:16:25] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:28] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:16:45] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:16:45] [Server thread/INFO]: Daniele[/5.89.170.121:50094] [ClientID: 8037091218197519563] logged in with entity id 592 at (world, 125.0879, 64, 128.5478)
-2017-08-30 [20:16:46] [Server thread/INFO]: andy[/219.128.83.72:52903] [ClientID: -5197922822021770300] logged in with entity id 593 at (world, 128, 64, 128)
-2017-08-30 [20:16:55] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:17:00] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:17:02] [Server thread/INFO]: andy[/219.128.83.72:52903] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:17:05] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:17:05] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:17:26] [Server thread/INFO]: tung died
-2017-08-30 [20:17:27] [Server thread/INFO]: Daniele[/5.89.170.121:50094] logged out due to client disconnect
-2017-08-30 [20:17:28] [Server thread/INFO]: [杰夫]JeffXiang : 你好
-2017-08-30 [20:17:42] [Server thread/INFO]: [好玩的party]tung : 你好
-2017-08-30 [20:17:54] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:17:55] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:17:56] [Server thread/INFO]: [杰夫]JeffXiang : 你是第一次来吗
-2017-08-30 [20:18:10] [Server thread/INFO]: [好玩的party]tung : 不是
-2017-08-30 [20:18:31] [Server thread/INFO]: [杰夫]JeffXiang : 为什么我都没有见过你
-2017-08-30 [20:18:37] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:18:46] [Server thread/INFO]: [好玩的party]tung : ！
-2017-08-30 [20:18:58] [Server thread/INFO]: S9[/113.118.26.121:56122] logged out due to Invalid name!
-2017-08-30 [20:19:01] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:19:04] [Server thread/INFO]: [好玩的party]tung : 你問題
-2017-08-30 [20:19:46] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:19:50] [Server thread/INFO]: [好玩的party]tung : 可能是因為我換了skin
-2017-08-30 [20:20:01] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:20:12] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:20:46] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:20:47] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:20:47] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:20:54] [Server thread/INFO]: zhuzhiyang[/111.182.32.85:4989] [ClientID: 8766221973797854970] logged in with entity id 616 at (world, 128, 64, 128)
-2017-08-30 [20:21:09] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:21:09] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:21:16] [Server thread/INFO]: zhuzhiyang[/111.182.32.85:4989] logged out due to Kicked by admin. Reason: 
+2017-08-30 [22:06:05] [Server thread/INFO]: SixGamertag79[/60.255.40.165:20318] [ClientID: -556723870231997126] logged in with entity id 3 at (world, 82.9208, 70, 117.0667)
+2017-08-30 [22:06:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:06:55] [Server thread/INFO]: him[/113.92.73.88:12758] [ClientID: -2495397180151395] logged in with entity id 4 at (th, 206.0499, 65, 93.9464)
+2017-08-30 [22:07:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:07:05] [Server thread/INFO]: SixGamertag79[/60.255.40.165:20318] logged out due to client disconnect
+2017-08-30 [22:07:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:07:15] [Server thread/INFO]: [AuthMePE] 玩家 him 已经登陆游戏.
+2017-08-30 [22:07:15] [Server thread/INFO]: - him 成功登入了游戏
+2017-08-30 [22:07:15] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
+2017-08-30 [22:07:15] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2017-08-30 [22:08:09] [Server thread/INFO]: [我是男的]him : wo r l d f
+2017-08-30 [22:08:21] [Server thread/INFO]: mao[/114.93.222.25:63781] logged out due to You are banned
+2017-08-30 [22:08:40] [Server thread/INFO]: wuge[/113.73.175.242:52789] [ClientID: -7760030538589010939] logged in with entity id 5 at (th, 110.152, 65.5, 61.9206)
+2017-08-30 [22:08:44] [Server thread/INFO]: [AuthMePE] 玩家 wuge 已经登陆游戏.
+2017-08-30 [22:08:44] [Server thread/INFO]: - wuge 成功登入了游戏
+2017-08-30 [22:08:44] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
+2017-08-30 [22:08:44] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2017-08-30 [22:08:44] [Server thread/INFO]: [我是男的]him : worldfireo503
+2017-08-30 [22:09:08] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:10:28] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:10:46] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:11:02] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 来打我呀
+2017-08-30 [22:11:17] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 居民区等你
+2017-08-30 [22:11:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:11:52] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:11:53] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:11:56] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:11:59] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:12:01] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:03] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:12:08] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:12:13] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:15] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:12:18] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:12:22] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:25] [Server thread/WARNING]: wuge moved wrongly!
+2017-08-30 [22:12:35] [Server thread/INFO]: - wuge离开了服务器
+2017-08-30 [22:12:35] [Server thread/INFO]: [AuthMePE] Player wuge 退出了游戏.
+2017-08-30 [22:12:35] [Server thread/INFO]: wuge[/113.73.175.242:52789] logged out due to timeout
+2017-08-30 [22:12:42] [Server thread/WARNING]: him moved too fast, reverting movement
+2017-08-30 [22:12:48] [Server thread/WARNING]: him moved too fast, reverting movement
+2017-08-30 [22:12:56] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:12:59] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:13:05] [Server thread/WARNING]: him moved too fast, reverting movement
+2017-08-30 [22:13:12] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:13:19] [Server thread/WARNING]: him moved too fast, reverting movement
+2017-08-30 [22:13:26] [Server thread/WARNING]: him moved too fast, reverting movement
+2017-08-30 [22:13:27] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:13:31] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:13:35] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:13:39] [Server thread/WARNING]: him moved wrongly!
+2017-08-30 [22:14:51] [Server thread/INFO]: him tried to swim in lava
+2017-08-30 [22:14:56] [Server thread/INFO]: - him离开了服务器
+2017-08-30 [22:14:56] [Server thread/INFO]: [AuthMePE] Player him 退出了游戏.
+2017-08-30 [22:14:56] [Server thread/INFO]: him[/113.92.73.88:12758] logged out due to client disconnect
+2017-08-30 [22:16:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:17:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:17:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:21:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:22:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:22:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:26:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:27:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:27:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:31:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:32:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:32:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:32:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:32:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:36:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:37:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:37:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:37:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:37:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:41:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:42:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:42:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:42:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:42:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:46:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:47:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:47:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:47:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:47:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:51:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:52:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:52:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:52:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:52:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:56:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [22:57:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [22:57:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [22:57:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [22:57:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [22:58:34] [Server thread/INFO]: him[/113.92.73.88:11952] [ClientID: -2495397180151395] logged in with entity id 7 at (world, 126.7167, 65.2522, 121.3468)
+2017-08-30 [22:58:57] [Server thread/INFO]: him[/113.92.73.88:11952] logged out due to timeout
+2017-08-30 [23:01:05] [Server thread/INFO]: him[/113.92.73.88:11952] [ClientID: -2495397180151395] logged in with entity id 8 at (world, 126.7167, 65.2522, 121.3468)
+2017-08-30 [23:01:40] [Server thread/INFO]: him[/113.92.73.88:11952] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
+2017-08-30 [23:01:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:02:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:02:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:02:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:02:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:03:15] [Server thread/INFO]: him[/113.92.73.88:11952] logged out due to timeout
+2017-08-30 [23:06:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:07:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:07:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:07:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:11:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:12:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:12:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:12:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:16:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:17:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:17:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:17:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:21:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:22:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:22:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:22:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:26:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:27:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:27:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:27:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:27:26] [Server thread/INFO]: 0ZIMU0[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 9 at (world, 128, 64, 128)
+2017-08-30 [23:27:46] [Server thread/INFO]: [AuthMePE] 玩家 0ZIMU0 已经登陆游戏.
+2017-08-30 [23:27:46] [Server thread/INFO]: - 0ZIMU0 成功登入了游戏
+2017-08-30 [23:27:46] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
+2017-08-30 [23:27:46] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2017-08-30 [23:27:52] [Server thread/INFO]: - 0ZIMU0离开了服务器
+2017-08-30 [23:27:52] [Server thread/INFO]: [AuthMePE] Player 0ZIMU0 退出了游戏.
+2017-08-30 [23:27:52] [Server thread/INFO]: 0ZIMU0[/223.87.199.98:46154] logged out due to client disconnect
+2017-08-30 [23:28:05] [Server thread/INFO]: wuge[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 10 at (th, 107.7016, 65, 138.4086)
+2017-08-30 [23:28:19] [Server thread/INFO]: wuge[/223.87.199.98:46154] logged out due to client disconnect
+2017-08-30 [23:28:46] [Server thread/INFO]: BANG[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 11 at (world, 128, 64.2, 128)
+2017-08-30 [23:28:58] [Server thread/INFO]: [AuthMePE] 玩家 BANG 已经登陆游戏.
+2017-08-30 [23:28:58] [Server thread/INFO]: - BANG 成功登入了游戏
+2017-08-30 [23:28:59] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
+2017-08-30 [23:28:59] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2017-08-30 [23:29:15] [Server thread/INFO]: - BANG离开了服务器
+2017-08-30 [23:29:15] [Server thread/INFO]: [AuthMePE] Player BANG 退出了游戏.
+2017-08-30 [23:29:15] [Server thread/INFO]: BANG[/223.87.199.98:46154] logged out due to client disconnect
+2017-08-30 [23:29:43] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 12 at (th, 114.0053, 65, 115.6287)
+2017-08-30 [23:29:51] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] logged out due to Kicked by admin. Reason: 
 尝试太多次输入密码
 请在 3 分钟后尝试
 
 
 本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [20:21:24] [Server thread/INFO]: - JeffXiang离开了服务器
-2017-08-30 [20:21:24] [Server thread/INFO]: [AuthMePE] Player JeffXiang 退出了游戏.
-2017-08-30 [20:21:24] [Server thread/INFO]: JeffXiang[/221.237.21.88:14849] logged out due to client disconnect
-2017-08-30 [20:21:27] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:21:30] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:21:30] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:21:31] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:21:34] [Server thread/INFO]: zhuzhiyang[/111.182.32.85:4989] [ClientID: 8766221973797854970] logged in with entity id 618 at (world, 128, 64, 128)
-2017-08-30 [20:21:35] [Server thread/INFO]: zhuzhiyang[/111.182.32.85:4989] logged out due to Kicked by admin. Reason: 太多尝试
+2017-08-30 [23:30:08] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] [ClientID: -6515170306301821059] logged in with entity id 13 at (world, 128, 64, 128)
+2017-08-30 [23:30:10] [Server thread/INFO]: jacky1029[/223.87.199.98:46154] logged out due to Kicked by admin. Reason: 太多尝试
 踢出游戏
 请在几分钟后尝试
-2017-08-30 [20:21:35] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Trying to get permissions of closed player on AuthMePE\AuthMePE
-2017-08-30 [20:21:35] [Server thread/CRITICAL]: InvalidStateException: "Trying to get permissions of closed player" (EXCEPTION) in "/src/pocketmine/Player" at line 686
-2017-08-30 [20:21:35] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [20:21:35] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [20:21:35] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-20.21.35-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [20:21:36] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [20:21:36] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [20:21:36] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [20:21:36] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [20:21:36] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [20:21:36] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [20:21:36] [Server thread/CRITICAL]: pocketmine\plugin\PluginException: "Plugin 'AuthMePE' attempted to register a task while disabled" (EXCEPTION) in "/src/pocketmine/scheduler/ServerScheduler" at line 201
-2017-08-30 [20:21:36] [Server thread/INFO]: him left the game
-2017-08-30 [20:21:36] [Server thread/INFO]: him[/113.92.73.88:11129] logged out due to Server closed
-2017-08-30 [20:21:36] [Server thread/INFO]: tung left the game
-2017-08-30 [20:21:36] [Server thread/INFO]: tung[/58.176.47.216:49503] logged out due to Server closed
-2017-08-30 [20:21:36] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [20:21:36] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [20:21:36] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [20:21:36] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [20:21:36] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [12:21:40] [Server thread/INFO]: 
-
-  _____            _               _____
- / ____|          (_)             |  __ \
-| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
-| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
-| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
- \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
-                          __/ |
-                         |___/
-
-	Version: 1.1dev (5437e0f)
-	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
-	PHP Version: 7.0.9
-	OS: Linux
-	This core is maintained by GenisysPro (https://github.com/GenisysPro)
-	Discord Group chat: https://discord.gg/WrKzRNn 
-	Chatroom on QQ: 559301590 
-	Welcome to donate us on QQ: 1912003473
-	
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading properties and configuration...
-2017-08-30 [12:21:40] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [12:21:40] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [12:21:40] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [12:21:40] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [12:21:40] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading recipes...
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [12:21:40] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [12:21:40] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [12:21:40] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [12:21:40] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [12:21:40] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [12:21:40] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [12:21:40] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [12:21:40] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [12:21:40] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [12:21:40] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [20:21:40] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [20:21:40] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [20:21:40] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [20:21:40] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [20:21:40] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [20:21:40] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [20:21:40] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [20:21:40] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [20:21:40] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [20:21:40] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [20:21:40] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [20:21:40] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [20:21:40] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [20:21:40] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [20:21:40] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [20:21:40] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [20:21:40] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [20:21:41] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [20:21:41] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [20:21:41] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [20:21:41] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [20:21:41] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [20:21:41] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [20:21:41] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [20:21:41] [Server thread/INFO]: [AuthMePE] 
+2017-08-30 [23:30:10] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
+2017-08-30 [23:30:10] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-08-30 [23:30:10] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-23.30.10-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling Asign v1.4
+2017-08-30 [23:30:11] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-08-30 [23:30:11] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling db v1.0.0
+2017-08-30 [23:30:11] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-08-30 [23:30:11] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-08-30 [23:30:11] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling ld v流星优化
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-08-30 [23:30:11] [Server thread/INFO]: Disabling AuthMePE v0.1.4
+2017-08-30 [23:30:11] [Server thread/INFO]: Unloading level "world"
+2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "nether"
+2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "ender"
+2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "world"
+2017-08-30 [23:30:12] [Server thread/INFO]: Unloading level "th"
+2017-08-30 [15:30:15] [Server thread/WARNING]: OpenSSL extension not found
+2017-08-30 [15:30:15] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-08-30 [15:30:15] [Server thread/INFO]: Selected English (eng) as the base language
+2017-08-30 [15:30:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-08-30 [15:30:16] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading recipes...
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading resource packs...
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading Asign v1.4
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading db v1.0.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading ld v流星优化
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-08-30 [15:30:16] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-08-30 [15:30:16] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling db v1.0.0
+2017-08-30 [15:30:16] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-08-30 [15:30:16] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-08-30 [15:30:16] [Server thread/INFO]: Preparing level "world"
+2017-08-30 [15:30:16] [Server thread/INFO]: Preparing level "nether"
+2017-08-30 [15:30:16] [Server thread/INFO]: Preparing level "ender"
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling Asign v1.4
+2017-08-30 [15:30:16] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-08-30 [15:30:16] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-08-30 [15:30:16] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-08-30 [23:30:16] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-08-30 [23:30:16] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-08-30 [23:30:16] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-08-30 [23:30:16] [Server thread/INFO]: SWorld loaded!
+2017-08-30 [23:30:16] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-08-30 [23:30:16] [Server thread/INFO]: Preparing level "world"
+2017-08-30 [23:30:16] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-08-30 [23:30:16] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-08-30 [23:30:16] [Server thread/INFO]: Preparing level "th"
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-08-30 [23:30:16] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-08-30 [23:30:16] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling ld v流星优化
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-08-30 [23:30:16] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-08-30 [23:30:16] [Server thread/INFO]: Enabling AuthMePE v0.1.4
+2017-08-30 [23:30:16] [Server thread/INFO]: [AuthMePE] 
 		############
 		####SAuth####
 		##Made by lyj##
 		############
-2017-08-30 [20:21:41] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [20:21:41] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [20:21:41] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [20:21:41] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [20:21:41] [Server thread/INFO]: Done (0.616s)! For help, type "help" or "?"
-2017-08-30 [20:22:26] [Server thread/INFO]: tung[/58.176.47.216:49503] [ClientID: 5951401022358610268] logged in with entity id 1 at (th, 24.3435, 66.7522, 70.5665)
-2017-08-30 [20:22:30] [Server thread/INFO]: [AuthMePE] 玩家 tung 已经登陆游戏.
-2017-08-30 [20:22:30] [Server thread/INFO]: - tung 成功登入了游戏
-2017-08-30 [20:22:30] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:22:30] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:22:56] [Server thread/INFO]: zxz[/202.213.177.4:58769] [ClientID: -1692841935958779029] logged in with entity id 3 at (world, 128, 64, 128)
-2017-08-30 [20:23:25] [Server thread/INFO]: zxz[/202.213.177.4:58769] logged out due to client disconnect
-2017-08-30 [20:23:32] [Server thread/INFO]: zxz[/202.213.177.4:58769] [ClientID: -1692841935958779029] logged in with entity id 4 at (world, 128, 64, 128)
-2017-08-30 [20:23:48] [Server thread/INFO]: zxz[/202.213.177.4:58769] logged out due to client disconnect
-2017-08-30 [20:23:54] [Server thread/INFO]: him[/113.92.73.88:11129] [ClientID: -2495397180151395] logged in with entity id 5 at (th, 213.7619, 65, 103.8926)
-2017-08-30 [20:24:16] [Server thread/INFO]: [AuthMePE] 玩家 him 已经登陆游戏.
-2017-08-30 [20:24:16] [Server thread/INFO]: - him 成功登入了游戏
-2017-08-30 [20:24:16] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:24:16] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:24:19] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:25:32] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:25:33] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:25:34] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:25:36] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:25:40] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:26:03] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:26:09] [Server thread/INFO]: you[/60.83.73.108:60300] [ClientID: -3626422991121121833] logged in with entity id 10 at (world, 128, 64, 128)
-2017-08-30 [20:26:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:26:30] [Server thread/NOTICE]: Player data not found for "cottoncandy", creating new profile
-2017-08-30 [20:26:30] [Server thread/INFO]: CottonCandy[/165.120.45.193:53964] [ClientID: -2955210127685984938] logged in with entity id 17 at (world, 128, 64, 128)
-2017-08-30 [20:26:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:26:35] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:26:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:26:39] [Server thread/INFO]: Steve[/178.39.95.248:63996] [ClientID: -8938669329149335633] logged in with entity id 19 at (world, 128.0136, 64, 127.9859)
-2017-08-30 [20:26:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:26:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:26:44] [Server thread/INFO]: Steve[/178.39.95.248:63996] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-30 [20:26:44] [Server thread/INFO]: Steve[/222.229.109.68:62033] [ClientID: 4409305668287998544] logged in with entity id 20 at (world, 128, 64, 128)
-2017-08-30 [20:27:07] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:27:15] [Server thread/INFO]: Steve[/222.229.109.68:62033] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-30 [20:27:15] [Server thread/INFO]: Steve[/199.192.183.1:60157] [ClientID: -3264580170040525251] logged in with entity id 21 at (world, 128, 64, 128)
-2017-08-30 [20:27:36] [Server thread/INFO]: CottonCandy[/165.120.45.193:53964] logged out due to client disconnect
-2017-08-30 [20:27:40] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:27:47] [Server thread/INFO]: you[/60.83.73.108:60300] logged out due to client disconnect
-2017-08-30 [20:27:48] [Server thread/INFO]: Steve[/199.192.183.1:60157] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:28:07] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:28:10] [Server thread/INFO]: Steve[/178.39.95.248:61910] [ClientID: -8938669329149335633] logged in with entity id 28 at (world, 128, 64, 128)
-2017-08-30 [20:28:12] [Server thread/INFO]: Steve[/178.39.95.248:61910] logged out due to Kicked by admin. Reason: logged in from another location
-2017-08-30 [20:28:12] [Server thread/INFO]: Steve[/199.192.183.1:60157] [ClientID: -3264580170040525251] logged in with entity id 29 at (world, 128, 64, 128)
-2017-08-30 [20:28:19] [Server thread/WARNING]: tung moved too fast, reverting movement
-2017-08-30 [20:28:41] [Server thread/WARNING]: tung moved too fast, reverting movement
-2017-08-30 [20:28:44] [Server thread/INFO]: Steve[/199.192.183.1:60157] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:28:49] [Server thread/INFO]: Steve[/178.39.95.248:61910] [ClientID: -8938669329149335633] logged in with entity id 34 at (world, 128, 64, 128)
-2017-08-30 [20:29:18] [Server thread/INFO]: Steve[/178.39.95.248:61910] logged out due to timeout
-2017-08-30 [20:29:35] [Server thread/WARNING]: tung moved too fast, reverting movement
-2017-08-30 [20:29:59] [Server thread/WARNING]: tung moved too fast, reverting movement
-2017-08-30 [20:30:05] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:30:10] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:30:13] [Server thread/INFO]: - tung离开了服务器
-2017-08-30 [20:30:13] [Server thread/INFO]: [AuthMePE] Player tung 退出了游戏.
-2017-08-30 [20:30:13] [Server thread/INFO]: tung[/58.176.47.216:49503] logged out due to client disconnect
-2017-08-30 [20:30:16] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:30:57] [Server thread/INFO]: tung[/58.176.47.216:54869] [ClientID: 5951401022358610268] logged in with entity id 42 at (th, 117.937, 65.5, 77.0508)
-2017-08-30 [20:31:01] [Server thread/INFO]: [AuthMePE] 玩家 tung 已经登陆游戏.
-2017-08-30 [20:31:01] [Server thread/INFO]: - tung 成功登入了游戏
-2017-08-30 [20:31:01] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:31:01] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:31:12] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:31:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:31:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:31:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:31:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:31:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:32:24] [Server thread/NOTICE]: Player data not found for "cellbit", creating new profile
-2017-08-30 [20:32:24] [Server thread/INFO]: cellbit[/191.13.21.223:63496] [ClientID: 7699272162316248698] logged in with entity id 50 at (world, 128, 64, 128)
-2017-08-30 [20:33:05] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:33:18] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:33:21] [Server thread/INFO]: tung fell from a high place
-2017-08-30 [20:33:37] [Server thread/INFO]: cellbit[/191.13.21.223:63496] logged out due to client disconnect
-2017-08-30 [20:33:47] [Server thread/INFO]: cellbit[/191.13.21.223:63496] [ClientID: 7699272162316248698] logged in with entity id 56 at (world, 128, 64, 128)
-2017-08-30 [20:34:00] [Server thread/WARNING]: tung moved too fast, reverting movement
-2017-08-30 [20:34:05] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:34:07] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:34:16] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:34:18] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:34:18] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:34:25] [Server thread/WARNING]: tung moved too fast, reverting movement
-2017-08-30 [20:34:29] [Server thread/WARNING]: tung moved wrongly!
-2017-08-30 [20:34:37] [Server thread/INFO]: - tung离开了服务器
-2017-08-30 [20:34:37] [Server thread/INFO]: [AuthMePE] Player tung 退出了游戏.
-2017-08-30 [20:34:37] [Server thread/INFO]: tung[/58.176.47.216:54869] logged out due to client disconnect
-2017-08-30 [20:34:48] [Server thread/INFO]: i m gene ci[/46.78.12.129:50142] logged out due to Invalid name!
-2017-08-30 [20:34:55] [Server thread/INFO]: - him离开了服务器
-2017-08-30 [20:34:55] [Server thread/INFO]: [AuthMePE] Player him 退出了游戏.
-2017-08-30 [20:34:55] [Server thread/INFO]: him[/113.92.73.88:11129] logged out due to timeout
-2017-08-30 [20:34:59] [Server thread/INFO]: cellbit[/191.13.21.223:63496] logged out due to client disconnect
-2017-08-30 [20:35:06] [Server thread/INFO]: i m gene ci[/46.78.12.129:50142] logged out due to Invalid name!
-2017-08-30 [20:36:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:36:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:36:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:36:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:36:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:36:44] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:13244] [ClientID: 1277793947441649128] logged in with entity id 57 at (world, 123.4297, 64, 118.8146)
-2017-08-30 [20:37:21] [Server thread/INFO]: Steve[/222.14.59.114:60137] [ClientID: -4552575972816033792] logged in with entity id 58 at (world, 128, 64, 128)
-2017-08-30 [20:37:24] [Server thread/WARNING]: Liyuxuan2007 moved too fast, reverting movement
-2017-08-30 [20:37:44] [Server thread/INFO]: a2947483337[/222.79.19.162:7152] [ClientID: 5751042578548261100] logged in with entity id 59 at (world, 128, 64, 128)
-2017-08-30 [20:37:45] [Server thread/INFO]: [AuthMePE] 玩家 a2947483337 已经登陆游戏.
-2017-08-30 [20:37:45] [Server thread/INFO]: - a2947483337 成功登入了游戏
-2017-08-30 [20:37:45] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:37:45] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:37:52] [Server thread/INFO]: Steve[/222.14.59.114:60137] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:37:54] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:01] [Server thread/INFO]: [AuthMePE] 玩家 Liyuxuan2007 已经登陆游戏.
-2017-08-30 [20:38:01] [Server thread/INFO]: - Liyuxuan2007 成功登入了游戏
-2017-08-30 [20:38:01] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:38:01] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:38:08] [Server thread/WARNING]: Liyuxuan2007 moved too fast, reverting movement
-2017-08-30 [20:38:18] [Server thread/INFO]: Steve[/222.14.59.114:60137] [ClientID: -4552575972816033792] logged in with entity id 60 at (world, 128, 64, 128)
-2017-08-30 [20:38:30] [Server thread/WARNING]: Liyuxuan2007 moved wrongly!
-2017-08-30 [20:38:41] [Server thread/INFO]: Steve[/222.14.59.114:60137] logged out due to timeout
-2017-08-30 [20:38:44] [Server thread/INFO]: - Liyuxuan2007离开了服务器
-2017-08-30 [20:38:44] [Server thread/INFO]: [AuthMePE] Player Liyuxuan2007 退出了游戏.
-2017-08-30 [20:38:44] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:13244] logged out due to timeout
-2017-08-30 [20:38:53] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:53] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:54] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:54] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:55] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:55] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:56] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:56] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:56] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:56] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:57] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:57] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:57] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:57] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:57] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:58] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:58] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:58] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:38:58] [Server thread/INFO]: * a2947483337 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:39:19] [Server thread/INFO]: [/117.29.42.249:18147] logged out due to client disconnect
-2017-08-30 [20:39:31] [Server thread/NOTICE]: Player data not found for "duckfighter2005", creating new profile
-2017-08-30 [20:39:31] [Server thread/INFO]: duckfighter2005[/217.44.78.173:50982] [ClientID: -7056549957883712367] logged in with entity id 61 at (world, 128, 64, 128)
-2017-08-30 [20:39:43] [Server thread/INFO]: duckfighter2005[/217.44.78.173:50982] logged out due to client disconnect
-2017-08-30 [20:40:33] [Server thread/NOTICE]: Player data not found for "lana", creating new profile
-2017-08-30 [20:40:33] [Server thread/INFO]: lana[/78.154.240.69:58979] [ClientID: -3007853687970647860] logged in with entity id 62 at (world, 128, 64, 128)
-2017-08-30 [20:40:45] [Server thread/INFO]: - a2947483337离开了服务器
-2017-08-30 [20:40:45] [Server thread/INFO]: [AuthMePE] Player a2947483337 退出了游戏.
-2017-08-30 [20:40:45] [Server thread/INFO]: a2947483337[/222.79.19.162:7152] logged out due to client disconnect
-2017-08-30 [20:41:17] [Server thread/INFO]: lana[/78.154.240.69:58979] logged out due to client disconnect
-2017-08-30 [20:41:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:41:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:41:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:41:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:41:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:42:22] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:11757] [ClientID: 1277793947441649128] logged in with entity id 63 at (world, 129.2837, 64, 133.9351)
-2017-08-30 [20:42:37] [Server thread/INFO]: [AuthMePE] 玩家 Liyuxuan2007 已经登陆游戏.
-2017-08-30 [20:42:37] [Server thread/INFO]: - Liyuxuan2007 成功登入了游戏
-2017-08-30 [20:42:37] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:42:37] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:42:40] [Server thread/INFO]: lana[/78.154.240.69:58979] [ClientID: -3007853687970647860] logged in with entity id 64 at (world, 128, 64, 128)
-2017-08-30 [20:42:57] [Server thread/INFO]: lana[/78.154.240.69:58979] logged out due to client disconnect
-2017-08-30 [20:43:08] [Server thread/INFO]: lana[/78.154.240.69:58979] [ClientID: -3007853687970647860] logged in with entity id 65 at (world, 128, 64, 128)
-2017-08-30 [20:43:14] [Server thread/INFO]: Steve[/222.14.59.114:50328] [ClientID: -4552575972816033792] logged in with entity id 66 at (world, 128.1314, 64, 127.864)
-2017-08-30 [20:43:26] [Server thread/INFO]: lana[/78.154.240.69:58979] logged out due to client disconnect
-2017-08-30 [20:43:45] [Server thread/INFO]: Steve[/222.14.59.114:50328] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:43:52] [Server thread/INFO]: - Liyuxuan2007离开了服务器
-2017-08-30 [20:43:52] [Server thread/INFO]: [AuthMePE] Player Liyuxuan2007 退出了游戏.
-2017-08-30 [20:43:52] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:11757] logged out due to client disconnect
-2017-08-30 [20:44:05] [Server thread/INFO]: Steve[/222.14.59.114:50328] [ClientID: -4552575972816033792] logged in with entity id 67 at (world, 128, 64, 128)
-2017-08-30 [20:44:19] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:11757] [ClientID: 1277793947441649128] logged in with entity id 68 at (world, 125.2784, 64, 115.8295)
-2017-08-30 [20:44:22] [Server thread/INFO]: [AuthMePE] 玩家 Liyuxuan2007 已经登陆游戏.
-2017-08-30 [20:44:22] [Server thread/INFO]: - Liyuxuan2007 成功登入了游戏
-2017-08-30 [20:44:22] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:44:22] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:44:37] [Server thread/INFO]: Steve[/222.14.59.114:50328] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:44:48] [Server thread/WARNING]: Liyuxuan2007 moved wrongly!
-2017-08-30 [20:44:50] [Server thread/WARNING]: Liyuxuan2007 moved wrongly!
-2017-08-30 [20:45:09] [Server thread/INFO]: * Liyuxuan2007 端口：19132
-2017-08-30 [20:45:12] [Server thread/INFO]: * Liyuxuan2007 ip:yy.itoytoy.com
-2017-08-30 [20:45:22] [Server thread/INFO]: * Liyuxuan2007 QQ群号248038400
-2017-08-30 [20:45:41] [Server thread/WARNING]: Liyuxuan2007 moved wrongly!
-2017-08-30 [20:45:43] [Server thread/INFO]: Steve[/222.14.59.114:50328] [ClientID: -4552575972816033792] logged in with entity id 69 at (world, 128, 64, 128)
-2017-08-30 [20:45:53] [Server thread/INFO]: Steve[/222.14.59.114:50328] logged out due to timeout
-2017-08-30 [20:45:54] [Server thread/INFO]: lihaoyy[/116.230.187.39:62041] [ClientID: -5747510323413524081] logged in with entity id 70 at (world, 128, 64, 128)
-2017-08-30 [20:45:59] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 已经登陆游戏.
-2017-08-30 [20:45:59] [Server thread/INFO]: - lihaoyy 成功登入了游戏
-2017-08-30 [20:45:59] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:45:59] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:46:10] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to Liyuxuan2007]
-2017-08-30 [20:46:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:46:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:46:33] [Server thread/INFO]: lihaoyy died
-2017-08-30 [20:46:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:46:41] [Server thread/INFO]: * Liyuxuan2007 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:46:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:46:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:46:49] [Server thread/INFO]: lihaoyy died
-2017-08-30 [20:46:52] [Server thread/INFO]: Liyuxuan2007 died
-2017-08-30 [20:46:54] [Server thread/INFO]: * lihaoyy 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:46:55] [Server thread/INFO]: * lihaoyy 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:46:55] [Server thread/INFO]: * lihaoyy 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:46:55] [Server thread/INFO]: * lihaoyy 欢迎新人来到yy服-务器！！请留在这里
-2017-08-30 [20:47:28] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [20:48:13] [Server thread/INFO]: - Liyuxuan2007离开了服务器
-2017-08-30 [20:48:13] [Server thread/INFO]: [AuthMePE] Player Liyuxuan2007 退出了游戏.
-2017-08-30 [20:48:13] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:11757] logged out due to client disconnect
-2017-08-30 [20:48:21] [Server thread/INFO]: [/112.10.243.98:56249] logged out due to client disconnect
-2017-08-30 [20:49:33] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [20:49:36] [Server thread/INFO]: - lihaoyy离开了服务器
-2017-08-30 [20:49:36] [Server thread/INFO]: [AuthMePE] Player lihaoyy 退出了游戏.
-2017-08-30 [20:49:36] [Server thread/INFO]: lihaoyy[/116.230.187.39:62041] logged out due to client disconnect
-2017-08-30 [20:50:00] [Server thread/INFO]: JeffXiang[/221.237.21.88:12801] [ClientID: 7682296866856763080] logged in with entity id 170 at (th, 89.7342, 63, 64.3185)
-2017-08-30 [20:50:11] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [20:50:11] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [20:50:11] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:50:11] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:50:19] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:51:04] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:51:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:51:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:51:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:51:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:51:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:51:57] [Server thread/INFO]: lihaoyy[/116.230.187.39:62041] [ClientID: -5747510323413524081] logged in with entity id 171 at (world, 133.8731, 86.6633, 137.541)
-2017-08-30 [20:52:00] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 已经登陆游戏.
-2017-08-30 [20:52:00] [Server thread/INFO]: - lihaoyy 成功登入了游戏
-2017-08-30 [20:52:00] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:52:00] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:52:00] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [20:52:09] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to JeffXiang]
-2017-08-30 [20:52:23] [Server thread/INFO]: caramel[/218.173.63.17:64605] [ClientID: -3565287197238441314] logged in with entity id 172 at (th, -144.6354, 64, 165.7667)
-2017-08-30 [20:52:42] [Server thread/INFO]: caramel[/218.173.63.17:64605] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [20:52:45] [Server thread/INFO]: [杰夫]JeffXiang : 腐竹
-2017-08-30 [20:52:52] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:53:10] [Server thread/INFO]: [杰夫]JeffXiang : 腐竹
-2017-08-30 [20:53:20] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:53:56] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:54:10] [Server thread/INFO]: wuge[/113.73.175.242:57992] [ClientID: -7760030538589010939] logged in with entity id 173 at (world, -184.6901, 82.42, 167.3)
-2017-08-30 [20:54:14] [Server thread/INFO]: [AuthMePE] 玩家 wuge 已经登陆游戏.
-2017-08-30 [20:54:14] [Server thread/INFO]: - wuge 成功登入了游戏
-2017-08-30 [20:54:14] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:54:14] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:54:18] [Server thread/INFO]: [杰夫]JeffXiang : wuge
-2017-08-30 [20:54:21] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:54:22] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:54:25] [Server thread/INFO]: [帅气的腐竹]lihaoyy : hi
-2017-08-30 [20:54:32] [Server thread/INFO]: [杰夫]JeffXiang : 腐竹给我op
-2017-08-30 [20:54:39] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 靠
-2017-08-30 [20:54:42] [Server thread/INFO]: - lihaoyy离开了服务器
-2017-08-30 [20:54:42] [Server thread/INFO]: [AuthMePE] Player lihaoyy 退出了游戏.
-2017-08-30 [20:54:42] [Server thread/INFO]: lihaoyy[/116.230.187.39:62041] logged out due to client disconnect
-2017-08-30 [20:55:07] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:55:08] [Server thread/INFO]: lihaoyy[/116.230.187.39:62041] [ClientID: -5747510323413524081] logged in with entity id 184 at (th, 125.559, 65, 140.0676)
-2017-08-30 [20:55:11] [Server thread/INFO]: [AuthMePE] 玩家 lihaoyy 已经登陆游戏.
-2017-08-30 [20:55:11] [Server thread/INFO]: - lihaoyy 成功登入了游戏
-2017-08-30 [20:55:11] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:55:11] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:55:14] [Server thread/INFO]: [帅气的腐竹]lihaoyy : mb
-2017-08-30 [20:55:23] [Server thread/INFO]: [杰夫]JeffXiang : 咋了
-2017-08-30 [20:55:25] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 不小心点了tnt猪发的QQ
-2017-08-30 [20:55:32] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : hh
-2017-08-30 [20:55:40] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 神经那人
-2017-08-30 [20:55:42] [Server thread/INFO]: [杰夫]JeffXiang : 给我一个op
-2017-08-30 [20:55:47] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我不是op
-2017-08-30 [20:55:49] [Server thread/INFO]: [杰夫]JeffXiang : 直接t了呗
-2017-08-30 [20:56:03] [Server thread/INFO]: [杰夫]JeffXiang : 你是op腐竹
-2017-08-30 [20:56:15] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我不是
-2017-08-30 [20:56:17] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我是vip
-2017-08-30 [20:56:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [20:56:26] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 前面
-2017-08-30 [20:56:28] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [20:56:30] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [20:56:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [20:56:31] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [20:56:31] [Server thread/INFO]: [lihaoyy: Teleported wuge to lihaoyy]
-2017-08-30 [20:56:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [20:56:36] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你挑
-2017-08-30 [20:56:38] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 名字
-2017-08-30 [20:56:39] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 要哪个发展
-2017-08-30 [20:56:40] [Server thread/INFO]: [杰夫]JeffXiang : 为什么你显示的是op
-2017-08-30 [20:56:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [20:56:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [20:56:41] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 腐竹
-2017-08-30 [20:56:45] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 告诉我
-2017-08-30 [20:56:46] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 不知道
-2017-08-30 [20:56:52] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你告诉我wuge你要哪个腐竹
-2017-08-30 [20:56:52] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:56:53] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 房子
-2017-08-30 [20:56:58] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 这个
-2017-08-30 [20:57:00] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:57:03] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:57:07] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 哪里
-2017-08-30 [20:57:17] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我说这盖过的房子
-2017-08-30 [20:57:19] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我要这个地
-2017-08-30 [20:57:20] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:57:21] [Server thread/INFO]: him[/113.92.73.88:13067] [ClientID: -2495397180151395] logged in with entity id 189 at (th, 218.2378, 65, 91.7741)
-2017-08-30 [20:57:22] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 要什么房子
-2017-08-30 [20:57:28] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你告诉我你要哪个腐竹
-2017-08-30 [20:57:31] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 房子
-2017-08-30 [20:57:38] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我帮你复制到这
-2017-08-30 [20:57:41] [Server thread/INFO]: [AuthMePE] 玩家 him 已经登陆游戏.
-2017-08-30 [20:57:41] [Server thread/INFO]: - him 成功登入了游戏
-2017-08-30 [20:57:41] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [20:57:41] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:57:47] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:57:49] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我的小花房
-2017-08-30 [20:57:57] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 哪里
-2017-08-30 [20:57:58] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:05] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [20:58:06] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:10] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:10] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我看看
-2017-08-30 [20:58:11] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:14] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [20:58:14] [Server thread/INFO]: YUC'e[/1.196.230.170:64862] logged out due to Invalid name!
-2017-08-30 [20:58:16] [Server thread/NOTICE]: Player data not found for "izzy", creating new profile
-2017-08-30 [20:58:16] [Server thread/INFO]: izzy[/67.81.114.139:65010] [ClientID: 2919740226326786880] logged in with entity id 190 at (world, 128, 64, 128)
-2017-08-30 [20:58:22] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:12082] [ClientID: 1277793947441649128] logged in with entity id 191 at (world, 133.0153, 65, 126.2219)
-2017-08-30 [20:58:29] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:31] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:33] [Server thread/INFO]: [AuthMePE] 玩家 Liyuxuan2007 已经登陆游戏.
-2017-08-30 [20:58:33] [Server thread/INFO]: - Liyuxuan2007 成功登入了游戏
-2017-08-30 [20:58:33] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [20:58:33] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [20:58:40] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : Jeff你老婆咋不玩了
-2017-08-30 [20:58:42] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:58:47] [Server thread/INFO]: - Liyuxuan2007离开了服务器
-2017-08-30 [20:58:47] [Server thread/INFO]: [AuthMePE] Player Liyuxuan2007 退出了游戏.
-2017-08-30 [20:58:47] [Server thread/INFO]: Liyuxuan2007[/58.23.63.13:12082] logged out due to client disconnect
-2017-08-30 [20:58:48] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:58:50] [Server thread/INFO]: [杰夫]JeffXiang : 不知道
-2017-08-30 [20:58:52] [Server thread/INFO]: [帅气的腐竹]lihaoyy : jeff老婆谁
-2017-08-30 [20:58:52] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [20:58:53] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:58:56] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:59:02] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 儿子这
-2017-08-30 [20:59:07] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to wuge]
-2017-08-30 [20:59:11] [Server thread/INFO]: [杰夫]JeffXiang : 腐竹你为什么不给我op
-2017-08-30 [20:59:17] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 要这个
-2017-08-30 [20:59:20] [Server thread/INFO]: wuge was slain by him
-2017-08-30 [20:59:23] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 最近刚刚稳定
-2017-08-30 [20:59:28] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我不想再被炸了
-2017-08-30 [20:59:34] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:59:34] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:59:34] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:59:36] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 等有熊插件我给你
-2017-08-30 [20:59:43] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [20:59:46] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [20:59:51] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我要 summer 家
-2017-08-30 [20:59:52] [Server thread/INFO]: izzy[/67.81.114.139:65010] logged out due to client disconnect
-2017-08-30 [20:59:55] [Server thread/INFO]: [杰夫]JeffXiang : 给我创造嘛
-2017-08-30 [21:00:00] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:00:00] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [21:00:05] [Server thread/WARNING]: JeffXiang moved wrongly!
-2017-08-30 [21:00:07] [Server thread/INFO]: [lihaoyy: Set JeffXiang's game mode to Creative Mode]
-2017-08-30 [21:00:10] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:00:15] [Server thread/INFO]: izzy[/67.81.114.139:65010] [ClientID: 2919740226326786880] logged in with entity id 194 at (world, 128, 64, 128)
-2017-08-30 [21:00:20] [Server thread/INFO]: RAI 102311[/101.111.112.45:57990] logged out due to Invalid name!
-2017-08-30 [21:00:21] [Server thread/INFO]: [我是男的]him : 给我创造
-2017-08-30 [21:00:26] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 67
-2017-08-30 [21:00:27] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 就这个
-2017-08-30 [21:00:28] [Server thread/INFO]: izzy[/67.81.114.139:65010] logged out due to client disconnect
-2017-08-30 [21:00:29] [Server thread/INFO]: YUC'e[/1.196.230.170:64862] logged out due to Invalid name!
-2017-08-30 [21:00:30] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 人民币
-2017-08-30 [21:00:38] [Server thread/INFO]: RAI 102311[/101.111.112.45:57990] logged out due to Invalid name!
-2017-08-30 [21:00:42] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:00:46] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:00:49] [Server thread/INFO]: YUC'e[/1.196.230.170:64862] logged out due to Invalid name!
-2017-08-30 [21:00:55] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:00:57] [Server thread/INFO]: RAI 102311[/101.111.112.45:57990] logged out due to Invalid name!
-2017-08-30 [21:00:59] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:01:03] [Server thread/INFO]: [杰夫]JeffXiang : 你喜欢这个嘛
-2017-08-30 [21:01:04] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:01:04] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我要Jeff这个家
-2017-08-30 [21:01:09] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:01:12] [Server thread/INFO]: RAI 102311[/101.111.112.45:57990] logged out due to Invalid name!
-2017-08-30 [21:01:17] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [21:01:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:01:29] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我也要创造
-2017-08-30 [21:01:30] [Server thread/INFO]: RAI 102311[/101.111.112.45:57990] logged out due to Invalid name!
-2017-08-30 [21:01:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:01:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:01:40] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:01:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:01:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:01:43] [Server thread/INFO]: [杰夫]JeffXiang : wuge我给你权限就可以了
-2017-08-30 [21:01:50] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:02:09] [Server thread/INFO]: [杰夫]JeffXiang : 我感觉2个一样的不好看
-2017-08-30 [21:02:16] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [21:02:26] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:02:31] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:02:33] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:02:35] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:02:38] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 可是不是我的领地
-2017-08-30 [21:02:46] [Server thread/INFO]: [帅气的腐竹]lihaoyy : .
-2017-08-30 [21:02:50] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [21:02:57] [Server thread/WARNING]: lihaoyy moved too fast, reverting movement
-2017-08-30 [21:03:01] [Server thread/INFO]: [杰夫]JeffXiang : 我给你我哪个家权利就可以了
-2017-08-30 [21:03:05] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:03:12] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 算了
-2017-08-30 [21:03:16] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我不要了
-2017-08-30 [21:03:17] [Server thread/INFO]: - lihaoyy离开了服务器
-2017-08-30 [21:03:17] [Server thread/INFO]: [AuthMePE] Player lihaoyy 退出了游戏.
-2017-08-30 [21:03:17] [Server thread/INFO]: lihaoyy[/116.230.187.39:62041] logged out due to timeout
-2017-08-30 [21:03:31] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 我要跟Jeff住
-2017-08-30 [21:03:33] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:03:48] [Server thread/INFO]: [杰夫]JeffXiang : 正好summer走了
-2017-08-30 [21:03:56] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:04:08] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 然后呢
-2017-08-30 [21:04:29] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:04:30] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:04:31] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:04:38] [Server thread/INFO]: Steve[/86.103.206.146:59351] [ClientID: 3271196772918440204] logged in with entity id 196 at (world, 128, 64, 128)
-2017-08-30 [21:04:41] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:04:55] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : summer走了所以呢
-2017-08-30 [21:05:01] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:02] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:03] [Server thread/INFO]: [杰夫]JeffXiang : 没什么
-2017-08-30 [21:05:11] [Server thread/INFO]: Steve[/86.103.206.146:59351] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:05:13] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:15] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:35] [Server thread/INFO]: Steve[/86.103.206.146:59351] [ClientID: 3271196772918440204] logged in with entity id 201 at (world, 128, 64, 128)
-2017-08-30 [21:05:38] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:48] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:49] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:05:49] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:06:06] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 那我干嘛呢？
-2017-08-30 [21:06:07] [Server thread/INFO]: Steve[/86.103.206.146:59351] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:06:12] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:06:17] [Server thread/INFO]: [杰夫]JeffXiang : 没什么
-2017-08-30 [21:06:18] [Server thread/WARNING]: him moved wrongly!
-2017-08-30 [21:06:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:06:26] [Server thread/INFO]: [杰夫]JeffXiang : 可以来我家住
-2017-08-30 [21:06:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:06:33] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 有话直说嘛
-2017-08-30 [21:06:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:06:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:06:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:06:47] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:06:48] [Server thread/WARNING]: wuge moved wrongly!
-2017-08-30 [21:07:20] [Server thread/INFO]: [杰夫]JeffXiang : qq聊
-2017-08-30 [21:07:24] [Server thread/INFO]: - JeffXiang离开了服务器
-2017-08-30 [21:07:24] [Server thread/INFO]: [AuthMePE] Player JeffXiang 退出了游戏.
-2017-08-30 [21:07:24] [Server thread/INFO]: JeffXiang[/221.237.21.88:12801] logged out due to client disconnect
-2017-08-30 [21:07:24] [Server thread/INFO]: Steve[/111.182.70.109:23435] [ClientID: 5584825239152399998] logged in with entity id 216 at (world, 128, 64, 128)
-2017-08-30 [21:07:25] [Server thread/INFO]: [我的字是五歌紫的⊙∀⊙！]wuge : 好
-2017-08-30 [21:07:27] [Server thread/INFO]: - wuge离开了服务器
-2017-08-30 [21:07:27] [Server thread/INFO]: [AuthMePE] Player wuge 退出了游戏.
-2017-08-30 [21:07:27] [Server thread/INFO]: wuge[/113.73.175.242:57992] logged out due to client disconnect
-2017-08-30 [21:07:56] [Server thread/INFO]: Steve[/111.182.70.109:23435] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:09:21] [Server thread/NOTICE]: Player data not found for "gestxl", creating new profile
-2017-08-30 [21:09:21] [Server thread/INFO]: gestxl[/218.161.78.174:53904] [ClientID: 5810367928995403027] logged in with entity id 242 at (world, 128, 64, 128)
-2017-08-30 [21:09:30] [Server thread/INFO]: - him离开了服务器
-2017-08-30 [21:09:30] [Server thread/INFO]: [AuthMePE] Player him 退出了游戏.
-2017-08-30 [21:09:30] [Server thread/INFO]: him[/113.92.73.88:13067] logged out due to client disconnect
-2017-08-30 [21:10:05] [Server thread/INFO]: mao[/112.65.48.83:2649] logged out due to You are banned
-2017-08-30 [21:10:06] [Server thread/INFO]: Steve[/218.77.94.207:55821] [ClientID: 715418434815138822] logged in with entity id 243 at (world, 128, 64, 128)
-2017-08-30 [21:10:35] [Server thread/INFO]: gestxl[/218.161.78.174:53904] logged out due to timeout
-2017-08-30 [21:10:39] [Server thread/INFO]: Steve[/218.77.94.207:55821] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:11:01] [Server thread/INFO]: Steve[/218.77.94.207:55821] [ClientID: 715418434815138822] logged in with entity id 244 at (world, 128, 64, 128)
-2017-08-30 [21:11:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:11:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:11:33] [Server thread/INFO]: Steve[/218.77.94.207:55821] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:11:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:11:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:11:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:12:41] [Server thread/NOTICE]: Player data not found for "moon_boos", creating new profile
-2017-08-30 [21:12:41] [Server thread/INFO]: moon_boos[/115.202.143.38:55411] [ClientID: -4055711101895451801] logged in with entity id 245 at (world, 128, 64, 128)
-2017-08-30 [21:13:18] [Server thread/NOTICE]: Player data not found for "kaka123", creating new profile
-2017-08-30 [21:13:18] [Server thread/INFO]: kaka123[/36.41.130.240:62079] [ClientID: 2714336908527576603] logged in with entity id 246 at (world, 128, 64, 128)
-2017-08-30 [21:13:36] [Server thread/INFO]: moon_boos[/115.202.143.38:55411] logged out due to client disconnect
-2017-08-30 [21:14:00] [Server thread/INFO]: [AuthMePE] 玩家 kaka123 已经登陆游戏.
-2017-08-30 [21:14:00] [Server thread/INFO]: - kaka123 成功登入了游戏
-2017-08-30 [21:14:00] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:14:00] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:15:28] [Server thread/INFO]: - kaka123离开了服务器
-2017-08-30 [21:15:28] [Server thread/INFO]: [AuthMePE] Player kaka123 退出了游戏.
-2017-08-30 [21:15:28] [Server thread/INFO]: kaka123[/36.41.130.240:62079] logged out due to timeout
-2017-08-30 [21:16:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:16:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:16:36] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:16:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:16:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:18:00] [Server thread/INFO]: Wimmy 1233[/123.139.81.107:14692] logged out due to Invalid name!
-2017-08-30 [21:18:19] [Server thread/INFO]: Wimmy 1233[/123.139.81.107:14692] logged out due to Invalid name!
-2017-08-30 [21:18:46] [Server thread/INFO]: Steve[/58.39.202.250:64561] [ClientID: -9156401787877831760] logged in with entity id 247 at (world, 128, 64, 128)
-2017-08-30 [21:18:52] [Server thread/INFO]: Wimmy 1233[/123.139.81.107:14692] logged out due to Invalid name!
-2017-08-30 [21:18:57] [Server thread/INFO]: Jake[/79.210.220.4:60901] [ClientID: -8913284459418042227] logged in with entity id 248 at (world, 128.0254, 65, 128.0022)
-2017-08-30 [21:19:00] [Server thread/INFO]: Steve[/58.39.202.250:64561] logged out due to Kicked by admin. Reason: 
-尝试太多次输入密码
-请在 3 分钟后尝试
-
-
-本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [21:19:20] [Server thread/INFO]: Steve[/58.39.202.250:64561] [ClientID: -9156401787877831760] logged in with entity id 249 at (world, 128, 64, 128)
-2017-08-30 [21:19:21] [Server thread/INFO]: Steve[/58.39.202.250:64561] logged out due to Kicked by admin. Reason: 太多尝试
-踢出游戏
-请在几分钟后尝试
-2017-08-30 [21:19:21] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Trying to get permissions of closed player on AuthMePE\AuthMePE
-2017-08-30 [21:19:21] [Server thread/CRITICAL]: InvalidStateException: "Trying to get permissions of closed player" (EXCEPTION) in "/src/pocketmine/Player" at line 686
-2017-08-30 [21:19:21] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [21:19:21] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [21:19:21] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-21.19.21-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [21:19:22] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [21:19:22] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [21:19:22] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [21:19:22] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [21:19:22] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [21:19:22] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [21:19:23] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [21:19:23] [Server thread/INFO]: Jake left the game
-2017-08-30 [21:19:23] [Server thread/INFO]: Jake[/79.210.220.4:60901] logged out due to Server closed
-2017-08-30 [21:19:23] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:19:23] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [21:19:23] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [21:19:23] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:19:23] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [13:19:27] [Server thread/INFO]: 
-
-  _____            _               _____
- / ____|          (_)             |  __ \
-| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
-| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
-| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
- \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
-                          __/ |
-                         |___/
-
-	Version: 1.1dev (5437e0f)
-	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
-	PHP Version: 7.0.9
-	OS: Linux
-	This core is maintained by GenisysPro (https://github.com/GenisysPro)
-	Discord Group chat: https://discord.gg/WrKzRNn 
-	Chatroom on QQ: 559301590 
-	Welcome to donate us on QQ: 1912003473
-	
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading properties and configuration...
-2017-08-30 [13:19:27] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [13:19:27] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [13:19:27] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [13:19:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [13:19:27] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading recipes...
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [13:19:27] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [13:19:27] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [13:19:27] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [13:19:27] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [13:19:27] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [13:19:27] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [13:19:27] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [13:19:27] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [13:19:27] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [13:19:27] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [21:19:27] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [21:19:27] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [21:19:27] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [21:19:27] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [21:19:27] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [21:19:27] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [21:19:27] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [21:19:27] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [21:19:27] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [21:19:27] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [21:19:27] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [21:19:27] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [21:19:27] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [21:19:27] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:19:27] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [21:19:27] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [21:19:27] [Server thread/INFO]: [AuthMePE] 
-		############
-		####SAuth####
-		##Made by lyj##
-		############
-2017-08-30 [21:19:27] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [21:19:27] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [21:19:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [21:19:27] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [21:19:27] [Server thread/INFO]: Done (0.682s)! For help, type "help" or "?"
-2017-08-30 [21:19:43] [Server thread/INFO]: Steve[/58.39.202.250:64561] [ClientID: -9156401787877831760] logged in with entity id 1 at (world, 128, 64.2, 128)
-2017-08-30 [21:20:14] [Server thread/INFO]: Steve[/58.39.202.250:64561] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:20:55] [Server thread/NOTICE]: Player data not found for "lukabamm", creating new profile
-2017-08-30 [21:20:55] [Server thread/INFO]: Lukabamm[/62.158.130.24:60628] [ClientID: 2405988328327476257] logged in with entity id 5 at (world, 128, 64, 128)
-2017-08-30 [21:21:57] [Server thread/INFO]: Lukabamm[/62.158.130.24:60628] logged out due to client disconnect
-2017-08-30 [21:24:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:24:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:24:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:24:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:24:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:29:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:29:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:29:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:30:03] [Server thread/INFO]: samS[/112.8.13.78:27064] [ClientID: -1641223440279089526] logged in with entity id 13 at (world, -171.5225, 217.1515, 159.736)
-2017-08-30 [21:30:11] [Server thread/INFO]: [AuthMePE] 玩家 samS 已经登陆游戏.
-2017-08-30 [21:30:11] [Server thread/INFO]: - samS 成功登入了游戏
-2017-08-30 [21:30:12] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:30:12] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:31:27] [Server thread/INFO]: JeffXiang[/221.237.21.88:15360] [ClientID: 7682296866856763080] logged in with entity id 24 at (th, 107.0243, 93.554, 47.4576)
-2017-08-30 [21:31:42] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [21:31:42] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [21:31:42] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:31:42] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:32:12] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:13] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:15] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:20] [Server thread/INFO]: [杰夫]JeffXiang : 女儿
-2017-08-30 [21:32:32] [Server thread/INFO]: [Rainbow]samS : 爸爸
-2017-08-30 [21:32:32] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:34] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:34] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:40] [Server thread/INFO]: [Rainbow]samS : 好卡哦
-2017-08-30 [21:32:41] [Server thread/INFO]: [杰夫]JeffXiang : 你在哪
-2017-08-30 [21:32:42] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:44] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:51] [Server thread/INFO]: [Rainbow]samS : 你tp我吧
-2017-08-30 [21:32:52] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:53] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:32:57] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:33:00] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:33:18] [Server thread/INFO]: [Rainbow]samS : 爸爸
-2017-08-30 [21:33:37] [Server thread/INFO]: [Rainbow]samS : 今天晚上六点多你上了吧
-2017-08-30 [21:33:37] [Server thread/INFO]: [杰夫]JeffXiang : 咋了
-2017-08-30 [21:34:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:34:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:34:19] [Server thread/INFO]: [Rainbow]samS : 爸爸你为什么不理我呜呜
-2017-08-30 [21:34:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:34:25] [Server thread/INFO]: [杰夫]JeffXiang : 咋了
-2017-08-30 [21:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-30 [21:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:34:31] [Server thread/INFO]: [杰夫]JeffXiang : 理你啦
-2017-08-30 [21:34:36] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:34:47] [Server thread/INFO]: [Rainbow]samS : 。。。不是
-2017-08-30 [21:34:55] [Server thread/INFO]: [Rainbow]samS : 是今天晚上六点多
-2017-08-30 [21:35:07] [Server thread/INFO]: [杰夫]JeffXiang : 你找我了吗
-2017-08-30 [21:35:18] [Server thread/INFO]: [Rainbow]samS : 是你本人吗
-2017-08-30 [21:35:18] [Server thread/INFO]: [Rainbow]samS : 不是本人吗
-2017-08-30 [21:35:21] [Server thread/INFO]: [Rainbow]samS : 好吧
-2017-08-30 [21:35:30] [Server thread/INFO]: [杰夫]JeffXiang : 是本人
-2017-08-30 [21:35:41] [Server thread/INFO]: [Rainbow]samS : 啊啊啊是啊
-2017-08-30 [21:35:50] [Server thread/INFO]: [Rainbow]samS : 好吧。。。
-2017-08-30 [21:36:37] [Server thread/INFO]: [杰夫]JeffXiang : 这是我的了
-2017-08-30 [21:36:54] [Server thread/INFO]: [Rainbow]samS : 。。。。。。爸爸你欺负我不会买地呜呜
-2017-08-30 [21:37:05] [Server thread/INFO]: [杰夫]JeffXiang : 买不了
-2017-08-30 [21:37:12] [Server thread/INFO]: [Rainbow]samS : 为什么。。
-2017-08-30 [21:37:14] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:37:17] [Server thread/INFO]: [杰夫]JeffXiang : 不知道
-2017-08-30 [21:37:21] [Server thread/INFO]: [Rainbow]samS : 无所谓了
-2017-08-30 [21:37:27] [Server thread/INFO]: [Rainbow]samS : 反正也没人
-2017-08-30 [21:37:32] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:37:32] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:37:34] [Server thread/INFO]: [杰夫]JeffXiang : 我换成手机哈
-2017-08-30 [21:37:37] [Server thread/INFO]: [杰夫]JeffXiang : 等等
-2017-08-30 [21:37:42] [Server thread/INFO]: [Rainbow]samS : 哦
-2017-08-30 [21:38:15] [Server thread/INFO]: - JeffXiang离开了服务器
-2017-08-30 [21:38:15] [Server thread/INFO]: [AuthMePE] Player JeffXiang 退出了游戏.
-2017-08-30 [21:38:15] [Server thread/INFO]: JeffXiang[/221.237.21.88:15360] logged out due to client disconnect
-2017-08-30 [21:38:33] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] [ClientID: 853995473468951096] logged in with entity id 70 at (world, -176.6302, 104.597, 163.6553)
-2017-08-30 [21:38:36] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [21:38:36] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [21:38:36] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [21:38:36] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:38:39] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:38:40] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:38:50] [Server thread/INFO]: [杰夫]JeffXiang : 在吗
-2017-08-30 [21:38:51] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:38:53] [Server thread/INFO]: [Rainbow]samS : 在
-2017-08-30 [21:38:57] [Server thread/INFO]: [Rainbow]samS : 你下面
-2017-08-30 [21:39:02] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:39:03] [Server thread/INFO]: - JeffXiang离开了服务器
-2017-08-30 [21:39:03] [Server thread/INFO]: [AuthMePE] Player JeffXiang 退出了游戏.
-2017-08-30 [21:39:03] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] logged out due to client disconnect
-2017-08-30 [21:39:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:39:13] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] [ClientID: 853995473468951096] logged in with entity id 75 at (world, 107.0116, 90.8599, 91.2795)
-2017-08-30 [21:39:15] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [21:39:15] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [21:39:15] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-30 [21:39:15] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:39:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:39:22] [Server thread/NOTICE]: Player data not found for "caotuanminh", creating new profile
-2017-08-30 [21:39:22] [Server thread/INFO]: caotuanminh[/14.190.189.167:58688] [ClientID: 4692947660907545574] logged in with entity id 77 at (world, 128, 64, 128)
-2017-08-30 [21:39:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-30 [21:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:39:39] [Server thread/INFO]: [AuthMePE] 玩家 caotuanminh 已经登陆游戏.
-2017-08-30 [21:39:39] [Server thread/INFO]: - caotuanminh 成功登入了游戏
-2017-08-30 [21:39:39] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:39:39] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:39:47] [Server thread/WARNING]: caotuanminh moved wrongly!
-2017-08-30 [21:40:21] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:40:24] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:40:37] [Server thread/INFO]: [杰夫]JeffXiang : 我们去造房子吧
-2017-08-30 [21:40:51] [Server thread/INFO]: [Rainbow]samS : 好啊
-2017-08-30 [21:41:24] [Server thread/INFO]: [杰夫]JeffXiang : tp
-2017-08-30 [21:41:25] [Server thread/INFO]: [杰夫]JeffXiang : 我
-2017-08-30 [21:41:30] [Server thread/INFO]: [Rainbow]samS : 哦哦
-2017-08-30 [21:41:32] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:41:44] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:41:44] [Server thread/INFO]: caotuanminh : hello china
-2017-08-30 [21:41:53] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:42:05] [Server thread/INFO]: - caotuanminh离开了服务器
-2017-08-30 [21:42:05] [Server thread/INFO]: [AuthMePE] Player caotuanminh 退出了游戏.
-2017-08-30 [21:42:05] [Server thread/INFO]: caotuanminh[/14.190.189.167:58688] logged out due to timeout
-2017-08-30 [21:42:21] [Server thread/INFO]: [Rainbow]samS : 好像是伪歪果仁
-2017-08-30 [21:42:37] [Server thread/NOTICE]: Player data not found for "elderumbrella30", creating new profile
-2017-08-30 [21:42:37] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] [ClientID: 2504044955104732235] logged in with entity id 112 at (world, 128, 64, 128)
-2017-08-30 [21:42:51] [Server thread/INFO]: [杰夫]JeffXiang : 在居民区
-2017-08-30 [21:43:08] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:43:15] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:43:19] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:43:31] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] logged out due to Kicked by admin. Reason: 
-尝试太多次输入密码
-请在 3 分钟后尝试
-
-
-本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [21:43:51] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] [ClientID: 2504044955104732235] logged in with entity id 134 at (world, 128, 64, 128)
-2017-08-30 [21:43:54] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] logged out due to Kicked by admin. Reason: 太多尝试
-踢出游戏
-请在几分钟后尝试
-2017-08-30 [21:43:54] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Trying to get permissions of closed player on AuthMePE\AuthMePE
-2017-08-30 [21:43:54] [Server thread/CRITICAL]: InvalidStateException: "Trying to get permissions of closed player" (EXCEPTION) in "/src/pocketmine/Player" at line 686
-2017-08-30 [21:43:54] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [21:43:54] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [21:43:54] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-21.43.54-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [21:43:56] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [21:43:56] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [21:43:56] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [21:43:56] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [21:43:56] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [21:43:56] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [21:43:56] [Server thread/CRITICAL]: pocketmine\plugin\PluginException: "Plugin 'AuthMePE' attempted to register a task while disabled" (EXCEPTION) in "/src/pocketmine/scheduler/ServerScheduler" at line 201
-2017-08-30 [21:43:56] [Server thread/INFO]: samS left the game
-2017-08-30 [21:43:56] [Server thread/INFO]: samS[/112.8.13.78:27064] logged out due to Server closed
-2017-08-30 [21:43:56] [Server thread/INFO]: JeffXiang left the game
-2017-08-30 [21:43:56] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] logged out due to Server closed
-2017-08-30 [21:43:56] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:43:56] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [21:43:56] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [21:43:56] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:43:56] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [13:43:59] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [13:43:59] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [13:43:59] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [13:43:59] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [13:43:59] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading recipes...
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [13:43:59] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [13:43:59] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [13:43:59] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [13:43:59] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [13:43:59] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [13:43:59] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [13:43:59] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [13:43:59] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [13:43:59] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [13:43:59] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [21:43:59] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [21:43:59] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [21:43:59] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [21:43:59] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [21:43:59] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [21:43:59] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [21:43:59] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [21:43:59] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [21:43:59] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [21:43:59] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [21:43:59] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [21:43:59] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [21:43:59] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [21:43:59] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:43:59] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [21:43:59] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [21:43:59] [Server thread/INFO]: [AuthMePE] 
-		############
-		####SAuth####
-		##Made by lyj##
-		############
-2017-08-30 [21:43:59] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [21:43:59] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [21:43:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [21:43:59] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [21:43:59] [Server thread/INFO]: Done (0.645s)! For help, type "help" or "?"
-2017-08-30 [21:44:14] [Server thread/INFO]: samS[/112.8.13.78:27064] [ClientID: -1641223440279089526] logged in with entity id 1 at (th, 90.0594, 65, 73.5736)
-2017-08-30 [21:44:19] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] [ClientID: 853995473468951096] logged in with entity id 2 at (th, 95.8441, 66.9998, 72.6596)
-2017-08-30 [21:44:21] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] [ClientID: 2504044955104732235] logged in with entity id 3 at (world, 128, 64.2, 128)
-2017-08-30 [21:44:23] [Server thread/INFO]: [AuthMePE] 玩家 samS 已经登陆游戏.
-2017-08-30 [21:44:23] [Server thread/INFO]: - samS 成功登入了游戏
-2017-08-30 [21:44:24] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:44:24] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:44:26] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [21:44:26] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [21:44:27] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:44:27] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:44:32] [Server thread/INFO]: [Rainbow]samS : ah
-2017-08-30 [21:44:44] [Server thread/INFO]: [杰夫]JeffXiang : 居民区
-2017-08-30 [21:44:46] [Server thread/INFO]: [Rainbow]samS : 卡了
-2017-08-30 [21:44:50] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] logged out due to Kicked by admin. Reason: 
-尝试太多次输入密码
-请在 3 分钟后尝试
-
-
-本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [21:45:20] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] [ClientID: 2504044955104732235] logged in with entity id 4 at (world, 128, 64, 128)
-2017-08-30 [21:45:22] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42395] logged out due to Kicked by admin. Reason: 太多尝试
-踢出游戏
-请在几分钟后尝试
-2017-08-30 [21:45:22] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Trying to get permissions of closed player on AuthMePE\AuthMePE
-2017-08-30 [21:45:22] [Server thread/CRITICAL]: InvalidStateException: "Trying to get permissions of closed player" (EXCEPTION) in "/src/pocketmine/Player" at line 686
-2017-08-30 [21:45:22] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [21:45:22] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [21:45:22] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-21.45.22-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [21:45:23] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [21:45:23] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [21:45:23] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [21:45:23] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [21:45:23] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [21:45:23] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [21:45:23] [Server thread/CRITICAL]: pocketmine\plugin\PluginException: "Plugin 'AuthMePE' attempted to register a task while disabled" (EXCEPTION) in "/src/pocketmine/scheduler/ServerScheduler" at line 201
-2017-08-30 [21:45:23] [Server thread/INFO]: samS left the game
-2017-08-30 [21:45:23] [Server thread/INFO]: samS[/112.8.13.78:27064] logged out due to Server closed
-2017-08-30 [21:45:23] [Server thread/INFO]: JeffXiang left the game
-2017-08-30 [21:45:23] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] logged out due to Server closed
-2017-08-30 [21:45:23] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:45:23] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [21:45:23] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [21:45:23] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:45:23] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [13:45:27] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [13:45:27] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [13:45:27] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [13:45:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [13:45:27] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [13:45:27] [Server thread/INFO]: Loading recipes...
-2017-08-30 [13:45:27] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [13:45:28] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [13:45:28] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [13:45:28] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [13:45:28] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [13:45:28] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [13:45:28] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [13:45:28] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [13:45:28] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [13:45:28] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [13:45:28] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [21:45:28] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [21:45:28] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [21:45:28] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [21:45:28] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [21:45:28] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [21:45:28] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [21:45:28] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [21:45:28] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [21:45:28] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [21:45:28] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [21:45:28] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [21:45:28] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [21:45:28] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [21:45:28] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:45:28] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [21:45:28] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [21:45:28] [Server thread/INFO]: [AuthMePE] 
-		############
-		####SAuth####
-		##Made by lyj##
-		############
-2017-08-30 [21:45:28] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [21:45:28] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [21:45:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [21:45:28] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [21:45:28] [Server thread/INFO]: Done (0.703s)! For help, type "help" or "?"
-2017-08-30 [21:45:32] [Server thread/INFO]: samS[/112.8.13.78:27064] [ClientID: -1641223440279089526] logged in with entity id 1 at (th, 187.4746, 65, 84.9846)
-2017-08-30 [21:45:40] [Server thread/INFO]: [AuthMePE] 玩家 samS 已经登陆游戏.
-2017-08-30 [21:45:40] [Server thread/INFO]: - samS 成功登入了游戏
-2017-08-30 [21:45:41] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:45:41] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:45:42] [Server thread/INFO]: RAI 102311[/101.111.112.45:64223] logged out due to Invalid name!
-2017-08-30 [21:45:45] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] [ClientID: 853995473468951096] logged in with entity id 2 at (th, 193.3504, 73.4374, 54.7947)
-2017-08-30 [21:45:51] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [21:45:51] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [21:45:52] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:45:52] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:45:52] [Server thread/WARNING]: samS moved wrongly!
-2017-08-30 [21:45:56] [Server thread/INFO]: Jacob[/90.208.171.97:50731] [ClientID: -4650921109038563945] logged in with entity id 3 at (world, 128, 28, 128)
-2017-08-30 [21:46:03] [Server thread/INFO]: Steve[/60.180.70.2:19965] [ClientID: -7686969379624479441] logged in with entity id 4 at (world, 128, 64, 128)
-2017-08-30 [21:46:13] [Server thread/INFO]: Jacob[/90.208.171.97:50731] logged out due to timeout
-2017-08-30 [21:46:26] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] [ClientID: 2504044955104732235] logged in with entity id 5 at (world, 128, 64.2, 128)
-2017-08-30 [21:46:28] [Server thread/INFO]: [杰夫]JeffXiang : 你有多少钱
-2017-08-30 [21:46:31] [Server thread/INFO]: [Rainbow]samS : 为什么换不了钱啊
-2017-08-30 [21:46:34] [Server thread/INFO]: Steve[/60.180.70.2:19965] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:46:38] [Server thread/INFO]: [Rainbow]samS : 额好像是
-2017-08-30 [21:46:46] [Server thread/INFO]: [Rainbow]samS : 126453
-2017-08-30 [21:46:50] [Server thread/INFO]: Steve[/60.180.70.2:19965] [ClientID: -7686969379624479441] logged in with entity id 6 at (world, 128, 64, 128)
-2017-08-30 [21:46:54] [Server thread/INFO]: Steve[/60.180.70.2:19965] logged out due to client disconnect
-2017-08-30 [21:46:54] [Server thread/INFO]: [杰夫]JeffXiang : 怎么多
-2017-08-30 [21:46:59] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:47:05] [Server thread/INFO]: [Rainbow]samS : 多嘛。。。
-2017-08-30 [21:47:27] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] [ClientID: 2504044955104732235] logged in with entity id 7 at (world, 128, 64, 128)
-2017-08-30 [21:47:35] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] logged out due to Kicked by admin. Reason: 
-尝试太多次输入密码
-请在 3 分钟后尝试
-
-
-本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [21:48:09] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] [ClientID: 2504044955104732235] logged in with entity id 8 at (world, 128, 64, 128)
-2017-08-30 [21:48:12] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] logged out due to Kicked by admin. Reason: 太多尝试
-踢出游戏
-请在几分钟后尝试
-2017-08-30 [21:48:12] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Trying to get permissions of closed player on AuthMePE\AuthMePE
-2017-08-30 [21:48:12] [Server thread/CRITICAL]: InvalidStateException: "Trying to get permissions of closed player" (EXCEPTION) in "/src/pocketmine/Player" at line 686
-2017-08-30 [21:48:12] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [21:48:12] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [21:48:12] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-21.48.12-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [21:48:13] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [21:48:13] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [21:48:13] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [21:48:13] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [21:48:13] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [21:48:13] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [21:48:13] [Server thread/CRITICAL]: pocketmine\plugin\PluginException: "Plugin 'AuthMePE' attempted to register a task while disabled" (EXCEPTION) in "/src/pocketmine/scheduler/ServerScheduler" at line 201
-2017-08-30 [21:48:13] [Server thread/INFO]: samS left the game
-2017-08-30 [21:48:13] [Server thread/INFO]: samS[/112.8.13.78:27064] logged out due to Server closed
-2017-08-30 [21:48:13] [Server thread/INFO]: JeffXiang left the game
-2017-08-30 [21:48:13] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] logged out due to Server closed
-2017-08-30 [21:48:13] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:48:13] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [21:48:13] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [21:48:13] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:48:13] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [13:48:17] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [13:48:17] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [13:48:17] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [13:48:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [13:48:17] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading recipes...
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [13:48:17] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [13:48:17] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [13:48:17] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [13:48:17] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [13:48:17] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [13:48:17] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [13:48:17] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [13:48:17] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [13:48:17] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [13:48:17] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [21:48:17] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [21:48:17] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [21:48:17] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [21:48:17] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [21:48:17] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [21:48:17] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [21:48:17] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [21:48:17] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [21:48:17] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [21:48:17] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [21:48:17] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [21:48:17] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [21:48:17] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [21:48:17] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:48:17] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [21:48:17] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [21:48:17] [Server thread/INFO]: [AuthMePE] 
-		############
-		####SAuth####
-		##Made by lyj##
-		############
-2017-08-30 [21:48:18] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [21:48:18] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [21:48:18] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [21:48:18] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [21:48:18] [Server thread/INFO]: Done (0.639s)! For help, type "help" or "?"
-2017-08-30 [21:48:32] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] [ClientID: 2504044955104732235] logged in with entity id 1 at (world, 128, 64.2, 128)
-2017-08-30 [21:48:38] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] [ClientID: 853995473468951096] logged in with entity id 3 at (th, 190.0019, 66.8435, 106.9092)
-2017-08-30 [21:48:47] [Server thread/INFO]: [AuthMePE] 玩家 JeffXiang 已经登陆游戏.
-2017-08-30 [21:48:47] [Server thread/INFO]: - JeffXiang 成功登入了游戏
-2017-08-30 [21:48:47] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:48:47] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:48:52] [Server thread/INFO]: #Ryan_Baseball_7[/66.176.2.117:60255] logged out due to Invalid name!
-2017-08-30 [21:48:58] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] logged out due to Kicked by admin. Reason: 
-尝试太多次输入密码
-请在 3 分钟后尝试
-
-
-本次未成功登入记录文件中.添加ip查询.防止盗号.
-2017-08-30 [21:49:06] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:49:09] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:49:20] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42582] logged out due to timeout
-2017-08-30 [21:49:21] [Server thread/INFO]: #Ryan_Baseball_7[/66.176.2.117:60255] logged out due to Invalid name!
-2017-08-30 [21:49:22] [Server thread/INFO]: samS[/112.8.13.78:27064] [ClientID: -1641223440279089526] logged in with entity id 6 at (th, 154.5832, 66.0244, 130.7958)
-2017-08-30 [21:49:29] [Server thread/INFO]: [AuthMePE] 玩家 samS 已经登陆游戏.
-2017-08-30 [21:49:29] [Server thread/INFO]: - samS 成功登入了游戏
-2017-08-30 [21:49:30] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-30 [21:49:30] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-30 [21:49:34] [Server thread/INFO]: [杰夫]JeffXiang : tp我
-2017-08-30 [21:49:38] [Server thread/WARNING]: JeffXiang moved too fast, reverting movement
-2017-08-30 [21:49:56] [Server thread/INFO]: [杰夫]JeffXiang : 我去睡觉了
-2017-08-30 [21:50:00] [Server thread/INFO]: - JeffXiang离开了服务器
-2017-08-30 [21:50:00] [Server thread/INFO]: [AuthMePE] Player JeffXiang 退出了游戏.
-2017-08-30 [21:50:00] [Server thread/INFO]: JeffXiang[/221.237.21.88:12672] logged out due to client disconnect
-2017-08-30 [21:50:03] [Server thread/NOTICE]: Player data not found for "radninjapizza", creating new profile
-2017-08-30 [21:50:03] [Server thread/INFO]: Radninjapizza[/65.75.73.229:30357] [ClientID: 6905378263487877687] logged in with entity id 11 at (world, 128, 64, 128)
-2017-08-30 [21:50:10] [Server thread/INFO]: - samS离开了服务器
-2017-08-30 [21:50:10] [Server thread/INFO]: [AuthMePE] Player samS 退出了游戏.
-2017-08-30 [21:50:10] [Server thread/INFO]: samS[/112.8.13.78:27064] logged out due to client disconnect
-2017-08-30 [21:50:21] [Server thread/INFO]: Hsiao yo[/1.172.225.239:52908] logged out due to Invalid name!
-2017-08-30 [21:50:36] [Server thread/INFO]: Hsiao yo[/1.172.225.239:52908] logged out due to Invalid name!
-2017-08-30 [21:50:43] [Server thread/NOTICE]: Player data not found for "seve", creating new profile
-2017-08-30 [21:50:43] [Server thread/INFO]: seve[/118.181.242.196:21379] [ClientID: -4230607672198646511] logged in with entity id 16 at (world, 128, 64, 128)
-2017-08-30 [21:51:07] [Server thread/INFO]: Radninjapizza[/65.75.73.229:30357] logged out due to client disconnect
-2017-08-30 [21:51:11] [Server thread/INFO]: seve[/118.181.242.196:21379] logged out due to client disconnect
-2017-08-30 [21:51:13] [Server thread/INFO]: Radninjapizza[/65.75.73.229:30357] [ClientID: 6905378263487877687] logged in with entity id 20 at (world, 128, 64, 128)
-2017-08-30 [21:51:47] [Server thread/INFO]: Radninjapizza[/65.75.73.229:30357] logged out due to client disconnect
-2017-08-30 [21:52:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [21:53:08] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [21:53:13] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [21:53:18] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [21:53:18] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [21:55:38] [Server thread/INFO]: Steve[/183.197.84.95:51885] [ClientID: -2949411540492017473] logged in with entity id 24 at (world, 128, 64, 128)
-2017-08-30 [21:56:04] [Server thread/NOTICE]: Player data not found for "funkypeter125", creating new profile
-2017-08-30 [21:56:04] [Server thread/INFO]: FunkyPeter125[/218.241.251.165:48122] [ClientID: -4363802068571637026] logged in with entity id 27 at (world, 128, 64, 128)
-2017-08-30 [21:56:10] [Server thread/INFO]: Steve[/183.197.84.95:51885] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [21:57:01] [Server thread/INFO]: FunkyPeter125[/218.241.251.165:48122] logged out due to client disconnect
-2017-08-30 [21:57:02] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42932] [ClientID: 2504044955104732235] logged in with entity id 34 at (world, 128, 64, 128)
-2017-08-30 [21:57:05] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42932] logged out due to Kicked by admin. Reason: 太多尝试
-踢出游戏
-请在几分钟后尝试
-2017-08-30 [21:57:05] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Trying to get permissions of closed player on AuthMePE\AuthMePE
-2017-08-30 [21:57:05] [Server thread/CRITICAL]: InvalidStateException: "Trying to get permissions of closed player" (EXCEPTION) in "/src/pocketmine/Player" at line 686
-2017-08-30 [21:57:05] [Server thread/CRITICAL]: Error: "Call to a member function sendContents() on null" (EXCEPTION) in "/src/pocketmine/Player" at line 1123
-2017-08-30 [21:57:05] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
-2017-08-30 [21:57:05] [Server thread/EMERGENCY]: Please upload the "/root/pmmp/crashdumps/CrashDump_Wed_Aug_30-21.57.05-CST_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling Asign v1.4
-2017-08-30 [21:57:06] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-08-30 [21:57:06] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling db v1.0.0
-2017-08-30 [21:57:06] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-08-30 [21:57:06] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-08-30 [21:57:06] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling ld v流星优化
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-08-30 [21:57:06] [Server thread/INFO]: Disabling AuthMePE v0.1.4
-2017-08-30 [21:57:06] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:57:06] [Server thread/INFO]: Unloading level "nether"
-2017-08-30 [21:57:06] [Server thread/INFO]: Unloading level "ender"
-2017-08-30 [21:57:06] [Server thread/INFO]: Unloading level "world"
-2017-08-30 [21:57:06] [Server thread/INFO]: Unloading level "th"
-2017-08-30 [13:57:10] [Server thread/INFO]: 
-
-  _____            _               _____
- / ____|          (_)             |  __ \
-| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
-| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
-| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
- \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
-                          __/ |
-                         |___/
-
-	Version: 1.1dev (5437e0f)
-	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
-	PHP Version: 7.0.9
-	OS: Linux
-	This core is maintained by GenisysPro (https://github.com/GenisysPro)
-	Discord Group chat: https://discord.gg/WrKzRNn 
-	Chatroom on QQ: 559301590 
-	Welcome to donate us on QQ: 1912003473
-	
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading properties and configuration...
-2017-08-30 [13:57:10] [Server thread/WARNING]: OpenSSL extension not found
-2017-08-30 [13:57:10] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-08-30 [13:57:10] [Server thread/INFO]: Selected English (eng) as the base language
-2017-08-30 [13:57:10] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-08-30 [13:57:10] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading recipes...
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading resource packs...
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading Asign v1.4
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading db v1.0.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading ld v流星优化
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-08-30 [13:57:10] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-08-30 [13:57:10] [Server thread/INFO]: Loading (Source) AuthMePE v0.1.4
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling db v1.0.0
-2017-08-30 [13:57:10] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-08-30 [13:57:10] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-08-30 [13:57:10] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [13:57:10] [Server thread/INFO]: Preparing level "nether"
-2017-08-30 [13:57:10] [Server thread/INFO]: Preparing level "ender"
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling Asign v1.4
-2017-08-30 [13:57:10] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-08-30 [13:57:10] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-08-30 [13:57:10] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-08-30 [21:57:10] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-08-30 [21:57:10] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-08-30 [21:57:10] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-08-30 [21:57:10] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-08-30 [21:57:10] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-08-30 [21:57:10] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-08-30 [21:57:10] [Server thread/INFO]: SWorld loaded!
-2017-08-30 [21:57:10] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-08-30 [21:57:10] [Server thread/INFO]: Preparing level "world"
-2017-08-30 [21:57:10] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-08-30 [21:57:10] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-08-30 [21:57:10] [Server thread/INFO]: Preparing level "th"
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-08-30 [21:57:10] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-08-30 [21:57:10] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling ld v流星优化
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-08-30 [21:57:10] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-08-30 [21:57:10] [Server thread/INFO]: Enabling AuthMePE v0.1.4
-2017-08-30 [21:57:11] [Server thread/INFO]: [AuthMePE] 
-		############
-		####SAuth####
-		##Made by lyj##
-		############
-2017-08-30 [21:57:11] [Server thread/INFO]: Starting GS4 status listener
-2017-08-30 [21:57:11] [Server thread/INFO]: Setting query port to 19132
-2017-08-30 [21:57:11] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-08-30 [21:57:11] [Server thread/INFO]: Default game type: Survival Mode
-2017-08-30 [21:57:11] [Server thread/INFO]: Done (0.63s)! For help, type "help" or "?"
-2017-08-30 [21:57:25] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42932] [ClientID: 2504044955104732235] logged in with entity id 1 at (world, 128, 64.2, 128)
-2017-08-30 [21:57:57] [Server thread/INFO]: ElderUmbrella30[/39.9.129.162:42932] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-30 [22:01:51] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-30 [22:02:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-30 [22:02:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-30 [22:02:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-30 [22:02:11] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-30 [22:03:18] [Server thread/INFO]: Steve[/60.180.70.2:20973] [ClientID: -7686969379624479441] logged in with entity id 2 at (world, 128, 64, 128)
-2017-08-30 [22:03:49] [Server thread/INFO]: Steve[/60.180.70.2:20973] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
+2017-08-30 [23:30:16] [Server thread/INFO]: Starting GS4 status listener
+2017-08-30 [23:30:16] [Server thread/INFO]: Setting query port to 19132
+2017-08-30 [23:30:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-08-30 [23:30:16] [Server thread/INFO]: Default game type: Survival Mode
+2017-08-30 [23:30:16] [Server thread/INFO]: Done (0.689s)! For help, type "help" or "?"
+2017-08-30 [23:34:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:35:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:35:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:35:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:39:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:40:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:40:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:40:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:44:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:45:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:45:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:45:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:49:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:50:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:50:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:50:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:54:23] [Server thread/INFO]: fishwarrior[/81.247.75.222:50636] [ClientID: -6626202139810258320] logged in with entity id 1 at (world, 128, 64, 128)
+2017-08-30 [23:54:46] [Server thread/INFO]: fishwarrior[/81.247.75.222:50636] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
+2017-08-30 [23:54:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-30 [23:55:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-30 [23:55:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-30 [23:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-30 [23:55:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-30 [23:59:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:00:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:00:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:00:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-08-31 [00:04:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-08-31 [00:05:06] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-08-31 [00:05:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-08-31 [00:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-08-31 [00:05:16] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
