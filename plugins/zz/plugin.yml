@@ -1,0 +1,46 @@
+name: AuthMePE
+main: AuthMePE\AuthMePE
+api: 1.12.0
+version: 0.1.4
+author: hoyinm & CyberCube-HK™
+description: Port of most features of Bukkit's AuthMe_Reloaded
+
+commands:
+  unregister:
+    usage: /unregister
+    description: 移除自己的密码.包括ip .简化命令:/ur
+    permission: authmepe.command.unregister
+    aliases: ["ur"]
+  changepass:
+    usage: /changepass <old> <new> <new>
+    description: 改变你的密码.简化命令:/mima
+    permission: authmepe.command.changepass
+    aliases: ["mima", "changepw"]
+  chgemail:
+    usage: /chgemail <email>
+    description: 设置你的邮箱.简化命令:/email
+    permission: authmepe.command.chgemail
+    aliases: ["email"]
+  logout:
+    usage: /logout
+    description: 退出登录状态
+    permission: authmepe.command.logout
+  authme:
+    usage: /authme help
+    description: SAuth管理员命令
+    permission: authmepe.command.authme
+    aliases: ["ah"]
+
+permissions:
+  authmepe.command.unregister:
+    default: true
+  authmepe.command.changepass:
+    default: true
+  authmepe.command.chgemail:
+    default: true
+  authmepe.command.logout:
+    default: true
+  authmepe.command.authme:
+    default: op
+  authmepe.login.bypass:
+    default: false

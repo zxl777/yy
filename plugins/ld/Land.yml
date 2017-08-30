@@ -3673,4 +3673,15 @@
   invitee:
     liuliu2008: true
   expires: ~
+371:
+  ID: 371
+  startX: 154
+  endX: 189
+  startZ: -40
+  endZ: -5
+  price: 115600
+  owner: zxcvbnmsssbbbb
+  level: th
+  invitee: []
+  expires: ~
 ...
