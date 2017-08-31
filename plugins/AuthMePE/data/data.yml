@@ -8494,5 +8494,8 @@ Rainie:
   times: 0
 Leader:
   password: 432ebfdbb2ff0206daf5fb548c37bf7e
+  times: 1
+Melody:
+  password: b5f62f70a9bc692264bc4a2063af9b37
   times: 0
 ...
