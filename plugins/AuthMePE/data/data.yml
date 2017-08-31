@@ -2614,7 +2614,7 @@ iinieie:
   ip: "yes"
 worldfire:
   password: 89e323313fd25002ad3c96888c1381c2
-  times: 1
+  times: 0
   ip: "yes"
 wirldfire0503:
   password: 908702934dea2d7913dace8fdede152c
@@ -8300,7 +8300,7 @@ ElderUmbrella30:
   times: 0
 BANG:
   password: b39e85de02d239dd6197b6ade878a42b
-  times: 0
+  times: 3
 Green_sky:
   password: 908702934dea2d7913dace8fdede152c
   times: 0
@@ -8323,5 +8323,8 @@ POWEr777888:
   times: 0
 CunningBaton235:
   password: 42b84fbe933c6980c38d731df28491b3
+  times: 0
+LUCARIO:
+  password: 675a0f326dbedd2eb8a707262904ed4d
   times: 0
 ...

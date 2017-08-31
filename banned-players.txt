@@ -1,4 +1,4 @@
-# Updated 08/31/17 08:34 by GenisysPro 1.1dev
+# Updated 08/31/17 11:41 by GenisysPro 1.1dev
 # victim name | ban date | banned by | banned until | reason
 
 i# updated 08/16/17 15:51 by genisyspro 1.1devc47625b|2017-08-16 08:15:09 +0000|(Unknown)|Forever|Banned by an operator.
@@ -40,3 +40,4 @@ zzzzzz|2017-08-25 14:41:36 +0800|lihaoyy|Forever|Banned by an operator.
 zzzzzzz|2017-08-30 18:00:05 +0800|lihaoyy|Forever|Banned by an operator.
 pvp2|2017-08-31 08:31:30 +0800|lihaoyy|Forever|Banned by an operator.
 matthew|2017-08-31 08:34:16 +0800|lihaoyy|Forever|Banned by an operator.
+sams|2017-08-31 11:41:05 +0800|power777888|Forever|Banned by an operator.
