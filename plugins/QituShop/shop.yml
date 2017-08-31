@@ -408,7 +408,7 @@
   money: "5000"
 152:65:117:world:
   kind: E
-  name: §4你打我啊
+  name: §2生存大师
   money: "5000"
 148:66:117:world:
   kind: E
@@ -416,8 +416,8 @@
   money: "999999999"
 150:65:117:world:
   kind: E
-  name: §c主§f播§b§l
-  money: "10000000"
+  name: §cPVP大师
+  money: "20000"
 146:67:106:world:
   kind: sell
   count: "1"
@@ -509,8 +509,8 @@
   id: "1"
 151:65:117:world:
   kind: E
-  name: §e§l非你莫属
-  money: "20000"
+  name: §7掘地矿工
+  money: "10000"
 148:67:117:world:
   kind: E
   name: §e§l杰夫
@@ -807,4 +807,24 @@
   count: "64"
   money: "500"
   id: "4"
+149:71:117:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "264"
+149:71:116:zy:
+  kind: sell
+  count: "1"
+  money: "500"
+  id: "266"
+149:71:115:zy:
+  kind: sell
+  count: "1"
+  money: "200"
+  id: "265"
+149:71:118:zy:
+  kind: sell
+  count: "1"
+  money: "1000"
+  id: "388"
 ...

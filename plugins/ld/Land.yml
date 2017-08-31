@@ -533,17 +533,6 @@
   level: th
   invitee: []
   expires: ~
-52:
-  ID: 52
-  startX: 194
-  endX: 227
-  startZ: 38
-  endZ: 71
-  price: 102400
-  owner: sam
-  level: th
-  invitee: []
-  expires: ~
 53:
   ID: 53
   startX: 77
@@ -663,17 +652,6 @@
   endZ: -6
   price: 24000
   owner: renhui
-  level: th
-  invitee: []
-  expires: ~
-66:
-  ID: 66
-  startX: 193
-  endX: 228
-  startZ: 154
-  endZ: 190
-  price: 119000
-  owner: a2209140013
   level: th
   invitee: []
   expires: ~
@@ -1210,17 +1188,6 @@
   level: world
   invitee: []
   expires: ~
-118:
-  ID: 118
-  startX: 233
-  endX: 240
-  startZ: 116
-  endZ: 149
-  price: 19200
-  owner: xwg
-  level: th
-  invitee: []
-  expires: ~
 119:
   ID: 119
   startX: 122
@@ -1627,17 +1594,6 @@
   level: th
   invitee: []
   expires: ~
-158:
-  ID: 158
-  startX: 194
-  endX: 227
-  startZ: 116
-  endZ: 149
-  price: 102400
-  owner: Leon93352001
-  level: th
-  invitee: []
-  expires: ~
 159:
   ID: 159
   startX: 155
@@ -1910,17 +1866,6 @@
   endZ: 150
   price: 115600
   owner: power777888
-  level: th
-  invitee: []
-  expires: ~
-184:
-  ID: 184
-  startX: 233
-  endX: 240
-  startZ: 77
-  endZ: 110
-  price: 19200
-  owner: wja
   level: th
   invitee: []
   expires: ~
