@@ -5,16 +5,6 @@
   need: "14"
   count: "1"
   id: "266"
-149:71:115:zy:
-  kind: sell
-  count: "1"
-  money: "200"
-  id: "265"
-149:71:116:zy:
-  kind: sell
-  count: "1"
-  money: "500"
-  id: "266"
 149:70:115:zy:
   kind: sell
   count: "1"
