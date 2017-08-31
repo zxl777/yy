@@ -1,256 +1,120 @@
-2017-08-31 [22:11:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:16:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:20:43] [Server thread/INFO]: top_ray[/117.8.192.75:51783] [ClientID: 9000261554536894911] logged in with entity id 8 at (world, 115.9198, 67.456, 132.7905)
-2017-08-31 [22:20:53] [Server thread/INFO]: [AuthMePE] 玩家 top_ray 已经登陆游戏.
-2017-08-31 [22:20:53] [Server thread/INFO]: - top_ray 成功登入了游戏
-2017-08-31 [22:20:53] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-31 [22:20:53] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:21:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:22:15] [Server thread/INFO]: Rainie[/61.70.46.166:55036] [ClientID: -489706715662468456] logged in with entity id 9 at (world, 155.2929, 58, 38.5361)
-2017-08-31 [22:22:28] [Server thread/INFO]: [AuthMePE] 玩家 Rainie 已经登陆游戏.
-2017-08-31 [22:22:28] [Server thread/INFO]: - Rainie 成功登入了游戏
-2017-08-31 [22:22:28] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-31 [22:22:28] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:22:53] [Server thread/INFO]: [帅气的腐竹]top_ray : 额
-2017-08-31 [22:23:35] [Server thread/INFO]: - Rainie离开了服务器
-2017-08-31 [22:23:35] [Server thread/INFO]: [AuthMePE] Player Rainie 退出了游戏.
-2017-08-31 [22:23:35] [Server thread/INFO]: Rainie[/61.70.46.166:55036] logged out due to client disconnect
-2017-08-31 [22:23:39] [Server thread/INFO]: Rainie[/61.70.46.166:55036] [ClientID: -489706715662468456] logged in with entity id 11 at (world, 9960.7002, 71, 9916.3408)
-2017-08-31 [22:23:40] [Server thread/INFO]: [AuthMePE] 玩家 Rainie 已经登陆游戏.
-2017-08-31 [22:23:40] [Server thread/INFO]: - Rainie 成功登入了游戏
-2017-08-31 [22:23:40] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-31 [22:23:40] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:25:05] [Server thread/INFO]: - top_ray离开了服务器
-2017-08-31 [22:25:05] [Server thread/INFO]: [AuthMePE] Player top_ray 退出了游戏.
-2017-08-31 [22:25:05] [Server thread/INFO]: top_ray[/117.8.192.75:51783] logged out due to client disconnect
-2017-08-31 [22:26:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:27:38] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:31:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:33:15] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:33:33] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:34:02] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:34:15] [Server thread/INFO]: kaka123[/113.138.137.180:52643] [ClientID: 2714336908527576603] logged in with entity id 12 at (world, 131.7325, 64, 112.6172)
-2017-08-31 [22:34:37] [Server thread/INFO]: [AuthMePE] 玩家 kaka123 已经登陆游戏.
-2017-08-31 [22:34:37] [Server thread/INFO]: - kaka123 成功登入了游戏
-2017-08-31 [22:34:37] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-31 [22:34:37] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:34:42] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:34:57] [Server thread/INFO]: kaka123 died
-2017-08-31 [22:35:14] [Server thread/INFO]: kaka123 : 你好
-2017-08-31 [22:35:58] [Server thread/INFO]: kaka123 suffocated in a wall
-2017-08-31 [22:36:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:38:05] [Server thread/INFO]: Minecraft[/91.63.114.214:54745] [ClientID: 4517625221774272724] logged in with entity id 14 at (world, 128, 64, 128)
-2017-08-31 [22:39:16] [Server thread/INFO]: Minecraft[/91.63.114.214:54745] logged out due to client disconnect
-2017-08-31 [22:40:00] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:40:00] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:40:09] [Server thread/INFO]: kaka123 drowned
-2017-08-31 [22:40:37] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:41:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:41:32] [Server thread/INFO]: Drago8419[/39.187.113.27:19444] [ClientID: -7128259881454539339] logged in with entity id 15 at (world, 171.7245, 53.6929, 106.7965)
-2017-08-31 [22:41:50] [Server thread/INFO]: [AuthMePE] 玩家 Drago8419 已经登陆游戏.
-2017-08-31 [22:41:50] [Server thread/INFO]: - Drago8419 成功登入了游戏
-2017-08-31 [22:41:51] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-31 [22:41:51] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:41:58] [Server thread/WARNING]: Rainie moved wrongly!
-2017-08-31 [22:43:48] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:44:18] [Server thread/INFO]: Melody[/42.2.16.226:59023] [ClientID: 7866378612459683124] logged in with entity id 28 at (world, 128, 21, 128)
-2017-08-31 [22:44:23] [Server thread/NOTICE]: Player data not found for "lara", creating new profile
-2017-08-31 [22:44:23] [Server thread/INFO]: Lara[/37.105.158.39:55950] [ClientID: 8580485223579137666] logged in with entity id 29 at (world, 128, 68, 128)
-2017-08-31 [22:44:26] [Server thread/INFO]: Rainie tried to swim in lava
-2017-08-31 [22:44:34] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:44:42] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:44:51] [Server thread/INFO]: - Rainie离开了服务器
-2017-08-31 [22:44:51] [Server thread/INFO]: [AuthMePE] Player Rainie 退出了游戏.
-2017-08-31 [22:44:51] [Server thread/INFO]: Rainie[/61.70.46.166:55036] logged out due to client disconnect
-2017-08-31 [22:44:55] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:45:11] [Server thread/INFO]: [AuthMePE] 玩家 Melody 已经登陆游戏.
-2017-08-31 [22:45:11] [Server thread/INFO]: - Melody 成功登入了游戏
-2017-08-31 [22:45:12] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-31 [22:45:12] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:45:21] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:45:23] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:45:41] [Server thread/INFO]: Lara[/37.105.158.39:55950] logged out due to client disconnect
-2017-08-31 [22:45:51] [Server thread/WARNING]: Drago8419 moved wrongly!
-2017-08-31 [22:45:52] [Server thread/WARNING]: Drago8419 moved wrongly!
-2017-08-31 [22:46:00] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:46:05] [Server thread/WARNING]: Melody moved wrongly!
-2017-08-31 [22:46:05] [Server thread/WARNING]: Melody moved wrongly!
-2017-08-31 [22:46:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-08-31 [22:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理9个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:46:27] [Server thread/WARNING]: Melody moved wrongly!
-2017-08-31 [22:46:30] [Server thread/INFO]: - Drago8419离开了服务器
-2017-08-31 [22:46:30] [Server thread/INFO]: [AuthMePE] Player Drago8419 退出了游戏.
-2017-08-31 [22:46:30] [Server thread/INFO]: Drago8419[/39.187.113.27:19444] logged out due to client disconnect
-2017-08-31 [22:46:34] [Server thread/INFO]: LETS BULD[/67.82.124.178:51465] logged out due to Invalid name!
-2017-08-31 [22:46:35] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:46:36] [Server thread/INFO]: Drago8419[/39.187.113.27:19444] [ClientID: -7128259881454539339] logged in with entity id 61 at (th, 124.628, 65, 129.2082)
-2017-08-31 [22:46:37] [Server thread/INFO]: [AuthMePE] 玩家 Drago8419 已经登陆游戏.
-2017-08-31 [22:46:37] [Server thread/INFO]: - Drago8419 成功登入了游戏
-2017-08-31 [22:46:37] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-31 [22:46:37] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:46:51] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:46:52] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:47:22] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:47:33] [Server thread/INFO]: LETS BULD[/67.82.124.178:52250] logged out due to Invalid name!
-2017-08-31 [22:47:42] [Server thread/WARNING]: Melody moved wrongly!
-2017-08-31 [22:47:55] [Server thread/INFO]: LETS BULD[/67.82.124.178:52250] logged out due to Invalid name!
-2017-08-31 [22:47:57] [Server thread/WARNING]: Melody moved wrongly!
-2017-08-31 [22:48:14] [Server thread/INFO]: LETS BULD[/67.82.124.178:52250] logged out due to Invalid name!
-2017-08-31 [22:48:32] [Server thread/INFO]: - Drago8419离开了服务器
-2017-08-31 [22:48:32] [Server thread/INFO]: [AuthMePE] Player Drago8419 退出了游戏.
-2017-08-31 [22:48:32] [Server thread/INFO]: Drago8419[/39.187.113.27:19444] logged out due to client disconnect
-2017-08-31 [22:49:01] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:49:02] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:49:21] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:49:42] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:49:44] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:49:44] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:49:46] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:50:16] [Server thread/INFO]: - Melody离开了服务器
-2017-08-31 [22:50:16] [Server thread/INFO]: [AuthMePE] Player Melody 退出了游戏.
-2017-08-31 [22:50:16] [Server thread/INFO]: Melody[/42.2.16.226:59023] logged out due to client disconnect
-2017-08-31 [22:50:43] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:50:44] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:50:45] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:50:45] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:50:50] [Server thread/INFO]: kaka123 went up in flames
-2017-08-31 [22:51:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:53:21] [Server thread/INFO]: qiangpojun1[/117.132.94.166:3172] [ClientID: -3338615153963892430] logged in with entity id 91 at (world, 281.4848, 70, 162.5142)
-2017-08-31 [22:53:36] [Server thread/INFO]: [AuthMePE] 玩家 qiangpojun1 已经登陆游戏.
-2017-08-31 [22:53:36] [Server thread/INFO]: - qiangpojun1 成功登入了游戏
-2017-08-31 [22:53:36] [Server thread/CRITICAL]: Could not execute task AuthMePE\SoundTask: Class pocketmine\level\sound\BatSound not found
-2017-08-31 [22:53:36] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:54:27] [Server thread/INFO]: Steve[/115.200.225.46:52810] [ClientID: 4019940084501432656] logged in with entity id 94 at (world, 128, 68, 128)
-2017-08-31 [22:54:55] [Server thread/INFO]: - qiangpojun1离开了服务器
-2017-08-31 [22:54:55] [Server thread/INFO]: [AuthMePE] Player qiangpojun1 退出了游戏.
-2017-08-31 [22:54:55] [Server thread/INFO]: qiangpojun1[/117.132.94.166:3172] logged out due to timeout
-2017-08-31 [22:55:02] [Server thread/INFO]: Steve[/115.200.225.46:52810] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-31 [22:56:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [22:56:12] [Server thread/INFO]: qiangpojun1[/117.132.94.166:3172] [ClientID: -3338615153963892430] logged in with entity id 95 at (world, 243.1711, 71.2492, 119.3721)
-2017-08-31 [22:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [22:56:18] [Server thread/INFO]: [AuthMePE] 玩家 qiangpojun1 已经登陆游戏.
-2017-08-31 [22:56:18] [Server thread/INFO]: - qiangpojun1 成功登入了游戏
-2017-08-31 [22:56:18] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'AuthMePE v0.1.4': Class pocketmine\level\sound\BatSound not found on AuthMePE\AuthMePE
-2017-08-31 [22:56:18] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\level\sound\BatSound not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
-2017-08-31 [22:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [22:56:23] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:56:24] [Server thread/WARNING]: kaka123 moved wrongly!
-2017-08-31 [22:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [22:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [22:56:55] [Server thread/INFO]: - qiangpojun1离开了服务器
-2017-08-31 [22:56:55] [Server thread/INFO]: [AuthMePE] Player qiangpojun1 退出了游戏.
-2017-08-31 [22:56:55] [Server thread/INFO]: qiangpojun1[/117.132.94.166:3172] logged out due to timeout
-2017-08-31 [22:57:22] [Server thread/INFO]: - kaka123离开了服务器
-2017-08-31 [22:57:22] [Server thread/INFO]: [AuthMePE] Player kaka123 退出了游戏.
-2017-08-31 [22:57:22] [Server thread/INFO]: kaka123[/113.138.137.180:52643] logged out due to client disconnect
-2017-08-31 [23:01:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:01:22] [Server thread/INFO]:  Jake[/207.255.121.156:52024] logged out due to Invalid name!
-2017-08-31 [23:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:06:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:11:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:16:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:19:47] [Server thread/INFO]: Leader[/124.228.59.28:16539] [ClientID: -718125915298570028] logged in with entity id 112 at (world, 128, 68.2, 128)
-2017-08-31 [23:20:18] [Server thread/INFO]: Leader[/124.228.59.28:16539] logged out due to client disconnect
-2017-08-31 [23:21:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:26:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:31:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:36:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:41:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:46:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:47:39] [Server thread/INFO]: Phuong [/68.5.207.73:54400] logged out due to Invalid name!
-2017-08-31 [23:51:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-08-31 [23:56:00] [Server thread/INFO]: caramel[/118.171.83.139:51105] [ClientID: -3565287197238441314] logged in with entity id 113 at (world, 128, 64, 128)
-2017-08-31 [23:56:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-08-31 [23:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-08-31 [23:56:18] [Server thread/INFO]: caramel[/118.171.83.139:51105] logged out due to Kicked by admin. Reason: 过长时间没有登陆自动踢出
-2017-08-31 [23:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-08-31 [23:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-08-31 [23:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-01 [00:01:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-01 [00:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-01 [00:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-01 [00:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-01 [00:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-01 [00:06:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-01 [00:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-01 [00:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-01 [00:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-01 [00:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:11:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:16:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:21:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:26:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:31:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:36:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:41:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:46:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:51:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [00:56:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [00:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [00:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [00:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [00:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:01:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:06:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:11:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:11:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:16:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:16:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:21:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:21:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:26:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:26:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:31:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:31:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:36:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:36:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:41:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:41:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:46:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:46:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:51:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:51:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [01:56:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [01:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [01:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [01:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [01:56:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [02:01:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [02:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [02:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [02:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [02:01:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-01 [02:06:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-01 [02:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-01 [02:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-01 [02:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-01 [02:06:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
