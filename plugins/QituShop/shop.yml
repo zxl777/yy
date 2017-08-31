@@ -1,16 +1,4 @@
 ---
-134:66:128:world:
-  kind: B
-  name: §7石镐
-  count: "1"
-  money: "0"
-  id: "274"
-134:66:129:world:
-  kind: B
-  name: §7石铲
-  count: "1"
-  money: "0"
-  id: "273"
 149:71:114:zy:
   kind: A
   name: §6金锭
@@ -522,30 +510,6 @@
   count: "1"
   money: "78"
   id: "364"
-134:65:127:world:
-  kind: B
-  name: 锁链头盔
-  count: "1"
-  money: "0"
-  id: "302"
-134:65:128:world:
-  kind: B
-  name: 锁链胸甲
-  count: "1"
-  money: "0"
-  id: "303"
-134:65:129:world:
-  kind: B
-  name: 锁链护腿
-  count: "1"
-  money: "0"
-  id: "304"
-134:65:130:world:
-  kind: B
-  name: 锁链靴子
-  count: "1"
-  money: "0"
-  id: "305"
 141:65:127:world:
   kind: D
   name: §b免费超级加速
