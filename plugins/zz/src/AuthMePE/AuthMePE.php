@@ -380,6 +380,8 @@ class AuthMePE extends PluginBase implements Listener{
 			  }
 				$event->setCancelled(true);
 			}else{
+
+				
 				if(!isset($t[$event->getPlayer()->getName()]["password"])){
 					if(strlen($event->getMessage()) < $this->configFile()->get("min-password-length")){
 			     $event->getPlayer()->sendMessage("§c密码太短了!\n§c必须大于 §b".$this->configFile()->get("min-password-length")." §c个字");
@@ -391,6 +393,7 @@ class AuthMePE extends PluginBase implements Listener{
      		}
 					$event->setCancelled(true);
 				}
+
 				if(!isset($t[$event->getPlayer()->getName()]["confirm"]) && isset($t[$event->getPlayer()->getName()]["password"])){
 					$t[$event->getPlayer()->getName()]["confirm"] = $event->getMessage();
 					$this->data->setAll($t);
@@ -406,6 +409,7 @@ class AuthMePE extends PluginBase implements Listener{
 						$event->setCancelled(true);
 					}
 				}
+
 				if(!$this->isRegistered($event->getPlayer()) && isset($t[$event->getPlayer()->getName()]["confirm"]) && isset($t[$event->getPlayer()->getName()]["password"])){
 					if($event->getMessage() != "yes" && $event->getMessage() != "no"){
 					   $event->getPlayer()->sendMessage("§b如果想以后登录不用输入密码.\n§e请直接输入§byes§e或者§fno§e来选择");
@@ -442,30 +446,40 @@ class AuthMePE extends PluginBase implements Listener{
 			}
 		}
 		if($this->isRegistered($event->getPlayer())){
+
+			
 			if($this->isSessionAvailable($event->getPlayer()) && $event->getPlayer()->getAddress() == $this->ip->get($event->getPlayer()->getName())){
 				 $this->auth($event->getPlayer(), 3);
 				 $event->getPlayer()->sendMessage("§6成功自动登录.");
-			}else if($t[$event->getPlayer()->getName()]["ip"] == "yes"){
-				if($event->getPlayer()->getAddress() == $this->ip->get($event->getPlayer()->getName())){
-					$this->auth($event->getPlayer(), 1);
-					$event->getPlayer()->sendMessage("§a同手机登录\n§b已经为你自动登录.");
-				}else{
-					$event->getPlayer()->sendMessage(TextFormat::RED."请在聊天界面输入你的密码.");
-					$this->ip->set($event->getPlayer()->getName(), $event->getPlayer()->getAddress());
-				  $this->ip->save();
-					$event->getPlayer()->sendPopup(TextFormat::GOLD."欢迎你".TextFormat::AQUA.$event->getPlayer()->getName().TextFormat::GREEN."\n请输入密码登陆游戏!");
-					$this->getServer()->getScheduler()->scheduleDelayedTask(new Task2($this, $event->getPlayer()), (15 * 20));
-				}
-			}else if($event->getPlayer()->hasPermission("authmepe.login.bypass")){
-					$this->auth($event->getPlayer(), 2);
-					$event->getPlayer()->sendMessage("§6你使用了权限登录!\n§a你现在成功登录游戏.");
-			}else{
-				$event->getPlayer()->sendMessage(TextFormat::WHITE."请在聊天界面输入你的密码.");
-				$this->getServer()->getScheduler()->scheduleDelayedTask(new Task2($this, $event->getPlayer()), (30 * 20));
-				$this->ip->set($event->getPlayer()->getName(), $event->getPlayer()->getAddress());
-				$this->ip->save();
-				$event->getPlayer()->sendPopup(TextFormat::GOLD."§a欢迎加入此服务器\n§b祝你游戏愉快");
 			}
+			
+			
+			else if (isset($t[$player->getName()]["ip"]))
+			{
+				if ($t[$event->getPlayer()->getName()]["ip"] == "yes"){
+					if($event->getPlayer()->getAddress() == $this->ip->get($event->getPlayer()->getName())){
+						$this->auth($event->getPlayer(), 1);
+						$event->getPlayer()->sendMessage("§a同手机登录\n§b已经为你自动登录.");
+					}else{
+						$event->getPlayer()->sendMessage(TextFormat::RED."请在聊天界面输入你的密码.");
+						$this->ip->set($event->getPlayer()->getName(), $event->getPlayer()->getAddress());
+						$this->ip->save();
+						$event->getPlayer()->sendPopup(TextFormat::GOLD."欢迎你".TextFormat::AQUA.$event->getPlayer()->getName().TextFormat::GREEN."\n请输入密码登陆游戏!");
+						$this->getServer()->getScheduler()->scheduleDelayedTask(new Task2($this, $event->getPlayer()), (15 * 20));
+					}
+				}else if($event->getPlayer()->hasPermission("authmepe.login.bypass")){
+						$this->auth($event->getPlayer(), 2);
+						$event->getPlayer()->sendMessage("§6你使用了权限登录!\n§a你现在成功登录游戏.");
+				}else{
+					$event->getPlayer()->sendMessage(TextFormat::WHITE."请在聊天界面输入你的密码.");
+					$this->getServer()->getScheduler()->scheduleDelayedTask(new Task2($this, $event->getPlayer()), (30 * 20));
+					$this->ip->set($event->getPlayer()->getName(), $event->getPlayer()->getAddress());
+					$this->ip->save();
+					$event->getPlayer()->sendPopup(TextFormat::GOLD."§a欢迎加入此服务器\n§b祝你游戏愉快");
+				}
+			}
+			
+		
 		}else{
 			$event->getPlayer()->sendMessage("§b—■—■—■—登录系统开启—■—■—■—");
 		}

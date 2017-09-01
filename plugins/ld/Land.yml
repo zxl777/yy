@@ -3681,4 +3681,15 @@
   level: th
   invitee: []
   expires: ~
+379:
+  ID: 379
+  startX: 193
+  endX: 224
+  startZ: 154
+  endZ: 189
+  price: 102000
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
 ...
