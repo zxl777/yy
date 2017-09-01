@@ -2082,7 +2082,11 @@
   price: 115600
   owner: power777888
   level: th
-  invitee: []
+  invitee:
+    ? '--------------------------------------------------------------------------§b欢迎来到居民区§9--------------------------------------------------'
+    : true
+    '-------------': true
+    '--------------': true
   expires: ~
 212:
   ID: 212
@@ -2918,17 +2922,6 @@
   level: th
   invitee: []
   expires: ~
-307:
-  ID: 307
-  startX: 466
-  endX: 474
-  startZ: 146
-  endZ: 154
-  price: 4900
-  owner: caramel
-  level: th
-  invitee: []
-  expires: ~
 308:
   ID: 308
   startX: -188
@@ -3661,5 +3654,19 @@
   owner: power777888
   level: th
   invitee: []
+  expires: ~
+377:
+  ID: 377
+  startX: 227
+  endX: 516
+  startZ: -71
+  endZ: 274
+  price: 9907200
+  owner: power777888
+  level: th
+  invitee:
+    ? '---------------------------------------------------------§b海滨多世界机场SeaInterWorldAirPort§9-------------------------------------------------'
+    : true
+    '---------': true
   expires: ~
 ...
