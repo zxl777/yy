@@ -2261,17 +2261,6 @@
   level: th
   invitee: []
   expires: ~
-232:
-  ID: 232
-  startX: 376
-  endX: 417
-  startZ: 172
-  endZ: 210
-  price: 148000
-  owner: lihaoyy
-  level: th
-  invitee: []
-  expires: ~
 235:
   ID: 235
   startX: 153
@@ -2995,17 +2984,6 @@
   level: th
   invitee: []
   expires: ~
-313:
-  ID: 313
-  startX: 470
-  endX: 480
-  startZ: 84
-  endZ: 89
-  price: 3600
-  owner: kissman
-  level: th
-  invitee: []
-  expires: ~
 314:
   ID: 314
   startX: 168
@@ -3671,6 +3649,17 @@
   price: 100
   owner: Maker
   level: zy
+  invitee: []
+  expires: ~
+376:
+  ID: 376
+  startX: 112
+  endX: 114
+  startZ: 178
+  endZ: 180
+  price: 100
+  owner: power777888
+  level: th
   invitee: []
   expires: ~
 ...
