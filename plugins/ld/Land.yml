@@ -2799,6 +2799,7 @@
   invitee:
     Zzzzzz: true
     liuliu2008: true
+    david: true
   expires: ~
 296:
   ID: 296
@@ -3668,5 +3669,16 @@
     ? '---------------------------------------------------------§b海滨多世界机场SeaInterWorldAirPort§9-------------------------------------------------'
     : true
     '---------': true
+  expires: ~
+378:
+  ID: 378
+  startX: 72
+  endX: 74
+  startZ: 77
+  endZ: 79
+  price: 100
+  owner: Maker
+  level: th
+  invitee: []
   expires: ~
 ...
