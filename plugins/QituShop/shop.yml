@@ -242,11 +242,11 @@
   money: "3000"
 154:66:117:world:
   kind: E
-  name: §b我是男的
+  name: §b帅哥
   money: "0"
 153:66:117:world:
   kind: E
-  name: §d我是女的
+  name: §d妹子
   money: "0"
 152:66:117:world:
   kind: E
@@ -254,7 +254,7 @@
   money: "20000"
 151:66:117:world:
   kind: E
-  name: §6-老司机-
+  name: §e§l-老司机-
   money: "50000"
 150:66:117:world:
   kind: E
@@ -404,7 +404,7 @@
   id: "264"
 153:65:117:world:
   kind: E
-  name: §3牛X
+  name: §b§o牛*
   money: "5000"
 152:65:117:world:
   kind: E
@@ -500,13 +500,6 @@
   count: "1"
   money: "78"
   id: "364"
-141:65:127:world:
-  kind: D
-  name: §b免费超级加速
-  time: "1000"
-  lv: "50"
-  money: ~
-  id: "1"
 151:65:117:world:
   kind: E
   name: §7掘地矿工
