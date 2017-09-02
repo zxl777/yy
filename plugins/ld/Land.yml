@@ -3715,4 +3715,15 @@
   level: th
   invitee: []
   expires: ~
+382:
+  ID: 382
+  startX: 2970
+  endX: 3028
+  startZ: 1976
+  endZ: 2027
+  price: 285000
+  owner: power777888
+  level: world
+  invitee: []
+  expires: ~
 ...
