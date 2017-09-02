@@ -1,0 +1,66 @@
+GenisysPro Crash Dump Sat Sep 2 13:11:07 CST 2017
+
+Error: Call to a member function sendContents() on null
+File: /src/pocketmine/Player
+Line: 1123
+Type: notice
+
+Code:
+[1114] 		if($this->getHealth() <= 0){
+[1115] 			$pk = new RespawnPacket();
+[1116] 			$pos = $this->getSpawn();
+[1117] 			$pk->x = $pos->x;
+[1118] 			$pk->y = $pos->y;
+[1119] 			$pk->z = $pos->z;
+[1120] 			$this->dataPacket($pk);
+[1121] 		}
+[1122] 		
+[1123] 	    $this->inventory->sendContents($this);
+[1124] 		$this->inventory->sendArmorContents($this);
+[1125] 		
+[1126] 	}
+[1127] 
+[1128] 	/**
+[1129] 	 * @return bool
+[1130] 	 */
+[1131] 	protected function orderChunks(){
+[1132] 		if($this->connected === false or $this->viewDistance === -1){
+[1133] 			return false;
+
+Backtrace:
+#0 /src/pocketmine/Player(2096): pocketmine\Player->sendNextChunk(boolean)
+#1 /src/pocketmine/Server(2831): pocketmine\Player->checkNetwork(boolean)
+#2 /src/pocketmine/Server(2548): pocketmine\Server->tick(boolean)
+#3 /src/pocketmine/Server(2426): pocketmine\Server->tickProcessor(boolean)
+#4 /src/pocketmine/Server(1997): pocketmine\Server->start(boolean)
+#5 /src/pocketmine/PocketMine(492): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string phar:///root/pmmp/PocketMine-MP.phar/, string /root/pmmp/, string /root/pmmp/plugins/)
+#6 (1): require_once(string phar:///root/pmmp/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+
+GenisysPro version: 5437e0f80bf90f433088e627a570def50ede9014 [Protocol 113; API 3.0.1]
+uname -a: Linux iZt4ncs0fu03n78v5wilaiZ 4.4.0-85-generic #108-Ubuntu SMP Mon Jul 3 17:23:59 UTC 2017 x86_64
+PHP version: 7.0.9
+Zend version: 3.0.0
+OS : Linux, linux
+
+Server uptime: 11 minutes 36 seconds
+Number of loaded worlds: 5
+Players online: 4/666
+
+Loaded plugins:
+Asign 1.4 by Kirt for API(s) 1.10.0
+AshMan 1.0.1 by FENGberd,Alcatraz_Du for API(s) 1.0.0
+Opaving 1.0.0 by Orange for API(s) 1.0.0, 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4
+SimpleMarry 1.3.0 by Him188 for API(s) 1.0.0
+db 1.0.0 by Benben for API(s) 1.1.0
+BanItem 2.2 by LDX for API(s) 1.0.0, 2.0.0
+essentialsTP 1.0.9 by  for API(s) 1.0.0
+DisableFlow 1.0.0 by MUedsa for API(s) 1.8.0
+SWorld 1.1.0 by 18WYJ2 & boybook for API(s) 1.0.0
+EconomyAPI 2.0.9 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+QituShop 1.2.0 by qitu for API(s) 1.0.0
+ld 流星优化 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+MagicWE 0.2.7 by thebigsmileXD for API(s) 3.0.0-ALPHA3
+SmartSign_by腐竹CrainL 1.0.0 by CrainL for API(s) 1.0.0
+MagicTelePortal 1.3.2 didou汉化 by aliuly for API(s) 1.10.0
+ChestLocker 1.2 by EvolSoft for API(s) 1.8.0
+AuthMePE 0.1.4 by hoyinm & CyberCube-HK™ for API(s) 1.12.0

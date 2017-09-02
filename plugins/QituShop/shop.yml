@@ -302,10 +302,6 @@
   count: "1"
   money: "1000"
   id: "261"
-148:65:117:world:
-  kind: E
-  name: §a§l副服主
-  money: ~
 106:71:149:zy:
   kind: C
   name: power777888
@@ -410,10 +406,6 @@
   kind: E
   name: §2生存大师
   money: "5000"
-148:66:117:world:
-  kind: E
-  name: §6帅气的腐竹
-  money: "999999999"
 150:65:117:world:
   kind: E
   name: §cPVP大师
