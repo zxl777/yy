@@ -2396,7 +2396,7 @@ rong:
   ip: "yes"
 youranxiaotian:
   password: 34b80a06507bf04e9a079275db7bbd81
-  times: 3
+  times: 0
   ip: "yes"
 lucas04122:
   password: 5b03ce6d6f68380175791c54ed03c148
@@ -8623,5 +8623,11 @@ davechong324:
   times: 1
 zimu:
   password: b39e85de02d239dd6197b6ade878a42b
+  times: 0
+ChanghaoYeh:
+  password: 81da20aa93f35b82a3e5efd7276d484c
+  times: 0
+TAKEKI:
+  password: 7ac78b85eb7a27bd5c69d52bdaefcf19
   times: 0
 ...
