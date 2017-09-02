@@ -824,4 +824,8 @@
   kind: E
   name: §b§lMVP§a+
   money: "500000"
+154:65:117:world:
+  kind: E
+  name: §9我是港/澳/台人
+  money: "0"
 ...
