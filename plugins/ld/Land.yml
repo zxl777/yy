@@ -3725,4 +3725,30 @@
   level: nether
   invitee: []
   expires: ~
+387:
+  ID: 387
+  startX: 90
+  endX: 101
+  startZ: 203
+  endZ: 214
+  price: 10000
+  owner: KLPIFU
+  level: zy
+  invitee:
+    Devil: true
+    DroopilySine369: true
+    bule_sky: true
+    blue_sky: true
+  expires: ~
+388:
+  ID: 388
+  startX: 88
+  endX: 90
+  startZ: 197
+  endZ: 200
+  price: 200
+  owner: Devil
+  level: zy
+  invitee: []
+  expires: ~
 ...
