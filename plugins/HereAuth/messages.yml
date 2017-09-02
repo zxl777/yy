@@ -3,37 +3,37 @@
 # Messages related to login
 Login:
   # This message is shown when a player has to type password to login.
-  Query: "Please type your password directly into chat. If you didn't register this account, please choose another username."
+  Query: "§e欢迎来到§b§o§lMine§9server§a官方服务器！\n§a请在聊天栏中输入您的密码。如果您没有注册过，请使用其他用户名。§b（在Minecraft的设置-档案中更改）\n§o§aPlease type your password directly into chat. If you didn't register this account, please choose another username.§b(In Minecraft-Setting-Profile changed)"
   # This message is shown when a player has typed the password wrongly.
   # $CHANCES will be replaced by the number of chances left.
-  WrongPass: "Wrong password! Please try again. You have $CHANCES more chance(s)."
-  Completion: "You have been authenticated."
+  WrongPass: "§c§l错误的密码！请再次尝试。您还有 §b$CHANCES §c次机会。\n§c§lWrong password! Please try again. You have §b$CHANCES §cmore chance(s)."
+  Completion: "§a您已经登录。\n§aYou have been authenticated."
 # Messages related to registration
 Register:
   # This message is shown if the player is required to register without doing /register first
-  ImplicitRegister: This server uses HereAuth to protect your account from being impersonated.
+  ImplicitRegister: "§b这个服务器使用HereAuth插件让您的账号受保护。\n§bThis server uses HereAuth to protect your account from being impersonated."
   # This is to ask the player for the first password input.
-  PasswordInput: "Please type your password directly into chat. Other players can't see it."
+  PasswordInput: "§a请在聊天窗口中输入您想使用的密码。其他玩家无法看到它。\n§aPlease type your password directly into chat. Other players can't see it."
   # This is to notify that the password is too short. Remember to change the "4" if you changed the config above too.
-  PasswordUnderflow: Your password is too short. Please type a longer password (at least 4 characters).
+  PasswordUnderflow: "§c您的密码太短了，请使用更长的密码（至少需要4个字符）。\n§cYour password is too short. Please type a longer password (at least 4 characters)."
   # This is to notify that the password is too long. Remember to edit this if you enabled it.
-  PasswordOverflow: Your password is too long. Please type a shorter password (at most 16 characters).
+  PasswordOverflow: "§c§l您的密码太长了，请使用更短的密码（最多有16个字符）。\n§c§lYour password is too long. Please type a shorter password (at most 16 characters)."
   # This is to notify that the password must contain something more than letters.
-  PasswordPureLetters: Your password only contains English letters. It is insecure. Maybe add some numbers into it?
+  PasswordPureLetters: "§c您的密码只使用了字母，可能会被盗号，请增加一些数字。\n§cYour password only contains English letters. It is insecure. Maybe add some numbers into it?"
   # This is to notify that the password must contain something more than numbers.
-  PasswordPureNumbers: Your password only contains numbers. It is insecure. Maybe add some letters into it?
+  PasswordPureNumbers: "§c您的密码只使用了数字，可能会被盗号，请增加一些字母。\n§cYour password only contains numbers. It is insecure. Maybe add some letters into it?"
   # This is to notify that the password must not start with slashes
-  PasswordSlashes: Your password must not start with slashes! Remember, type your password into chat DIRECTLY.
+  PasswordSlashes: "§4§l您的密码不得以“/”开头！请记住，直接在聊天栏中输入密码。\n§4§lYour password must not start with slashes! Remember, type your password into chat DIRECTLY."
   # This is to ask the player to confirm the second password input.
-  PasswordConfirm: Please type your password again to confirm.
+  PasswordConfirm: "§a请再次输入密码进行确认。\n§aPlease type your password again to confirm."
   # This is the message when the player typed the password wrongly the second time.
-  PasswordMismatch: The two passwords you typed are not the same! Please type again. You can type a different password this time.
-  Completion: "Congratulations! Your account has been registered."
+  PasswordMismatch: "§c这两个密码不相同！请再试一次。您可以再输入一次正确的密码.\n§cThe two passwords you typed are not the same! Please type again. You can type a different password this time."
+  Completion: "§l§a完成！您的账号已经被您注册。\n§l§aCongratulations! Your account has been registered."
 
 # Messages related to chatting
 Chat:
   # This is to warn that the player is typing his password unnecessarily
-  DirectPass: "Don't tell other players your password!"
+  DirectPass: "§6§l不要把您的密码告诉其他玩家！\n§l§6Don't tell other players your password!"
 
 # Command description, usage and response
 Commands:

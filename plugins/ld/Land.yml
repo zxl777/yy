@@ -23,17 +23,6 @@
   level: zy
   invitee: []
   expires: ~
-2:
-  ID: 2
-  startX: 125
-  endX: 130
-  startZ: 125
-  endZ: 130
-  price: 1600
-  owner: lihaoyy
-  level: nether
-  invitee: []
-  expires: ~
 4:
   ID: 4
   startX: 253
@@ -1525,18 +1514,6 @@
     Speedyhhahaha: true
     kwkkwk123: true
   expires: ~
-152:
-  ID: 152
-  startX: 138
-  endX: 153
-  startZ: 120
-  endZ: 135
-  price: 19600
-  owner: mao
-  level: nether
-  invitee:
-    kwkkwk123: true
-  expires: ~
 153:
   ID: 153
   startX: 194
@@ -1944,17 +1921,6 @@
   price: 100
   owner: mao
   level: world
-  invitee: []
-  expires: ~
-195:
-  ID: 195
-  startX: 129
-  endX: 140
-  startZ: 118
-  endZ: 135
-  price: 16000
-  owner: mao
-  level: nether
   invitee: []
   expires: ~
 196:
@@ -3724,6 +3690,39 @@
   price: 285000
   owner: power777888
   level: world
+  invitee: []
+  expires: ~
+383:
+  ID: 383
+  startX: 149
+  endX: 155
+  startZ: -118
+  endZ: -83
+  price: 17000
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+384:
+  ID: 384
+  startX: 149
+  endX: 194
+  startZ: -6
+  endZ: -3
+  price: 8800
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+386:
+  ID: 386
+  startX: 116
+  endX: 147
+  startZ: 112
+  endZ: 142
+  price: 87000
+  owner: power777888
+  level: nether
   invitee: []
   expires: ~
 ...

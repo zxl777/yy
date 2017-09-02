@@ -262,7 +262,7 @@
   money: "300000"
 149:66:117:world:
   kind: E
-  name: §e§l§oSVIP
+  name: §b§lMVP
   money: "300000"
 155:65:117:world:
   kind: E
@@ -294,8 +294,8 @@
   id: "377"
 149:65:117:world:
   kind: E
-  name: §o§cVIP
-  money: "130000"
+  name: §cVIP
+  money: "120000"
 152:74:117:world:
   kind: B
   name: §e弓
@@ -812,4 +812,16 @@
   count: "1"
   money: "1000"
   id: "388"
+3002:80:2006:world:
+  kind: E
+  name: §b§l副服主
+  money: "9999999999"
+148:65:117:world:
+  kind: E
+  name: §cVIP§a+§c
+  money: "220000"
+148:66:117:world:
+  kind: E
+  name: §b§lMVP§a+
+  money: "500000"
 ...
