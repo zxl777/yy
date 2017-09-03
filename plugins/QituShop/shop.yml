@@ -835,4 +835,11 @@
   money: "1000"
   if: 100
   id: "264"
+142:64:106:world:
+  kind: C
+  name: lihaoyy
+  count: "10"
+  money: "10"
+  if: 100
+  id: "46"
 ...

@@ -1044,6 +1044,8 @@
   level: th
   invitee:
     zhumengzhiying: true
+    A790434290: true
+    jimmy: true
   expires: ~
 106:
   ID: 106
@@ -3742,6 +3744,7 @@
     bule_sky: true
     blue_sky: true
     xiaochuyin: true
+    2663452751: true
   expires: ~
 388:
   ID: 388
@@ -3763,7 +3766,8 @@
   price: 1200
   owner: Devil
   level: zy
-  invitee: []
+  invitee:
+    KLPIFU: true
   expires: ~
 390:
   ID: 390
@@ -3888,6 +3892,42 @@
   price: 3600
   owner: KLPIFU
   level: zy
+  invitee:
+    xiaochuyin: true
+  expires: ~
+401:
+  ID: 401
+  startX: 175
+  endX: 179
+  startZ: -181
+  endZ: -163
+  price: 5100
+  owner: snowball0913
+  level: th
+  invitee: []
+  expires: ~
+403:
+  ID: 403
+  startX: -183
+  endX: -100
+  startZ: -325
+  endZ: -210
+  price: 934800
+  owner: woyeshiyeye
+  level: world
+  invitee:
+    yeye: true
+    xiaohuang520: true
+  expires: ~
+404:
+  ID: 404
+  startX: 521
+  endX: 597
+  startZ: -65
+  endZ: 11
+  price: 562500
+  owner: top_ray
+  level: th
   invitee: []
   expires: ~
 ...
