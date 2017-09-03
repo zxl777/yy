@@ -835,4 +835,25 @@
   money: "1000"
   if: 100
   id: "264"
+36:70:-78:world:
+  kind: C
+  name: xy520
+  count: 98
+  money: "20"
+  if: 100
+  id: "50"
+36:70:-77:world:
+  kind: C
+  name: xy520
+  count: 38
+  money: "20"
+  if: 100
+  id: "45"
+36:70:-79:world:
+  kind: C
+  name: xy520
+  count: "40"
+  money: "30"
+  if: 100
+  id: "98"
 ...

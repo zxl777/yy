@@ -3721,29 +3721,6 @@
     xiaochuyin: true
     2663452751: true
   expires: ~
-388:
-  ID: 388
-  startX: 88
-  endX: 90
-  startZ: 197
-  endZ: 200
-  price: 200
-  owner: Devil
-  level: zy
-  invitee: []
-  expires: ~
-389:
-  ID: 389
-  startX: 88
-  endX: 101
-  startZ: 201
-  endZ: 203
-  price: 1200
-  owner: Devil
-  level: zy
-  invitee:
-    KLPIFU: true
-  expires: ~
 390:
   ID: 390
   startX: 88
@@ -3751,17 +3728,6 @@
   startZ: 201
   endZ: 214
   price: 15600
-  owner: Devil
-  level: zy
-  invitee: []
-  expires: ~
-391:
-  ID: 391
-  startX: 88
-  endX: 102
-  startZ: 213
-  endZ: 215
-  price: 1300
   owner: Devil
   level: zy
   invitee: []
@@ -3943,5 +3909,27 @@
   invitee:
     yeye: true
     BB7: true
+  expires: ~
+409:
+  ID: 409
+  startX: 34
+  endX: 36
+  startZ: -79
+  endZ: -75
+  price: 300
+  owner: xy520
+  level: world
+  invitee: []
+  expires: ~
+410:
+  ID: 410
+  startX: 35
+  endX: 37
+  startZ: -79
+  endZ: -75
+  price: 300
+  owner: xy520
+  level: world
+  invitee: []
   expires: ~
 ...
