@@ -3796,7 +3796,8 @@
   price: 24000
   owner: woyeshiyeye
   level: world
-  invitee: []
+  invitee:
+    yeye: true
   expires: ~
 393:
   ID: 393
@@ -3853,6 +3854,40 @@
   price: 12600
   owner: woyeshiyeye
   level: world
+  invitee: []
+  expires: ~
+398:
+  ID: 398
+  startX: -96
+  endX: -46
+  startZ: -210
+  endZ: -153
+  price: 274400
+  owner: woyeshiyeye
+  level: world
+  invitee:
+    yeye: true
+  expires: ~
+399:
+  ID: 399
+  startX: -86
+  endX: -29
+  startZ: -219
+  endZ: -203
+  price: 84000
+  owner: woyeshiyeye
+  level: world
+  invitee: []
+  expires: ~
+400:
+  ID: 400
+  startX: 80
+  endX: 87
+  startZ: 202
+  endZ: 209
+  price: 3600
+  owner: KLPIFU
+  level: zy
   invitee: []
   expires: ~
 ...

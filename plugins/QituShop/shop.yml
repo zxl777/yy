@@ -828,4 +828,11 @@
   kind: E
   name: §9我是港/澳/台人
   money: "0"
+142:64:107:world:
+  kind: C
+  name: power777888
+  count: 0
+  money: "1000"
+  if: 100
+  id: "264"
 ...
