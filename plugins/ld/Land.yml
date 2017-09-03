@@ -3819,4 +3819,16 @@
   level: world
   invitee: []
   expires: ~
+395:
+  ID: 395
+  startX: 154
+  endX: 189
+  startZ: -235
+  endZ: -200
+  price: 115600
+  owner: hua_ji
+  level: th
+  invitee:
+    hua_ji: true
+  expires: ~
 ...
