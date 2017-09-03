@@ -3919,4 +3919,27 @@
   invitee:
     §l§b海滨机场SEA-AirPort: true
   expires: ~
+407:
+  ID: 407
+  startX: 216
+  endX: 219
+  startZ: 247
+  endZ: 251
+  price: 600
+  owner: blue_sky
+  level: th
+  invitee: []
+  expires: ~
+408:
+  ID: 408
+  startX: -100
+  endX: -37
+  startZ: -284
+  endZ: -214
+  price: 427800
+  owner: woyeshiyeye
+  level: world
+  invitee:
+    yeye: true
+  expires: ~
 ...

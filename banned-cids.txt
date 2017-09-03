@@ -1,4 +1,4 @@
-# Updated 09/03/17 16:13 by GenisysPro 1.1dev
+# Updated 09/03/17 20:34 by GenisysPro 1.1dev
 # victim name | ban date | banned by | banned until | reason
 
 1223986302053481146|2017-08-16 07:55:18 +0000|(Unknown)|Forever|Banned by an operator.
@@ -9,3 +9,4 @@
 3098799360772277298|2017-09-02 19:14:14 +0800|lihaoyy|Forever|Banned by an operator.
 8286774525958967974|2017-09-03 08:47:44 +0800|power777888|Forever|Banned by an operator.
 -4178128400378249487|2017-09-03 16:13:08 +0800|lihaoyy|Forever|Banned by an operator.
+5569189993513441043|2017-09-03 20:34:56 +0800|lihaoyy|Forever|Banned by an operator.
