@@ -3861,18 +3861,6 @@
     yeye: true
     xiaohuang520: true
   expires: ~
-405:
-  ID: 405
-  startX: 74
-  endX: 76
-  startZ: 205
-  endZ: 208
-  price: 200
-  owner: Devil
-  level: zy
-  invitee:
-    KLPIFU: true
-  expires: ~
 406:
   ID: 406
   startX: 232
@@ -3930,6 +3918,84 @@
   price: 300
   owner: xy520
   level: world
+  invitee: []
+  expires: ~
+414:
+  ID: 414
+  startX: 69
+  endX: 71
+  startZ: 201
+  endZ: 209
+  price: 700
+  owner: Devil
+  level: zy
+  invitee:
+    xy520: true
+  expires: ~
+415:
+  ID: 415
+  startX: 69
+  endX: 77
+  startZ: 208
+  endZ: 210
+  price: 700
+  owner: Devil
+  level: zy
+  invitee: []
+  expires: ~
+416:
+  ID: 416
+  startX: 69
+  endX: 77
+  startZ: 200
+  endZ: 202
+  price: 700
+  owner: Devil
+  level: zy
+  invitee: []
+  expires: ~
+417:
+  ID: 417
+  startX: 76
+  endX: 78
+  startZ: 200
+  endZ: 210
+  price: 900
+  owner: Devil
+  level: zy
+  invitee: []
+  expires: ~
+418:
+  ID: 418
+  startX: 71
+  endX: 76
+  startZ: 202
+  endZ: 208
+  price: 2000
+  owner: Devil
+  level: zy
+  invitee: []
+  expires: ~
+419:
+  ID: 419
+  startX: 72
+  endX: 75
+  startZ: 198
+  endZ: 201
+  price: 400
+  owner: Devil
+  level: zy
+  invitee: []
+  expires: ~
+420:
+  ID: 420
+  startX: 61
+  endX: 63
+  startZ: 200
+  endZ: 211
+  price: 1000
+  owner: Vv5418
+  level: zy
   invitee: []
   expires: ~
 ...
