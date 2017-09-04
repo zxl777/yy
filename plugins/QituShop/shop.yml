@@ -877,4 +877,10 @@
   money: "200"
   if: 100
   id: "265"
+160:66:110:world:
+  kind: B
+  name: 玻璃
+  count: "16"
+  money: "100"
+  id: "20"
 ...
