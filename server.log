@@ -1,174 +1,1014 @@
-2017-09-04 [06:26:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:26:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:26:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [06:30:15] [Server thread/INFO]: Steve[/179.220.150.78:49302] [ClientID: 6399597905134799747] logged in with entity id 3717 at (world, 128, 69, 128)
-2017-09-04 [06:30:17] [Server thread/INFO]: Steve joined the game
-2017-09-04 [06:31:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:31:13] [Server thread/INFO]: Steve left the game
-2017-09-04 [06:31:13] [Server thread/INFO]: Steve[/179.220.150.78:49302] logged out due to client disconnect
-2017-09-04 [06:31:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:31:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [06:36:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:36:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:36:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [06:38:36] [Server thread/INFO]: Swifthaoming[/111.30.250.229:19601] [ClientID: -4923890561461424405] logged in with entity id 3718 at (world, 128, 68.2, 128)
-2017-09-04 [06:38:38] [Server thread/INFO]: Swifthaoming joined the game
-2017-09-04 [06:39:18] [Server thread/INFO]: Swifthaoming left the game
-2017-09-04 [06:39:18] [Server thread/INFO]: Swifthaoming[/111.30.250.229:19601] logged out due to client disconnect
-2017-09-04 [06:41:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:41:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:41:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [06:46:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:46:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:46:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [06:51:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:51:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:51:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [06:56:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [06:56:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [06:56:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [06:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [06:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:01:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:01:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:01:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:06:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:06:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:06:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:10:13] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64198] [ClientID: 1716104049977458181] logged in with entity id 3719 at (world, 132.2316, 64.5, 113.0643)
-2017-09-04 [07:10:16] [Server thread/INFO]: MochaPeach67702 joined the game
-2017-09-04 [07:11:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:11:14] [Server thread/INFO]: MochaPeach67702 : 哈囉～有人嗎？
-2017-09-04 [07:11:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:11:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:12:15] [Server thread/INFO]: MochaPeach67702 : 沒人，哭哭
-2017-09-04 [07:13:55] [Server thread/INFO]: Grumm[/36.102.237.103:62045] [ClientID: -4948286167667501907] logged in with entity id 3720 at (world, 128, 68.2, 128)
-2017-09-04 [07:13:57] [Server thread/INFO]: Grumm joined the game
-2017-09-04 [07:14:20] [Server thread/INFO]: MochaPeach67702 : 耶
-2017-09-04 [07:14:29] [Server thread/INFO]: MochaPeach67702 : 歡迎
-2017-09-04 [07:14:35] [Server thread/INFO]: Grumm left the game
-2017-09-04 [07:14:35] [Server thread/INFO]: Grumm[/36.102.237.103:62045] logged out due to client disconnect
-2017-09-04 [07:14:49] [Server thread/INFO]: MochaPeach67702 : 噢
-2017-09-04 [07:16:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:16:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:16:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:17:49] [Server thread/INFO]: WonderBicycle10[/14.115.207.121:20874] [ClientID: 6033181874401943091] logged in with entity id 3721 at (world, 128, 68.8, 128)
-2017-09-04 [07:17:53] [Server thread/INFO]: WonderBicycle10 joined the game
-2017-09-04 [07:18:01] [Server thread/INFO]: MochaPeach67702 : 耶歡迎
-2017-09-04 [07:19:05] [Server thread/INFO]: WonderBicycle10 left the game
-2017-09-04 [07:19:05] [Server thread/INFO]: WonderBicycle10[/14.115.207.121:20874] logged out due to client disconnect
-2017-09-04 [07:21:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:21:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:21:20] [Server thread/INFO]: MochaPeach67702 left the game
-2017-09-04 [07:21:20] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64198] logged out due to client disconnect
-2017-09-04 [07:21:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:24:25] [Server thread/INFO]: WonderBicycle10[/14.115.207.121:20885] [ClientID: 6033181874401943091] logged in with entity id 3722 at (world, 128, 69, 128)
-2017-09-04 [07:24:29] [Server thread/INFO]: WonderBicycle10 joined the game
-2017-09-04 [07:24:43] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64198] [ClientID: 1716104049977458181] logged in with entity id 3723 at (world, 122.4191, 64, 112.7)
-2017-09-04 [07:24:46] [Server thread/INFO]: MochaPeach67702 joined the game
-2017-09-04 [07:26:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:26:18] [Server thread/INFO]: WonderBicycle10 : 你好啊！
-2017-09-04 [07:26:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:26:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:26:33] [Server thread/INFO]: WonderBicycle10 : 耶
-2017-09-04 [07:27:32] [Server thread/INFO]: MochaPeach67702 left the game
-2017-09-04 [07:27:32] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64198] logged out due to client disconnect
-2017-09-04 [07:27:44] [Server thread/INFO]: WonderBicycle10 left the game
-2017-09-04 [07:27:44] [Server thread/INFO]: WonderBicycle10[/14.115.207.121:20885] logged out due to client disconnect
-2017-09-04 [07:31:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:31:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:31:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:36:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:36:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:36:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:41:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:41:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:41:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:46:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:46:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:46:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:49:40] [Server thread/INFO]: hua_ji[/222.248.116.86:50988] [ClientID: 6451213323021455258] logged in with entity id 3724 at (th, 161.5726, 65, -209.0476)
-2017-09-04 [07:49:43] [Server thread/INFO]: hua_ji joined the game
-2017-09-04 [07:50:50] [Server thread/WARNING]: hua_ji moved wrongly!
-2017-09-04 [07:51:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:51:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:51:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [07:54:31] [Server thread/WARNING]: hua_ji moved wrongly!
-2017-09-04 [07:54:32] [Server thread/WARNING]: hua_ji moved wrongly!
-2017-09-04 [07:55:20] [Server thread/WARNING]: hua_ji moved wrongly!
-2017-09-04 [07:55:49] [Server thread/WARNING]: hua_ji moved wrongly!
-2017-09-04 [07:56:08] [Server thread/INFO]: hua_ji left the game
-2017-09-04 [07:56:08] [Server thread/INFO]: hua_ji[/222.248.116.86:50988] logged out due to timeout
-2017-09-04 [07:56:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [07:56:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [07:56:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [07:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [07:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [08:01:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [08:01:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [08:01:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [08:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [08:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [08:06:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [08:06:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [08:06:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [08:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [08:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [08:08:39] [Server thread/INFO]: [/209.253.143.156:41504] logged out due to client disconnect
-2017-09-04 [08:11:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [08:11:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [08:11:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [08:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [08:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [08:12:42] [Server thread/INFO]: Steve[/58.187.172.238:17528] [ClientID: 1751295438748944837] logged in with entity id 3759 at (world, 128, 68.2, 128)
-2017-09-04 [08:12:45] [Server thread/INFO]: Steve joined the game
-2017-09-04 [08:13:55] [Server thread/INFO]: Steve left the game
-2017-09-04 [08:13:55] [Server thread/INFO]: Steve[/58.187.172.238:17528] logged out due to client disconnect
-2017-09-04 [08:16:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [08:16:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [08:16:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [08:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [08:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [08:21:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-04 [08:21:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-04 [08:21:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-04 [08:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-04 [08:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-04 [08:22:10] [Server thread/INFO]: Stella[/108.183.185.61:58795] [ClientID: 6405111005899217854] logged in with entity id 3760 at (world, 128, 68, 128)
-2017-09-04 [08:22:13] [Server thread/INFO]: Stella joined the game
-2017-09-04 [08:22:31] [Server thread/INFO]: Stella left the game
-2017-09-04 [08:22:31] [Server thread/INFO]: Stella[/108.183.185.61:58795] logged out due to timeout
+2017-09-04 [08:22:59] [Server thread/INFO]: xiaochuyin[/218.17.73.22:3131] [ClientID: 8387251252757840492] logged in with entity id 3761 at (th, 49.3, 66, 46.6179)
+2017-09-04 [08:23:01] [Server thread/INFO]: xiaochuyin joined the game
+2017-09-04 [08:23:42] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:24:00] [Server thread/INFO]: Steve[/203.174.180.222:62446] [ClientID: 2908941593555606832] logged in with entity id 3768 at (world, 128, 68.4, 128)
+2017-09-04 [08:24:03] [Server thread/INFO]: Steve joined the game
+2017-09-04 [08:24:17] [Server thread/INFO]: Steve left the game
+2017-09-04 [08:24:17] [Server thread/INFO]: Steve[/203.174.180.222:62446] logged out due to client disconnect
+2017-09-04 [08:26:04] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:26:05] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:26:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:26:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:26:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:30:21] [Server thread/INFO]: hua_ji[/222.248.116.86:51349] [ClientID: 6451213323021455258] logged in with entity id 3808 at (th, 214.4424, 65, -246.9303)
+2017-09-04 [08:30:24] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:30:26] [Server thread/INFO]: hua_ji joined the game
+2017-09-04 [08:30:32] [Server thread/INFO]: [妹子]xiaochuyin : 老公
+2017-09-04 [08:30:41] [Server thread/INFO]: hua_ji left the game
+2017-09-04 [08:30:41] [Server thread/INFO]: hua_ji[/222.248.116.86:51349] logged out due to timeout
+2017-09-04 [08:31:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:31:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:31:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:31:29] [Server thread/INFO]: hua_ji[/222.248.116.86:50029] [ClientID: 6451213323021455258] logged in with entity id 3815 at (th, 214.4424, 65, -246.9303)
+2017-09-04 [08:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:31:33] [Server thread/INFO]: hua_ji joined the game
+2017-09-04 [08:31:42] [Server thread/INFO]: [帅哥]hua_ji : 你好
+2017-09-04 [08:31:51] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
+2017-09-04 [08:32:00] [Server thread/INFO]: [帅哥]hua_ji : 老婆
+2017-09-04 [08:32:08] [Server thread/INFO]: [帅哥]hua_ji : 你不上学吗
+2017-09-04 [08:32:13] [Server thread/INFO]: [妹子]xiaochuyin : no
+2017-09-04 [08:32:21] [Server thread/INFO]: [帅哥]hua_ji : 为啥
+2017-09-04 [08:32:23] [Server thread/INFO]: [妹子]xiaochuyin : 你不上吗？
+2017-09-04 [08:32:27] [Server thread/INFO]: [帅哥]hua_ji : 下雨
+2017-09-04 [08:32:33] [Server thread/INFO]: [妹子]xiaochuyin : 我都大学毕业
+2017-09-04 [08:32:34] [Server thread/INFO]: [帅哥]hua_ji : 停课
+2017-09-04 [08:32:50] [Server thread/INFO]: [帅哥]hua_ji : 你会买地皮吗
+2017-09-04 [08:32:58] [Server thread/INFO]: [妹子]xiaochuyin : 忘了
+2017-09-04 [08:33:12] [Server thread/INFO]: [妹子]xiaochuyin : 我要去资源世界，怎么去
+2017-09-04 [08:33:23] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:33:23] [Server thread/INFO]: [帅哥]hua_ji : 我看看啊
+2017-09-04 [08:33:37] [Server thread/INFO]: Devil[/124.228.49.92:5434] [ClientID: -718125915298570028] logged in with entity id 3838 at (world, 61.168, 70, 210.4199)
+2017-09-04 [08:33:39] [Server thread/INFO]: Devil joined the game
+2017-09-04 [08:33:45] [Server thread/INFO]: [帅哥]hua_ji : tp我
+2017-09-04 [08:34:00] [Server thread/INFO]: [帅哥]hua_ji : 牌子
+2017-09-04 [08:34:11] [Server thread/INFO]: [帅哥]hua_ji : 这个
+2017-09-04 [08:34:24] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:34:26] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:34:30] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:34:33] [Server thread/INFO]: [妹子]xiaochuyin : 你多少钱啊
+2017-09-04 [08:34:48] [Server thread/INFO]: [帅哥]hua_ji : 70万多
+2017-09-04 [08:34:50] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:34:50] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:34:54] [Server thread/INFO]: [妹子]xiaochuyin : 厉害
+2017-09-04 [08:35:01] [Server thread/INFO]: [帅哥]hua_ji : 我在种田啊
+2017-09-04 [08:35:04] [Server thread/INFO]: [妹子]xiaochuyin : 7万多
+2017-09-04 [08:35:13] [Server thread/INFO]: [帅哥]hua_ji : 你忘了？
+2017-09-04 [08:35:18] [Server thread/INFO]: [帅哥]hua_ji : 我在种田
+2017-09-04 [08:35:19] [Server thread/INFO]: [妹子]xiaochuyin : 什么
+2017-09-04 [08:35:23] [Server thread/INFO]: [帅哥]hua_ji : 种田
+2017-09-04 [08:35:26] [Server thread/INFO]: [妹子]xiaochuyin : 哦
+2017-09-04 [08:36:08] [Server thread/NOTICE]: Player data not found for "karim_dzzz", creating new profile
+2017-09-04 [08:36:08] [Server thread/INFO]: KARIM_DZZZ[/45.58.107.179:56849] [ClientID: 483974145200237805] logged in with entity id 3853 at (world, 128, 68, 128)
+2017-09-04 [08:36:09] [Server thread/INFO]: KARIM_DZZZ joined the game
+2017-09-04 [08:36:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:36:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:36:23] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:36:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:36:48] [Server thread/WARNING]: KARIM_DZZZ moved wrongly!
+2017-09-04 [08:36:50] [Server thread/WARNING]: KARIM_DZZZ moved wrongly!
+2017-09-04 [08:36:55] [Server thread/INFO]: [妹子]xiaochuyin : 我现在在银行上班
+2017-09-04 [08:37:00] [Server thread/INFO]: [帅哥]hua_ji : 我也是
+2017-09-04 [08:37:05] [Server thread/INFO]: [妹子]xiaochuyin : 可是，没开门，没人
+2017-09-04 [08:37:11] [Server thread/INFO]: [帅哥]hua_ji : 嗯
+2017-09-04 [08:37:12] [Server thread/INFO]: [妹子]xiaochuyin : 我当前台
+2017-09-04 [08:37:15] [Server thread/WARNING]: KARIM_DZZZ moved wrongly!
+2017-09-04 [08:37:17] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:37:24] [Server thread/INFO]: [帅哥]hua_ji : 额
+2017-09-04 [08:37:35] [Server thread/INFO]: [帅哥]hua_ji : 我在买地皮
+2017-09-04 [08:37:40] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:37:41] [Server thread/INFO]: [帅哥]hua_ji : 买不了
+2017-09-04 [08:37:47] [Server thread/INFO]: [妹子]xiaochuyin : 要节操
+2017-09-04 [08:37:51] [Server thread/INFO]: [帅哥]hua_ji : 要输入land bug
+2017-09-04 [08:37:56] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:37:59] [Server thread/INFO]: [帅哥]hua_ji : 没有这个指令
+2017-09-04 [08:38:01] [Server thread/INFO]: [建筑师]Devil : 我教你
+2017-09-04 [08:38:04] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:38:08] [Server thread/INFO]: [帅哥]hua_ji : 教啊
+2017-09-04 [08:38:09] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:38:16] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:38:27] [Server thread/INFO]: [建筑师]Devil : 圈好地没有
+2017-09-04 [08:38:28] [Server thread/INFO]: [帅哥]hua_ji : 我有节操
+2017-09-04 [08:38:33] [Server thread/INFO]: [帅哥]hua_ji : 圈了
+2017-09-04 [08:38:34] [Server thread/INFO]: Crystal[/67.245.228.79:64280] [ClientID: 3496721370987433794] logged in with entity id 3870 at (world, 128, 64, 128)
+2017-09-04 [08:38:40] [Server thread/INFO]: Crystal joined the game
+2017-09-04 [08:38:54] [Server thread/INFO]: [建筑师]Devil : 两个点设置好了吗
+2017-09-04 [08:38:58] [Server thread/INFO]: [妹子]xiaochuyin : 我跟kw住了，老公
+2017-09-04 [08:39:01] [Server thread/INFO]: [帅哥]hua_ji : 设好了
+2017-09-04 [08:39:02] [Server thread/INFO]: [帅哥]hua_ji : 额
+2017-09-04 [08:39:11] [Server thread/INFO]: KARIM_DZZZ left the game
+2017-09-04 [08:39:11] [Server thread/INFO]: KARIM_DZZZ[/45.58.107.179:56849] logged out due to timeout
+2017-09-04 [08:39:23] [Server thread/INFO]: [帅哥]hua_ji : 额
+2017-09-04 [08:39:26] [Server thread/INFO]: [建筑师]Devil : 买了吧
+2017-09-04 [08:39:35] [Server thread/INFO]: [妹子]xiaochuyin : 打我好疼
+2017-09-04 [08:39:36] [Server thread/INFO]: [帅哥]hua_ji : 要我重圈
+2017-09-04 [08:39:49] [Server thread/INFO]: [帅哥]hua_ji : 这是我的了
+2017-09-04 [08:40:06] [Server thread/INFO]: [帅哥]hua_ji : 让让
+2017-09-04 [08:40:35] [Server thread/INFO]: Crystal left the game
+2017-09-04 [08:40:35] [Server thread/INFO]: Crystal[/67.245.228.79:64280] logged out due to Failed to login in 120 seconds
+2017-09-04 [08:41:04] [Server thread/INFO]: [妹子]xiaochuyin : 我挖矿了
+2017-09-04 [08:41:07] [Server thread/INFO]: [帅哥]hua_ji : 88
+2017-09-04 [08:41:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:41:10] [Server thread/INFO]: Devil left the game
+2017-09-04 [08:41:10] [Server thread/INFO]: Devil[/124.228.49.92:5434] logged out due to client disconnect
+2017-09-04 [08:41:19] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:41:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:41:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:41:29] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [08:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:41:38] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:41:39] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:41:40] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:41:59] [Server thread/INFO]: [¥富豪$]hua_ji : 让我打一下
+2017-09-04 [08:42:14] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:16] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:18] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:28] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:30] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:38] [Server thread/WARNING]: xiaochuyin moved too fast, reverting movement
+2017-09-04 [08:42:46] [Server thread/WARNING]: xiaochuyin moved too fast, reverting movement
+2017-09-04 [08:42:48] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:50] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:51] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:42:57] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:43:00] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:43:01] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:43:04] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:43:18] [Server thread/INFO]: hua_ji has just earned the achievement Hot Topic
+2017-09-04 [08:44:28] [Server thread/INFO]: Devil[/124.228.49.92:5552] [ClientID: -718125915298570028] logged in with entity id 3900 at (th, 186.4097, 65, -282.2505)
+2017-09-04 [08:44:30] [Server thread/INFO]: Devil joined the game
+2017-09-04 [08:45:03] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:45:39] [Server thread/INFO]: hua_ji died
+2017-09-04 [08:45:47] [Server thread/INFO]: [¥富豪$]hua_ji : 不
+2017-09-04 [08:46:01] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:46:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:46:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:46:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:46:59] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:46:59] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:47:06] [Server thread/INFO]: hua_ji died
+2017-09-04 [08:48:00] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:48:03] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:48:08] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:48:08] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:48:26] [Server thread/INFO]: hua_ji left the game
+2017-09-04 [08:48:26] [Server thread/INFO]: hua_ji[/222.248.116.86:50029] logged out due to client disconnect
+2017-09-04 [08:48:55] [Server thread/INFO]: hua_ji[/222.248.116.86:50029] [ClientID: 6451213323021455258] logged in with entity id 4016 at (world, 127.4739, 65, 115.6454)
+2017-09-04 [08:49:00] [Server thread/INFO]: hua_ji joined the game
+2017-09-04 [08:49:32] [Server thread/INFO]: [¥富豪$]hua_ji : 我的效果没了mdzz
+2017-09-04 [08:49:46] [Server thread/INFO]: [建筑师]Devil : 你知道哪有附魔台可以用的吗
+2017-09-04 [08:49:57] [Server thread/INFO]: [¥富豪$]hua_ji : 我家
+2017-09-04 [08:50:13] [Server thread/INFO]: mo_mo[/223.74.49.135:8235] [ClientID: -1850405544939991524] logged in with entity id 4048 at (world, 130.1244, 65.1768, 121.0525)
+2017-09-04 [08:50:16] [Server thread/INFO]: [建筑师]Devil : 借我用下
+2017-09-04 [08:50:17] [Server thread/INFO]: mo_mo joined the game
+2017-09-04 [08:50:18] [Server thread/INFO]: [妹子]xiaochuyin : 老公，给点生活费
+2017-09-04 [08:50:22] [Server thread/INFO]: [¥富豪$]hua_ji : 没了
+2017-09-04 [08:50:28] [Server thread/INFO]: [妹子]xiaochuyin : 可以用
+2017-09-04 [08:50:37] [Server thread/INFO]: [¥富豪$]hua_ji : 刚才乱点点没了
+2017-09-04 [08:50:41] [Server thread/INFO]: [建筑师]Devil : 带我去吧 我找不到
+2017-09-04 [08:51:05] [Server thread/INFO]: [¥富豪$]hua_ji : 给钱啊
+2017-09-04 [08:51:06] [Server thread/INFO]: [妹子]xiaochuyin : 唉
+2017-09-04 [08:51:09] [Server thread/INFO]: [¥富豪$]hua_ji : 2000
+2017-09-04 [08:51:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:51:18] [Server thread/INFO]: [建筑师]Devil : 在哪
+2017-09-04 [08:51:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:51:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:51:28] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:51:30] [Server thread/INFO]: [¥富豪$]hua_ji : 给钱
+2017-09-04 [08:51:30] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:51:33] [Server thread/INFO]: [¥富豪$]hua_ji : 2000
+2017-09-04 [08:51:36] [Server thread/INFO]: [妹子]xiaochuyin : 还不开店
+2017-09-04 [08:51:42] [Server thread/INFO]: [妹子]xiaochuyin : 过来
+2017-09-04 [08:51:47] [Server thread/INFO]: [妹子]xiaochuyin : 怎么给钱啊
+2017-09-04 [08:51:49] [Server thread/INFO]: [¥富豪$]hua_ji : 谢谢
+2017-09-04 [08:51:51] [Server thread/INFO]: [建筑师]Devil : 给了
+2017-09-04 [08:51:53] [Server thread/INFO]: [¥富豪$]hua_ji : pay
+2017-09-04 [08:51:55] [Server thread/INFO]: mo_mo has just earned the achievement Getting Wood
+2017-09-04 [08:52:00] [Server thread/INFO]: [¥富豪$]hua_ji : 输入/pay
+2017-09-04 [08:52:21] [Server thread/INFO]: mo_mo left the game
+2017-09-04 [08:52:21] [Server thread/INFO]: mo_mo[/223.74.49.135:8235] logged out due to timeout
+2017-09-04 [08:52:23] [Server thread/INFO]: [建筑师]Devil : 好像只有你自己能附魔 别人不能用好像
+2017-09-04 [08:52:29] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [08:52:36] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:52:38] [Server thread/INFO]: [建筑师]Devil : 我附魔了 装备不显示 你还有附魔台吗
+2017-09-04 [08:52:41] [Server thread/NOTICE]: Player data not found for "xavier", creating new profile
+2017-09-04 [08:52:41] [Server thread/INFO]: Xavier[/189.190.198.202:61718] [ClientID: 954831765841120431] logged in with entity id 4095 at (world, 128, 68, 128)
+2017-09-04 [08:52:41] [Server thread/INFO]: [建筑师]Devil : 我买一个
+2017-09-04 [08:52:43] [Server thread/INFO]: Xavier joined the game
+2017-09-04 [08:52:47] [Server thread/INFO]: [¥富豪$]hua_ji : 你有经验吗
+2017-09-04 [08:52:49] [Server thread/INFO]: Xavier left the game
+2017-09-04 [08:52:49] [Server thread/INFO]: Xavier[/189.190.198.202:61718] logged out due to client disconnect
+2017-09-04 [08:52:52] [Server thread/INFO]: [建筑师]Devil : 有
+2017-09-04 [08:53:00] [Server thread/INFO]: [建筑师]Devil : 但是刚刚被浪费了几级
+2017-09-04 [08:53:00] [Server thread/INFO]: [¥富豪$]hua_ji : 让一下
+2017-09-04 [08:53:06] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:53:19] [Server thread/INFO]: [建筑师]Devil : 多少钱
+2017-09-04 [08:53:25] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:53:28] [Server thread/INFO]: [¥富豪$]hua_ji : 附魔吧
+2017-09-04 [08:53:44] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:53:52] [Server thread/INFO]: [¥富豪$]hua_ji : 好了吗？
+2017-09-04 [08:53:53] [Server thread/INFO]: [建筑师]Devil : 这你不能附魔
+2017-09-04 [08:53:56] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [08:54:00] [Server thread/INFO]: [建筑师]Devil : 不信你试试看
+2017-09-04 [08:54:08] [Server thread/INFO]: [建筑师]Devil : 这个服务器不能附魔东西
+2017-09-04 [08:54:15] [Server thread/INFO]: [¥富豪$]hua_ji : 好吧
+2017-09-04 [08:54:30] [Server thread/INFO]: [¥富豪$]hua_ji : 你有清洁石吗
+2017-09-04 [08:54:31] [Server thread/INFO]: [妹子]xiaochuyin : 给我一个钻石裤，可以吗，我的爆了
+2017-09-04 [08:54:38] [Server thread/INFO]: [建筑师]Devil : 有青金石啊
+2017-09-04 [08:54:40] [Server thread/INFO]: [妹子]xiaochuyin : 我有
+2017-09-04 [08:54:40] [Server thread/INFO]: [建筑师]Devil : 一组
+2017-09-04 [08:54:41] [Server thread/INFO]: [¥富豪$]hua_ji : 青额
+2017-09-04 [08:55:49] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:55:53] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:55:53] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:55:53] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:56:06] [Server thread/INFO]: Steve[/94.128.237.21:7008] [ClientID: 7902003751441344977] logged in with entity id 4230 at (world, 128, 68.6, 128)
+2017-09-04 [08:56:08] [Server thread/INFO]: Steve joined the game
+2017-09-04 [08:56:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [08:56:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [08:56:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [08:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [08:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [08:58:04] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:58:07] [Server thread/INFO]: Steve left the game
+2017-09-04 [08:58:07] [Server thread/INFO]: Steve[/94.128.237.21:7008] logged out due to Failed to login in 120 seconds
+2017-09-04 [08:58:13] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:58:39] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:58:43] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:58:59] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-04 [08:59:21] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:59:21] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:59:21] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [08:59:30] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:59:31] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:59:44] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:59:46] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [08:59:47] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:00:10] [Server thread/INFO]: Devil left the game
+2017-09-04 [09:00:10] [Server thread/INFO]: Devil[/124.228.49.92:5552] logged out due to client disconnect
+2017-09-04 [09:00:40] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:00:58] [Server thread/INFO]: [¥富豪$]hua_ji : 我草
+2017-09-04 [09:01:01] [Server thread/INFO]: Boss baby 2[/107.195.102.43:60591] logged out due to Invalid name!
+2017-09-04 [09:01:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:01:13] [Server thread/INFO]: [¥富豪$]hua_ji : 我去其他服务器了
+2017-09-04 [09:01:16] [Server thread/INFO]: [¥富豪$]hua_ji : 拜拜
+2017-09-04 [09:01:20] [Server thread/INFO]: hua_ji left the game
+2017-09-04 [09:01:20] [Server thread/INFO]: hua_ji[/222.248.116.86:50029] logged out due to client disconnect
+2017-09-04 [09:01:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:01:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:01:29] [Server thread/INFO]: Boss baby 2[/107.195.102.43:60591] logged out due to Invalid name!
+2017-09-04 [09:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:01:54] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:01:57] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:01:57] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:01:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:10] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:14] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:21] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:02:27] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:03:17] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] [ClientID: -876748291591489542] logged in with entity id 4347 at (world, 60.603, 70, 203.725)
+2017-09-04 [09:03:19] [Server thread/INFO]: Vv5418 joined the game
+2017-09-04 [09:04:00] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:04:01] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:04:13] [Server thread/INFO]: [妹子]Vv5418 : 嗨
+2017-09-04 [09:04:18] [Server thread/INFO]: [妹子]xiaochuyin : hi
+2017-09-04 [09:04:19] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:04:38] [Server thread/INFO]: [妹子]xiaochuyin : 要不要一起挖矿
+2017-09-04 [09:04:42] [Server thread/INFO]: [妹子]Vv5418 : 一起啊
+2017-09-04 [09:04:44] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:04:44] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:04:47] [Server thread/INFO]: [妹子]xiaochuyin : 走，
+2017-09-04 [09:05:06] [Server thread/INFO]: [/76.10.164.116:58457] logged out due to client disconnect
+2017-09-04 [09:05:15] [Server thread/INFO]: [妹子]xiaochuyin : tp我
+2017-09-04 [09:05:43] [Server thread/INFO]: Steve[/14.148.26.200:51598] [ClientID: -3899178733295156075] logged in with entity id 4354 at (world, 128, 68.8, 128)
+2017-09-04 [09:05:46] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:05:52] [Server thread/INFO]: [/76.10.164.116:55376] logged out due to client disconnect
+2017-09-04 [09:06:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:06:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:06:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:06:26] [Server thread/INFO]: [妹子]Vv5418 : 怎么你哪啊
+2017-09-04 [09:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:06:43] [Server thread/INFO]: [妹子]Vv5418 : 我不会
+2017-09-04 [09:06:43] [Server thread/INFO]: [妹子]xiaochuyin : 输入/找人 名称
+2017-09-04 [09:07:14] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:07:14] [Server thread/INFO]: Steve[/14.148.26.200:51598] logged out due to Failed to login in 5 attempts
+2017-09-04 [01:07:14] [RakLibServer thread/NOTICE]: Blocked 14.148.26.200 for 600 seconds
+2017-09-04 [09:07:38] [Server thread/INFO]: [妹子]Vv5418 : 摔死了
+2017-09-04 [09:08:02] [Server thread/INFO]: hua_ji[/222.248.116.86:50029] [ClientID: 6451213323021455258] logged in with entity id 4357 at (th, 176.0694, 65.5, -215.2195)
+2017-09-04 [09:08:06] [Server thread/INFO]: hua_ji joined the game
+2017-09-04 [09:08:25] [Server thread/INFO]: [妹子]Vv5418 : 挖不了啦钻石吗
+2017-09-04 [09:08:25] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:08:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:08:34] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
+2017-09-04 [09:08:46] [Server thread/INFO]: Steve[/99.236.210.63:55124] [ClientID: 3816476169563080793] logged in with entity id 4377 at (world, 128, 69, 128)
+2017-09-04 [09:08:47] [Server thread/INFO]: [妹子]Vv5418 : 有火把吗
+2017-09-04 [09:08:48] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:08:58] [Server thread/INFO]: [妹子]xiaochuyin : 一人挖一边
+2017-09-04 [09:09:12] [Server thread/INFO]: [妹子]xiaochuyin : 我有夜市
+2017-09-04 [09:09:32] [Server thread/INFO]: [妹子]Vv5418 : 给火把给我
+2017-09-04 [09:09:39] [Server thread/INFO]: [妹子]xiaochuyin : 给了
+2017-09-04 [09:09:41] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:09:41] [Server thread/INFO]: Steve[/99.236.210.63:55124] logged out due to client disconnect
+2017-09-04 [09:09:55] [Server thread/INFO]: [妹子]xiaochuyin : 后面
+2017-09-04 [09:10:19] [Server thread/INFO]: [妹子]Vv5418 : 过来
+2017-09-04 [09:10:23] [Server thread/INFO]: [妹子]Vv5418 : 青金石
+2017-09-04 [09:11:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:11:10] [Server thread/INFO]: Vv5418 was slain by hua_ji
+2017-09-04 [09:11:17] [Server thread/INFO]: [¥富豪$]hua_ji : 打我
+2017-09-04 [09:11:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:11:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:11:57] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:11:57] [Server thread/INFO]: [¥富豪$]hua_ji : 挖
+2017-09-04 [09:11:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:12:13] [Server thread/INFO]: [¥富豪$]hua_ji : 金子
+2017-09-04 [09:12:41] [Server thread/INFO]: [¥富豪$]hua_ji : 不敢打人了啊
+2017-09-04 [09:12:56] [Server thread/INFO]: [妹子]xiaochuyin : 和平吗
+2017-09-04 [09:13:07] [Server thread/INFO]: [¥富豪$]hua_ji : 我打你你就死了
+2017-09-04 [09:13:12] [Server thread/INFO]: [¥富豪$]hua_ji : 我力量
+2017-09-04 [09:13:22] [Server thread/INFO]: [¥富豪$]hua_ji : 要不试一下
+2017-09-04 [09:14:34] [Server thread/INFO]: [妹子]Vv5418 : 你们过来一下
+2017-09-04 [09:14:53] [Server thread/INFO]: [妹子]Vv5418 : 怎么锁箱子啊
+2017-09-04 [09:15:09] [Server thread/INFO]: [妹子]Vv5418 : 怎么锁
+2017-09-04 [09:15:10] [Server thread/INFO]: [¥富豪$]hua_ji : 好了
+2017-09-04 [09:15:17] [Server thread/INFO]: [¥富豪$]hua_ji : 输入/锁
+2017-09-04 [09:15:19] [Server thread/INFO]: [妹子]Vv5418 : 接受
+2017-09-04 [09:15:35] [Server thread/INFO]: [¥富豪$]hua_ji : 点箱子
+2017-09-04 [09:15:43] [Server thread/INFO]: [妹子]Vv5418 : 看一下打的开吗
+2017-09-04 [09:15:48] [Server thread/INFO]: [妹子]xiaochuyin : 要撸掉，输入/开
+2017-09-04 [09:15:52] [Server thread/INFO]: [¥富豪$]hua_ji : 大不开
+2017-09-04 [09:15:57] [Server thread/INFO]: [¥富豪$]hua_ji : 哈哈哈
+2017-09-04 [09:16:01] [Server thread/INFO]: [¥富豪$]hua_ji : 被我锁了
+2017-09-04 [09:16:04] [Server thread/INFO]: [妹子]Vv5418 : 给我解开
+2017-09-04 [09:16:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:16:12] [Server thread/INFO]: Vv5418 was slain by hua_ji
+2017-09-04 [09:16:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:16:23] [Server thread/INFO]: [妹子]xiaochuyin : 你别杀了
+2017-09-04 [09:16:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:17:00] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:17:08] [Server thread/INFO]: [妹子]xiaochuyin : 到现在都没有钻石剑
+2017-09-04 [09:17:24] [Server thread/INFO]: [妹子]Vv5418 : 我的箱子被抢了
+2017-09-04 [09:17:25] [Server thread/INFO]: [¥富豪$]hua_ji : 箱子我解锁了
+2017-09-04 [09:17:31] [Server thread/INFO]: [¥富豪$]hua_ji : 过来吧
+2017-09-04 [09:17:55] [Server thread/INFO]: [妹子]Vv5418 : 钻石搞给我
+2017-09-04 [09:18:01] [Server thread/INFO]: [妹子]Vv5418 : 拿了我东西
+2017-09-04 [09:18:11] [Server thread/INFO]: [¥富豪$]hua_ji : 啦啦啦啦啦啊啦啦
+2017-09-04 [09:18:39] [Server thread/INFO]: [妹子]Vv5418 : 过来 怎么又打不开
+2017-09-04 [09:18:46] [Server thread/INFO]: [¥富豪$]hua_ji : 打的开啊
+2017-09-04 [09:19:41] [Server thread/INFO]: [妹子]Vv5418 : 钻石搞给还我
+2017-09-04 [09:19:45] [Server thread/INFO]: [妹子]Vv5418 : 沙壁啊
+2017-09-04 [09:19:54] [Server thread/INFO]: Vv5418 was slain by hua_ji
+2017-09-04 [09:20:10] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:20:11] [Server thread/INFO]: [妹子]Vv5418 : 有病
+2017-09-04 [09:20:34] [Server thread/INFO]: [妹子]xiaochuyin : 给她吧
+2017-09-04 [09:20:59] [Server thread/INFO]: [¥富豪$]hua_ji : 我要蹦极
+2017-09-04 [09:21:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:21:14] [Server thread/INFO]: [妹子]Vv5418 : 啥都没了
+2017-09-04 [09:21:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:21:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:21:46] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:21:46] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:22:04] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:22:18] [Server thread/INFO]: [妹子]xiaochuyin : 过来，我鬼畜了
+2017-09-04 [09:22:36] [Server thread/INFO]: [妹子]Vv5418 : 青金石也没了 给还我
+2017-09-04 [09:22:48] [Server thread/INFO]: [妹子]xiaochuyin : 你过来，我给你
+2017-09-04 [09:22:51] [Server thread/INFO]: [¥富豪$]hua_ji : 老婆
+2017-09-04 [09:22:53] [Server thread/INFO]: [¥富豪$]hua_ji : tp我
+2017-09-04 [09:22:59] [Server thread/INFO]: [¥富豪$]hua_ji : 看我装B
+2017-09-04 [09:23:40] [Server thread/INFO]: Vv5418 fell from a high place
+2017-09-04 [09:23:41] [Server thread/INFO]: xiaochuyin fell from a high place
+2017-09-04 [09:23:42] [Server thread/INFO]: xiaochuyin left the game
+2017-09-04 [09:23:42] [Server thread/INFO]: xiaochuyin[/218.17.73.22:3131] logged out due to client disconnect
+2017-09-04 [09:23:44] [Server thread/INFO]: [¥富豪$]hua_ji : 我会飞
+2017-09-04 [09:23:47] [Server thread/INFO]: Steve[/24.89.99.130:54933] [ClientID: -6058543143360337641] logged in with entity id 4624 at (world, 128, 68.2, 128)
+2017-09-04 [09:23:49] [Server thread/INFO]: xiaochuyin[/218.17.73.22:3131] [ClientID: 8387251252757840492] logged in with entity id 4625 at (world, 103.71, 70, 181.1075)
+2017-09-04 [09:23:50] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:23:51] [Server thread/INFO]: xiaochuyin joined the game
+2017-09-04 [09:23:51] [Server thread/INFO]: [¥富豪$]hua_ji : 我会飞
+2017-09-04 [09:24:11] [Server thread/WARNING]: hua_ji moved too fast, reverting movement
+2017-09-04 [09:24:42] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:24:42] [Server thread/INFO]: Steve[/24.89.99.130:54933] logged out due to client disconnect
+2017-09-04 [09:24:59] [Server thread/INFO]: [/24.89.99.130:54933] logged out due to timeout
+2017-09-04 [09:25:09] [Server thread/INFO]: Steve[/24.89.99.130:54933] [ClientID: -6058543143360337641] logged in with entity id 4626 at (world, 128, 68.4, 128)
+2017-09-04 [09:25:11] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:25:12] [Server thread/INFO]: [妹子]Vv5418 : l东西给还我
+2017-09-04 [09:25:13] [Server thread/INFO]: [妹子]xiaochuyin : 过来
+2017-09-04 [09:25:21] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:25:37] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:25:40] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:25:41] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:25:43] [Server thread/INFO]: [妹子]Vv5418 : 还有钻石搞
+2017-09-04 [09:25:55] [Server thread/INFO]: [¥富豪$]hua_ji : 打死我还你
+2017-09-04 [09:26:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:26:15] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:26:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:26:21] [Server thread/INFO]: [妹子]Vv5418 : 我待会给建筑师说 那是他借给我的
+2017-09-04 [09:26:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:26:25] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:26:25] [Server thread/INFO]: Steve[/24.89.99.130:54933] logged out due to timeout
+2017-09-04 [09:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:26:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:26:31] [Server thread/INFO]: [妹子]Vv5418 : 待会他就会来
+2017-09-04 [09:26:40] [Server thread/INFO]: [¥富豪$]hua_ji : 说就说
+2017-09-04 [09:26:56] [Server thread/INFO]: [妹子]Vv5418 : 有病
+2017-09-04 [09:26:58] [Server thread/INFO]: kwkkwk123[/183.162.108.114:62828] [ClientID: 6721113679223507360] logged in with entity id 4628 at (th, 165.5538, 65, -125.7)
+2017-09-04 [09:27:00] [Server thread/INFO]: kwkkwk123 joined the game
+2017-09-04 [09:27:19] [Server thread/INFO]: [¥富豪$]hua_ji : 我要会银行
+2017-09-04 [09:27:30] [Server thread/WARNING]: hua_ji moved too fast, reverting movement
+2017-09-04 [09:27:33] [Server thread/INFO]: [妹子]xiaochuyin : kw还不来
+2017-09-04 [09:27:37] [Server thread/INFO]: [SVIP]kwkkwk123 : 大家好
+2017-09-04 [09:27:42] [Server thread/INFO]: [SVIP]kwkkwk123 : 我来啦
+2017-09-04 [09:27:43] [Server thread/INFO]: [妹子]xiaochuyin : 来了
+2017-09-04 [09:27:49] [Server thread/INFO]: [妹子]xiaochuyin : 我要去你家
+2017-09-04 [09:27:53] [Server thread/INFO]: [SVIP]kwkkwk123 : 让你们久等啦
+2017-09-04 [09:28:00] [Server thread/INFO]: [¥富豪$]hua_ji : 银行在哪
+2017-09-04 [09:28:13] [Server thread/INFO]: [¥富豪$]hua_ji : 老板
+2017-09-04 [09:28:14] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:28:22] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:28:23] [Server thread/INFO]: [¥富豪$]hua_ji : 我值班的时候出来事故
+2017-09-04 [09:28:23] [Server thread/INFO]: [SVIP]kwkkwk123 : 居民区
+2017-09-04 [09:28:27] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:28:29] [Server thread/INFO]: [¥富豪$]hua_ji : 我要报销
+2017-09-04 [09:28:29] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:28:34] [Server thread/INFO]: [¥富豪$]hua_ji : 50万
+2017-09-04 [09:28:44] [Server thread/INFO]: [SVIP]kwkkwk123 : 等老二上线给你权限
+2017-09-04 [09:28:47] [Server thread/INFO]: [¥富豪$]hua_ji : 我回家时屎了
+2017-09-04 [09:28:53] [Server thread/INFO]: [妹子]xiaochuyin : 谢谢
+2017-09-04 [09:28:57] [Server thread/INFO]: 史蒂夫[/61.141.200.165:3039] logged out due to Invalid name!
+2017-09-04 [09:28:57] [Server thread/INFO]: [SVIP]kwkkwk123 : 老二是777888
+2017-09-04 [09:28:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:29:00] [Server thread/INFO]: [¥富豪$]hua_ji : 效果圈没了
+2017-09-04 [09:29:05] [Server thread/INFO]: [SVIP]kwkkwk123 : 后面是777888
+2017-09-04 [09:29:09] [Server thread/INFO]: [¥富豪$]hua_ji : 给谁？
+2017-09-04 [09:29:12] [Server thread/INFO]: xiaochuyin suffocated in a wall
+2017-09-04 [09:29:15] [Server thread/INFO]: 史蒂夫[/61.141.200.165:3039] logged out due to Invalid name!
+2017-09-04 [09:29:20] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:29:22] [Server thread/INFO]: Vv5418 died
+2017-09-04 [09:29:26] [Server thread/INFO]: [¥富豪$]hua_ji : 我吗
+2017-09-04 [09:29:40] [Server thread/INFO]: [SVIP]kwkkwk123 : 不是
+2017-09-04 [09:29:49] [Server thread/INFO]: [妹子]xiaochuyin : 我
+2017-09-04 [09:29:53] [Server thread/INFO]: [¥富豪$]hua_ji : o
+2017-09-04 [09:29:54] [Server thread/INFO]: [¥富豪$]hua_ji : aa''
+2017-09-04 [09:29:55] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:30:01] [Server thread/INFO]: [SVIP]kwkkwk123 : 大家快来上班
+2017-09-04 [09:30:06] [Server thread/INFO]: [¥富豪$]hua_ji : 老板
+2017-09-04 [09:30:07] [Server thread/INFO]: [SVIP]kwkkwk123 : 嗷嗷嗷
+2017-09-04 [09:30:18] [Server thread/INFO]: [妹子]xiaochuyin : 我安好家了
+2017-09-04 [09:30:21] [Server thread/INFO]: [¥富豪$]hua_ji : 给我50万
+2017-09-04 [09:30:26] [Server thread/INFO]: [SVIP]kwkkwk123 : 嗯
+2017-09-04 [09:30:28] [Server thread/INFO]: [¥富豪$]hua_ji : 我的效果没了
+2017-09-04 [09:30:33] [Server thread/INFO]: [妹子]xiaochuyin : 能给我吗？
+2017-09-04 [09:30:38] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:30:47] [Server thread/INFO]: [SVIP]kwkkwk123 : 等老二上线
+2017-09-04 [09:30:49] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:30:50] [Server thread/INFO]: [¥富豪$]hua_ji : 我是值班出意外
+2017-09-04 [09:30:53] [Server thread/INFO]: [SVIP]kwkkwk123 : 立马给
+2017-09-04 [09:30:56] [Server thread/INFO]: [¥富豪$]hua_ji : 你可以直接给我
+2017-09-04 [09:31:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:31:10] [Server thread/INFO]: [SVIP]kwkkwk123 : 你是怎么出意外的
+2017-09-04 [09:31:10] [Server thread/INFO]: [妹子]xiaochuyin : 出什么意外啊
+2017-09-04 [09:31:18] [Server thread/INFO]: [¥富豪$]hua_ji : 去银行
+2017-09-04 [09:31:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:31:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:31:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:31:26] [Server thread/INFO]: [¥富豪$]hua_ji : 看到一个牌子
+2017-09-04 [09:31:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:31:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:31:34] [Server thread/INFO]: [¥富豪$]hua_ji : 上面写着
+2017-09-04 [09:31:42] [Server thread/INFO]: [¥富豪$]hua_ji : 会银行kill
+2017-09-04 [09:31:47] [Server thread/INFO]: [¥富豪$]hua_ji : 我按了一下
+2017-09-04 [09:31:50] [Server thread/INFO]: [¥富豪$]hua_ji : 死了
+2017-09-04 [09:31:53] [Server thread/INFO]: [¥富豪$]hua_ji : mdzz
+2017-09-04 [09:31:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:02] [Server thread/INFO]: [SVIP]kwkkwk123 : 在哪
+2017-09-04 [09:32:08] [Server thread/INFO]: [¥富豪$]hua_ji : 木头世界
+2017-09-04 [09:32:11] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:16] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:32:26] [Server thread/INFO]: [妹子]xiaochuyin : 给我个翅膀可以吗
+2017-09-04 [09:32:27] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:30] [Server thread/INFO]: [SVIP]kwkkwk123 : 可以
+2017-09-04 [09:32:39] [Server thread/INFO]: [¥富豪$]hua_ji : 我要50万
+2017-09-04 [09:32:40] [Server thread/INFO]: Steve[/24.183.252.127:49295] [ClientID: 6288553076440878222] logged in with entity id 4630 at (world, 128, 68.6, 128)
+2017-09-04 [09:32:42] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:32:43] [Server thread/INFO]: [¥富豪$]hua_ji : 我要报销
+2017-09-04 [09:32:47] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:48] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:49] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:52] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:32:53] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:33:01] [Server thread/INFO]: [SVIP]kwkkwk123 : 在木头世界死了不管我的事
+2017-09-04 [09:33:01] [Server thread/INFO]: [¥富豪$]hua_ji : 我要我的50万
+2017-09-04 [09:33:03] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:33:12] [Server thread/INFO]: [¥富豪$]hua_ji : 牌子是你写的
+2017-09-04 [09:33:15] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:33:20] [Server thread/INFO]: [SVIP]kwkkwk123 : 我没写呀
+2017-09-04 [09:33:23] [Server thread/INFO]: [¥富豪$]hua_ji : 你的公司写的
+2017-09-04 [09:33:29] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:33:29] [Server thread/INFO]: Steve[/24.183.252.127:49295] logged out due to client disconnect
+2017-09-04 [09:33:37] [Server thread/INFO]: [SVIP]kwkkwk123 : 不可能
+2017-09-04 [09:33:40] [Server thread/INFO]: Vv5418 left the game
+2017-09-04 [09:33:40] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] logged out due to client disconnect
+2017-09-04 [09:33:48] [Server thread/INFO]: [¥富豪$]hua_ji : 我没抗性怎么打小偷
+2017-09-04 [09:33:57] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] [ClientID: -876748291591489542] logged in with entity id 4633 at (world, 82.2227, 70, 197.5189)
+2017-09-04 [09:33:58] [Server thread/INFO]: Vv5418 joined the game
+2017-09-04 [09:34:02] [Server thread/INFO]: [妹子]xiaochuyin : 给你6000
+2017-09-04 [09:34:06] [Server thread/INFO]: [¥富豪$]hua_ji : 不
+2017-09-04 [09:34:08] [Server thread/INFO]: [SVIP]kwkkwk123 : 你拿到了钻石剑了吧
+2017-09-04 [09:34:13] [Server thread/INFO]: [¥富豪$]hua_ji : 嗯
+2017-09-04 [09:34:22] [Server thread/INFO]: [¥富豪$]hua_ji : 很多人有钻
+2017-09-04 [09:34:30] [Server thread/INFO]: [妹子]xiaochuyin : 我没有
+2017-09-04 [09:34:31] [Server thread/INFO]: [SVIP]kwkkwk123 : 我马上要买下一个酒店
+2017-09-04 [09:34:35] [Server thread/INFO]: [¥富豪$]hua_ji : 而且有抗性
+2017-09-04 [09:34:49] [Server thread/INFO]: [¥富豪$]hua_ji : 小偷会把我打死
+2017-09-04 [09:34:54] [Server thread/INFO]: [SVIP]kwkkwk123 : 给你力量增大
+2017-09-04 [09:35:04] [Server thread/INFO]: [¥富豪$]hua_ji : 我有
+2017-09-04 [09:35:23] [Server thread/INFO]: [¥富豪$]hua_ji : 力量再大别人也打不死
+2017-09-04 [09:35:28] [Server thread/INFO]: Steve[/218.18.81.186:54230] [ClientID: 7786843866628536819] logged in with entity id 4704 at (world, 128, 68.8, 128)
+2017-09-04 [09:35:30] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:35:32] [Server thread/INFO]: [¥富豪$]hua_ji : 好吧
+2017-09-04 [09:35:36] [Server thread/INFO]: [¥富豪$]hua_ji : 那你
+2017-09-04 [09:35:36] [Server thread/INFO]: [SVIP]kwkkwk123 : 欢迎光临
+2017-09-04 [09:35:39] [Server thread/INFO]: [¥富豪$]hua_ji : 给我
+2017-09-04 [09:35:41] [Server thread/INFO]: [¥富豪$]hua_ji : 一些
+2017-09-04 [09:35:42] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:35:47] [Server thread/INFO]: [SVIP]kwkkwk123 : 你们去工作吧
+2017-09-04 [09:35:52] [Server thread/INFO]: [¥富豪$]hua_ji : 村民蛋蛋
+2017-09-04 [09:36:01] [Server thread/INFO]: [¥富豪$]hua_ji : 我要村民蛋蛋
+2017-09-04 [09:36:08] [Server thread/INFO]: [SVIP]kwkkwk123 : 你要村民蛋蛋
+2017-09-04 [09:36:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:36:11] [Server thread/INFO]: [¥富豪$]hua_ji : 嗯
+2017-09-04 [09:36:12] [Server thread/INFO]: [SVIP]kwkkwk123 : 好吧
+2017-09-04 [09:36:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:36:21] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:36:21] [Server thread/INFO]: Steve[/218.18.81.186:54230] logged out due to client disconnect
+2017-09-04 [09:36:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-04 [09:36:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:36:40] [Server thread/INFO]: [¥富豪$]hua_ji : 扔下来
+2017-09-04 [09:36:51] [Server thread/INFO]: [¥富豪$]hua_ji : 才2个
+2017-09-04 [09:37:06] [Server thread/INFO]: [SVIP]kwkkwk123 : 我忍不了东西
+2017-09-04 [09:37:10] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:37:12] [Server thread/INFO]: [¥富豪$]hua_ji : 箱子
+2017-09-04 [09:37:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:37:16] [Server thread/INFO]: [妹子]Vv5418 : 还我钻石搞n尼玛啊
+2017-09-04 [09:37:16] [Server thread/INFO]: [SVIP]kwkkwk123 : 箱子也打不开
+2017-09-04 [09:37:26] [Server thread/INFO]: [¥富豪$]hua_ji : 好吧
+2017-09-04 [09:37:37] [Server thread/INFO]: [SVIP]kwkkwk123 : 好了大景区工作吧
+2017-09-04 [09:37:58] [Server thread/INFO]: [¥富豪$]hua_ji : 禁止入内
+2017-09-04 [09:38:12] [Server thread/INFO]: [妹子]xiaochuyin : 你要存东西吗
+2017-09-04 [09:38:25] [Server thread/INFO]: [¥富豪$]hua_ji : 请务靠近金库
+2017-09-04 [09:38:29] [Server thread/INFO]: [妹子]xiaochuyin : Vv要存东西吗
+2017-09-04 [09:38:33] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:33] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:42] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:42] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:47] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:47] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:51] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:51] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:38:58] [Server thread/INFO]: [SVIP]kwkkwk123 : 你要存东西吗
+2017-09-04 [09:39:18] [Server thread/INFO]: [妹子]Vv5418 : 可以存什么
+2017-09-04 [09:39:23] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:39:23] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:39:27] [Server thread/INFO]: [SVIP]kwkkwk123 : 什么时候可以
+2017-09-04 [09:39:28] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:39:28] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:39:38] [Server thread/INFO]: [SVIP]kwkkwk123 : 什么都可以
+2017-09-04 [09:39:50] [Server thread/INFO]: [妹子]Vv5418 : 青金石
+2017-09-04 [09:40:01] [Server thread/INFO]: [SVIP]kwkkwk123 : 别拿
+2017-09-04 [09:40:08] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:40:26] [Server thread/INFO]: [妹子]Vv5418 : 要钱快吗
+2017-09-04 [09:40:31] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:40:34] [Server thread/INFO]: [SVIP]kwkkwk123 : 把要存的东西扔给前台
+2017-09-04 [09:41:04] [Server thread/INFO]: [SVIP]kwkkwk123 : 他存了多少
+2017-09-04 [09:41:08] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:41:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:41:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:41:20] [Server thread/INFO]: [妹子]xiaochuyin : 43青金石
+2017-09-04 [09:41:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:41:28] [Server thread/INFO]: [妹子]xiaochuyin : 18煤炭
+2017-09-04 [09:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-04 [09:41:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:41:30] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:30] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:32] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:32] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:37] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:37] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:40] [Server thread/INFO]: [妹子]xiaochuyin : 木炭
+2017-09-04 [09:41:41] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:41] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:41:58] [Server thread/INFO]: [妹子]xiaochuyin : 东西放哪
+2017-09-04 [09:42:00] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:42:00] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:42:04] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:42:04] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:42:05] [Server thread/INFO]: [¥富豪$]hua_ji : 方块无法刷新
+2017-09-04 [09:42:14] [Server thread/INFO]: [妹子]xiaochuyin : 我也是
+2017-09-04 [09:42:41] [Server thread/INFO]: [妹子]xiaochuyin : 存好了
+2017-09-04 [09:42:48] [Server thread/INFO]: [妹子]Vv5418 : 好
+2017-09-04 [09:43:06] [Server thread/INFO]: [妹子]xiaochuyin : 我右边箱子里，以防万一，我所
+2017-09-04 [09:43:13] [Server thread/INFO]: [妹子]xiaochuyin : 锁住了
+2017-09-04 [09:43:15] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:43:36] [Server thread/INFO]: [SVIP]kwkkwk123 : 所有的东西全部放金库
+2017-09-04 [09:43:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:43:59] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:44:00] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:44:00] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:44:12] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:44:22] [Server thread/INFO]: [妹子]Vv5418 : 怎么回城
+2017-09-04 [09:44:54] [Server thread/INFO]: [SVIP]kwkkwk123 : 我的员工我都很信任
+2017-09-04 [09:44:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:00] [Server thread/INFO]: [SVIP]kwkkwk123 : 哈哈
+2017-09-04 [09:45:02] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:02] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:03] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:03] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:03] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:19] [Server thread/INFO]: [SVIP]kwkkwk123 : 保安
+2017-09-04 [09:45:21] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:23] [Server thread/INFO]: [SVIP]kwkkwk123 : 来
+2017-09-04 [09:45:29] [Server thread/INFO]: Steve[/173.17.166.70:51505] [ClientID: -1590468511967868221] logged in with entity id 4736 at (world, 128, 69, 128)
+2017-09-04 [09:45:30] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:45:39] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:45:41] [Server thread/INFO]: [SVIP]kwkkwk123 : 妹子给你卡
+2017-09-04 [09:45:46] [Server thread/INFO]: [¥富豪$]hua_ji : ？
+2017-09-04 [09:45:56] [Server thread/INFO]: [SVIP]kwkkwk123 : 员工发卡了
+2017-09-04 [09:46:08] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:46:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:46:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:46:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:46:26] [Server thread/INFO]: [¥富豪$]hua_ji : 附魔书
+2017-09-04 [09:46:28] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:46:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:46:33] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:46:35] [Server thread/INFO]: [¥富豪$]hua_ji : 我会一下家
+2017-09-04 [09:46:39] [Server thread/INFO]: Vv5418 drowned
+2017-09-04 [09:46:43] [Server thread/INFO]: [SVIP]kwkkwk123 : 大家以后要进来让保安看一下
+2017-09-04 [09:46:47] [Server thread/INFO]: Vv5418 left the game
+2017-09-04 [09:46:47] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] logged out due to client disconnect
+2017-09-04 [09:46:55] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] [ClientID: -876748291591489542] logged in with entity id 4741 at (world, 125.9039, 67.5, 126.9162)
+2017-09-04 [09:46:55] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:46:56] [Server thread/INFO]: Vv5418 joined the game
+2017-09-04 [09:47:16] [Server thread/INFO]: [妹子]xiaochuyin : 给我个时钟
+2017-09-04 [09:47:28] [Server thread/INFO]: [SVIP]kwkkwk123 : 保安如果他们不给就别开门
+2017-09-04 [09:47:30] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:47:30] [Server thread/INFO]: Steve[/173.17.166.70:51505] logged out due to Failed to login in 120 seconds
+2017-09-04 [09:47:37] [Server thread/INFO]: Steve[/183.11.75.200:32994] [ClientID: -1733988467861870997] logged in with entity id 4742 at (world, 128, 68.2, 128)
+2017-09-04 [09:47:40] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:47:43] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:47:43] [Server thread/INFO]: Steve[/183.11.75.200:32994] logged out due to Login from the same device
+2017-09-04 [09:47:47] [Server thread/INFO]: Steve[/173.17.166.70:51505] [ClientID: -1590468511967868221] logged in with entity id 4743 at (world, 128, 68.4, 128)
+2017-09-04 [09:47:48] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:47:51] [Server thread/INFO]: [SVIP]kwkkwk123 : 保安来
+2017-09-04 [09:47:53] [Server thread/INFO]: [妹子]xiaochuyin : kw，给我个时钟
+2017-09-04 [09:48:04] [Server thread/INFO]: Vv5418 left the game
+2017-09-04 [09:48:04] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] logged out due to client disconnect
+2017-09-04 [09:48:06] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:48:06] [Server thread/INFO]: Steve[/173.17.166.70:51505] logged out due to Login from the same device
+2017-09-04 [09:48:10] [Server thread/INFO]: Steve[/183.11.75.200:32994] [ClientID: -1733988467861870997] logged in with entity id 4745 at (world, 128, 68.6, 128)
+2017-09-04 [09:48:12] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:48:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:48:31] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:48:41] [Server thread/INFO]: [SVIP]kwkkwk123 : 请出卡
+2017-09-04 [09:48:55] [Server thread/INFO]: [¥富豪$]hua_ji : 什么时候发工资
+2017-09-04 [09:49:07] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:49:07] [Server thread/INFO]: Steve[/183.11.75.200:32994] logged out due to client disconnect
+2017-09-04 [09:49:07] [Server thread/INFO]: [SVIP]kwkkwk123 : 保安你以后就像我这样
+2017-09-04 [09:49:14] [Server thread/INFO]: [SVIP]kwkkwk123 : 发工资了
+2017-09-04 [09:50:03] [Server thread/INFO]: Vv5418[/223.104.170.77:52276] [ClientID: -876748291591489542] logged in with entity id 4753 at (world, 65.8396, 70, 201.0173)
+2017-09-04 [09:50:04] [Server thread/NOTICE]: Player data not found for "sao", creating new profile
+2017-09-04 [09:50:04] [Server thread/INFO]: sao[/183.11.75.200:32994] [ClientID: -1733988467861870997] logged in with entity id 4754 at (world, 128, 68, 128)
+2017-09-04 [09:50:04] [Server thread/INFO]: Vv5418 joined the game
+2017-09-04 [09:50:06] [Server thread/INFO]: sao joined the game
+2017-09-04 [09:50:17] [Server thread/INFO]: [¥富豪$]hua_ji : 7个
+2017-09-04 [09:50:21] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:50:21] [Server thread/INFO]: [妹子]xiaochuyin : 要存东西的明天来
+2017-09-04 [09:50:27] [Server thread/INFO]: sao left the game
+2017-09-04 [09:50:27] [Server thread/INFO]: sao[/183.11.75.200:32994] logged out due to timeout
+2017-09-04 [09:50:39] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:51:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:51:15] [Server thread/INFO]: sao[/183.11.75.200:32998] [ClientID: -1733988467861870997] logged in with entity id 4769 at (world, 128, 68.2, 128)
+2017-09-04 [09:51:17] [Server thread/INFO]: sao joined the game
+2017-09-04 [09:51:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:51:23] [Server thread/INFO]: [妹子]Vv5418 : 你能帮我买个地皮吗
+2017-09-04 [09:51:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:51:29] [Server thread/INFO]: [¥富豪$]hua_ji : 好啊
+2017-09-04 [09:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [09:51:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:51:30] [Server thread/INFO]: Steve[/183.240.202.4:10901] [ClientID: 8453276208349186805] logged in with entity id 4770 at (world, 128, 68.8, 128)
+2017-09-04 [09:51:32] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:51:36] [Server thread/INFO]: [¥富豪$]hua_ji : 过来吧
+2017-09-04 [09:51:46] [Server thread/WARNING]: sao moved wrongly!
+2017-09-04 [09:51:49] [Server thread/INFO]: terry[/60.246.203.198:52815] [ClientID: 6631486987857550073] logged in with entity id 4771 at (th, -190.6721, 65, 127.9207)
+2017-09-04 [09:51:52] [Server thread/INFO]: terry joined the game
+2017-09-04 [09:51:55] [Server thread/INFO]: [¥富豪$]hua_ji : tp我
+2017-09-04 [09:52:18] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:52:18] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:52:23] [Server thread/INFO]: [妹子]Vv5418 : 过不去
+2017-09-04 [09:52:26] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:52:27] [Server thread/INFO]: [¥富豪$]hua_ji : tp我
+2017-09-04 [09:52:27] [Server thread/INFO]: terry left the game
+2017-09-04 [09:52:27] [Server thread/INFO]: terry[/60.246.203.198:52815] logged out due to client disconnect
+2017-09-04 [09:52:40] [Server thread/INFO]: terry[/60.246.203.198:52815] [ClientID: 6631486987857550073] logged in with entity id 4775 at (th, -190.6721, 63.2, 127.9207)
+2017-09-04 [09:52:43] [Server thread/INFO]: terry joined the game
+2017-09-04 [09:52:55] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:52:56] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:52:56] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:53:04] [Server thread/INFO]: [¥富豪$]hua_ji : tp我啊
+2017-09-04 [09:53:05] [Server thread/INFO]: [妹子]Vv5418 : 不会
+2017-09-04 [09:53:12] [Server thread/INFO]: [妹子]Vv5418 : 你把我弄过去
+2017-09-04 [09:53:16] [Server thread/WARNING]: sao moved wrongly!
+2017-09-04 [09:53:17] [Server thread/WARNING]: sao moved wrongly!
+2017-09-04 [09:53:17] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:53:17] [Server thread/INFO]: Steve[/183.240.202.4:10901] logged out due to client disconnect
+2017-09-04 [09:53:23] [Server thread/INFO]: Steve[/183.240.202.4:10901] [ClientID: 8453276208349186805] logged in with entity id 4776 at (world, 128, 69, 128)
+2017-09-04 [09:53:24] [Server thread/INFO]: [¥富豪$]hua_ji : 输入/找人 玩家名子
+2017-09-04 [09:53:24] [Server thread/INFO]: Steve joined the game
+2017-09-04 [09:53:34] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:53:34] [Server thread/INFO]: [妹子]Vv5418 : 你名字显示不在线
+2017-09-04 [09:53:39] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:53:45] [Server thread/INFO]: [¥富豪$]hua_ji : 初音
+2017-09-04 [09:53:45] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [09:53:45] [Server thread/INFO]: terry left the game
+2017-09-04 [09:53:45] [Server thread/INFO]: terry[/60.246.203.198:52815] logged out due to client disconnect
+2017-09-04 [09:53:48] [Server thread/INFO]: [¥富豪$]hua_ji : 过来
+2017-09-04 [09:53:57] [Server thread/WARNING]: sao moved wrongly!
+2017-09-04 [09:54:02] [Server thread/INFO]: [妹子]xiaochuyin : 你tp我
+2017-09-04 [09:54:04] [Server thread/INFO]: [¥富豪$]hua_ji : tp初音吧
+2017-09-04 [09:54:09] [Server thread/INFO]: sao left the game
+2017-09-04 [09:54:09] [Server thread/INFO]: sao[/183.11.75.200:32998] logged out due to timeout
+2017-09-04 [09:54:13] [Server thread/INFO]: Steve left the game
+2017-09-04 [09:54:13] [Server thread/INFO]: Steve[/183.240.202.4:10901] logged out due to timeout
+2017-09-04 [09:54:28] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:54:29] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:54:33] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [09:54:36] [Server thread/INFO]: [¥富豪$]hua_ji : 你买哪块地
+2017-09-04 [09:54:41] [Server thread/INFO]: [SVIP]kwkkwk123 : 我退了过会在玩
+2017-09-04 [09:54:49] [Server thread/INFO]: kwkkwk123 left the game
+2017-09-04 [09:54:49] [Server thread/INFO]: kwkkwk123[/183.162.108.114:62828] logged out due to client disconnect
+2017-09-04 [09:55:06] [Server thread/INFO]: [妹子]Vv5418 : 这个吧
+2017-09-04 [09:55:09] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:55:14] [Server thread/INFO]: [¥富豪$]hua_ji : 台破了
+2017-09-04 [09:55:23] [Server thread/INFO]: [妹子]Vv5418 : 哪里还有 找一下
+2017-09-04 [09:55:32] [Server thread/INFO]: [¥富豪$]hua_ji : 跟我走
+2017-09-04 [09:55:42] [Server thread/INFO]: [妹子]xiaochuyin : 我已经有家了
+2017-09-04 [09:55:54] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:56:02] [Server thread/INFO]: [妹子]xiaochuyin : 就差权限
+2017-09-04 [09:56:06] [Server thread/INFO]: [¥富豪$]hua_ji : 这块吧
+2017-09-04 [09:56:09] [Server thread/INFO]: [¥富豪$]hua_ji : 教你
+2017-09-04 [09:56:09] [Server thread/INFO]: [妹子]Vv5418 : 嗯
+2017-09-04 [09:56:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [09:56:13] [Server thread/INFO]: [¥富豪$]hua_ji : 站在这
+2017-09-04 [09:56:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [09:56:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [09:56:25] [Server thread/INFO]: [¥富豪$]hua_ji : 输入
+2017-09-04 [09:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-04 [09:56:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [09:56:35] [Server thread/NOTICE]: Player data not found for "pet", creating new profile
+2017-09-04 [09:56:35] [Server thread/INFO]: pet[/67.143.192.178:30201] [ClientID: 7625146555987561037] logged in with entity id 4780 at (world, 128, 68, 128)
+2017-09-04 [09:56:38] [Server thread/INFO]: pet joined the game
+2017-09-04 [09:56:39] [Server thread/INFO]: [¥富豪$]hua_ji : 输入/startp
+2017-09-04 [09:56:53] [Server thread/INFO]: [妹子]Vv5418 : 好了
+2017-09-04 [09:57:05] [Server thread/INFO]: [¥富豪$]hua_ji : 站在
+2017-09-04 [09:57:07] [Server thread/INFO]: [妹子]xiaochuyin : 输入 /endp
+2017-09-04 [09:57:12] [Server thread/INFO]: [¥富豪$]hua_ji : 嗯
+2017-09-04 [09:57:14] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:57:20] [Server thread/INFO]: [妹子]Vv5418 : 好了
+2017-09-04 [09:57:22] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:57:25] [Server thread/INFO]: [¥富豪$]hua_ji : 过来
+2017-09-04 [09:57:39] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [09:57:55] [Server thread/INFO]: [¥富豪$]hua_ji : 点牌子
+2017-09-04 [09:58:03] [Server thread/INFO]: [¥富豪$]hua_ji : 买了吗
+2017-09-04 [09:58:03] [Server thread/INFO]: pet left the game
+2017-09-04 [09:58:03] [Server thread/INFO]: pet[/67.143.192.178:30201] logged out due to client disconnect
+2017-09-04 [09:58:21] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [09:58:28] [Server thread/INFO]: [¥富豪$]hua_ji : 你有钱吗
+2017-09-04 [09:58:36] [Server thread/INFO]: [妹子]Vv5418 : 没有足够的节
+2017-09-04 [09:58:41] [Server thread/INFO]: [¥富豪$]hua_ji : 没买啊
+2017-09-04 [09:58:48] [Server thread/INFO]: [妹子]xiaochuyin : 节操就是钱
+2017-09-04 [09:58:49] [Server thread/INFO]: [妹子]Vv5418 : 我有一万一
+2017-09-04 [09:58:50] [Server thread/INFO]: [¥富豪$]hua_ji : 赚钱去吧
+2017-09-04 [09:58:59] [Server thread/INFO]: [妹子]Vv5418 : 要多少钱
+2017-09-04 [09:59:06] [Server thread/INFO]: [¥富豪$]hua_ji : 有些
+2017-09-04 [09:59:13] [Server thread/INFO]: [¥富豪$]hua_ji : 有写啊
+2017-09-04 [09:59:15] [Server thread/INFO]: [妹子]xiaochuyin : 看看需要多少节操，要多少钱
+2017-09-04 [09:59:28] [Server thread/INFO]: [妹子]Vv5418 : 怎么看
+2017-09-04 [09:59:56] [Server thread/INFO]: [妹子]xiaochuyin : 节操就是钱
+2017-09-04 [10:00:08] [Server thread/INFO]: [妹子]xiaochuyin : 刚刚需要多少节操
+2017-09-04 [10:00:14] [Server thread/INFO]: [妹子]Vv5418 : 把钻石搞给还我 我h
+2017-09-04 [10:00:19] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:00:31] [Server thread/INFO]: [妹子]Vv5418 : 把钻石搞给还我 我换钱去
+2017-09-04 [10:00:42] [Server thread/INFO]: [¥富豪$]hua_ji : 换不了的
+2017-09-04 [10:00:59] [Server thread/INFO]: xiaochuyin left the game
+2017-09-04 [10:00:59] [Server thread/INFO]: xiaochuyin[/218.17.73.22:3131] logged out due to client disconnect
+2017-09-04 [10:01:02] [Server thread/INFO]: [妹子]Vv5418 : 哪你给我钱 就当我maigeinq
+2017-09-04 [10:01:08] [Server thread/INFO]: [妹子]Vv5418 : 卖给你
+2017-09-04 [10:01:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [10:01:12] [Server thread/INFO]: xiaochuyin[/218.17.73.22:3131] [ClientID: 8387251252757840492] logged in with entity id 4784 at (th, 172.8267, 66, -297.1686)
+2017-09-04 [10:01:14] [Server thread/INFO]: xiaochuyin joined the game
+2017-09-04 [10:01:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [10:01:21] [Server thread/INFO]: [¥富豪$]hua_ji : 好吧
+2017-09-04 [10:01:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [10:01:29] [Server thread/INFO]: [¥富豪$]hua_ji : 我给你钱
+2017-09-04 [10:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [10:01:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [10:01:36] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:01:51] [Server thread/INFO]: [¥富豪$]hua_ji : 好啦
+2017-09-04 [10:01:56] [Server thread/INFO]: Steve[/73.55.19.90:49691] [ClientID: 7070724417738045075] logged in with entity id 4785 at (world, 128, 68.2, 128)
+2017-09-04 [10:01:56] [Server thread/INFO]: [¥富豪$]hua_ji : 一块钱
+2017-09-04 [10:01:58] [Server thread/INFO]: Steve joined the game
+2017-09-04 [10:02:02] [Server thread/INFO]: [妹子]Vv5418 : 滚啊
+2017-09-04 [10:02:03] [Server thread/INFO]: [妹子]xiaochuyin : 没人
+2017-09-04 [10:02:16] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [10:02:16] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [10:02:20] [Server thread/INFO]: Vv5418 was slain by hua_ji
+2017-09-04 [10:02:25] [Server thread/INFO]: [¥富豪$]hua_ji : sb
+2017-09-04 [10:02:27] [Server thread/INFO]: [¥富豪$]hua_ji : 打我
+2017-09-04 [10:02:32] [Server thread/INFO]: [妹子]xiaochuyin : 你不是有五十万吗，
+2017-09-04 [10:03:30] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [10:03:33] [Server thread/INFO]: [¥富豪$]hua_ji : 没了
+2017-09-04 [10:03:35] [Server thread/INFO]: [妹子]xiaochuyin : 吓死
+2017-09-04 [10:03:57] [Server thread/INFO]: Steve left the game
+2017-09-04 [10:03:57] [Server thread/INFO]: Steve[/73.55.19.90:49691] logged out due to Failed to login in 120 seconds
+2017-09-04 [10:04:41] [Server thread/INFO]: [¥富豪$]hua_ji : 这块地是我的了
+2017-09-04 [10:04:50] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:05:00] [Server thread/INFO]: [¥富豪$]hua_ji : 没钱了
+2017-09-04 [10:05:12] [Server thread/INFO]: [¥富豪$]hua_ji : 去买点钱
+2017-09-04 [10:05:55] [Server thread/INFO]: [妹子]Vv5418 : 妈卖批 抢了我那么多东西
+2017-09-04 [10:05:59] [Server thread/INFO]: [妹子]Vv5418 : 还有胡萝卜
+2017-09-04 [10:06:02] [Server thread/INFO]: [妹子]Vv5418 : 还有煤
+2017-09-04 [10:06:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [10:06:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [10:06:24] [Server thread/INFO]: [妹子]xiaochuyin : 你煤炭不是存了吗
+2017-09-04 [10:06:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [10:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [10:06:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [10:06:41] [Server thread/INFO]: [妹子]Vv5418 : 那是碳
+2017-09-04 [10:07:01] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:07:06] [Server thread/INFO]: [妹子]xiaochuyin : 在挖
+2017-09-04 [10:07:08] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:07:10] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:07:10] [Server thread/INFO]: inspiring candy[/113.92.75.104:7939] logged out due to Invalid name!
+2017-09-04 [10:07:11] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:07:20] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:07:47] [Server thread/INFO]: [妹子]Vv5418 : 给我个铁稿
+2017-09-04 [10:07:54] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:08:13] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:08:14] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:08:20] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:08:23] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:08:26] [Server thread/INFO]: Vv5418 was slain by hua_ji
+2017-09-04 [10:08:46] [Server thread/INFO]: [妹子]Vv5418 : 草泥马
+2017-09-04 [10:09:05] [Server thread/INFO]: [¥富豪$]hua_ji : 老婆
+2017-09-04 [10:09:06] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:09:09] [Server thread/INFO]: [¥富豪$]hua_ji : 去地狱
+2017-09-04 [10:09:11] [Server thread/INFO]: [妹子]xiaochuyin : 哦
+2017-09-04 [10:09:18] [Server thread/INFO]: [妹子]xiaochuyin : 要干嘛
+2017-09-04 [10:09:22] [Server thread/INFO]: [¥富豪$]hua_ji : 帮我挖些灵魂沙
+2017-09-04 [10:09:32] [Server thread/INFO]: Kyle[/66.102.148.114:59840] [ClientID: 787753307810121759] logged in with entity id 4787 at (th, 69.7105, 65.5, 72.2202)
+2017-09-04 [10:09:35] [Server thread/INFO]: Kyle joined the game
+2017-09-04 [10:10:08] [Server thread/NOTICE]: Player data not found for "feislhia", creating new profile
+2017-09-04 [10:10:08] [Server thread/INFO]: feislhia[/50.52.119.168:51616] [ClientID: 99694368296104200] logged in with entity id 4788 at (world, 128, 68, 128)
+2017-09-04 [10:10:12] [Server thread/INFO]: [妹子]Vv5418 : 谁知道哪里可以换铁
+2017-09-04 [10:10:12] [Server thread/INFO]: feislhia joined the game
+2017-09-04 [10:10:40] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:11:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [10:11:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [10:11:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [10:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [10:11:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理7个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [10:11:31] [Server thread/WARNING]: feislhia moved wrongly!
+2017-09-04 [10:11:46] [Server thread/WARNING]: Kyle moved wrongly!
+2017-09-04 [10:11:48] [Server thread/WARNING]: feislhia moved wrongly!
+2017-09-04 [10:11:51] [Server thread/WARNING]: feislhia moved wrongly!
+2017-09-04 [10:11:57] [Server thread/WARNING]: feislhia moved wrongly!
+2017-09-04 [10:12:00] [Server thread/WARNING]: Kyle moved wrongly!
+2017-09-04 [10:12:13] [Server thread/INFO]: litle lizard[/96.246.139.204:61740] logged out due to Invalid name!
+2017-09-04 [10:12:17] [Server thread/INFO]: [妹子]xiaochuyin : 给你
+2017-09-04 [10:12:23] [Server thread/INFO]: Kyle : hi
+2017-09-04 [10:12:38] [Server thread/INFO]: litle lizard[/96.246.139.204:61740] logged out due to Invalid name!
+2017-09-04 [10:12:38] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [10:12:59] [Server thread/INFO]: litle lizard[/96.246.139.204:61740] logged out due to Invalid name!
+2017-09-04 [10:13:19] [Server thread/WARNING]: Kyle moved wrongly!
+2017-09-04 [10:13:23] [Server thread/INFO]: litle lizard[/96.246.139.204:61740] logged out due to Invalid name!
+2017-09-04 [10:13:24] [Server thread/WARNING]: feislhia moved wrongly!
+2017-09-04 [10:13:26] [Server thread/WARNING]: feislhia moved wrongly!
+2017-09-04 [10:13:41] [Server thread/INFO]: [¥富豪$]hua_ji : 田
+2017-09-04 [10:13:55] [Server thread/INFO]: feislhia left the game
+2017-09-04 [10:13:55] [Server thread/INFO]: feislhia[/50.52.119.168:51616] logged out due to client disconnect
+2017-09-04 [10:13:55] [Server thread/INFO]: litle lizard[/96.246.139.204:61740] logged out due to Invalid name!
+2017-09-04 [10:14:07] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:07] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:09] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:10] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:11] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:14:47] [Server thread/INFO]: [¥富豪$]hua_ji : 初音
+2017-09-04 [10:14:48] [Server thread/WARNING]: Kyle moved wrongly!
+2017-09-04 [10:14:50] [Server thread/INFO]: [妹子]xiaochuyin : 老公，给我权限
+2017-09-04 [10:14:52] [Server thread/INFO]: [¥富豪$]hua_ji : 你有多少钱
+2017-09-04 [10:15:00] [Server thread/INFO]: [妹子]xiaochuyin : 43万多
+2017-09-04 [10:15:12] [Server thread/INFO]: [¥富豪$]hua_ji : 为啥不买地
+2017-09-04 [10:15:21] [Server thread/INFO]: [妹子]xiaochuyin : 我已经有家了
+2017-09-04 [10:15:37] [Server thread/INFO]: [妹子]xiaochuyin : kw叫我住她家，
+2017-09-04 [10:15:39] [Server thread/WARNING]: Kyle moved wrongly!
+2017-09-04 [10:15:41] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [10:15:51] [Server thread/INFO]: Kyle left the game
+2017-09-04 [10:15:51] [Server thread/INFO]: Kyle[/66.102.148.114:59840] logged out due to client disconnect
+2017-09-04 [10:15:56] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [10:15:58] [Server thread/INFO]: [妹子]xiaochuyin : 等她给我权限
+2017-09-04 [10:16:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [10:16:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [10:16:21] [Server thread/INFO]: [妹子]Vv5418 : 绿宝石值钱吗
+2017-09-04 [10:16:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [10:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [10:16:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理8个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [10:16:31] [Server thread/INFO]: [妹子]xiaochuyin : 和钻石一样
+2017-09-04 [10:16:41] [Server thread/INFO]: [妹子]Vv5418 : 噢
+2017-09-04 [10:16:55] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [10:16:59] [Server thread/INFO]: [妹子]Vv5418 : 我挖到了
+2017-09-04 [10:17:08] [Server thread/NOTICE]: Player data not found for "hau016", creating new profile
+2017-09-04 [10:17:08] [Server thread/INFO]: hau016[/58.187.177.221:50054] [ClientID: 3509205720875400253] logged in with entity id 5048 at (world, 128, 68, 128)
+2017-09-04 [10:17:17] [Server thread/INFO]: [¥富豪$]hua_ji : 你的钱准备干嘛
+2017-09-04 [10:17:19] [Server thread/INFO]: hau016 joined the game
+2017-09-04 [10:17:25] [Server thread/INFO]: [¥富豪$]hua_ji : 老婆
+2017-09-04 [10:17:29] [Server thread/INFO]: [妹子]Vv5418 : 走开
+2017-09-04 [10:17:34] [Server thread/INFO]: [妹子]xiaochuyin : 不知道，看看吧
+2017-09-04 [10:17:54] [Server thread/INFO]: [¥富豪$]hua_ji : 那帮我买些地狱油回来吧
+2017-09-04 [10:18:00] [Server thread/INFO]: [妹子]xiaochuyin : 可以
+2017-09-04 [10:18:21] [Server thread/INFO]: [¥富豪$]hua_ji : 好的
+2017-09-04 [10:18:23] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:18:23] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:18:28] [Server thread/INFO]: hau016 left the game
+2017-09-04 [10:18:28] [Server thread/INFO]: hau016[/58.187.177.221:50054] logged out due to client disconnect
+2017-09-04 [10:18:35] [Server thread/INFO]: [妹子]xiaochuyin : 买多少
+2017-09-04 [10:18:40] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:18:40] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:18:41] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:19:17] [Server thread/INFO]: [妹子]xiaochuyin : 你没钱了？
+2017-09-04 [10:19:20] [Server thread/INFO]: [¥富豪$]hua_ji : 谢谢
+2017-09-04 [10:19:22] [Server thread/INFO]: [妹子]Vv5418 : 金子值钱吗
+2017-09-04 [10:19:23] [Server thread/INFO]: [¥富豪$]hua_ji : 没了
+2017-09-04 [10:19:28] [Server thread/INFO]: [妹子]xiaochuyin : 都可以
+2017-09-04 [10:19:34] [Server thread/INFO]: [妹子]xiaochuyin : 卖就是了，
+2017-09-04 [10:19:46] [Server thread/INFO]: [妹子]xiaochuyin : 除了青金石，红石
+2017-09-04 [10:19:55] [Server thread/INFO]: [妹子]Vv5418 : 你老公就抠门鬼 离婚吧
+2017-09-04 [10:19:58] [Server thread/INFO]: kwkkwk123[/183.162.108.114:62828] [ClientID: 6721113679223507360] logged in with entity id 5067 at (th, 53.0287, 66, 68.3)
+2017-09-04 [10:20:01] [Server thread/INFO]: kwkkwk123 joined the game
+2017-09-04 [10:20:15] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-04 [10:20:19] [Server thread/INFO]: [SVIP]kwkkwk123 : 上班了
+2017-09-04 [10:20:25] [Server thread/INFO]: [SVIP]kwkkwk123 : 大家上班了
+2017-09-04 [10:20:38] [Server thread/INFO]: [¥富豪$]hua_ji : 哦
+2017-09-04 [10:20:59] [Server thread/INFO]: [¥富豪$]hua_ji : 神经vv5418
+2017-09-04 [10:21:08] [Server thread/INFO]: [妹子]xiaochuyin : 给个钻石裤子
+2017-09-04 [10:21:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-04 [10:21:13] [Server thread/INFO]: [妹子]xiaochuyin : 可以吗
+2017-09-04 [10:21:17] [Server thread/WARNING]: xiaochuyin moved wrongly!
+2017-09-04 [10:21:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-04 [10:21:21] [Server thread/INFO]: [SVIP]kwkkwk123 : 要自己赚钱
+2017-09-04 [10:21:24] [Server thread/NOTICE]: Player data not found for "caroline", creating new profile
+2017-09-04 [10:21:24] [Server thread/INFO]: caroline[/69.133.18.113:59350] [ClientID: -6641890473124680825] logged in with entity id 5104 at (world, 128, 68, 128)
+2017-09-04 [10:21:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-04 [10:21:26] [Server thread/INFO]: caroline joined the game
+2017-09-04 [10:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-04 [10:21:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理7个可怜的路人掉滴东西⊙▽⊙
+2017-09-04 [10:21:30] [Server thread/INFO]: [妹子]xiaochuyin : 哪里买钻石裤子
+2017-09-04 [10:21:30] [Server thread/INFO]: Steve[/73.55.19.90:50972] [ClientID: 7070724417738045075] logged in with entity id 5110 at (world, 128, 68.4, 128)
+2017-09-04 [10:21:32] [Server thread/INFO]: Steve joined the game
+2017-09-04 [10:21:47] [Server thread/INFO]: Steve left the game
+2017-09-04 [10:21:47] [Server thread/INFO]: Steve[/73.55.19.90:50972] logged out due to client disconnect
+2017-09-04 [10:21:51] [Server thread/INFO]: [¥富豪$]hua_ji : 给我些基岩和凋零头
+2017-09-04 [10:21:56] [Server thread/WARNING]: hua_ji moved wrongly!
+2017-09-04 [10:21:58] [Server thread/INFO]: [妹子]xiaochuyin : kw哪里买钻石裤子
+2017-09-04 [10:22:00] [Server thread/INFO]: [SVIP]kwkkwk123 : 你可以用绿宝石换钻石
+2017-09-04 [10:22:06] [Server thread/INFO]: [¥富豪$]hua_ji : 老板
+2017-09-04 [10:22:09] [Server thread/INFO]: [妹子]xiaochuyin : 哪里换
+2017-09-04 [10:22:13] [Server thread/INFO]: caroline left the game
+2017-09-04 [10:22:13] [Server thread/INFO]: caroline[/69.133.18.113:59350] logged out due to client disconnect
+2017-09-04 [10:22:21] [Server thread/INFO]: [妹子]Vv5418 : 又挖到绿宝石了
+2017-09-04 [10:22:22] [Server thread/INFO]: [SVIP]kwkkwk123 : 马上拿工资的时候换
+2017-09-04 [10:22:30] [Server thread/INFO]: [¥富豪$]hua_ji : 额
+2017-09-04 [10:22:32] [Server thread/INFO]: [¥富豪$]hua_ji : 好吧
