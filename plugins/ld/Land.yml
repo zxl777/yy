@@ -3920,62 +3920,6 @@
   level: world
   invitee: []
   expires: ~
-414:
-  ID: 414
-  startX: 69
-  endX: 71
-  startZ: 201
-  endZ: 209
-  price: 700
-  owner: Devil
-  level: zy
-  invitee:
-    xy520: true
-  expires: ~
-415:
-  ID: 415
-  startX: 69
-  endX: 77
-  startZ: 208
-  endZ: 210
-  price: 700
-  owner: Devil
-  level: zy
-  invitee: []
-  expires: ~
-416:
-  ID: 416
-  startX: 69
-  endX: 77
-  startZ: 200
-  endZ: 202
-  price: 700
-  owner: Devil
-  level: zy
-  invitee: []
-  expires: ~
-417:
-  ID: 417
-  startX: 76
-  endX: 78
-  startZ: 200
-  endZ: 210
-  price: 900
-  owner: Devil
-  level: zy
-  invitee: []
-  expires: ~
-418:
-  ID: 418
-  startX: 71
-  endX: 76
-  startZ: 202
-  endZ: 208
-  price: 2000
-  owner: Devil
-  level: zy
-  invitee: []
-  expires: ~
 419:
   ID: 419
   startX: 72
@@ -4020,17 +3964,6 @@
   level: th
   invitee: []
   expires: ~
-423:
-  ID: 423
-  startX: -295
-  endX: -263
-  startZ: -106
-  endZ: -92
-  price: 40300
-  owner: xiaochuyin
-  level: th
-  invitee: []
-  expires: ~
 424:
   ID: 424
   startX: -301
@@ -4041,5 +3974,17 @@
   owner: xiaochuyin
   level: th
   invitee: []
+  expires: ~
+425:
+  ID: 425
+  startX: -304
+  endX: -246
+  startZ: -158
+  endZ: -79
+  price: 444600
+  owner: kwkkwk123
+  level: th
+  invitee:
+    xiaochuyin: true
   expires: ~
 ...
