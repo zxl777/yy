@@ -4031,4 +4031,15 @@
   level: th
   invitee: []
   expires: ~
+432:
+  ID: 432
+  startX: -1
+  endX: 7
+  startZ: -65
+  endZ: -56
+  price: 5600
+  owner: KLPIFU
+  level: world
+  invitee: []
+  expires: ~
 ...
