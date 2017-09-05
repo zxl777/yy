@@ -4042,4 +4042,48 @@
   level: world
   invitee: []
   expires: ~
+433:
+  ID: 433
+  startX: -16
+  endX: 1
+  startZ: 402
+  endZ: 502
+  price: 158400
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+434:
+  ID: 434
+  startX: -16
+  endX: 0
+  startZ: 399
+  endZ: 403
+  price: 4500
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+435:
+  ID: 435
+  startX: 227
+  endX: 232
+  startZ: 31
+  endZ: 290
+  price: 103200
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+436:
+  ID: 436
+  startX: 194
+  endX: 227
+  startZ: -273
+  endZ: -240
+  price: 102400
+  owner: Devil
+  level: th
+  invitee: []
+  expires: ~
 ...

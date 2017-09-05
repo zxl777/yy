@@ -838,7 +838,7 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 86
+  count: 79
   money: "20"
   if: 100
   id: "50"
@@ -873,7 +873,7 @@
 36:71:-79:world:
   kind: C
   name: xy520
-  count: 16
+  count: 9
   money: "200"
   if: 100
   id: "265"
