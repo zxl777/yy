@@ -4086,4 +4086,17 @@
   level: th
   invitee: []
   expires: ~
+437:
+  ID: 437
+  startX: 194
+  endX: 227
+  startZ: -312
+  endZ: -279
+  price: 102400
+  owner: KLPIFU
+  level: th
+  invitee:
+    zhuyingzhimeng: true
+    zhumengzhiying: true
+  expires: ~
 ...
