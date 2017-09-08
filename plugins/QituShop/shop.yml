@@ -315,12 +315,6 @@
   count: "1"
   money: "50"
   id: "169"
-152:66:120:world:
-  kind: B
-  name: §7隐形基岩
-  count: "1"
-  money: "50000"
-  id: "95"
 146:66:116:world:
   kind: D
   name: 速度
@@ -882,7 +876,7 @@
 208:65:-275:th:
   kind: C
   name: Devil
-  count: "64"
+  count: 9
   money: "40"
   if: 100
   id: "360"
