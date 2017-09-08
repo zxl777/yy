@@ -880,4 +880,11 @@
   money: "40"
   if: 100
   id: "360"
+162:65:-263:th:
+  kind: C
+  name: Devil
+  count: "1"
+  money: "50"
+  if: 100
+  id: "65"
 ...

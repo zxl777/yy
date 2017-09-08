@@ -4192,7 +4192,8 @@
   price: 115600
   owner: Devil
   level: th
-  invitee: []
+  invitee:
+    zhumengzhiying: true
   expires: ~
 454:
   ID: 454
@@ -4203,7 +4204,8 @@
   price: 17000
   owner: Devil
   level: th
-  invitee: []
+  invitee:
+    zhumengzhiying: true
   expires: ~
 455:
   ID: 455
