@@ -880,11 +880,39 @@
   money: "40"
   if: 100
   id: "360"
-162:65:-263:th:
+181:67:-273:th:
   kind: C
   name: Devil
-  count: "1"
-  money: "50"
+  count: 60
+  money: "45"
   if: 100
-  id: "65"
+  id: "360"
+182:67:-273:th:
+  kind: C
+  name: Devil
+  count: 60
+  money: "55"
+  if: 100
+  id: "297"
+183:67:-273:th:
+  kind: C
+  name: Devil
+  count: 60
+  money: "40"
+  if: 100
+  id: "391"
+184:67:-273:th:
+  kind: C
+  name: Devil
+  count: 49
+  money: "55"
+  if: 100
+  id: "393"
+185:67:-273:th:
+  kind: C
+  name: Devil
+  count: "49"
+  money: "45"
+  if: 100
+  id: "364"
 ...
