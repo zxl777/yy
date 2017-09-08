@@ -1,452 +1,810 @@
-2017-09-08 [12:17:07] [Server thread/INFO]: blackcat joined the game
-2017-09-08 [12:17:11] [Server thread/INFO]: xiao_hao[/182.86.146.88:55559] [ClientID: -2670619536676626385] logged in with entity id 21853 at (th, -308.6338, 63, -143.8406)
-2017-09-08 [12:17:12] [Server thread/INFO]: xiao_hao joined the game
-2017-09-08 [12:17:17] [Server thread/INFO]: blackcat left the game
-2017-09-08 [12:17:17] [Server thread/INFO]: blackcat[/47.145.63.76:50443] logged out due to client disconnect
-2017-09-08 [12:17:52] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [12:18:18] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [12:18:29] [Server thread/INFO]: xiao_hao left the game
-2017-09-08 [12:18:29] [Server thread/INFO]: xiao_hao[/182.86.146.88:55559] logged out due to client disconnect
-2017-09-08 [12:18:47] [Server thread/INFO]: dinjj went up in flames
-2017-09-08 [12:19:26] [Server thread/WARNING]: dinjj moved wrongly!
-2017-09-08 [12:20:21] [Server thread/INFO]: dinjj left the game
-2017-09-08 [12:20:21] [Server thread/INFO]: dinjj[/1.32.71.252:14327] logged out due to client disconnect
-2017-09-08 [12:20:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:20:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:20:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:21:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:21:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:24:56] [Server thread/INFO]: zhumengzhiying[/180.138.179.238:5482] [ClientID: 3036730296650954731] logged in with entity id 21912 at (th, 239.6517, 75, -275.2025)
-2017-09-08 [12:24:58] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-08 [12:25:10] [Server thread/INFO]: xiaochuyin[/218.17.73.209:1794] [ClientID: -7052958852830533327] logged in with entity id 21913 at (th, 166.7167, 65, -222.0607)
-2017-09-08 [12:25:11] [Server thread/INFO]: xiaochuyin joined the game
-2017-09-08 [12:25:22] [Server thread/INFO]: [妹子]xiaochuyin : hi
-2017-09-08 [12:25:37] [Server thread/INFO]: [妹子]zhumengzhiying : 初音你和kwk还在一起吗
-2017-09-08 [12:25:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:25:47] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
-2017-09-08 [12:25:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:25:57] [Server thread/INFO]: [妹子]zhumengzhiying : 那还好
-2017-09-08 [12:25:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:26:03] [Server thread/INFO]: [妹子]xiaochuyin : 怎么了
-2017-09-08 [12:26:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:26:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:26:15] [Server thread/INFO]: [妹子]zhumengzhiying : 没怎么
-2017-09-08 [12:26:29] [Server thread/INFO]: [妹子]zhumengzhiying : 就是上次kwk讲要离婚
-2017-09-08 [12:26:41] [Server thread/INFO]: [妹子]xiaochuyin : 后面我不同意
-2017-09-08 [12:27:02] [Server thread/INFO]: xiaochuyin left the game
-2017-09-08 [12:27:02] [Server thread/INFO]: xiaochuyin[/218.17.73.209:1794] logged out due to timeout
-2017-09-08 [12:28:21] [Server thread/INFO]: xiaochuyin[/218.17.74.10:9293] [ClientID: -7052958852830533327] logged in with entity id 21915 at (world, 154.6279, 70, 129.1732)
-2017-09-08 [12:28:22] [Server thread/INFO]: xiaochuyin joined the game
-2017-09-08 [12:28:31] [Server thread/INFO]: [妹子]xiaochuyin : 按错了
-2017-09-08 [12:28:38] [Server thread/INFO]: [妹子]xiaochuyin : 你在干嘛
-2017-09-08 [12:28:46] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:29:18] [Server thread/INFO]: [妹子]xiaochuyin : 和我们一起住啊
-2017-09-08 [12:30:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:30:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:30:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:31:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:31:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:31:37] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:34:36] [Server thread/INFO]: [妹子]xiaochuyin : 这里pvp吗
-2017-09-08 [12:34:47] [Server thread/INFO]: [妹子]zhumengzhiying : 还没想好
-2017-09-08 [12:34:56] [Server thread/INFO]: [妹子]xiaochuyin : 能给我权限吗
-2017-09-08 [12:35:03] [Server thread/INFO]: [妹子]xiaochuyin : 这里不错
-2017-09-08 [12:35:11] [Server thread/INFO]: [妹子]xiaochuyin : 我设个家
-2017-09-08 [12:35:12] [Server thread/INFO]: [妹子]zhumengzhiying : 等我建好咯
-2017-09-08 [12:35:24] [Server thread/INFO]: [妹子]zhumengzhiying : 别在那里设
-2017-09-08 [12:35:36] [Server thread/INFO]: [妹子]zhumengzhiying : 那里我会建个大城堡
-2017-09-08 [12:35:39] [Server thread/INFO]: [妹子]xiaochuyin : 哦
-2017-09-08 [12:35:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:35:46] [Server thread/INFO]: [妹子]zhumengzhiying : 里面会有很多设施
-2017-09-08 [12:35:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:35:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:36:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:36:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:36:05] [Server thread/INFO]: [妹子]zhumengzhiying : 到时候我都是开放的
-2017-09-08 [12:36:42] [Server thread/INFO]: [妹子]xiaochuyin : 睡觉lou
-2017-09-08 [12:37:26] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:37:35] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:37:38] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:37:44] [Server thread/INFO]: [妹子]zhumengzhiying : 哦
-2017-09-08 [12:37:58] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:38:03] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:38:10] [Server thread/INFO]: [妹子]xiaochuyin : KL家睡
-2017-09-08 [12:40:08] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:40:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:40:51] [Server thread/INFO]: [妹子]xiaochuyin : 信标哪里来的啊
-2017-09-08 [12:40:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:40:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:41:02] [Server thread/INFO]: [妹子]zhumengzhiying : 我的？
-2017-09-08 [12:41:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:41:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:41:09] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
-2017-09-08 [12:41:17] [Server thread/INFO]: [妹子]zhumengzhiying : 创造有的啊
-2017-09-08 [12:41:24] [Server thread/INFO]: [妹子]xiaochuyin : 我需要
-2017-09-08 [12:41:37] [Server thread/INFO]: [妹子]zhumengzhiying : 要多少咧
-2017-09-08 [12:41:44] [Server thread/INFO]: [妹子]xiaochuyin : 两个
-2017-09-08 [12:41:49] [Server thread/INFO]: [妹子]xiaochuyin : 四个吧
-2017-09-08 [12:41:56] [Server thread/INFO]: [妹子]zhumengzhiying : 过来
-2017-09-08 [12:42:12] [Server thread/INFO]: [妹子]xiaochuyin : 谢谢啦
-2017-09-08 [12:42:32] [Server thread/INFO]: [妹子]zhumengzhiying : 不能给多
-2017-09-08 [12:42:37] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
-2017-09-08 [12:42:54] [Server thread/INFO]: [妹子]xiaochuyin : 也不多啊
-2017-09-08 [12:42:57] [Server thread/INFO]: [妹子]zhumengzhiying : 按照规矩乱给东西会被取消创造的
-2017-09-08 [12:43:00] [Server thread/INFO]: [妹子]zhumengzhiying : 嗯
-2017-09-08 [12:43:30] [Server thread/INFO]: [妹子]zhumengzhiying : 这房子我帮他建的
-2017-09-08 [12:43:37] [Server thread/INFO]: [妹子]xiaochuyin : 知道
-2017-09-08 [12:43:49] [Server thread/INFO]: ji-ba[/117.27.87.92:15034] logged out due to Invalid name!
-2017-09-08 [12:43:52] [Server thread/INFO]: [妹子]xiaochuyin : 我有权限
-2017-09-08 [12:44:03] [Server thread/INFO]: [妹子]zhumengzhiying : 是诶
-2017-09-08 [12:44:04] [Server thread/INFO]: ji-ba[/117.27.87.92:15034] logged out due to Invalid name!
-2017-09-08 [12:44:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:44:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:44:34] [Server thread/INFO]: [妹子]zhumengzhiying : 以后我要是在你们那边附近开发可以给你们权限
-2017-09-08 [12:44:55] [Server thread/INFO]: [妹子]xiaochuyin : 我们这还没开发好
-2017-09-08 [12:45:05] [Server thread/INFO]: [妹子]xiaochuyin : 有空来这度假
-2017-09-08 [12:45:10] [Server thread/INFO]: [妹子]zhumengzhiying : 嗯
-2017-09-08 [12:45:33] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:45:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:45:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:45:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:46:03] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:46:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:46:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:46:33] [Server thread/WARNING]: zhumengzhiying moved too fast, reverting movement
-2017-09-08 [12:47:12] [Server thread/INFO]: [妹子]xiaochuyin : 买点东西
-2017-09-08 [12:47:20] [Server thread/INFO]: [妹子]zhumengzhiying : 诶呀
-2017-09-08 [12:47:34] [Server thread/INFO]: [妹子]zhumengzhiying : 我在这边找到一个湖
-2017-09-08 [12:47:44] [Server thread/INFO]: [妹子]zhumengzhiying : 以后我就在这边开发了
-2017-09-08 [12:47:46] [Server thread/INFO]: [妹子]xiaochuyin : 哪里
-2017-09-08 [12:48:18] [Server thread/INFO]: [妹子]zhumengzhiying : ？？？
-2017-09-08 [12:48:36] [Server thread/INFO]: 百里守约[/120.241.152.16:47833] logged out due to Invalid name!
-2017-09-08 [12:48:53] [Server thread/INFO]: 百里守约[/120.241.152.16:47833] logged out due to Invalid name!
-2017-09-08 [12:48:54] [Server thread/INFO]: [妹子]zhumengzhiying : 我这边显示没有请求存在
-2017-09-08 [12:49:52] [Server thread/INFO]: [妹子]xiaochuyin : 哪里啊这
-2017-09-08 [12:49:59] [Server thread/INFO]: [妹子]zhumengzhiying : 这湖有一半已经被人买了呜呜呜
-2017-09-08 [12:50:15] [Server thread/INFO]: [妹子]zhumengzhiying : 那人都好久没玩了
-2017-09-08 [12:50:19] [Server thread/INFO]: [妹子]xiaochuyin : 谁啊
-2017-09-08 [12:50:28] [Server thread/INFO]: [妹子]zhumengzhiying : BANG
-2017-09-08 [12:50:37] [Server thread/INFO]: [妹子]xiaochuyin : 不认识
-2017-09-08 [12:50:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:50:52] [Server thread/INFO]: [妹子]xiaochuyin : 都买了半湖，这么开放
-2017-09-08 [12:50:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:50:55] [Server thread/INFO]: [妹子]xiaochuyin : 发
-2017-09-08 [12:50:56] [Server thread/INFO]: [妹子]zhumengzhiying : 这种人神经，又不开发买什么地
-2017-09-08 [12:50:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:51:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:51:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:51:07] [Server thread/INFO]: [妹子]xiaochuyin : 占位置
-2017-09-08 [12:51:42] [Server thread/INFO]: XH[/36.63.93.53:10432] logged out due to Invalid name!
-2017-09-08 [12:52:03] [Server thread/INFO]: XH[/36.63.93.53:10432] logged out due to Invalid name!
-2017-09-08 [12:55:40] [Server thread/INFO]: [妹子]zhumengzhiying : 我得刷钱
-2017-09-08 [12:55:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [12:55:50] [Server thread/INFO]: [妹子]xiaochuyin : 还可以刷
-2017-09-08 [12:55:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [12:55:56] [Server thread/INFO]: [妹子]zhumengzhiying : 得刷130万
-2017-09-08 [12:55:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [12:56:01] [Server thread/INFO]: [妹子]zhumengzhiying : 创造可以
-2017-09-08 [12:56:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [12:56:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [12:56:12] [Server thread/INFO]: [妹子]zhumengzhiying : 毕竟东西无限
-2017-09-08 [12:56:17] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
-2017-09-08 [12:57:55] [Server thread/INFO]: [妹子]zhumengzhiying : 推一下
-2017-09-08 [12:58:00] [Server thread/INFO]: [妹子]zhumengzhiying : 退
-2017-09-08 [12:58:04] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-08 [12:58:04] [Server thread/INFO]: zhumengzhiying[/180.138.179.238:5482] logged out due to client disconnect
-2017-09-08 [12:58:05] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
-2017-09-08 [12:59:27] [Server thread/INFO]: zhumengzhiying[/180.138.179.238:5482] [ClientID: 3036730296650954731] logged in with entity id 22120 at (world, 147.9436, 70, 117.7007)
-2017-09-08 [12:59:27] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:59:27] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [12:59:29] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-08 [13:00:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:00:48] [Server thread/INFO]: [妹子]zhumengzhiying : kwk中午不玩么
-2017-09-08 [13:00:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:00:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:01:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:01:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:03:28] [Server thread/INFO]: xiao_hao[/182.86.146.88:55559] [ClientID: -2670619536676626385] logged in with entity id 22178 at (th, -349.6391, 64, -145.8538)
-2017-09-08 [13:03:30] [Server thread/INFO]: xiao_hao joined the game
-2017-09-08 [13:03:46] [Server thread/INFO]: [帅哥]xiao_hao : 我回了
-2017-09-08 [13:03:55] [Server thread/INFO]: [妹子]xiaochuyin : 嗯
-2017-09-08 [13:03:59] [Server thread/INFO]: [帅哥]xiao_hao : 上午考试累死了
-2017-09-08 [13:04:23] [Server thread/NOTICE]: Player data not found for "enderfoter100382", creating new profile
-2017-09-08 [13:04:23] [Server thread/INFO]: EnderFoter100382[/177.36.241.50:51197] [ClientID: -5396855791530278736] logged in with entity id 22181 at (world, 128, 68, 128)
-2017-09-08 [13:04:26] [Server thread/INFO]: EnderFoter100382 joined the game
-2017-09-08 [13:05:01] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:05:26] [Server thread/INFO]: EnderFoter100382 left the game
-2017-09-08 [13:05:26] [Server thread/INFO]: EnderFoter100382[/177.36.241.50:51197] logged out due to timeout
-2017-09-08 [13:05:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:05:51] [Server thread/INFO]: [帅哥]xiao_hao : 什么时候建的医院啊
-2017-09-08 [13:05:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:05:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:06:01] [Server thread/INFO]: [妹子]xiaochuyin : 建了
-2017-09-08 [13:06:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:06:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:06:08] [Server thread/INFO]: [妹子]xiaochuyin : 呃
-2017-09-08 [13:06:34] [Server thread/INFO]: [妹子]xiaochuyin : 呃
-2017-09-08 [13:06:41] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:06:52] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:07:07] [Server thread/INFO]: [帅哥]xiao_hao : 我明天玩不了
-2017-09-08 [13:07:13] [Server thread/WARNING]: zhumengzhiying moved too fast, reverting movement
-2017-09-08 [13:07:14] [Server thread/INFO]: [妹子]xiaochuyin : 为什么
-2017-09-08 [13:07:20] [Server thread/INFO]: [妹子]xiaochuyin : 周末也
-2017-09-08 [13:07:32] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:07:33] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:07:33] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:07:33] [Server thread/INFO]: [帅哥]xiao_hao : 要到乡下去
-2017-09-08 [13:07:41] [Server thread/INFO]: [妹子]xiaochuyin : 哦。什么时候玩
-2017-09-08 [13:07:44] [Server thread/INFO]: Dder süße woozel[/93.200.6.131:56028] logged out due to Invalid name!
-2017-09-08 [13:07:50] [Server thread/INFO]: [帅哥]xiao_hao : 晚上吧
-2017-09-08 [13:08:02] [Server thread/INFO]: [妹子]xiaochuyin : 哦
-2017-09-08 [13:08:04] [Server thread/NOTICE]: Player data not found for "bigbenny_plays", creating new profile
-2017-09-08 [13:08:04] [Server thread/INFO]: bigbenny_plays[/87.214.75.122:63712] [ClientID: 4914773490784021542] logged in with entity id 22183 at (world, 128, 68, 128)
-2017-09-08 [13:08:07] [Server thread/INFO]: bigbenny_plays joined the game
-2017-09-08 [13:08:41] [Server thread/INFO]: [妹子]xiaochuyin : 谁要两个铁。我要剪刀
-2017-09-08 [13:08:42] [Server thread/INFO]: bigbenny_plays left the game
-2017-09-08 [13:08:42] [Server thread/INFO]: bigbenny_plays[/87.214.75.122:63712] logged out due to client disconnect
-2017-09-08 [13:08:45] [Server thread/INFO]: [妹子]zhumengzhiying : 算了另外找地方
-2017-09-08 [13:08:50] [Server thread/INFO]: [帅哥]xiao_hao : 我有
-2017-09-08 [13:09:10] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:09:11] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:09:12] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:09:13] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:09:24] [Server thread/INFO]: [帅哥]xiao_hao : 没啦
-2017-09-08 [13:09:48] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:09:48] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:10:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:10:52] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:10:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:10:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:11:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:11:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:11:17] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:11:18] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:11:19] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:11:44] [Server thread/INFO]: [妹子]xiaochuyin : 不行，我去挖两个铁
-2017-09-08 [13:11:59] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:12:42] [Server thread/INFO]: [妹子]zhumengzhiying : 找到更好的地方了
-2017-09-08 [13:12:55] [Server thread/INFO]: [妹子]zhumengzhiying : 还要刷130万
-2017-09-08 [13:14:19] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:14:37] [Server thread/INFO]: [帅哥]xiao_hao : 我身上怎么多了1万
-2017-09-08 [13:14:50] [Server thread/INFO]: [妹子]zhumengzhiying : 你知道物品的数字ID吗
-2017-09-08 [13:15:04] [Server thread/INFO]: [妹子]zhumengzhiying : 告诉我一个
-2017-09-08 [13:15:15] [Server thread/INFO]: [妹子]xiaochuyin : 都有写啊
-2017-09-08 [13:15:15] [Server thread/INFO]: [帅哥]xiao_hao : 拿在手上就出现了
-2017-09-08 [13:15:27] [Server thread/INFO]: [妹子]zhumengzhiying : 哦
-2017-09-08 [13:15:32] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:15:36] [Server thread/INFO]: Steve[/223.152.49.39:64744] [ClientID: -2674915089495592528] logged in with entity id 22248 at (th, 124.9069, 65.2, 165.9524)
-2017-09-08 [13:15:37] [Server thread/INFO]: Steve joined the game
-2017-09-08 [13:15:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:15:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:15:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:16:01] [Server thread/INFO]: Steve left the game
-2017-09-08 [13:16:01] [Server thread/INFO]: Steve[/223.152.49.39:64744] logged out due to client disconnect
-2017-09-08 [13:16:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:16:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:16:11] [Server thread/INFO]: [帅哥]xiao_hao : 待会还要上学悲哀啊
-2017-09-08 [13:16:37] [Server thread/INFO]: [妹子]xiaochuyin : 呵呵
-2017-09-08 [13:16:45] [Server thread/INFO]: BB7[/125.77.210.19:54906] [ClientID: -7445751663792591126] logged in with entity id 22256 at (world, 128, 68, 128)
-2017-09-08 [13:16:47] [Server thread/INFO]: BB7 joined the game
-2017-09-08 [13:16:52] [Server thread/INFO]: BB7 left the game
-2017-09-08 [13:16:52] [Server thread/INFO]: BB7[/125.77.210.19:54906] logged out due to client disconnect
-2017-09-08 [13:17:10] [Server thread/INFO]: [妹子]zhumengzhiying : 刷钱真麻烦
-2017-09-08 [13:17:19] [Server thread/INFO]: [妹子]xiaochuyin : 都羡慕
-2017-09-08 [13:17:37] [Server thread/INFO]: [帅哥]xiao_hao : 我们小镇好多地方都好暗
-2017-09-08 [13:17:50] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:17:51] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:17:53] [Server thread/INFO]: [妹子]xiaochuyin : 因为都有夜视
-2017-09-08 [13:17:57] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:17:58] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:17:59] [Server thread/INFO]: [妹子]xiaochuyin : 都买夜视
-2017-09-08 [13:17:59] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:18:04] [Server thread/INFO]: [帅哥]xiao_hao : 哦
-2017-09-08 [13:18:10] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:18:19] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:18:47] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:18:48] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:18:50] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:18:53] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:18:56] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:19:10] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:19:16] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:19:16] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:19:28] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:19:29] [Server thread/INFO]: xiao_hao left the game
-2017-09-08 [13:19:29] [Server thread/INFO]: xiao_hao[/182.86.146.88:55559] logged out due to timeout
-2017-09-08 [13:20:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:20:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:20:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:21:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:21:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:21:08] [Server thread/INFO]: Steve[/184.89.186.128:54237] [ClientID: 594285863195528916] logged in with entity id 22279 at (th, 124.9069, 65.4, 165.9524)
-2017-09-08 [13:21:13] [Server thread/INFO]: Steve joined the game
-2017-09-08 [13:21:31] [Server thread/INFO]: [妹子]zhumengzhiying : 这一个中午就拿来刷钱了
-2017-09-08 [13:21:43] [Server thread/INFO]: [妹子]xiaochuyin : 呵呵
-2017-09-08 [13:21:55] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:22:07] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-08 [13:22:36] [Server thread/INFO]: [妹子]xiaochuyin : 下了
-2017-09-08 [13:22:42] [Server thread/INFO]: [妹子]xiaochuyin : 没人来玩
-2017-09-08 [13:22:43] [Server thread/INFO]: [妹子]zhumengzhiying : 哦
-2017-09-08 [13:22:43] [Server thread/INFO]: MADE[/219.155.91.47:64715] [ClientID: 7520286991202742319] logged in with entity id 22280 at (world, 109.3, 71, 121.3036)
-2017-09-08 [13:22:44] [Server thread/INFO]: xiaochuyin left the game
-2017-09-08 [13:22:44] [Server thread/INFO]: xiaochuyin[/218.17.74.10:9293] logged out due to client disconnect
-2017-09-08 [13:22:45] [Server thread/INFO]: MADE joined the game
-2017-09-08 [13:22:54] [Server thread/INFO]: xiaochuyin[/218.17.74.10:9293] [ClientID: -7052958852830533327] logged in with entity id 22281 at (th, -284.6615, 64.0625, -154.093)
-2017-09-08 [13:22:56] [Server thread/INFO]: xiaochuyin joined the game
-2017-09-08 [13:23:03] [Server thread/INFO]: xiaochuyin left the game
-2017-09-08 [13:23:03] [Server thread/INFO]: xiaochuyin[/218.17.74.10:9293] logged out due to client disconnect
-2017-09-08 [13:23:09] [Server thread/INFO]: Steve left the game
-2017-09-08 [13:23:09] [Server thread/INFO]: Steve[/184.89.186.128:54237] logged out due to Failed to login in 120 seconds
-2017-09-08 [13:23:11] [Server thread/INFO]: [妹子]zhumengzhiying : 明天后天玩
-2017-09-08 [13:23:39] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-08 [13:23:42] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-08 [13:24:08] [Server thread/INFO]: MADE left the game
-2017-09-08 [13:24:08] [Server thread/INFO]: MADE[/219.155.91.47:64715] logged out due to client disconnect
-2017-09-08 [13:24:11] [Server thread/INFO]: xiao_hao[/182.86.146.88:53881] [ClientID: -2670619536676626385] logged in with entity id 22282 at (th, -283.7275, 64.1661, -149.2587)
-2017-09-08 [13:24:13] [Server thread/INFO]: xiao_hao joined the game
-2017-09-08 [13:24:24] [Server thread/INFO]: zap[/92.240.133.54:49214] [ClientID: -6920978982027465916] logged in with entity id 22283 at (world, 227.4461, 76, 512.3974)
-2017-09-08 [13:24:30] [Server thread/INFO]: zap joined the game
-2017-09-08 [13:25:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:25:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:25:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:26:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:26:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:26:25] [Server thread/INFO]: zap left the game
-2017-09-08 [13:26:25] [Server thread/INFO]: zap[/92.240.133.54:49214] logged out due to Failed to login in 120 seconds
-2017-09-08 [13:30:05] [Server thread/INFO]: quejin[/220.170.187.255:58874] [ClientID: -4078858895220851625] logged in with entity id 22506 at (world, 127.9961, 66.1661, 114.7153)
-2017-09-08 [13:30:07] [Server thread/INFO]: quejin joined the game
-2017-09-08 [13:30:26] [Server thread/INFO]: quejin : 大家好
-2017-09-08 [13:30:32] [Server thread/INFO]: [妹子]zhumengzhiying : 好
-2017-09-08 [13:30:34] [Server thread/INFO]: [帅哥]xiao_hao : 你好
-2017-09-08 [13:30:41] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:30:43] [Server thread/INFO]: quejin : 。。。。
-2017-09-08 [13:30:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:30:46] [Server thread/INFO]: quejin : 无聊了
-2017-09-08 [13:30:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:30:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:31:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:31:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:31:16] [Server thread/INFO]: quejin : 你们都是在玩iOS吗？
-2017-09-08 [13:31:24] [Server thread/INFO]: [帅哥]xiao_hao : 我是
-2017-09-08 [13:31:24] [Server thread/INFO]: [妹子]zhumengzhiying : 不知道
-2017-09-08 [13:31:45] [Server thread/INFO]: quejin : 。。。就是iPad
-2017-09-08 [13:31:56] [Server thread/INFO]: [妹子]zhumengzhiying : 反正我是iOS
-2017-09-08 [13:31:59] [Server thread/INFO]: [帅哥]xiao_hao : 我用ipad玩的
-2017-09-08 [13:31:59] [Server thread/INFO]: quejin : 我用平板玩，你们可能是手机
-2017-09-08 [13:32:04] [Server thread/INFO]: quejin : 我的也是
-2017-09-08 [13:32:10] [Server thread/INFO]: quejin : 我知道了
-2017-09-08 [13:32:26] [Server thread/INFO]: [妹子]zhumengzhiying : 回头我用平板弄个小号
-2017-09-08 [13:32:30] [Server thread/INFO]: quejin left the game
-2017-09-08 [13:32:30] [Server thread/INFO]: quejin[/220.170.187.255:58874] logged out due to timeout
-2017-09-08 [13:33:55] [Server thread/INFO]: bigbenny_plays[/87.214.75.122:58989] [ClientID: 4914773490784021542] logged in with entity id 22678 at (world, 128, 68.2, 128)
-2017-09-08 [13:33:57] [Server thread/INFO]: bigbenny_plays joined the game
-2017-09-08 [13:34:46] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:34:49] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:34:49] [Server thread/INFO]: bigbenny_plays left the game
-2017-09-08 [13:34:49] [Server thread/INFO]: bigbenny_plays[/87.214.75.122:58989] logged out due to client disconnect
-2017-09-08 [13:35:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:35:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:35:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:36:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:36:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理26个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:36:07] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:40:21] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:40:22] [Server thread/WARNING]: xiao_hao moved wrongly!
-2017-09-08 [13:40:36] [Server thread/NOTICE]: Player data not found for "isudjdidjdidj", creating new profile
-2017-09-08 [13:40:36] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:45307] [ClientID: 8129468455156588794] logged in with entity id 23029 at (world, 128, 68, 128)
-2017-09-08 [13:40:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:40:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:40:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:41:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:41:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理11个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:41:53] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:45307] logged out due to client disconnect
-2017-09-08 [13:42:06] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:45307] [ClientID: 8129468455156588794] logged in with entity id 23135 at (world, 128, 68, 128)
-2017-09-08 [13:42:56] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:45307] logged out due to client disconnect
-2017-09-08 [13:44:29] [Server thread/INFO]: Devil[/124.228.48.191:11386] [ClientID: -718125915298570028] logged in with entity id 23216 at (th, 207.4772, 65, -281.3868)
-2017-09-08 [13:44:31] [Server thread/INFO]: Devil joined the game
-2017-09-08 [13:45:08] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-08 [13:45:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:45:50] [Server thread/INFO]: xiao_hao left the game
-2017-09-08 [13:45:50] [Server thread/INFO]: xiao_hao[/182.86.146.88:53881] logged out due to client disconnect
-2017-09-08 [13:45:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:45:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:46:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:46:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:47:10] [Server thread/INFO]: Devil left the game
-2017-09-08 [13:47:10] [Server thread/INFO]: Devil[/124.228.48.191:11386] logged out due to client disconnect
-2017-09-08 [13:48:01] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-08 [13:48:01] [Server thread/INFO]: zhumengzhiying[/180.138.179.238:5482] logged out due to client disconnect
-2017-09-08 [13:48:05] [Server thread/INFO]: Steve[/223.152.49.39:61989] [ClientID: -2674915089495592528] logged in with entity id 23358 at (th, 124.9069, 65.6, 165.9524)
-2017-09-08 [13:48:06] [Server thread/INFO]: Steve joined the game
-2017-09-08 [13:48:26] [Server thread/INFO]: zhumengzhiying[/180.138.179.238:5482] [ClientID: 3036730296650954731] logged in with entity id 23361 at (th, -175.3688, 85.2485, -524.6288)
-2017-09-08 [13:48:28] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-08 [13:49:03] [Server thread/INFO]: Steve left the game
-2017-09-08 [13:49:03] [Server thread/INFO]: Steve[/223.152.49.39:61989] logged out due to client disconnect
-2017-09-08 [13:49:23] [Server thread/INFO]: Steve[/223.152.49.39:61989] [ClientID: -2674915089495592528] logged in with entity id 23368 at (th, 124.9069, 65.8, 165.9524)
-2017-09-08 [13:49:27] [Server thread/INFO]: Steve joined the game
-2017-09-08 [13:49:30] [Server thread/INFO]: michael[/92.220.184.200:64282] [ClientID: -5764573975273214179] logged in with entity id 23370 at (world, 128, 28, 128)
-2017-09-08 [13:49:33] [Server thread/INFO]: michael joined the game
-2017-09-08 [13:49:44] [Server thread/INFO]: Steve left the game
-2017-09-08 [13:49:44] [Server thread/INFO]: Steve[/223.152.49.39:61989] logged out due to client disconnect
-2017-09-08 [13:50:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:50:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:50:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:51:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:51:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [13:51:30] [Server thread/INFO]: michael left the game
-2017-09-08 [13:51:30] [Server thread/INFO]: michael[/92.220.184.200:64282] logged out due to Failed to login in 120 seconds
-2017-09-08 [13:55:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [13:55:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [13:55:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [13:56:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [13:56:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [14:00:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [14:00:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [14:00:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [14:01:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [14:01:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [14:05:11] [Server thread/INFO]: power777888[/180.212.55.90:57576] [ClientID: 3116428789215175809] logged in with entity id 23484 at (th, -314.5988, 70.6543, -191.4759)
-2017-09-08 [14:05:13] [Server thread/INFO]: power777888 joined the game
-2017-09-08 [14:05:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [14:05:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [14:05:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [14:06:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [14:06:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [14:06:15] [Server thread/INFO]: [power777888: Teleported power777888 to zhumengzhiying]
-2017-09-08 [14:06:25] [Server thread/INFO]: [副服主]power777888 : e
-2017-09-08 [14:06:36] [Server thread/INFO]: [妹子]zhumengzhiying : 好丑
-2017-09-08 [14:06:49] [Server thread/INFO]: [副服主]power777888 : 你不用混凝土吗
-2017-09-08 [14:06:56] [Server thread/INFO]: [妹子]zhumengzhiying : 不习惯
-2017-09-08 [14:08:36] [Server thread/INFO]: [妹子]zhumengzhiying : 好久没做过车子了
-2017-09-08 [14:08:47] [Server thread/INFO]: [妹子]zhumengzhiying : 现在都不会做了
-2017-09-08 [14:08:47] [Server thread/INFO]: [副服主]power777888 : yeah··
-2017-09-08 [14:09:19] [Server thread/INFO]: [副服主]power777888 : 我竟开始搞飞机了
-2017-09-08 [14:10:21] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-08 [14:10:21] [Server thread/INFO]: zhumengzhiying[/180.138.179.238:5482] logged out due to client disconnect
-2017-09-08 [14:10:44] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [14:10:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [14:10:59] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [14:11:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [14:11:04] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-08 [14:11:05] [Server thread/WARNING]: power777888 moved too fast, reverting movement
-2017-09-08 [14:12:51] [Server thread/INFO]: [MagicWE] 88
-2017-09-08 [14:12:51] [Server thread/INFO]: [MagicWE] -1
-2017-09-08 [14:12:51] [Server thread/INFO]: [MagicWE] 88
-2017-09-08 [14:12:51] [Server thread/INFO]: [MagicWE] -1
-2017-09-08 [14:12:56] [Server thread/INFO]: [MagicWE] 89
-2017-09-08 [14:12:56] [Server thread/INFO]: [MagicWE] 0
-2017-09-08 [14:12:56] [Server thread/INFO]: [MagicWE] 89
-2017-09-08 [14:12:56] [Server thread/INFO]: [MagicWE] 0
-2017-09-08 [14:13:21] [Server thread/INFO]: Steve[/115.133.111.163:5983] [ClientID: 4257194014020072652] logged in with entity id 23536 at (th, 124.9069, 66, 165.9524)
-2017-09-08 [14:13:22] [Server thread/INFO]: Steve joined the game
-2017-09-08 [14:14:19] [Server thread/INFO]: xingkong[/39.182.116.225:2541] [ClientID: 1554093854234223459] logged in with entity id 23542 at (th, 252.0501, 62.1061, 95.93)
-2017-09-08 [14:14:21] [Server thread/INFO]: xingkong joined the game
-2017-09-08 [14:15:01] [Server thread/INFO]: xingkong left the game
-2017-09-08 [14:15:01] [Server thread/INFO]: xingkong[/39.182.116.225:2541] logged out due to client disconnect
-2017-09-08 [14:15:21] [Server thread/INFO]: Steve left the game
-2017-09-08 [14:15:21] [Server thread/INFO]: Steve[/115.133.111.163:5983] logged out due to Failed to login in 120 seconds
-2017-09-08 [14:15:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-08 [14:15:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-08 [14:16:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-08 [14:16:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-08 [14:16:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:20:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:20:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:21:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:21:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:21:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:25:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:25:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:26:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:26:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:26:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:26:13] [Server thread/INFO]: Devil[/124.228.48.191:11249] [ClientID: -718125915298570028] logged in with entity id 23607 at (th, 206.3585, 66, -252.7486)
+2017-09-08 [14:26:15] [Server thread/INFO]: Devil joined the game
+2017-09-08 [14:26:31] [Server thread/INFO]: [建筑师]Devil : power
+2017-09-08 [14:26:33] [Server thread/INFO]: [副服主]power777888 : ?
+2017-09-08 [14:26:36] [Server thread/INFO]: [建筑师]Devil : 我要捐款
+2017-09-08 [14:26:39] [Server thread/INFO]: [副服主]power777888 : o
+2017-09-08 [14:26:40] [Server thread/INFO]: [建筑师]Devil : 可以微信吗
+2017-09-08 [14:26:45] [Server thread/INFO]: [副服主]power777888 : QQ
+2017-09-08 [14:26:52] [Server thread/INFO]: [副服主]power777888 : qq吧
+2017-09-08 [14:26:53] [Server thread/INFO]: [建筑师]Devil : 我QQ没钱
+2017-09-08 [14:26:57] [Server thread/INFO]: [副服主]power777888 : 额
+2017-09-08 [14:26:58] [Server thread/INFO]: [建筑师]Devil : 主要是
+2017-09-08 [14:27:19] [Server thread/INFO]: [副服主]power777888 : 你先说捐多少
+2017-09-08 [14:27:35] [Server thread/INFO]: [建筑师]Devil : 我先看看我还有多少
+2017-09-08 [14:27:35] [Server thread/INFO]: [power777888: Teleported power777888 to Devil]
+2017-09-08 [14:27:38] [Server thread/INFO]: [副服主]power777888 : t.
+2017-09-08 [14:27:39] [Server thread/INFO]: Devil left the game
+2017-09-08 [14:27:39] [Server thread/INFO]: Devil[/124.228.48.191:11249] logged out due to client disconnect
+2017-09-08 [14:28:50] [Server thread/INFO]: Devil[/124.228.48.191:11249] [ClientID: -718125915298570028] logged in with entity id 23623 at (th, 226.6207, 68.5, -248.1415)
+2017-09-08 [14:28:52] [Server thread/INFO]: Devil joined the game
+2017-09-08 [14:29:07] [Server thread/INFO]: [建筑师]Devil : 捐2块钱吧
+2017-09-08 [14:29:09] [Server thread/INFO]: [副服主]power777888 : 。
+2017-09-08 [14:29:17] [Server thread/INFO]: [副服主]power777888 : QQ里只有2？
+2017-09-08 [14:29:36] [Server thread/INFO]: [建筑师]Devil : 是微信 我QQ没钱
+2017-09-08 [14:29:44] [Server thread/INFO]: [副服主]power777888 : 微信里只有2？
+2017-09-08 [14:30:00] [Server thread/INFO]: [power777888: Teleported power777888 to Devil]
+2017-09-08 [14:30:14] [Server thread/INFO]: [建筑师]Devil : 嗯 之前找lihaoyy买金币剩下的
+2017-09-08 [14:30:39] [Server thread/INFO]: [副服主]power777888 : 什··么？他开始卖金币？
+2017-09-08 [14:30:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:30:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:30:58] [Server thread/INFO]: [建筑师]Devil : 还有买创造永久多少钱
+2017-09-08 [14:31:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:31:06] [Server thread/INFO]: [副服主]power777888 : 67
+2017-09-08 [14:31:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:31:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:31:09] [Server thread/INFO]: [建筑师]Devil : 对啊1元1万
+2017-09-08 [14:31:15] [Server thread/INFO]: [副服主]power777888 : wo*
+2017-09-08 [14:31:19] [Server thread/INFO]: [副服主]power777888 : 这么贵
+2017-09-08 [14:31:32] [Server thread/INFO]: [副服主]power777888 : 我卖1元30万
+2017-09-08 [14:31:38] [Server thread/INFO]: [副服主]power777888 : 不对
+2017-09-08 [14:31:40] [Server thread/INFO]: [副服主]power777888 : 是50
+2017-09-08 [14:31:47] [Server thread/INFO]: [建筑师]Devil : 早知道我找你买
+2017-09-08 [14:31:58] [Server thread/INFO]: [建筑师]Devil : 我之前买了10元
+2017-09-08 [14:32:01] [Server thread/INFO]: [建筑师]Devil : 好坑
+2017-09-08 [14:32:08] [Server thread/INFO]: [副服主]power777888 : 没事你给我2元我给你··
+2017-09-08 [14:32:26] [Server thread/INFO]: [建筑师]Devil : 好啊
+2017-09-08 [14:32:26] [Server thread/INFO]: [副服主]power777888 : 12×10等于120
+2017-09-08 [14:32:31] [Server thread/INFO]: [建筑师]Devil : 我给你微信
+2017-09-08 [14:32:34] [Server thread/INFO]: [副服主]power777888 : 等等
+2017-09-08 [14:32:42] [Server thread/INFO]: [副服主]power777888 : 什么鬼
+2017-09-08 [14:32:54] [Server thread/INFO]: [副服主]power777888 : 12*500000
+2017-09-08 [14:33:15] [Server thread/INFO]: [副服主]power777888 : wo*
+2017-09-08 [14:33:21] [Server thread/INFO]: [副服主]power777888 : 6000000
+2017-09-08 [14:33:25] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:46338] [ClientID: 8129468455156588794] logged in with entity id 23652 at (world, 128, 68, 128)
+2017-09-08 [14:33:35] [Server thread/INFO]: [建筑师]Devil : 咋了
+2017-09-08 [14:33:37] [Server thread/INFO]: [副服主]power777888 : 你给我2块我给你6000000
+2017-09-08 [14:33:51] [Server thread/INFO]: [建筑师]Devil : 好 你微信多少
+2017-09-08 [14:33:56] [Server thread/INFO]: [副服主]power777888 : 等等哈
+2017-09-08 [14:34:00] [Server thread/INFO]: power777888 left the game
+2017-09-08 [14:34:00] [Server thread/INFO]: power777888[/180.212.55.90:57576] logged out due to client disconnect
+2017-09-08 [14:34:29] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:46338] logged out due to client disconnect
+2017-09-08 [14:34:33] [Server thread/INFO]: power777888[/180.212.55.90:57576] [ClientID: 3116428789215175809] logged in with entity id 23660 at (th, 296.1782, 76.1633, -245.0156)
+2017-09-08 [14:34:34] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [14:34:42] [Server thread/INFO]: [副服主]power777888 : 你微信多少
+2017-09-08 [14:34:44] [Server thread/INFO]: [副服主]power777888 : 我加你
+2017-09-08 [14:34:45] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-08 [14:34:49] [Server thread/INFO]: [建筑师]Devil : 53445767
+2017-09-08 [14:34:50] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:46338] [ClientID: 8129468455156588794] logged in with entity id 23662 at (world, 128, 68, 128)
+2017-09-08 [14:34:53] [Server thread/INFO]: [副服主]power777888 : 微信号哈
+2017-09-08 [14:34:57] [Server thread/INFO]: [建筑师]Devil : 对
+2017-09-08 [14:35:04] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:46338] logged out due to client disconnect
+2017-09-08 [14:35:14] [Server thread/INFO]: [副服主]power777888 : 影子
+2017-09-08 [14:35:20] [Server thread/INFO]: [副服主]power777888 : 是吗
+2017-09-08 [14:35:22] [Server thread/INFO]: [建筑师]Devil : 对的
+2017-09-08 [14:35:26] [Server thread/INFO]: [副服主]power777888 : 好的
+2017-09-08 [14:35:30] [Server thread/INFO]: Devil left the game
+2017-09-08 [14:35:30] [Server thread/INFO]: Devil[/124.228.48.191:11249] logged out due to client disconnect
+2017-09-08 [14:35:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:35:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:36:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:36:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:36:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:37:26] [Server thread/INFO]: Devil[/124.228.48.191:11249] [ClientID: -718125915298570028] logged in with entity id 23679 at (th, 209.4007, 73, -272.5027)
+2017-09-08 [14:37:28] [Server thread/INFO]: Devil joined the game
+2017-09-08 [14:37:55] [Server thread/INFO]: [副服主]power777888 : 好的
+2017-09-08 [14:37:58] [Server thread/INFO]: [副服主]power777888 : 您的6百万
+2017-09-08 [14:38:05] [Server thread/INFO]: [建筑师]Devil : 好的
+2017-09-08 [14:38:27] [Server thread/INFO]: [副服主]power777888 : 还加上以前您给lihao的10块..
+2017-09-08 [14:39:03] [Server thread/INFO]: [建筑师]Devil : 这样的吗 多谢了
+2017-09-08 [14:39:07] [Server thread/INFO]: [副服主]power777888 : en
+2017-09-08 [14:39:14] [Server thread/INFO]: [副服主]power777888 : 12块钱600万
+2017-09-08 [14:39:42] [Server thread/INFO]: [副服主]power777888 : 够买一瓶依云..
+2017-09-08 [14:39:55] [Server thread/INFO]: [建筑师]Devil : 依云？
+2017-09-08 [14:40:02] [Server thread/INFO]: [副服主]power777888 : 额是啊
+2017-09-08 [14:40:06] [Server thread/INFO]: [建筑师]Devil : 是什么
+2017-09-08 [14:40:15] [Server thread/INFO]: [副服主]power777888 : 依云天然矿泉水
+2017-09-08 [14:40:24] [Server thread/INFO]: * power777888 滑稽最帅
+2017-09-08 [14:40:24] [Server thread/INFO]: * power777888 滑稽最帅
+2017-09-08 [14:40:25] [Server thread/INFO]: * power777888 kwkkwk123最丑，还-抢我老婆
+2017-09-08 [14:40:28] [Server thread/INFO]: * power777888 kwkkwk123是傻逼
+2017-09-08 [14:40:28] [Server thread/INFO]: * power777888 kwkkwk123是傻逼
+2017-09-08 [14:40:28] [Server thread/INFO]: * power777888 kwkkwk123是傻逼
+2017-09-08 [14:40:28] [Server thread/INFO]: * power777888 初音要和kwkkwk123-离婚啦
+2017-09-08 [14:40:29] [Server thread/INFO]: * power777888 初音要和kwkkwk123-离婚啦
+2017-09-08 [14:40:29] [Server thread/INFO]: * power777888 h h h h h h- h h h h 
+2017-09-08 [14:40:29] [Server thread/INFO]: * power777888 h h h h h h- h h h h 
+2017-09-08 [14:40:29] [Server thread/INFO]: * power777888 h h h h h h- h h h h 
+2017-09-08 [14:40:29] [Server thread/INFO]: * power777888 大消息
+2017-09-08 [14:40:30] [Server thread/INFO]: * power777888 大消息
+2017-09-08 [14:40:30] [Server thread/INFO]: * power777888 h h h h h h- h h h h 
+2017-09-08 [14:40:30] [Server thread/INFO]: * power777888 滑稽有500000元啦
+2017-09-08 [14:40:30] [Server thread/INFO]: * power777888 当然没有啦
+2017-09-08 [14:40:30] [Server thread/INFO]: * power777888 180度反弹给你
+2017-09-08 [14:40:32] [Server thread/INFO]: [建筑师]Devil : 对了那个不死药水买了怎么没有效果在右边啊
+2017-09-08 [14:40:40] [Server thread/INFO]: [副服主]power777888 : wt
+2017-09-08 [14:40:41] [Server thread/INFO]: [建筑师]Devil : 还有一击必杀
+2017-09-08 [14:40:44] [Server thread/INFO]: [power777888: Teleported power777888 to Devil]
+2017-09-08 [14:40:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:40:49] [Server thread/INFO]: [副服主]power777888 : 哪里
+2017-09-08 [14:40:52] [Server thread/INFO]: power777888 died
+2017-09-08 [14:40:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:41:00] [Server thread/INFO]: [建筑师]Devil : 我在商店买的药水
+2017-09-08 [14:41:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:41:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:41:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:41:20] [Server thread/INFO]: [副服主]power777888 : t死不掉好像无效
+2017-09-08 [14:41:24] [Server thread/INFO]: [建筑师]Devil : 右边没有一击必杀和不死药水的效果图标
+2017-09-08 [14:41:32] [Server thread/INFO]: [副服主]power777888 : 一击必杀有的
+2017-09-08 [14:41:37] [Server thread/INFO]: [建筑师]Devil : 那我白花了50万
+2017-09-08 [14:41:55] [Server thread/INFO]: [副服主]power777888 : 哦*
+2017-09-08 [14:41:59] [Server thread/INFO]: [建筑师]Devil : 一击必杀没有效果图标是吗
+2017-09-08 [14:42:01] [Server thread/INFO]: [副服主]power777888 : 1个不死1块钱
+2017-09-08 [14:42:06] [Server thread/INFO]: [副服主]power777888 : 都有的
+2017-09-08 [14:42:22] [Server thread/INFO]: [建筑师]Devil : 一击必杀就是力量图标是吗
+2017-09-08 [14:42:30] [Server thread/INFO]: [副服主]power777888 : 对
+2017-09-08 [14:42:35] [Server thread/INFO]: [副服主]power777888 : 一击必杀是力量
+2017-09-08 [14:43:40] [Server thread/INFO]: [副服主]power777888 : 好像不死没有图标
+2017-09-08 [14:44:02] [Server thread/INFO]: [建筑师]Devil : 那有效果吗
+2017-09-08 [14:44:09] [Server thread/INFO]: [副服主]power777888 : 有的吧
+2017-09-08 [14:44:11] [Server thread/INFO]: [power777888: Teleported power777888 to Devil]
+2017-09-08 [14:44:15] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2017-09-08 [14:44:16] [Server thread/INFO]: [副服主]power777888 : 打我
+2017-09-08 [14:44:20] [Server thread/INFO]: [副服主]power777888 : 用钻石剑
+2017-09-08 [14:44:35] [Server thread/INFO]: [副服主]power777888 : 对
+2017-09-08 [14:44:38] [Server thread/INFO]: [副服主]power777888 : 不扣血的
+2017-09-08 [14:44:47] [Server thread/INFO]: [副服主]power777888 : 没有图标
+2017-09-08 [14:44:48] [Server thread/INFO]: [建筑师]Devil : 那你打我看看
+2017-09-08 [14:44:58] [Server thread/INFO]: [副服主]power777888 : 我是一击必杀
+2017-09-08 [14:45:03] [Server thread/INFO]: [建筑师]Devil : 不扣血
+2017-09-08 [14:45:12] [Server thread/INFO]: [建筑师]Devil : 要什么情况下才会死
+2017-09-08 [14:45:18] [Server thread/INFO]: kubi122[/124.244.221.179:60938] [ClientID: 3306039497467596152] logged in with entity id 23727 at (world, 132.7478, 64, 114.1345)
+2017-09-08 [14:45:25] [Server thread/INFO]: kubi122 joined the game
+2017-09-08 [14:45:25] [Server thread/INFO]: [副服主]power777888 : 输入kill才会死
+2017-09-08 [14:45:29] [Server thread/INFO]: UnboundCheese82[/58.217.178.87:14320] [ClientID: 6323832787222094184] logged in with entity id 23729 at (world, 118.8898, 65, 118.3018)
+2017-09-08 [14:45:30] [Server thread/INFO]: [建筑师]Devil : 那我把那50万还你 我以为没效果
+2017-09-08 [14:45:31] [Server thread/INFO]: UnboundCheese82 joined the game
+2017-09-08 [14:45:38] [Server thread/INFO]: [副服主]power777888 : 已经拿走了
+2017-09-08 [14:45:44] [Server thread/INFO]: [副服主]power777888 : op可以偷钱
+2017-09-08 [14:45:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:45:48] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:45:53] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:45:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:45:57] [Server thread/INFO]: [建筑师]Devil : OP怎么偷钱
+2017-09-08 [14:46:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:46:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:46:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:46:12] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:46:15] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:46:17] [Server thread/INFO]: power777888 left the game
+2017-09-08 [14:46:17] [Server thread/INFO]: power777888[/180.212.55.90:57576] logged out due to timeout
+2017-09-08 [14:46:24] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:46:26] [Server thread/INFO]: power777888[/180.212.55.90:55050] [ClientID: 3116428789215175809] logged in with entity id 23736 at (th, 188.5714, 65.5, -322.0556)
+2017-09-08 [14:46:27] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:46:27] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:46:28] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [14:46:32] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [14:46:36] [Server thread/INFO]: Alex[/109.172.166.101:59691] [ClientID: 1955130567334169351] logged in with entity id 23738 at (th, -64.4369, 65.6, 271.5544)
+2017-09-08 [14:46:39] [Server thread/INFO]: Alex joined the game
+2017-09-08 [14:47:32] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2017-09-08 [14:47:44] [Server thread/INFO]: Steve[/37.201.195.116:24906] [ClientID: 2894499762895357451] logged in with entity id 23749 at (th, 124.9069, 65.2, 165.9524)
+2017-09-08 [14:47:44] [Server thread/INFO]: [副服主]power777888 : 话说你们怎么获得末地干的
+2017-09-08 [14:47:55] [Server thread/INFO]: Steve joined the game
+2017-09-08 [14:48:01] [Server thread/INFO]: [建筑师]Devil : 我在箱子里面拿的
+2017-09-08 [14:48:04] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:48:15] [Server thread/INFO]: [建筑师]Devil : 在别人家里拿的
+2017-09-08 [14:48:22] [Server thread/INFO]: [副服主]power777888 : 谁家
+2017-09-08 [14:48:29] [Server thread/INFO]: [power777888: Teleported power777888 to Devil]
+2017-09-08 [14:48:30] [Server thread/INFO]: [建筑师]Devil : 我不记得了
+2017-09-08 [14:48:36] [Server thread/INFO]: Alex left the game
+2017-09-08 [14:48:36] [Server thread/INFO]: Alex[/109.172.166.101:59691] logged out due to Failed to login in 120 seconds
+2017-09-08 [14:48:39] [Server thread/INFO]: [建筑师]Devil : 反正在找箱子
+2017-09-08 [14:48:43] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:48:49] [Server thread/INFO]: Alex[/109.172.166.101:59691] [ClientID: 1955130567334169351] logged in with entity id 23759 at (th, -64.4369, 65.8, 271.5544)
+2017-09-08 [14:48:52] [Server thread/INFO]: Alex joined the game
+2017-09-08 [14:49:16] [Server thread/INFO]: Alex left the game
+2017-09-08 [14:49:16] [Server thread/INFO]: Alex[/109.172.166.101:59691] logged out due to timeout
+2017-09-08 [14:49:37] [Server thread/NOTICE]: Player data not found for "wcdlhsc", creating new profile
+2017-09-08 [14:49:37] [Server thread/INFO]: wcdlhsc[/220.200.10.120:14851] [ClientID: 5933203341008715369] logged in with entity id 23769 at (world, 128, 68, 128)
+2017-09-08 [14:49:39] [Server thread/INFO]: wcdlhsc joined the game
+2017-09-08 [14:49:42] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:49:44] [Server thread/INFO]: Steve left the game
+2017-09-08 [14:49:44] [Server thread/INFO]: Steve[/37.201.195.116:24906] logged out due to Failed to login in 120 seconds
+2017-09-08 [14:50:10] [Server thread/INFO]: [建筑师]Devil : 创造可以给自己刷钱吗
+2017-09-08 [14:50:43] [Server thread/INFO]: Steve[/37.201.195.116:24906] [ClientID: 2894499762895357451] logged in with entity id 23779 at (th, 124.9069, 65.4, 165.9524)
+2017-09-08 [14:50:46] [Server thread/INFO]: UnboundCheese82 was pricked to death
+2017-09-08 [14:50:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:50:47] [Server thread/INFO]: Steve joined the game
+2017-09-08 [14:50:55] [Server thread/INFO]: wcdlhsc left the game
+2017-09-08 [14:50:55] [Server thread/INFO]: wcdlhsc[/220.200.10.120:14851] logged out due to client disconnect
+2017-09-08 [14:50:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:51:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:51:05] [Server thread/INFO]: wcdlhsc[/220.200.10.120:14851] [ClientID: 5933203341008715369] logged in with entity id 23782 at (world, 128, 68.2, 128)
+2017-09-08 [14:51:06] [Server thread/INFO]: wcdlhsc joined the game
+2017-09-08 [14:51:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:51:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:51:24] [Server thread/INFO]: wcdlhsc left the game
+2017-09-08 [14:51:24] [Server thread/INFO]: wcdlhsc[/220.200.10.120:14851] logged out due to client disconnect
+2017-09-08 [14:51:25] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-08 [14:51:27] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:51:28] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:51:48] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:52:43] [Server thread/INFO]: Steve left the game
+2017-09-08 [14:52:43] [Server thread/INFO]: Steve[/37.201.195.116:24906] logged out due to Failed to login in 120 seconds
+2017-09-08 [14:53:19] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:53:27] [Server thread/INFO]: OPU[/59.149.50.144:62572] [ClientID: 8999231558102898423] logged in with entity id 23843 at (th, -300.8224, 65, -91.1361)
+2017-09-08 [14:53:29] [Server thread/INFO]: OPU joined the game
+2017-09-08 [14:54:16] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-08 [14:54:33] [Server thread/INFO]: Devil left the game
+2017-09-08 [14:54:33] [Server thread/INFO]: Devil[/124.228.48.191:11249] logged out due to client disconnect
+2017-09-08 [14:54:41] [Server thread/INFO]: power777888 died
+2017-09-08 [14:54:43] [Server thread/INFO]: [power777888: Teleported power777888 to OPU]
+2017-09-08 [14:54:46] [Server thread/INFO]: OPU left the game
+2017-09-08 [14:54:46] [Server thread/INFO]: OPU[/59.149.50.144:62572] logged out due to client disconnect
+2017-09-08 [14:55:11] [Server thread/INFO]: OPU[/59.149.50.144:62572] [ClientID: 8999231558102898423] logged in with entity id 23954 at (th, -304.8615, 64, -91.7464)
+2017-09-08 [14:55:13] [Server thread/INFO]: OPU joined the game
+2017-09-08 [14:55:17] [Server thread/INFO]: [power777888: Teleported power777888 to OPU]
+2017-09-08 [14:55:28] [Server thread/INFO]: [power777888: Teleported power777888 to OPU]
+2017-09-08 [14:55:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [14:55:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [14:56:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [14:56:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [14:56:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理13个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [14:56:08] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:56:48] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:56:50] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [14:56:55] [Server thread/INFO]: power777888 died
+2017-09-08 [14:57:08] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:57:08] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:57:09] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:57:26] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:57:55] [Server thread/INFO]: power777888 left the game
+2017-09-08 [14:57:55] [Server thread/INFO]: power777888[/180.212.55.90:55050] logged out due to timeout
+2017-09-08 [14:58:47] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:58:59] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [14:59:39] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [15:00:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:00:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:00:59] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [15:01:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:01:04] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [15:01:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:01:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:01:21] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [15:02:48] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:02:48] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:03:54] [Server thread/INFO]: UnboundCheese82 drowned
+2017-09-08 [15:04:02] [Server thread/WARNING]: kubi122 moved wrongly!
+2017-09-08 [15:05:00] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [15:05:30] [Server thread/WARNING]: UnboundCheese82 moved wrongly!
+2017-09-08 [15:05:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:05:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:06:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:06:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:06:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:07:03] [Server thread/INFO]: UnboundCheese82 was pricked to death
+2017-09-08 [15:08:15] [Server thread/INFO]: UnboundCheese82 left the game
+2017-09-08 [15:08:15] [Server thread/INFO]: UnboundCheese82[/58.217.178.87:14320] logged out due to client disconnect
+2017-09-08 [15:08:29] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:08:33] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:10:39] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:10:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:10:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:10:57] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:11:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:11:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:11:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:12:09] [Server thread/INFO]: * OPU 谁要外卖
+2017-09-08 [15:12:17] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:65190] [ClientID: 6445752726955809211] logged in with entity id 24559 at (th, -297.5244, 67, -190.5853)
+2017-09-08 [15:12:18] [Server thread/INFO]: RoyBlahBlah joined the game
+2017-09-08 [15:12:19] [Server thread/INFO]: kubi122 : 我要外賣
+2017-09-08 [15:12:30] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:12:31] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:13:01] [Server thread/INFO]: power777888[/180.212.55.90:61702] [ClientID: 3116428789215175809] logged in with entity id 24562 at (world, 9952.7734, 71, 9924.75)
+2017-09-08 [15:13:04] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [15:13:08] [Server thread/INFO]: [生存大师]RoyBlahBlah : ee
+2017-09-08 [15:13:11] [Server thread/INFO]: [副服主]power777888 : 好的
+2017-09-08 [15:13:31] [Server thread/INFO]: kubi122 left the game
+2017-09-08 [15:13:31] [Server thread/INFO]: kubi122[/124.244.221.179:60938] logged out due to client disconnect
+2017-09-08 [15:13:38] [Server thread/INFO]: [生存大师]RoyBlahBlah : wow谢谢
+2017-09-08 [15:13:42] [Server thread/INFO]: [生存大师]RoyBlahBlah : 我退了
+2017-09-08 [15:13:45] [Server thread/INFO]: [生存大师]RoyBlahBlah : bye
+2017-09-08 [15:13:45] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:13:46] [Server thread/INFO]: * OPU 谁要外卖
+2017-09-08 [15:13:48] [Server thread/INFO]: [副服主]power777888 : 我才谢谢您
+2017-09-08 [15:13:54] [Server thread/INFO]: * OPU 谁要外卖
+2017-09-08 [15:13:54] [Server thread/INFO]: * OPU 谁要外卖
+2017-09-08 [15:13:54] [Server thread/INFO]: * OPU 谁要外卖
+2017-09-08 [15:13:55] [Server thread/INFO]: * OPU 谁要外卖
+2017-09-08 [15:13:55] [Server thread/INFO]: [生存大师]RoyBlahBlah : bye
+2017-09-08 [15:13:58] [Server thread/INFO]: [副服主]power777888 : bye
+2017-09-08 [15:14:01] [Server thread/INFO]: RoyBlahBlah left the game
+2017-09-08 [15:14:01] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:65190] logged out due to client disconnect
+2017-09-08 [15:14:07] [Server thread/INFO]: [power777888: Teleported power777888 to OPU]
+2017-09-08 [15:14:20] [Server thread/INFO]: [副服主]power777888 : 卖什么东西
+2017-09-08 [15:14:23] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:14:28] [Server thread/INFO]: [帅哥]OPU : 看看
+2017-09-08 [15:15:11] [Server thread/INFO]: [帅哥]OPU : 看好了嗎
+2017-09-08 [15:15:13] [Server thread/INFO]: [副服主]power777888 : I want to buy Sprite
+2017-09-08 [15:15:27] [Server thread/INFO]: [帅哥]OPU : 我不會英文
+2017-09-08 [15:15:37] [Server thread/INFO]: [副服主]power777888 : 我想买雪碧
+2017-09-08 [15:15:45] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:15:46] [Server thread/INFO]: [power777888: Set own game mode to Survival Mode]
+2017-09-08 [15:15:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:15:50] [Server thread/INFO]: [power777888: Given Diamond (264:0) * 64 to power777888]
+2017-09-08 [15:15:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:16:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:16:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:16:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:16:17] [Server thread/INFO]: [帅哥]OPU : 馬上回來
+2017-09-08 [15:16:29] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:16:37] [Server thread/INFO]: [副服主]power777888 : wo*
+2017-09-08 [15:16:42] [Server thread/INFO]: [副服主]power777888 : 1瓶水
+2017-09-08 [15:17:09] [Server thread/WARNING]: power777888 moved wrongly!
+2017-09-08 [15:17:12] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:44551] [ClientID: 8129468455156588794] logged in with entity id 24570 at (world, 128, 68, 128)
+2017-09-08 [15:17:13] [Server thread/INFO]: [帅哥]OPU : 現在雪碧不知道用什麼
+2017-09-08 [15:17:23] [Server thread/INFO]: [副服主]power777888 : 可以是速度药水
+2017-09-08 [15:17:26] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:44551] logged out due to client disconnect
+2017-09-08 [15:17:29] [Server thread/INFO]: [帅哥]OPU : ...
+2017-09-08 [15:17:39] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:44551] [ClientID: 8129468455156588794] logged in with entity id 24571 at (world, 128, 68, 128)
+2017-09-08 [15:17:48] [Server thread/INFO]: [帅哥]OPU : 馬上回來
+2017-09-08 [15:17:56] [Server thread/INFO]: isudjdidjdidj[/149.255.237.49:44551] logged out due to client disconnect
+2017-09-08 [15:18:00] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:18:31] [Server thread/INFO]: [帅哥]OPU : ...
+2017-09-08 [15:18:40] [Server thread/INFO]: [power777888: Set own game mode to Creative Mode]
+2017-09-08 [15:19:28] [Server thread/INFO]: [帅哥]OPU : 速度藥水買光了
+2017-09-08 [15:19:59] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:20:00] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:20:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:20:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:20:59] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:21:00] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:21:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:21:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:21:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:21:14] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:21:22] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:23:21] [Server thread/INFO]: [帅哥]OPU : 我買箭
+2017-09-08 [15:23:44] [Server thread/INFO]: top_ray[/117.14.118.58:54246] [ClientID: 9000261554536894911] logged in with entity id 24583 at (th, 55.5228, 76.5, 60.8626)
+2017-09-08 [15:23:46] [Server thread/INFO]: top_ray joined the game
+2017-09-08 [15:24:43] [Server thread/INFO]: [帅哥]OPU : 一枝？
+2017-09-08 [15:24:48] [Server thread/INFO]: [top_ray: Teleported top_ray to power777888]
+2017-09-08 [15:24:54] [Server thread/INFO]: [副服主]power777888 : wt*
+2017-09-08 [15:25:08] [Server thread/INFO]: [帅哥]OPU : 也太少了
+2017-09-08 [15:25:32] [Server thread/INFO]: [帅哥]OPU : 石頭？
+2017-09-08 [15:25:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:25:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:26:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:26:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-08 [15:26:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:26:35] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:26:52] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:54] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:54] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:54] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:55] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:55] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:55] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:55] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:55] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:56] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:56] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:56] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:56] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:56] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:57] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:57] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:57] [Server thread/INFO]: * power777888 
+2017-09-08 [15:26:57] [Server thread/INFO]: * power777888 
+2017-09-08 [15:27:04] [Server thread/INFO]: * top_ray 右邊
+2017-09-08 [15:27:11] [Server thread/INFO]: power777888 left the game
+2017-09-08 [15:27:11] [Server thread/INFO]: power777888[/180.212.55.90:61702] logged out due to timeout
+2017-09-08 [15:27:29] [Server thread/INFO]: power777888[/180.212.55.90:61702] [ClientID: 3116428789215175809] logged in with entity id 24584 at (th, -288.8484, 63, -159.942)
+2017-09-08 [15:27:31] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [15:28:49] [Server thread/INFO]: [top_ray: Teleported top_ray to power777888]
+2017-09-08 [15:29:20] [Server thread/NOTICE]: Player data not found for "miaoxiaoyu", creating new profile
+2017-09-08 [15:29:20] [Server thread/INFO]: MiaoXiaoYu[/114.235.217.1:64816] [ClientID: 3981048236428745756] logged in with entity id 24586 at (world, 128, 68, 128)
+2017-09-08 [15:29:22] [Server thread/INFO]: MiaoXiaoYu joined the game
+2017-09-08 [15:29:48] [Server thread/INFO]: [MagicWE] 90
+2017-09-08 [15:29:48] [Server thread/INFO]: [MagicWE] -2
+2017-09-08 [15:29:48] [Server thread/INFO]: [MagicWE] 90
+2017-09-08 [15:29:48] [Server thread/INFO]: [MagicWE] -2
+2017-09-08 [15:29:53] [Server thread/INFO]: [MagicWE] 91
+2017-09-08 [15:29:53] [Server thread/INFO]: [MagicWE] -2
+2017-09-08 [15:29:53] [Server thread/INFO]: [MagicWE] 91
+2017-09-08 [15:29:53] [Server thread/INFO]: [MagicWE] -2
+2017-09-08 [15:29:56] [Server thread/INFO]: [MagicWE] 94
+2017-09-08 [15:29:56] [Server thread/INFO]: [MagicWE] -3
+2017-09-08 [15:29:56] [Server thread/INFO]: [MagicWE] 94
+2017-09-08 [15:29:56] [Server thread/INFO]: [MagicWE] -3
+2017-09-08 [15:30:01] [Server thread/INFO]: [MagicWE] 97
+2017-09-08 [15:30:01] [Server thread/INFO]: [MagicWE] -7
+2017-09-08 [15:30:01] [Server thread/INFO]: [MagicWE] 97
+2017-09-08 [15:30:01] [Server thread/INFO]: [MagicWE] -7
+2017-09-08 [15:30:20] [Server thread/INFO]: TradingBaton645[/153.176.1.64:57914] [ClientID: 4395263037467831117] logged in with entity id 24587 at (world, 128, 68.2, 128)
+2017-09-08 [15:30:22] [Server thread/INFO]: TradingBaton645 joined the game
+2017-09-08 [15:30:27] [Server thread/WARNING]: MiaoXiaoYu moved wrongly!
+2017-09-08 [15:30:34] [Server thread/INFO]: TradingBaton645 left the game
+2017-09-08 [15:30:34] [Server thread/INFO]: TradingBaton645[/153.176.1.64:57914] logged out due to client disconnect
+2017-09-08 [15:30:46] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:30:56] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:31:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:31:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:31:06] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:31:08] [Server thread/WARNING]: top_ray moved too fast, reverting movement
+2017-09-08 [15:31:34] [Server thread/WARNING]: MiaoXiaoYu moved wrongly!
+2017-09-08 [15:31:34] [Server thread/WARNING]: MiaoXiaoYu moved wrongly!
+2017-09-08 [15:32:02] [Server thread/INFO]: MiaoXiaoYu left the game
+2017-09-08 [15:32:02] [Server thread/INFO]: MiaoXiaoYu[/114.235.217.1:64816] logged out due to timeout
+2017-09-08 [15:32:07] [Server thread/WARNING]: top_ray moved too fast, reverting movement
+2017-09-08 [15:32:45] [Server thread/WARNING]: top_ray moved too fast, reverting movement
+2017-09-08 [15:34:18] [Server thread/INFO]: * OPU 是時候抽獎
+2017-09-08 [15:35:18] [Server thread/INFO]: [ZXCVBNM]top_ray : power机场领地授权
+2017-09-08 [15:35:39] [Server thread/INFO]: * OPU 是時候抽獎
+2017-09-08 [15:35:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:35:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:36:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:36:06] [Server thread/INFO]: power777888 left the game
+2017-09-08 [15:36:06] [Server thread/INFO]: power777888[/180.212.55.90:61702] logged out due to client disconnect
+2017-09-08 [15:36:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:36:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:37:00] [Server thread/INFO]: * OPU 抽
+2017-09-08 [15:37:01] [Server thread/INFO]: * OPU 抽
+2017-09-08 [15:37:58] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:38:00] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:38:44] [Server thread/INFO]: Steve123[/183.192.40.163:6403] [ClientID: -4004854308246284239] logged in with entity id 24594 at (world, 144.3405, 65.2, 104.448)
+2017-09-08 [15:38:45] [Server thread/INFO]: [ZXCVBNM]top_ray : hi
+2017-09-08 [15:38:46] [Server thread/INFO]: Steve123 joined the game
+2017-09-08 [15:38:51] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:38:51] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:38:58] [Server thread/INFO]: Steve123 left the game
+2017-09-08 [15:38:58] [Server thread/INFO]: Steve123[/183.192.40.163:6403] logged out due to client disconnect
+2017-09-08 [15:39:00] [Server thread/INFO]: [ZXCVBNM]top_ray : 我在海滨机场
+2017-09-08 [15:39:02] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:39:02] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:40:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:40:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:41:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:41:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:41:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:42:27] [Server thread/INFO]: top_ray left the game
+2017-09-08 [15:42:27] [Server thread/INFO]: top_ray[/117.14.118.58:54246] logged out due to client disconnect
+2017-09-08 [15:42:41] [Server thread/INFO]: [帅哥]OPU : ?
+2017-09-08 [15:42:46] [Server thread/NOTICE]: Player data not found for "soulzzzzzzzzz", creating new profile
+2017-09-08 [15:42:46] [Server thread/INFO]: SoulZzzzzzzzz[/183.54.42.52:12384] [ClientID: -9154435849729561456] logged in with entity id 24615 at (world, 128, 68, 128)
+2017-09-08 [15:42:48] [Server thread/INFO]: SoulZzzzzzzzz joined the game
+2017-09-08 [15:43:23] [Server thread/INFO]: SoulZzzzzzzzz left the game
+2017-09-08 [15:43:23] [Server thread/INFO]: SoulZzzzzzzzz[/183.54.42.52:12384] logged out due to client disconnect
+2017-09-08 [15:43:48] [Server thread/INFO]: top_ray[/117.14.118.58:54246] [ClientID: 9000261554536894911] logged in with entity id 24628 at (th, 536.507, 84.2, -37.7824)
+2017-09-08 [15:43:50] [Server thread/INFO]: top_ray joined the game
+2017-09-08 [15:43:52] [Server thread/INFO]: power777888[/180.212.55.90:61702] [ClientID: 3116428789215175809] logged in with entity id 24630 at (th, -312.2797, 71.9836, -198.1772)
+2017-09-08 [15:43:55] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [15:44:11] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:44:16] [Server thread/INFO]: [副服主]power777888 : 谁愿意捐给我钱升级服务器
+2017-09-08 [15:44:22] [Server thread/INFO]: [ZXCVBNM]top_ray : 我
+2017-09-08 [15:44:26] [Server thread/INFO]: [副服主]power777888 : 嗯
+2017-09-08 [15:44:28] [Server thread/INFO]: [帅哥]OPU : 我
+2017-09-08 [15:44:32] [Server thread/INFO]: [副服主]power777888 : 嗯
+2017-09-08 [15:44:33] [Server thread/INFO]: top_ray left the game
+2017-09-08 [15:44:33] [Server thread/INFO]: top_ray[/117.14.118.58:54246] logged out due to client disconnect
+2017-09-08 [15:44:35] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:44:36] [Server thread/INFO]: power777888 left the game
+2017-09-08 [15:44:36] [Server thread/INFO]: power777888[/180.212.55.90:61702] logged out due to client disconnect
+2017-09-08 [15:44:43] [Server thread/INFO]: [帅哥]OPU : ...
+2017-09-08 [15:44:47] [Server thread/INFO]: top_ray[/117.14.118.58:54246] [ClientID: 9000261554536894911] logged in with entity id 24631 at (th, 533.4539, 95.7835, -26.8493)
+2017-09-08 [15:44:49] [Server thread/INFO]: top_ray joined the game
+2017-09-08 [15:45:05] [Server thread/INFO]: power777888[/180.212.55.90:61702] [ClientID: 3116428789215175809] logged in with entity id 24632 at (th, -290.9727, 71.4133, -103.103)
+2017-09-08 [15:45:07] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [15:45:10] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:45:10] [Server thread/INFO]: Chine[/112.11.145.181:63926] [ClientID: 7725802431213629145] logged in with entity id 24633 at (world, 115.201, 70, 138.4254)
+2017-09-08 [15:45:12] [Server thread/INFO]: Chine joined the game
+2017-09-08 [15:45:19] [Server thread/INFO]: [副服主]power777888 : 加我QQ356025
+2017-09-08 [15:45:20] [Server thread/INFO]: [帅哥]OPU : 來
+2017-09-08 [15:45:34] [Server thread/INFO]: [power777888: Teleported power777888 to top_ray]
+2017-09-08 [15:45:46] [Server thread/INFO]: [副服主]power777888 : top
+2017-09-08 [15:45:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:45:49] [Server thread/INFO]: [副服主]power777888 : 你捐多少
+2017-09-08 [15:45:57] [Server thread/INFO]: [ZXCVBNM]top_ray : 维修行吗
+2017-09-08 [15:45:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:46:00] [Server thread/INFO]: [帅哥]OPU : 9800
+2017-09-08 [15:46:01] [Server thread/INFO]: [ZXCVBNM]top_ray : 微信
+2017-09-08 [15:46:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:46:05] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [15:46:06] [Server thread/INFO]: [副服主]power777888 : 如果再捐100的话呃
+2017-09-08 [15:46:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:46:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:46:09] [Server thread/INFO]: [副服主]power777888 : 微信可以
+2017-09-08 [15:46:15] [Server thread/INFO]: [ZXCVBNM]top_ray : 60
+2017-09-08 [15:46:19] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:46:20] [Server thread/INFO]: [副服主]power777888 : top您是永久op对吧
+2017-09-08 [15:46:27] [Server thread/INFO]: [ZXCVBNM]top_ray : 对
+2017-09-08 [15:46:39] [Server thread/INFO]: [ZXCVBNM]top_ray : 晚上7点半左右
+2017-09-08 [15:46:40] [Server thread/INFO]: [副服主]power777888 : 捐60可以给您的1个朋友永久OP
+2017-09-08 [15:47:08] [Server thread/INFO]: Chine was slain by OPU
+2017-09-08 [15:47:25] [Server thread/INFO]: [副服主]power777888 : 或者2个朋友永久创造
+2017-09-08 [15:47:36] [Server thread/INFO]: [副服主]power777888 : OPU你要捐9800台币？？？
+2017-09-08 [15:47:44] [Server thread/INFO]: [帅哥]OPU : ...
+2017-09-08 [15:47:47] [Server thread/INFO]: [帅哥]OPU : no
+2017-09-08 [15:47:53] [Server thread/INFO]: [ZXCVBNM]top_ray : 没事，无尝
+2017-09-08 [15:48:00] [Server thread/INFO]: Chine was slain by OPU
+2017-09-08 [15:48:04] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [15:48:05] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:48:10] [Server thread/INFO]: [副服主]power777888 : 没事，要有偿的，不然我不收
+2017-09-08 [15:48:21] [Server thread/INFO]: [ZXCVBNM]top_ray : 好吧
+2017-09-08 [15:48:35] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:09] [Server thread/INFO]: [ZXCVBNM]top_ray : 你微信多少
+2017-09-08 [15:49:20] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:20] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:42] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:43] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:44] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:47] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:49] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:50] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:50] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:49:51] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:50:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:50:50] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [15:50:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:51:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:51:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:51:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理8个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:52:21] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:52:45] [Server thread/NOTICE]: Player data not found for "farprawn7724124", creating new profile
+2017-09-08 [15:52:45] [Server thread/INFO]: FarPrawn7724124[/58.152.140.194:49763] [ClientID: -4873013962897573448] logged in with entity id 24833 at (world, 128, 68, 128)
+2017-09-08 [15:53:03] [Server thread/INFO]: FarPrawn7724124 joined the game
+2017-09-08 [15:53:09] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:53:41] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:53:41] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:54:09] [Server thread/INFO]: FarPrawn7724124 left the game
+2017-09-08 [15:54:09] [Server thread/INFO]: FarPrawn7724124[/58.152.140.194:49763] logged out due to timeout
+2017-09-08 [15:54:20] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [15:55:02] [Server thread/INFO]: [帅哥]Chine : 熔炉里找到一块铁锭
+2017-09-08 [15:55:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [15:55:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [15:56:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [15:56:04] [Server thread/INFO]: FarPrawn7724124[/58.152.140.194:49457] [ClientID: -4873013962897573448] logged in with entity id 24981 at (world, 128, 68.2, 128)
+2017-09-08 [15:56:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [15:56:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [15:56:21] [Server thread/INFO]: FarPrawn7724124 joined the game
+2017-09-08 [15:56:46] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [15:58:14] [Server thread/INFO]: FarPrawn7724124 : hi
+2017-09-08 [15:58:26] [Server thread/INFO]: power777888 left the game
+2017-09-08 [15:58:26] [Server thread/INFO]: power777888[/180.212.55.90:61702] logged out due to timeout
+2017-09-08 [15:58:45] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [15:58:48] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [15:58:59] [Server thread/INFO]: Special[/183.193.158.34:19845] [ClientID: -5174240069376945405] logged in with entity id 25077 at (th, 177.025, 65, -287.2682)
+2017-09-08 [15:58:59] [Server thread/INFO]: Scorpio[/222.70.208.48:54611] [ClientID: -229303114437544464] logged in with entity id 25078 at (th, 210.031, 65, -262.1749)
+2017-09-08 [15:59:00] [Server thread/INFO]: Scorpio joined the game
+2017-09-08 [15:59:00] [Server thread/INFO]: Special joined the game
+2017-09-08 [15:59:55] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [15:59:57] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:00:10] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:00:11] [Server thread/INFO]: Chine was slain by OPU
+2017-09-08 [16:00:23] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:00:24] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:00:28] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:00:28] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:00:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [16:00:54] [Server thread/WARNING]: FarPrawn7724124 moved wrongly!
+2017-09-08 [16:00:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [16:01:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [16:01:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [16:01:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [16:01:21] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:02:08] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:02:08] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:02:16] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:02:38] [Server thread/INFO]: * Special 心好烦
+2017-09-08 [16:02:43] [Server thread/INFO]: * Special 初音因为出轨和我-的牌子它出名了
+2017-09-08 [16:02:44] [Server thread/INFO]: * Special 无法原谅
+2017-09-08 [16:02:53] [Server thread/INFO]: [ZXCVBNM]top_ray : 额
+2017-09-08 [16:03:05] [Server thread/INFO]: [ZXCVBNM]top_ray : 滑稽
+2017-09-08 [16:03:05] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [16:03:29] [Server thread/INFO]: Sebastian[/101.224.245.229:49553] [ClientID: 6985536416876553368] logged in with entity id 25208 at (world, 128, 64, 128)
+2017-09-08 [16:03:31] [Server thread/INFO]: Sebastian joined the game
+2017-09-08 [16:03:33] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:03:37] [Server thread/INFO]: FarPrawn7724124 left the game
+2017-09-08 [16:03:37] [Server thread/INFO]: FarPrawn7724124[/58.152.140.194:49457] logged out due to client disconnect
+2017-09-08 [16:03:50] [Server thread/INFO]: Vv5418[/223.84.159.210:9457] [ClientID: -876748291591489542] logged in with entity id 25212 at (world, 101.0383, 49.256, 164.9424)
+2017-09-08 [16:03:51] [Server thread/INFO]: Vv5418 joined the game
+2017-09-08 [16:04:17] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:04:17] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:04:23] [Server thread/INFO]: FarPrawn7724124[/58.152.140.194:49457] [ClientID: -4873013962897573448] logged in with entity id 25216 at (th, -82.6801, 63, 149.8789)
+2017-09-08 [16:04:31] [Server thread/INFO]: [妹子]Vv5418 : 怎么出去
+2017-09-08 [16:04:40] [Server thread/INFO]: FarPrawn7724124 joined the game
+2017-09-08 [16:04:52] [Server thread/INFO]: top_ray left the game
+2017-09-08 [16:04:52] [Server thread/INFO]: top_ray[/117.14.118.58:54246] logged out due to client disconnect
+2017-09-08 [16:05:12] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:05:12] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:05:26] [Server thread/INFO]: top_ray[/117.14.118.58:54246] [ClientID: 9000261554536894911] logged in with entity id 25264 at (th, 538.2862, 85.4986, -64.9997)
+2017-09-08 [16:05:29] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:05:29] [Server thread/INFO]: top_ray joined the game
+2017-09-08 [16:05:30] [Server thread/INFO]: Sebastian left the game
+2017-09-08 [16:05:30] [Server thread/INFO]: Sebastian[/101.224.245.229:49553] logged out due to Failed to login in 120 seconds
+2017-09-08 [16:05:30] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:05:31] [Server thread/INFO]: [妹子]Vv5418 : 是你吗
+2017-09-08 [16:05:35] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:05:37] [Server thread/INFO]: [帅哥]Chine : yes
+2017-09-08 [16:05:38] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:05:39] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:05:40] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:05:43] [Server thread/INFO]: [ZXCVBNM]top_ray : 谁
+2017-09-08 [16:05:43] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:05:46] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:05:47] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:05:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [16:05:53] [Server thread/INFO]: Sebastian[/101.224.245.229:49553] [ClientID: 6985536416876553368] logged in with entity id 25274 at (world, 128, 68.2, 128)
+2017-09-08 [16:05:55] [Server thread/INFO]: Sebastian joined the game
+2017-09-08 [16:05:55] [Server thread/INFO]: [帅哥]Chine : 皮肤好看吗？不好看我换
+2017-09-08 [16:05:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [16:06:00] [Server thread/INFO]: [妹子]Vv5418 : 好看
+2017-09-08 [16:06:02] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:06:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [16:06:07] [Server thread/INFO]: [top_ray: Teleported top_ray to Chine]
+2017-09-08 [16:06:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [16:06:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理16个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [16:06:08] [Server thread/INFO]: Sebastian left the game
+2017-09-08 [16:06:08] [Server thread/INFO]: Sebastian[/101.224.245.229:49553] logged out due to timeout
+2017-09-08 [16:06:11] [Server thread/INFO]: [帅哥]Chine : 等
+2017-09-08 [16:06:13] [Server thread/INFO]: hszj[/222.64.12.208:34781] logged out due to You are banned
+2017-09-08 [16:06:15] [Server thread/INFO]: Chine left the game
+2017-09-08 [16:06:15] [Server thread/INFO]: Chine[/112.11.145.181:63926] logged out due to client disconnect
+2017-09-08 [16:06:35] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:06:35] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:06:38] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:06:46] [Server thread/INFO]: top_ray left the game
+2017-09-08 [16:06:46] [Server thread/INFO]: top_ray[/117.14.118.58:54246] logged out due to client disconnect
+2017-09-08 [16:06:49] [Server thread/INFO]: hszj[/222.64.12.208:34781] logged out due to You are banned
+2017-09-08 [16:07:26] [Server thread/INFO]: zj[/222.64.12.208:34781] logged out due to Invalid name!
+2017-09-08 [16:07:32] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:07:33] [Server thread/INFO]: Chine[/112.11.145.181:63926] [ClientID: 7725802431213629145] logged in with entity id 25340 at (world, 127.045, 65, 115.1878)
+2017-09-08 [16:07:35] [Server thread/INFO]: Chine joined the game
+2017-09-08 [16:07:35] [Server thread/INFO]: [妹子]Vv5418 : 我以前那个家在哪
+2017-09-08 [16:07:44] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:07:44] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:07:49] [Server thread/INFO]: top_ray[/117.14.118.58:54246] [ClientID: 9000261554536894911] logged in with entity id 25341 at (th, 479.7, 85.7883, 76.2437)
+2017-09-08 [16:07:51] [Server thread/INFO]: top_ray joined the game
+2017-09-08 [16:07:55] [Server thread/INFO]: [帅哥]Chine : 输入/w zy
+2017-09-08 [16:08:00] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:08:01] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:08:01] [Server thread/INFO]: [帅哥]Chine : 试试
+2017-09-08 [16:08:08] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:08:16] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:08:17] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:08:17] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:08:17] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:08:19] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:08:48] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [16:08:48] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [16:08:51] [Server thread/INFO]: Sebastian[/101.224.245.229:55471] [ClientID: 6985536416876553368] logged in with entity id 25342 at (world, 128, 68.4, 128)
+2017-09-08 [16:08:53] [Server thread/INFO]: Sebastian joined the game
+2017-09-08 [16:08:55] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:08:58] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:09:12] [Server thread/WARNING]: FarPrawn7724124 moved wrongly!
+2017-09-08 [16:09:16] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:09:17] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:09:19] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:09:20] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:09:21] [Server thread/INFO]: [妹子]Vv5418 : 以前我在那放了个箱子
+2017-09-08 [16:09:24] [Server thread/INFO]: [妹子]Vv5418 : 你还记得吗
+2017-09-08 [16:09:27] [Server thread/INFO]: [妹子]Vv5418 : 找不到了
+2017-09-08 [16:09:29] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:09:31] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:09:44] [Server thread/INFO]: FarPrawn7724124 : 如何出來
+2017-09-08 [16:09:58] [Server thread/INFO]: [帅哥]Chine : 透视
+2017-09-08 [16:10:04] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:10:05] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:10:07] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:10:30] [Server thread/INFO]: power777888[/180.212.55.90:61702] [ClientID: 3116428789215175809] logged in with entity id 25419 at (th, 450.1129, 79, 72.2675)
+2017-09-08 [16:10:32] [Server thread/INFO]: power777888 joined the game
+2017-09-08 [16:10:42] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:10:44] [Server thread/INFO]: [副服主]power777888 : ****
+2017-09-08 [16:10:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [16:10:52] [Server thread/INFO]: Sebastian left the game
+2017-09-08 [16:10:52] [Server thread/INFO]: Sebastian[/101.224.245.229:55471] logged out due to Failed to login in 120 seconds
+2017-09-08 [16:10:52] [Server thread/INFO]: [power777888: Teleported power777888 to top_ray]
+2017-09-08 [16:10:57] [Server thread/INFO]: Special : 你是中国人吗
+2017-09-08 [16:10:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [16:11:01] [Server thread/INFO]: FarPrawn7724124 : hi
+2017-09-08 [16:11:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [16:11:03] [Server thread/INFO]: [副服主]power777888 : 我是
+2017-09-08 [16:11:05] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:11:07] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:11:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [16:11:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [16:11:09] [Server thread/INFO]: [副服主]power777888 : hi
+2017-09-08 [16:11:16] [Server thread/INFO]: Sebastian[/101.224.245.229:55471] [ClientID: 6985536416876553368] logged in with entity id 25433 at (world, 128, 68.6, 128)
+2017-09-08 [16:11:18] [Server thread/INFO]: Sebastian joined the game
+2017-09-08 [16:11:22] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [16:11:22] [Server thread/INFO]: [ZXCVBNM]top_ray : 有不是中国人的吗
+2017-09-08 [16:11:23] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [16:11:24] [Server thread/INFO]: [副服主]power777888 : Are you america?FarPrawn7724124
+2017-09-08 [16:11:25] [Server thread/WARNING]: Chine moved wrongly!
+2017-09-08 [16:11:42] [Server thread/INFO]: Sebastian left the game
+2017-09-08 [16:11:42] [Server thread/INFO]: Sebastian[/101.224.245.229:55471] logged out due to timeout
+2017-09-08 [16:11:46] [Server thread/INFO]: [妹子]Scorpio : Are you Chinese？
+2017-09-08 [16:11:48] [Server thread/INFO]: [副服主]power777888 : Are you US? UK? ?FarPrawn7724124
+2017-09-08 [16:11:57] [Server thread/INFO]: Special : he zuo
+2017-09-08 [16:11:58] [Server thread/INFO]: [帅哥]Chine : 英语还是德语
+2017-09-08 [16:12:04] [Server thread/INFO]: [ZXCVBNM]top_ray : Yes
+2017-09-08 [16:12:14] [Server thread/INFO]: [副服主]power777888 : Are you US? UK? France? Germany? FarPrawn7724124
+2017-09-08 [16:12:17] [Server thread/INFO]: [power777888: Teleported power777888 to FarPrawn7724124]
+2017-09-08 [16:12:24] [Server thread/INFO]: [副服主]power777888 : hi
+2017-09-08 [16:12:27] [Server thread/INFO]: [副服主]power777888 : Are you US? UK? France? Germany? FarPrawn7724124
+2017-09-08 [16:12:37] [Server thread/INFO]: [副服主]power777888 : Where are you from?
+2017-09-08 [16:12:41] [Server thread/INFO]: [ZXCVBNM]top_ray : Welcome
+2017-09-08 [16:12:54] [Server thread/INFO]: [副服主]power777888 : pls speak into chat
+2017-09-08 [16:13:13] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:13:15] [Server thread/INFO]: [副服主]power777888 : 我*@（&……&！*（
+2017-09-08 [16:13:16] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:13:25] [Server thread/INFO]: [副服主]power777888 : 发现有人在拆房
+2017-09-08 [16:13:27] [Server thread/INFO]: Special : 我要卖东西
+2017-09-08 [16:13:29] [Server thread/INFO]: [妹子]Vv5418 : 是不是在里面
+2017-09-08 [16:13:31] [Server thread/WARNING]: Special moved wrongly!
+2017-09-08 [16:13:32] [Server thread/INFO]: FarPrawn7724124 : hi 管理員
+2017-09-08 [16:13:35] [Server thread/INFO]: [ZXCVBNM]top_ray : Who？
+2017-09-08 [16:13:37] [Server thread/INFO]: [副服主]power777888 : hi
+2017-09-08 [16:13:39] [Server thread/WARNING]: Vv5418 moved wrongly!
+2017-09-08 [16:13:45] [Server thread/INFO]: [副服主]power777888 : 原来你是··
+2017-09-08 [16:13:48] [Server thread/INFO]: [副服主]power777888 : 台湾吗
+2017-09-08 [16:13:52] [Server thread/INFO]: [副服主]power777888 : 还是香港？
+2017-09-08 [16:13:54] [Server thread/INFO]: [副服主]power777888 : 澳门？
+2017-09-08 [16:13:55] [Server thread/INFO]: [ZXCVBNM]top_ray : 额
+2017-09-08 [16:13:58] [Server thread/INFO]: FarPrawn7724124 : 香港人
+2017-09-08 [16:14:02] [Server thread/INFO]: [帅哥]Chine : 666
+2017-09-08 [16:14:03] [Server thread/INFO]: [ZXCVBNM]top_ray : 港澳台
+2017-09-08 [16:14:04] [Server thread/INFO]: [帅哥]OPU : 香港人
+2017-09-08 [16:14:07] [Server thread/INFO]: jianmo_i[/183.214.195.74:10553] [ClientID: 1713180332295172071] logged in with entity id 25579 at (world, 100.6027, 70, 130.1136)
+2017-09-08 [16:14:10] [Server thread/INFO]: jianmo_i joined the game
+2017-09-08 [16:14:10] [Server thread/INFO]: power777888 died
+2017-09-08 [16:14:18] [Server thread/WARNING]: FarPrawn7724124 moved wrongly!
+2017-09-08 [16:14:20] [Server thread/INFO]: [ZXCVBNM]top_ray : 我爸在香港
+2017-09-08 [16:14:21] [Server thread/INFO]: [power777888: Teleported FarPrawn7724124 to power777888]
+2017-09-08 [16:14:29] [Server thread/INFO]: Sebastian[/101.224.245.229:59857] [ClientID: 6985536416876553368] logged in with entity id 25580 at (world, 128, 68.8, 128)
+2017-09-08 [16:14:30] [Server thread/INFO]: [副服主]power777888 : 点下面那个海蓝色的
+2017-09-08 [16:14:31] [Server thread/INFO]: Sebastian joined the game
+2017-09-08 [16:14:34] [Server thread/INFO]: [帅哥]Chine : 我朝鲜人
+2017-09-08 [16:14:36] [Server thread/INFO]: [副服主]power777888 : 点下面那个海蓝色的牌子
+2017-09-08 [16:14:41] [Server thread/INFO]: [ZXCVBNM]top_ray : 擦
+2017-09-08 [16:14:48] [Server thread/INFO]: [副服主]power777888 : 你说话
+2017-09-08 [16:15:17] [Server thread/INFO]: [我是港/澳/台人]FarPrawn7724124 : 做好朋友
+2017-09-08 [16:15:20] [Server thread/INFO]: [副服主]power777888 : 好的
+2017-09-08 [16:15:23] [Server thread/INFO]: [妹子]Vv5418 : 过来
+2017-09-08 [16:15:29] [Server thread/INFO]: Special was pricked to death
+2017-09-08 [16:15:40] [Server thread/INFO]: [副服主]power777888 : 您是从mineserver过来的吗
+2017-09-08 [16:15:43] [Server thread/INFO]: [帅哥]Chine : @Vv5418 箱子是你的吗？
+2017-09-08 [16:15:44] [Server thread/INFO]: [妹子]Vv5418 : 箱子里的给你
+2017-09-08 [16:15:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-08 [16:15:50] [Server thread/INFO]: [ZXCVBNM]top_ray : 对
+2017-09-08 [16:15:55] [Server thread/INFO]: [副服主]power777888 : 没问你
+2017-09-08 [16:15:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-08 [16:16:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-08 [16:16:07] [Server thread/INFO]: [副服主]power777888 : 其实是我把这个服务器指定的
+2017-09-08 [16:16:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-08 [16:16:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-08 [16:16:09] [Server thread/INFO]: [副服主]power777888 : 置顶
+2017-09-08 [16:16:10] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:16:10] [Server thread/INFO]: [ZXCVBNM]top_ray : 嘻嘻
+2017-09-08 [16:16:16] [Server thread/INFO]: [我是港/澳/台人]FarPrawn7724124 : 如何玩生存
+2017-09-08 [16:16:16] [Server thread/INFO]: [副服主]power777888 : 我有权限
+2017-09-08 [16:16:25] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:16:29] [Server thread/WARNING]: Scorpio moved too fast, reverting movement
+2017-09-08 [16:16:30] [Server thread/INFO]: Sebastian left the game
+2017-09-08 [16:16:30] [Server thread/INFO]: Sebastian[/101.224.245.229:59857] logged out due to Failed to login in 120 seconds
+2017-09-08 [16:16:31] [Server thread/INFO]: 27777[/115.195.53.82:62443] [ClientID: -3198064598839975207] logged in with entity id 25595 at (world, 126.0177, 66, 103.95)
+2017-09-08 [16:16:32] [Server thread/WARNING]: OPU moved wrongly!
+2017-09-08 [16:16:33] [Server thread/INFO]: 27777 joined the game
+2017-09-08 [16:16:40] [Server thread/WARNING]: FarPrawn7724124 moved wrongly!
+2017-09-08 [16:16:43] [Server thread/INFO]: [副服主]power777888 : 点那个金色的牌子
+2017-09-08 [16:16:47] [Server thread/INFO]: [副服主]power777888 : 对
+2017-09-08 [16:16:52] [Server thread/INFO]: Vv5418 left the game
+2017-09-08 [16:16:52] [Server thread/INFO]: Vv5418[/223.84.159.210:9457] logged out due to client disconnect
+2017-09-08 [16:17:00] [Server thread/WARNING]: 27777 moved wrongly!
+2017-09-08 [16:17:02] [Server thread/INFO]: [副服主]power777888 : 打木头
+2017-09-08 [16:17:03] [Server thread/WARNING]: 27777 moved wrongly!
+2017-09-08 [16:17:12] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:17:12] [Server thread/INFO]: FarPrawn7724124 has just earned the achievement Getting Wood
+2017-09-08 [16:17:13] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:17:30] [Server thread/WARNING]: Scorpio moved wrongly!
+2017-09-08 [16:17:30] [Server thread/INFO]: 27777 : 家
