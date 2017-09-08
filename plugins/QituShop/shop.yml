@@ -440,34 +440,6 @@
   count: "1"
   money: "180"
   id: "372"
-91:75:165:zy:
-  kind: C
-  name: shishen_xiaohuo
-  count: 0
-  money: "5000"
-  if: 100
-  id: "313"
-91:75:168:zy:
-  kind: C
-  name: shishen_xiaohuo
-  count: 0
-  money: "6000"
-  if: 100
-  id: "310"
-91:75:166:zy:
-  kind: C
-  name: shishen_xiaohuo
-  count: 0
-  money: "7000"
-  if: 100
-  id: "312"
-91:75:167:zy:
-  kind: C
-  name: shishen_xiaohuo
-  count: 0
-  money: "6000"
-  if: 100
-  id: "311"
 86:71:138:zy:
   kind: C
   name: renhui
@@ -838,7 +810,7 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 52
+  count: 51
   money: "20"
   if: 100
   id: "50"
@@ -873,7 +845,7 @@
 36:71:-79:world:
   kind: C
   name: xy520
-  count: 5
+  count: 3
   money: "200"
   if: 100
   id: "265"
@@ -889,4 +861,22 @@
   count: "1"
   money: "20"
   id: "262"
+-301:64:-150:th:
+  kind: B
+  name: 钻石块
+  count: "1"
+  money: "9000"
+  id: "57"
+-301:64:-151:th:
+  kind: sell
+  count: "1"
+  money: "9000"
+  id: "57"
+118:70:104:zy:
+  kind: C
+  name: mc_ROCK
+  count: "10"
+  money: "100000000"
+  if: 100
+  id: "57"
 ...

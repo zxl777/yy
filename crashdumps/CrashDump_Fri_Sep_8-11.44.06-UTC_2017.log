@@ -1,0 +1,58 @@
+GenisysPro Crash Dump Fri Sep 8 11:44:06 UTC 2017
+
+Error: Cannot use pocketmine\nbt\tag\Float as Float because 'Float' is a special class name
+File: /NPC.phar/src/slapper/main
+Line: 22
+Type: E_COMPILE_ERROR
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+[13] use pocketmine\block\Block;
+[14] use pocketmine\entity\Entity;
+[15] use pocketmine\item\Item;
+[16] use pocketmine\level\format\FullChunk;
+[17] use pocketmine\level\Level;
+[18] use pocketmine\level\Position;
+[19] use pocketmine\nbt\tag\Compound;
+[20] use pocketmine\nbt\tag\Double;
+[21] use pocketmine\nbt\tag\Enum;
+[22] use pocketmine\nbt\tag\Float;
+[23] use pocketmine\nbt\tag\Short;
+[24] use pocketmine\nbt\tag\String;
+[25] use pocketmine\nbt\tag\Byte;
+[26] use pocketmine\Player;
+[27] use pocketmine\math\Vector3;
+[28] use pocketmine\event\Listener;
+[29] use pocketmine\event\player\PlayerQuitEvent;
+[30] use pocketmine\event\player\PlayerItemHeldEvent;
+[31] use pocketmine\event\entity\EntityDamageEvent;
+[32] use pocketmine\event\entity\EntityDamageByEntityEvent;
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+GenisysPro version: 5437e0f80bf90f433088e627a570def50ede9014 [Protocol 113; API 3.0.1]
+uname -a: Linux iZt4ncs0fu03n78v5wilaiZ 4.4.0-85-generic #108-Ubuntu SMP Mon Jul 3 17:23:59 UTC 2017 x86_64
+PHP version: 7.0.9
+Zend version: 3.0.0
+OS : Linux, linux
+
+Server uptime: 0 seconds
+Number of loaded worlds: 0
+Players online: 0/666
+
+Loaded plugins:
+Asign 1.4 by Kirt for API(s) 1.10.0
+AshMan 1.0.1 by FENGberd,Alcatraz_Du for API(s) 1.0.0
+Opaving 1.0.0 by Orange for API(s) 1.0.0, 2.0.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4
+SimpleMarry 1.3.0 by Him188 for API(s) 1.0.0
+db 1.0.0 by Benben for API(s) 1.1.0
+BanItem 2.2 by LDX for API(s) 1.0.0, 2.0.0
+essentialsTP 1.0.9 by  for API(s) 1.0.0
+DisableFlow 1.0.0 by MUedsa for API(s) 1.8.0
+SWorld 1.1.0 by 18WYJ2 & boybook for API(s) 1.0.0
+HereAuth 1.0-Dev#39 by PEMapModder for API(s) 3.0.0-ALPHA5
+EconomyAPI 2.0.9 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
+QituShop 1.2.0 by qitu for API(s) 1.0.0
+ld 流星优化 by onebone for API(s) 1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.3.0, 1.3.1, 1.4.0, 1.4.1
