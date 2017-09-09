@@ -880,41 +880,6 @@
   money: "40"
   if: 100
   id: "360"
-181:67:-273:th:
-  kind: C
-  name: Devil
-  count: 60
-  money: "45"
-  if: 100
-  id: "360"
-182:67:-273:th:
-  kind: C
-  name: Devil
-  count: 60
-  money: "55"
-  if: 100
-  id: "297"
-183:67:-273:th:
-  kind: C
-  name: Devil
-  count: 60
-  money: "40"
-  if: 100
-  id: "391"
-184:67:-273:th:
-  kind: C
-  name: Devil
-  count: 49
-  money: "55"
-  if: 100
-  id: "393"
-185:67:-273:th:
-  kind: C
-  name: Devil
-  count: 48
-  money: "45"
-  if: 100
-  id: "364"
 157:65:93:th:
   kind: C
   name: snowball0913
@@ -922,4 +887,25 @@
   money: "550"
   if: 100
   id: "265"
+184:67:-273:th:
+  kind: C
+  name: Devil
+  count: 0
+  money: "45"
+  if: 100
+  id: "393"
+182:67:-273:th:
+  kind: C
+  name: Devil
+  count: 0
+  money: "40"
+  if: 100
+  id: "360"
+181:67:-273:th:
+  kind: C
+  name: Devil
+  count: "40"
+  money: "40"
+  if: 100
+  id: "360"
 ...
