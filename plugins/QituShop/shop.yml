@@ -861,11 +861,6 @@
   count: "1"
   money: "9000"
   id: "57"
--301:64:-151:th:
-  kind: sell
-  count: "1"
-  money: "9000"
-  id: "57"
 -335:64:-151:th:
   kind: C
   name: RoyBlahBlah
@@ -887,20 +882,6 @@
   money: "550"
   if: 100
   id: "265"
-184:67:-273:th:
-  kind: C
-  name: Devil
-  count: 0
-  money: "45"
-  if: 100
-  id: "393"
-182:67:-273:th:
-  kind: C
-  name: Devil
-  count: 0
-  money: "40"
-  if: 100
-  id: "360"
 181:67:-273:th:
   kind: C
   name: Devil
@@ -908,4 +889,39 @@
   money: "40"
   if: 100
   id: "360"
+136:66:-89:th:
+  kind: C
+  name: mc_ROCK
+  count: 63
+  money: "100"
+  if: 100
+  id: "360"
+136:66:-91:th:
+  kind: C
+  name: mc_ROCK
+  count: 63
+  money: "90"
+  if: 100
+  id: "393"
+136:66:-90:th:
+  kind: C
+  name: mc_ROCK
+  count: "51"
+  money: "100"
+  if: 100
+  id: "297"
+136:66:-92:th:
+  kind: C
+  name: mc_ROCK
+  count: "64"
+  money: "12000"
+  if: 100
+  id: "57"
+136:66:-93:th:
+  kind: C
+  name: mc_ROCK
+  count: 63
+  money: "12000"
+  if: 100
+  id: "57"
 ...

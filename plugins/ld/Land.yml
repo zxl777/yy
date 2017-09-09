@@ -843,7 +843,8 @@
   price: 102400
   owner: mc_ROCK
   level: th
-  invitee: []
+  invitee:
+    qiangpojun1: true
   expires: ~
 86:
   ID: 86
@@ -1671,7 +1672,8 @@
   price: 35700
   owner: qiangpojun1
   level: world
-  invitee: []
+  invitee:
+    mc_ROCK: true
   expires: ~
 168:
   ID: 168
@@ -3974,7 +3976,8 @@
   price: 9895900
   owner: top_ray
   level: th
-  invitee: []
+  invitee:
+    liuliu2008: true
   expires: ~
 430:
   ID: 430
@@ -3996,7 +3999,8 @@
   price: 1922500
   owner: top_ray
   level: th
-  invitee: []
+  invitee:
+    liuliu2008: true
   expires: ~
 432:
   ID: 432
@@ -4018,7 +4022,8 @@
   price: 158400
   owner: top_ray
   level: th
-  invitee: []
+  invitee:
+    liuliu2008: true
   expires: ~
 434:
   ID: 434
@@ -4077,7 +4082,9 @@
   price: 1271400
   owner: top_ray
   level: th
-  invitee: []
+  invitee:
+    liu: true
+    liuliu2008: true
   expires: ~
 439:
   ID: 439
@@ -4365,9 +4372,13 @@
   startZ: -252
   endZ: -144
   price: 920200
-  owner: qiangpojun1
+  owner: xiaochuyin
   level: th
-  invitee: []
+  invitee:
+    qiangpojun1: true
+    xianggong520: true
+    gongxiang520: true
+    mc_ROCK: true
   expires: ~
 474:
   ID: 474
@@ -4380,5 +4391,39 @@
   level: th
   invitee:
     Devil: true
+  expires: ~
+475:
+  ID: 475
+  startX: -10
+  endX: 142
+  startZ: 1582
+  endZ: 1587
+  price: 60400
+  owner: liuliu2008
+  level: th
+  invitee: []
+  expires: ~
+476:
+  ID: 476
+  startX: -11
+  endX: 338
+  startZ: 1586
+  endZ: 1674
+  price: 3027600
+  owner: top_ray
+  level: th
+  invitee:
+    liuliu2008: true
+  expires: ~
+477:
+  ID: 477
+  startX: 21
+  endX: 44
+  startZ: 1494
+  endZ: 1504
+  price: 19800
+  owner: top_ray
+  level: th
+  invitee: []
   expires: ~
 ...
