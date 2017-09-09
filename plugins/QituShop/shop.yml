@@ -780,8 +780,8 @@
   id: "388"
 3002:80:2006:world:
   kind: E
-  name: 副服主
-  money: "99999999"
+  name: §l§o副服主
+  money: "19199"
 148:65:117:world:
   kind: E
   name: §cVIP§a+§c
@@ -804,14 +804,14 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 51
+  count: 50
   money: "20"
   if: 100
   id: "50"
 36:70:-77:world:
   kind: C
   name: xy520
-  count: 34
+  count: 33
   money: "20"
   if: 100
   id: "45"
@@ -839,7 +839,7 @@
 36:71:-79:world:
   kind: C
   name: xy520
-  count: 1
+  count: 0
   money: "200"
   if: 100
   id: "265"
@@ -915,4 +915,11 @@
   money: "45"
   if: 100
   id: "364"
+157:65:93:th:
+  kind: C
+  name: snowball0913
+  count: 39
+  money: "550"
+  if: 100
+  id: "265"
 ...
