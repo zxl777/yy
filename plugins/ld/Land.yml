@@ -2302,17 +2302,6 @@
   level: world
   invitee: []
   expires: ~
-251:
-  ID: 251
-  startX: -40
-  endX: 33
-  startZ: -40
-  endZ: 33
-  price: 518400
-  owner: jack
-  level: th
-  invitee: []
-  expires: ~
 252:
   ID: 252
   startX: -72
@@ -4391,6 +4380,7 @@
   level: th
   invitee:
     Devil: true
+    w s: true
   expires: ~
 475:
   ID: 475
@@ -4480,5 +4470,22 @@
   owner: Scream0210
   level: th
   invitee: []
+  expires: ~
+483:
+  ID: 483
+  startX: -2400
+  endX: -2163
+  startZ: 195
+  endZ: 328
+  price: 3115200
+  owner: power777888
+  level: th
+  invitee:
+    OPU: true
+    RoyBlahBlah: true
+    xiao: true
+    xiao_hao: true
+    qiangpojun1: true
+    kwkkwk123: true
   expires: ~
 ...
