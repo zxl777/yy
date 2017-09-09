@@ -924,4 +924,15 @@
   money: "12000"
   if: 100
   id: "57"
+-2321:66:274:th:
+  kind: C
+  name: top_ray
+  count: 19
+  money: "5"
+  if: 100
+  id: "98"
+149:67:117:world:
+  kind: E
+  name: §l§o§a伪高压酱
+  money: "200000"
 ...
