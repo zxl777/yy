@@ -1,4 +1,4 @@
-# Updated 09/09/17 16:36 by GenisysPro 1.1dev
+# Updated 09/09/17 23:06 by GenisysPro 1.1dev
 # victim name | ban date | banned by | banned until | reason
 
 1223986302053481146|2017-08-16 07:55:18 +0000|(Unknown)|Forever|Banned by an operator.
@@ -14,3 +14,5 @@
 6961735811638613043|2017-09-09 16:03:33 +0800|lihaoyy|Forever|Banned by an operator.
 unban|2017-09-09 16:36:21 +0800|AllHELLOaaa1227|Forever|TNT
 ban|2017-09-09 16:36:44 +0800|AllHELLOaaa1227|Forever|TNT
+pmpmokk|2017-09-09 23:05:09 +0800|AllHELLOaaa1227|Forever|Banned by an operator.
+115.60.0.65|2017-09-09 23:06:37 +0800|AllHELLOaaa1227|Forever|Banned by an operator.

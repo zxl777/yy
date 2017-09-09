@@ -78,18 +78,6 @@
   level: world
   invitee: []
   expires: ~
-9:
-  ID: 9
-  startX: 116
-  endX: 149
-  startZ: 155
-  endZ: 188
-  price: 102400
-  owner: 100_hjs
-  level: th
-  invitee:
-    TKECT: true
-  expires: ~
 10:
   ID: 10
   startX: 20
@@ -4369,6 +4357,7 @@
     xianggong520: true
     gongxiang520: true
     mc_ROCK: true
+    kwkkwk123: true
   expires: ~
 474:
   ID: 474
@@ -4508,6 +4497,17 @@
   endZ: -53
   price: 19800
   owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+486:
+  ID: 486
+  startX: 115
+  endX: 150
+  startZ: 154
+  endZ: 189
+  price: 115600
+  owner: power777888
   level: th
   invitee: []
   expires: ~

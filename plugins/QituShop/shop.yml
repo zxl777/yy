@@ -885,7 +885,7 @@
 181:67:-273:th:
   kind: C
   name: Devil
-  count: 31
+  count: 28
   money: "40"
   if: 100
   id: "360"
@@ -998,7 +998,7 @@
 -2332:72:270:th:
   kind: C
   name: qiangpojun1
-  count: "1"
+  count: 0
   money: "1000"
   if: 100
   id: "30"
@@ -1047,7 +1047,7 @@
 -2332:71:273:th:
   kind: C
   name: qiangpojun1
-  count: "1"
+  count: 0
   money: "200"
   if: 100
   id: "354"
@@ -1072,11 +1072,4 @@
   money: "40"
   if: 100
   id: "297"
-183:67:-273:th:
-  kind: C
-  name: Devil
-  count: "1"
-  money: "100"
-  if: 100
-  id: "354"
 ...
