@@ -804,14 +804,14 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 49
+  count: 43
   money: "20"
   if: 100
   id: "50"
 36:70:-77:world:
   kind: C
   name: xy520
-  count: 33
+  count: 0
   money: "20"
   if: 100
   id: "45"
@@ -825,14 +825,14 @@
 36:71:-78:world:
   kind: C
   name: xy520
-  count: 15
+  count: 14
   money: "40"
   if: 100
   id: "406"
 36:71:-77:world:
   kind: C
   name: xy520
-  count: 198
+  count: 197
   money: "20"
   if: 100
   id: "12"
