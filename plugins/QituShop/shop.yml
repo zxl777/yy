@@ -836,13 +836,6 @@
   money: "20"
   if: 100
   id: "12"
-36:71:-79:world:
-  kind: C
-  name: xy520
-  count: 0
-  money: "200"
-  if: 100
-  id: "265"
 160:66:110:world:
   kind: B
   name: 玻璃
