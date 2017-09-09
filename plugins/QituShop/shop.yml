@@ -885,7 +885,7 @@
 181:67:-273:th:
   kind: C
   name: Devil
-  count: 37
+  count: 31
   money: "40"
   if: 100
   id: "360"
@@ -944,7 +944,7 @@
 207:65:-275:th:
   kind: C
   name: Devil
-  count: "20"
+  count: 16
   money: "1050"
   if: 100
   id: "264"
@@ -953,4 +953,130 @@
   count: "1"
   money: "1100"
   id: "264"
+-2330:71:272:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "1000"
+  if: 100
+  id: "35"
+-2330:72:272:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "200"
+  if: 100
+  id: "155"
+-2330:72:271:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "500"
+  if: 100
+  id: "82"
+-2331:72:270:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "750"
+  if: 100
+  id: "2"
+-2331:71:270:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "1500"
+  if: 100
+  id: "245"
+-2332:71:270:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "250"
+  if: 100
+  id: "47"
+-2332:72:270:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "1000"
+  if: 100
+  id: "30"
+-2330:71:271:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "500"
+  if: 100
+  id: "79"
+-2333:72:271:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "150"
+  if: 100
+  id: "170"
+-2333:71:271:th:
+  kind: C
+  name: qiangpojun1
+  count: 0
+  money: "100"
+  if: 100
+  id: "260"
+-2333:71:272:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "750"
+  if: 100
+  id: "351"
+-2333:72:272:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "500"
+  if: 100
+  id: "321"
+-2332:72:273:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "500"
+  if: 100
+  id: "19"
+-2332:71:273:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "200"
+  if: 100
+  id: "354"
+-2331:72:273:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "200"
+  if: 100
+  id: "336"
+-2331:71:273:th:
+  kind: C
+  name: qiangpojun1
+  count: 0
+  money: "500"
+  if: 100
+  id: "344"
+182:67:-273:th:
+  kind: C
+  name: Devil
+  count: "35"
+  money: "40"
+  if: 100
+  id: "297"
+183:67:-273:th:
+  kind: C
+  name: Devil
+  count: "1"
+  money: "100"
+  if: 100
+  id: "354"
 ...
