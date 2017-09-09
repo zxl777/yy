@@ -4426,4 +4426,37 @@
   level: th
   invitee: []
   expires: ~
+478:
+  ID: 478
+  startX: 1284
+  endX: 1296
+  startZ: -52
+  endZ: -37
+  price: 15400
+  owner: Scream0210
+  level: th
+  invitee: []
+  expires: ~
+479:
+  ID: 479
+  startX: -49
+  endX: -23
+  startZ: -142
+  endZ: -128
+  price: 32500
+  owner: yukozh
+  level: world
+  invitee: []
+  expires: ~
+480:
+  ID: 480
+  startX: 96
+  endX: 123
+  startZ: -293
+  endZ: -265
+  price: 70200
+  owner: hua_ji
+  level: world
+  invitee: []
+  expires: ~
 ...

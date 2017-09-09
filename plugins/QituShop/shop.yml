@@ -804,7 +804,7 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 50
+  count: 49
   money: "20"
   if: 100
   id: "50"
