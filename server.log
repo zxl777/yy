@@ -1,2 +1,8 @@
 2017-09-10 [21:04:40] [Server thread/INFO]: [初音陛下]xiaochuyin : 517那块地
 2017-09-10 [21:04:41] [Server thread/INFO]: [生存大师]honey_pie : 旅馆满了吗
+2017-09-10 [21:04:55] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-10 [21:04:56] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-10 [21:05:06] [Server thread/NOTICE]: Player data not found for "pneumoconiosis", creating new profile
+2017-09-10 [21:05:06] [Server thread/INFO]: pneumoconiosis[/36.48.47.77:11314] [ClientID: 4908598400755120809] logged in with entity id 612 at (world, 128, 68, 128)
+2017-09-10 [21:05:12] [Server thread/INFO]: pneumoconiosis[/36.48.47.77:11314] logged out due to client disconnect
+2017-09-10 [21:05:18] [Server thread/INFO]: pneumoconiosis[/36.48.47.77:11314] [ClientID: 4908598400755120809] logged in with entity id 629 at (world, 128, 68, 128)
