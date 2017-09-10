@@ -800,7 +800,7 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 43
+  count: 42
   money: "20"
   if: 100
   id: "50"
@@ -821,7 +821,7 @@
 36:71:-78:world:
   kind: C
   name: xy520
-  count: 14
+  count: 13
   money: "40"
   if: 100
   id: "406"
@@ -881,7 +881,7 @@
 136:66:-89:th:
   kind: C
   name: mc_ROCK
-  count: 63
+  count: 60
   money: "100"
   if: 100
   id: "360"
@@ -1061,4 +1061,22 @@
   money: "40"
   if: 100
   id: "297"
+3002:80:2006:world:
+  kind: E
+  name: §l§a副服主
+  money: "99999999"
+136:66:-94:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "100"
+  if: 100
+  id: "82"
+136:66:-95:th:
+  kind: C
+  name: qiangpojun1
+  count: "1"
+  money: "64"
+  if: 100
+  id: "155"
 ...
