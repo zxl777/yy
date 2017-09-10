@@ -857,13 +857,6 @@
   money: "1"
   if: 100
   id: "364"
-208:65:-275:th:
-  kind: C
-  name: Devil
-  count: 0
-  money: "40"
-  if: 100
-  id: "360"
 157:65:93:th:
   kind: C
   name: snowball0913
@@ -871,13 +864,6 @@
   money: "550"
   if: 100
   id: "265"
-181:67:-273:th:
-  kind: C
-  name: Devil
-  count: 0
-  money: "40"
-  if: 100
-  id: "360"
 136:66:-89:th:
   kind: C
   name: mc_ROCK
@@ -930,13 +916,6 @@
   count: "64"
   money: "500"
   id: "262"
-207:65:-275:th:
-  kind: C
-  name: Devil
-  count: 0
-  money: "1050"
-  if: 100
-  id: "264"
 127:66:-108:th:
   kind: sell
   count: "1"
@@ -1019,13 +998,6 @@
   money: "200"
   if: 100
   id: "336"
-182:67:-273:th:
-  kind: C
-  name: Devil
-  count: 0
-  money: "40"
-  if: 100
-  id: "297"
 136:66:-94:th:
   kind: C
   name: qiangpojun1
@@ -1054,13 +1026,6 @@
   money: "200"
   if: 100
   id: "89"
--2330:65:259:th:
-  kind: D
-  name: 超级加速
-  time: "10"
-  lv: "20"
-  money: "10"
-  id: "1"
 244:83:-320:th:
   kind: C
   name: snowball0913
@@ -1075,4 +1040,32 @@
   money: "700"
   if: 100
   id: "49"
+208:65:-275:th:
+  kind: C
+  name: Devil
+  count: "50"
+  money: "1050"
+  if: 100
+  id: "264"
+209:65:-275:th:
+  kind: C
+  name: Devil
+  count: "59"
+  money: "45"
+  if: 100
+  id: "360"
+167:66:-263:th:
+  kind: C
+  name: Devil
+  count: 30
+  money: "1100"
+  if: 100
+  id: "264"
+181:67:-273:th:
+  kind: C
+  name: Devil
+  count: "59"
+  money: "45"
+  if: 100
+  id: "360"
 ...
