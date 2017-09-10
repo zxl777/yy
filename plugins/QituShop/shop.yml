@@ -800,7 +800,7 @@
 36:70:-78:world:
   kind: C
   name: xy520
-  count: 42
+  count: 37
   money: "20"
   if: 100
   id: "50"
@@ -821,7 +821,7 @@
 36:71:-78:world:
   kind: C
   name: xy520
-  count: 13
+  count: 12
   money: "40"
   if: 100
   id: "406"
@@ -984,13 +984,6 @@
   money: "250"
   if: 100
   id: "47"
--2332:72:270:th:
-  kind: C
-  name: qiangpojun1
-  count: 0
-  money: "1000"
-  if: 100
-  id: "30"
 -2330:71:271:th:
   kind: C
   name: qiangpojun1
@@ -1005,13 +998,6 @@
   money: "150"
   if: 100
   id: "170"
--2333:71:271:th:
-  kind: C
-  name: qiangpojun1
-  count: 0
-  money: "100"
-  if: 100
-  id: "260"
 -2333:71:272:th:
   kind: C
   name: qiangpojun1
@@ -1026,20 +1012,6 @@
   money: "500"
   if: 100
   id: "321"
--2332:72:273:th:
-  kind: C
-  name: qiangpojun1
-  count: "1"
-  money: "500"
-  if: 100
-  id: "19"
--2332:71:273:th:
-  kind: C
-  name: qiangpojun1
-  count: 0
-  money: "200"
-  if: 100
-  id: "354"
 -2331:72:273:th:
   kind: C
   name: qiangpojun1
@@ -1047,13 +1019,6 @@
   money: "200"
   if: 100
   id: "336"
--2331:71:273:th:
-  kind: C
-  name: qiangpojun1
-  count: 0
-  money: "500"
-  if: 100
-  id: "344"
 182:67:-273:th:
   kind: C
   name: Devil
@@ -1079,4 +1044,11 @@
   money: "64"
   if: 100
   id: "155"
+170:65:-207:th:
+  kind: C
+  name: hua_ji
+  count: "1"
+  money: "1200"
+  if: 100
+  id: "264"
 ...
