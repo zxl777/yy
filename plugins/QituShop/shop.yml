@@ -1026,10 +1026,6 @@
   money: "40"
   if: 100
   id: "297"
-3002:80:2006:world:
-  kind: E
-  name: §l§a副服主
-  money: "99999999"
 136:66:-94:th:
   kind: C
   name: qiangpojun1
@@ -1054,7 +1050,7 @@
 244:82:-320:th:
   kind: C
   name: snowball0913
-  count: 10
+  count: 0
   money: "200"
   if: 100
   id: "89"
@@ -1068,8 +1064,15 @@
 244:83:-320:th:
   kind: C
   name: snowball0913
-  count: 11
+  count: 0
   money: "3"
   if: 100
   id: "5"
+243:83:-320:th:
+  kind: C
+  name: snowball0913
+  count: 4
+  money: "700"
+  if: 100
+  id: "49"
 ...
