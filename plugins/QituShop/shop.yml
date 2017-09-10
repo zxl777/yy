@@ -30,10 +30,10 @@
   id: "50"
 160:66:102:world:
   kind: B
-  name: §8基岩
-  count: "5"
-  money: "50000"
-  id: "7"
+  name: §e牛皮
+  count: "1"
+  money: "150"
+  id: "334"
 162:66:102:world:
   kind: B
   name: §5黑曜石
@@ -1068,4 +1068,98 @@
   money: "45"
   if: 100
   id: "360"
+155:71:117:world:
+  kind: B
+  name: §f羊毛
+  count: "16"
+  money: "400"
+  id: "35"
+154:71:117:world:
+  kind: B
+  name: §6羊毛
+  count: "16"
+  money: "400"
+  id: "35:1"
+153:71:117:world:
+  kind: B
+  name: §b羊毛
+  count: "16"
+  money: "400"
+  id: "35:3"
+152:71:117:world:
+  kind: B
+  name: §e羊毛
+  count: "16"
+  money: "400"
+  id: "35:4"
+151:71:117:world:
+  kind: B
+  name: §a羊毛
+  count: "16"
+  money: "400"
+  id: "35:5"
+150:71:117:world:
+  kind: B
+  name: §d羊毛
+  count: "16"
+  money: "400"
+  id: "35:6"
+149:71:117:world:
+  kind: B
+  name: §8羊毛
+  count: "16"
+  money: "400"
+  id: "35:7"
+148:71:117:world:
+  kind: B
+  name: §7羊毛
+  count: "16"
+  money: "400"
+  id: "35:8"
+147:71:117:world:
+  kind: B
+  name: §3羊毛
+  count: "16"
+  money: "400"
+  id: "35:9"
+146:71:117:world:
+  kind: B
+  name: §5羊毛
+  count: "16"
+  money: "400"
+  id: "35:10"
+145:71:117:world:
+  kind: B
+  name: §1羊毛
+  count: "16"
+  money: "400"
+  id: "35:11"
+144:71:117:world:
+  kind: B
+  name: §2羊毛
+  count: "16"
+  money: "400"
+  id: "35:13"
+157:71:117:world:
+  kind: B
+  name: §4羊毛
+  count: "16"
+  money: "400"
+  id: "35:14"
+156:71:117:world:
+  kind: B
+  name: §0羊毛
+  count: "16"
+  money: "400"
+  id: "35:15"
+158:71:117:world:
+  kind: B
+  name: §d羊毛
+  count: "16"
+  money: "400"
+  id: "35:2"
+3006:82:2008:world:
+  kind: E
+  name: §l§a§m副腐竹
+  money: ~
 ...
