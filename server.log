@@ -1,488 +1,1648 @@
-2017-09-10 [04:24:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:24:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:24:22] [Server thread/NOTICE]: Player data not found for "xiaoai520", creating new profile
-2017-09-10 [04:24:22] [Server thread/INFO]: xiaoai520[/182.129.25.194:38577] [ClientID: -9040119623138387494] logged in with entity id 8671 at (world, 128, 68, 128)
-2017-09-10 [04:24:24] [Server thread/INFO]: xiaoai520 joined the game
-2017-09-10 [04:24:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:24:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:25:56] [Server thread/INFO]: xiaoai520 left the game
-2017-09-10 [04:25:56] [Server thread/INFO]: xiaoai520[/182.129.25.194:38577] logged out due to client disconnect
-2017-09-10 [04:26:15] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:26:25] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:27:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:27:21] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:27:33] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:27:34] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:29:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:29:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:29:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:29:29] [Server thread/INFO]: Steve[/72.46.61.212:36443] [ClientID: 1625321383257853487] logged in with entity id 8775 at (world, 128.0436, 68.2, 128.0072)
-2017-09-10 [04:29:33] [Server thread/INFO]: Steve joined the game
-2017-09-10 [04:30:04] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:30:27] [Server thread/INFO]: Steve left the game
-2017-09-10 [04:30:27] [Server thread/INFO]: Steve[/72.46.61.212:36443] logged out due to client disconnect
-2017-09-10 [04:34:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:34:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:34:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:34:46] [Server thread/INFO]: Zach[/73.252.39.247:62942] [ClientID: -8549901135355735145] logged in with entity id 9062 at (th, 130, 66.2, 131)
-2017-09-10 [04:34:46] [Server thread/INFO]: xy520 left the game
-2017-09-10 [04:34:46] [Server thread/INFO]: xy520[/190.45.41.56:60948] logged out due to client disconnect
-2017-09-10 [04:34:49] [Server thread/INFO]: Zach joined the game
-2017-09-10 [04:35:41] [Server thread/INFO]: Steve[/188.70.51.235:23599] [ClientID: 4098354993699731296] logged in with entity id 9064 at (world, 128.0436, 68.4, 128.0072)
-2017-09-10 [04:35:47] [Server thread/INFO]: Zach left the game
-2017-09-10 [04:35:47] [Server thread/INFO]: Zach[/73.252.39.247:62942] logged out due to client disconnect
-2017-09-10 [04:35:55] [Server thread/INFO]: Steve joined the game
-2017-09-10 [04:36:48] [Server thread/NOTICE]: Player data not found for "bugsinator", creating new profile
-2017-09-10 [04:36:48] [Server thread/INFO]: Bugsinator[/24.28.143.51:61297] [ClientID: -7820785381413496522] logged in with entity id 9065 at (world, 128, 68, 128)
-2017-09-10 [04:36:50] [Server thread/INFO]: Bugsinator joined the game
-2017-09-10 [04:37:03] [Server thread/INFO]: Steve left the game
-2017-09-10 [04:37:03] [Server thread/INFO]: Steve[/188.70.51.235:23599] logged out due to timeout
-2017-09-10 [04:37:32] [Server thread/WARNING]: Bugsinator moved wrongly!
-2017-09-10 [04:38:00] [Server thread/WARNING]: Bugsinator moved wrongly!
-2017-09-10 [04:38:01] [Server thread/WARNING]: Bugsinator moved wrongly!
-2017-09-10 [04:38:09] [Server thread/WARNING]: Bugsinator moved wrongly!
-2017-09-10 [04:38:28] [Server thread/WARNING]: Bugsinator moved wrongly!
-2017-09-10 [04:38:30] [Server thread/INFO]: Bugsinator left the game
-2017-09-10 [04:38:30] [Server thread/INFO]: Bugsinator[/24.28.143.51:61297] logged out due to client disconnect
-2017-09-10 [04:39:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:39:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:39:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:44:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:44:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:44:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:44:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:44:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:49:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:49:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:49:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:49:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:49:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:49:51] [Server thread/INFO]: xy520[/190.45.41.56:57856] [ClientID: -5729687298302546594] logged in with entity id 9066 at (world, 234.7881, 111, 206.421)
-2017-09-10 [04:49:54] [Server thread/INFO]: xy520 joined the game
-2017-09-10 [04:51:04] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 9069 at (th, 188.716, 65.5, -219.1751)
-2017-09-10 [04:51:07] [Server thread/INFO]: yukozh joined the game
-2017-09-10 [04:51:26] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:52:29] [Server thread/INFO]: yukozh left the game
-2017-09-10 [04:52:29] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
-2017-09-10 [04:52:37] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:53:03] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:53:03] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:54:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:54:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:54:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:54:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:54:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [04:58:30] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [04:59:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [04:59:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [04:59:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [04:59:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [04:59:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:03:36] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:04:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:04:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:04:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:04:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:04:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:04:36] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 9224 at (world, 127.5726, 68.375, 135.3994)
-2017-09-10 [05:04:38] [Server thread/INFO]: yukozh joined the game
-2017-09-10 [05:04:42] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:05:33] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:12] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:12] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:29] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:31] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:33] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:44] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:07:54] [Server thread/INFO]: Steve[/71.228.12.114:49877] [ClientID: -4473091297879459210] logged in with entity id 9231 at (world, 128.0436, 68.6, 128.0072)
-2017-09-10 [05:07:57] [Server thread/INFO]: Steve joined the game
-2017-09-10 [05:08:27] [Server thread/INFO]: Steve left the game
-2017-09-10 [05:08:27] [Server thread/INFO]: Steve[/71.228.12.114:49877] logged out due to client disconnect
-2017-09-10 [05:08:37] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:08:58] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:09:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:09:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:09:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:09:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:09:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:09:54] [Server thread/INFO]: [MVP+]yukozh : 。
-2017-09-10 [05:10:10] [Server thread/INFO]: [MVP+]yukozh : 没人不开森
-2017-09-10 [05:10:58] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:11:18] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:14:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:14:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:14:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:14:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:14:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:15:49] [Server thread/INFO]: wyatt[/173.94.173.19:61099] [ClientID: -5429502228299002098] logged in with entity id 9337 at (world, 128, 68.4, 128)
-2017-09-10 [05:15:50] [Server thread/INFO]: wyatt joined the game
-2017-09-10 [05:16:11] [Server thread/INFO]: [帅X]xy520 : 回城
-2017-09-10 [05:16:17] [Server thread/INFO]: [MVP+]yukozh : ？
-2017-09-10 [05:16:21] [Server thread/INFO]: [帅X]xy520 : 2
-2017-09-10 [05:16:36] [Server thread/INFO]: Steve[/179.208.139.19:62630] [ClientID: 4795948805305756848] logged in with entity id 9338 at (world, 128.0436, 68.8, 128.0072)
-2017-09-10 [05:16:41] [Server thread/INFO]: Steve joined the game
-2017-09-10 [05:16:52] [Server thread/INFO]: Steve left the game
-2017-09-10 [05:16:52] [Server thread/INFO]: Steve[/179.208.139.19:62630] logged out due to timeout
-2017-09-10 [05:16:53] [Server thread/INFO]: wyatt left the game
-2017-09-10 [05:16:53] [Server thread/INFO]: wyatt[/173.94.173.19:61099] logged out due to client disconnect
-2017-09-10 [05:18:33] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:19:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:19:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:19:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:19:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:19:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:19:29] [Server thread/INFO]: shadow [/73.34.189.195:63794] logged out due to Invalid name!
-2017-09-10 [05:19:32] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:19:47] [Server thread/INFO]: shadow [/73.34.189.195:63794] logged out due to Invalid name!
-2017-09-10 [05:20:29] [Server thread/INFO]: yukozh left the game
-2017-09-10 [05:20:29] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
-2017-09-10 [05:22:33] [Server thread/INFO]: xy520 left the game
-2017-09-10 [05:22:33] [Server thread/INFO]: xy520[/190.45.41.56:57856] logged out due to client disconnect
-2017-09-10 [05:24:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:24:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:24:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:24:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:24:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:29:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:29:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:29:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:34:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:34:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:34:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:39:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:39:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:39:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:40:50] [Server thread/INFO]: 2136131645[/117.90.41.101:3455] [ClientID: 3605837626884141308] logged in with entity id 9669 at (world, 125.0564, 64, 116.6217)
-2017-09-10 [05:40:53] [Server thread/INFO]: 2136131645 joined the game
-2017-09-10 [05:41:21] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-10 [05:41:22] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 9670 at (world, 126.7043, 67.5608, 112.8978)
-2017-09-10 [05:41:24] [Server thread/INFO]: yukozh joined the game
-2017-09-10 [05:41:40] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-10 [05:42:37] [Server thread/INFO]: yukozh left the game
-2017-09-10 [05:42:37] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
-2017-09-10 [05:42:57] [Server thread/INFO]: 2136131645 : 服主是傻逼
-2017-09-10 [05:43:02] [Server thread/INFO]: 2136131645 : 是傻狗
-2017-09-10 [05:43:07] [Server thread/INFO]: 2136131645 : 他妈死了
-2017-09-10 [05:43:28] [Server thread/INFO]: 2136131645 : 他������全家死光了
-2017-09-10 [05:44:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:44:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:44:21] [Server thread/INFO]: xy520[/190.45.41.56:56252] [ClientID: -5729687298302546594] logged in with entity id 9720 at (nether, -118.2295, 96, -127.4693)
-2017-09-10 [05:44:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:44:24] [Server thread/INFO]: xy520 joined the game
-2017-09-10 [05:44:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:44:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:44:53] [Server thread/INFO]: xy520 left the game
-2017-09-10 [05:44:53] [Server thread/INFO]: xy520[/190.45.41.56:56252] logged out due to client disconnect
-2017-09-10 [05:45:24] [Server thread/INFO]: xy520[/190.45.41.56:62794] [ClientID: -5729687298302546594] logged in with entity id 9738 at (nether, -119.3649, 95, -133.8062)
-2017-09-10 [05:45:27] [Server thread/INFO]: xy520 joined the game
-2017-09-10 [05:46:15] [Server thread/INFO]: tmdnmd[/220.200.58.141:27338] [ClientID: 6928900985537816080] logged in with entity id 9744 at (world, -55.207, 65, 1020.2152)
-2017-09-10 [05:46:17] [Server thread/INFO]: tmdnmd joined the game
-2017-09-10 [05:46:43] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:47:00] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-10 [05:47:00] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:47:01] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:47:39] [Server thread/INFO]: [aa]tmdnmd : 有人吗
-2017-09-10 [05:47:48] [Server thread/INFO]: [帅X]xy520 : 有
-2017-09-10 [05:48:04] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:48:05] [Server thread/INFO]: [aa]tmdnmd : 怎么tp呀
-2017-09-10 [05:48:05] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:48:11] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:48:11] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:48:12] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 9776 at (world, 129.4043, 93.4359, 110.5748)
-2017-09-10 [05:48:14] [Server thread/INFO]: yukozh joined the game
-2017-09-10 [05:48:31] [Server thread/INFO]: [帅X]xy520 : 打/找人 人名
-2017-09-10 [05:48:33] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:48:33] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:48:39] [Server thread/INFO]: [aa]tmdnmd : 谢谢
-2017-09-10 [05:48:52] [Server thread/INFO]: [MVP+]yukozh : 。。
-2017-09-10 [05:49:01] [Server thread/INFO]: [aa]tmdnmd : 全玩国外的服务器
-2017-09-10 [05:49:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:49:09] [Server thread/INFO]: [aa]tmdnmd : 中国的不知道怎么
-2017-09-10 [05:49:09] [Server thread/INFO]: [MVP+]yukozh : ？
-2017-09-10 [05:49:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:49:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:49:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:49:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:49:27] [Server thread/INFO]: [帅X]xy520 : 以前我也是
-2017-09-10 [05:49:59] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [05:50:07] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-10 [05:50:21] [Server thread/INFO]: geometry master[/24.155.15.44:51006] logged out due to Invalid name!
-2017-09-10 [05:50:41] [Server thread/NOTICE]: Player data not found for "destroyer", creating new profile
-2017-09-10 [05:50:41] [Server thread/INFO]: destroyer[/100.0.91.169:53277] [ClientID: -8945207691115994255] logged in with entity id 9957 at (world, 128, 68, 128)
-2017-09-10 [05:50:43] [Server thread/INFO]: destroyer joined the game
-2017-09-10 [05:50:45] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:50:45] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:51:03] [Server thread/INFO]: [aa]tmdnmd : 可怕可怕
-2017-09-10 [05:51:04] [Server thread/INFO]: destroyer left the game
-2017-09-10 [05:51:04] [Server thread/INFO]: destroyer[/100.0.91.169:53277] logged out due to client disconnect
-2017-09-10 [05:51:04] [Server thread/INFO]: [aa]tmdnmd : 233
-2017-09-10 [05:51:17] [Server thread/INFO]: [帅X]xy520 : 干吗了
-2017-09-10 [05:51:34] [Server thread/INFO]: [帅X]xy520 : 什么可怕
-2017-09-10 [05:51:58] [Server thread/INFO]: 2136131645 left the game
-2017-09-10 [05:51:58] [Server thread/INFO]: 2136131645[/117.90.41.101:3455] logged out due to client disconnect
-2017-09-10 [05:52:28] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:28] [Server thread/INFO]: [MVP+]yukozh : 加个微信么
-2017-09-10 [05:52:29] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:31] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:31] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:33] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:40] [Server thread/INFO]: [aa]tmdnmd : 可以呀
-2017-09-10 [05:52:41] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:44] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:45] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:50] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:54] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:55] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:52:55] [Server thread/INFO]: [MVP+]yukozh : 有钻是
-2017-09-10 [05:53:02] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:53:02] [Server thread/INFO]: [MVP+]yukozh : 我这
-2017-09-10 [05:53:04] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:53:05] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:53:06] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:53:33] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:54:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:54:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:54:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:54:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:54:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [05:55:18] [Server thread/INFO]: [aa]tmdnmd : 这个服务器可以玩红石吗
-2017-09-10 [05:55:28] [Server thread/INFO]: [MVP+]yukozh : 可以
-2017-09-10 [05:55:47] [Server thread/NOTICE]: Player data not found for "fullstarling353", creating new profile
-2017-09-10 [05:55:47] [Server thread/INFO]: FullStarling353[/38.128.132.97:56734] [ClientID: -5050370845510310272] logged in with entity id 10342 at (world, 128, 68, 128)
-2017-09-10 [05:55:48] [Server thread/INFO]: FullStarling353 joined the game
-2017-09-10 [05:55:50] [Server thread/INFO]: [MVP+]yukozh : 可是红石买不了
-2017-09-10 [05:55:55] [Server thread/INFO]: [帅X]xy520 : 活塞不可以
-2017-09-10 [05:55:59] [Server thread/INFO]: [MVP+]yukozh : 卖不了
-2017-09-10 [05:56:07] [Server thread/INFO]: [aa]tmdnmd : 懂了
-2017-09-10 [05:56:23] [Server thread/NOTICE]: Player data not found for "deaddestroyer610", creating new profile
-2017-09-10 [05:56:23] [Server thread/INFO]: deaddestroyer610[/98.225.212.201:37650] [ClientID: -5664954583930096754] logged in with entity id 10353 at (world, 128, 68, 128)
-2017-09-10 [05:56:25] [Server thread/INFO]: deaddestroyer610 joined the game
-2017-09-10 [05:56:29] [Server thread/INFO]: FullStarling353 left the game
-2017-09-10 [05:56:29] [Server thread/INFO]: FullStarling353[/38.128.132.97:56734] logged out due to client disconnect
-2017-09-10 [05:56:30] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:57:03] [Server thread/INFO]: [帅X]xy520 : 红石应该不可
-2017-09-10 [05:57:03] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [05:57:14] [Server thread/INFO]: [MVP+]yukozh : 跳下来
-2017-09-10 [05:57:40] [Server thread/INFO]: deaddestroyer610 left the game
-2017-09-10 [05:57:40] [Server thread/INFO]: deaddestroyer610[/98.225.212.201:37650] logged out due to client disconnect
-2017-09-10 [05:59:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [05:59:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [05:59:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [05:59:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-10 [05:59:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [06:00:45] [Server thread/INFO]: محمد[/51.223.71.212:51983] logged out due to Invalid name!
-2017-09-10 [06:01:06] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:01:21] [Server thread/INFO]: Steve[/76.251.193.55:50862] [ClientID: 2136336982442633850] logged in with entity id 10498 at (world, 128.0436, 69, 128.0072)
-2017-09-10 [06:01:22] [Server thread/INFO]: Steve joined the game
-2017-09-10 [06:02:43] [Server thread/INFO]: Steve left the game
-2017-09-10 [06:02:43] [Server thread/INFO]: Steve[/76.251.193.55:50862] logged out due to client disconnect
-2017-09-10 [06:02:50] [Server thread/INFO]: Steve[/76.251.193.55:50862] [ClientID: 2136336982442633850] logged in with entity id 10510 at (world, 128.0436, 68.2, 128.0072)
-2017-09-10 [06:02:52] [Server thread/INFO]: Steve joined the game
-2017-09-10 [06:03:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:03:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:03:33] [Server thread/INFO]: liuliu2008[/101.87.228.242:60695] [ClientID: -1938652873023499581] logged in with entity id 10515 at (th, 572.2995, 103, -178.0555)
-2017-09-10 [06:03:36] [Server thread/INFO]: liuliu2008 joined the game
-2017-09-10 [06:04:07] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [06:04:10] [Server thread/INFO]: Steve left the game
-2017-09-10 [06:04:10] [Server thread/INFO]: Steve[/76.251.193.55:50862] logged out due to timeout
-2017-09-10 [06:04:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [06:04:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [06:04:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-09-10 [06:04:27] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [06:04:28] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:05:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:06:22] [Server thread/INFO]: [建筑师]liuliu2008 : 滨滨机场的飞机已经建设好了
-2017-09-10 [06:06:34] [Server thread/INFO]: [建筑师]liuliu2008 : 快来参观
-2017-09-10 [06:06:45] [Server thread/INFO]: [MVP+]yukozh : 两个人。。
-2017-09-10 [06:06:47] [Server thread/INFO]: beach guy[/66.229.201.192:54151] logged out due to Invalid name!
-2017-09-10 [06:07:10] [Server thread/INFO]: beach guy[/66.229.201.192:54151] logged out due to Invalid name!
-2017-09-10 [06:07:29] [Server thread/INFO]: beach guy[/66.229.201.192:54151] logged out due to Invalid name!
-2017-09-10 [06:07:38] [Server thread/INFO]: [aa]tmdnmd : 我先把微信号说出来吧：hexiaoan233
-2017-09-10 [06:07:40] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:07:42] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:07:48] [Server thread/INFO]: [MVP+]yukozh : 好
-2017-09-10 [06:07:55] [Server thread/INFO]: [MVP+]yukozh : 我等一回家
-2017-09-10 [06:07:56] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:07:58] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:08:04] [Server thread/INFO]: [建筑师]liuliu2008 : 要起飞吗
-2017-09-10 [06:08:12] [Server thread/INFO]: [MVP+]yukozh : ou no
-2017-09-10 [06:08:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:08:14] [Server thread/INFO]: [帅X]xy520 : 建的太6了
-2017-09-10 [06:08:14] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:08:20] [Server thread/INFO]: [帅X]xy520 : 要
-2017-09-10 [06:08:31] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:08:48] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:08:53] [Server thread/INFO]: beach guy[/66.229.201.192:54151] logged out due to Invalid name!
-2017-09-10 [06:09:08] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [06:09:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:10] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:16] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:16] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [06:09:18] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:19] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:20] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:09:23] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [06:09:28] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-09-10 [06:09:28] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [06:09:36] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:09:37] [Server thread/INFO]: [aa]tmdnmd : 能不能交下我怎么圈地
-2017-09-10 [06:09:45] [Server thread/INFO]: [MVP+]yukozh : 我也不知道
-2017-09-10 [06:09:51] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [06:09:53] [Server thread/INFO]: [建筑师]liuliu2008 : 有没有飞机插件
-2017-09-10 [06:09:59] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [06:10:00] [Server thread/INFO]: [帅X]xy520 : 没有
-2017-09-10 [06:10:01] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [06:10:06] [Server thread/INFO]: [建筑师]liuliu2008 : e
-2017-09-10 [06:10:09] [Server thread/INFO]: [MVP+]yukozh : 有金
-2017-09-10 [06:10:09] [Server thread/INFO]: [建筑师]liuliu2008 : 好吧
-2017-09-10 [06:10:18] [Server thread/INFO]: [MVP+]yukozh : 你不瓦
-2017-09-10 [06:10:18] [Server thread/INFO]: [帅X]xy520 : 起飞了
-2017-09-10 [06:10:22] [Server thread/INFO]: hirobrian exe[/112.209.164.46:61437] logged out due to Invalid name!
-2017-09-10 [06:10:33] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:10:51] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:10:55] [Server thread/INFO]: [帅X]xy520 : 请大家做好准备
-2017-09-10 [06:10:59] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:11:01] [Server thread/INFO]: hirobrian exe[/112.209.164.46:54463] logged out due to Invalid name!
-2017-09-10 [06:11:01] [Server thread/INFO]: [MVP+]yukozh : 等会更上
-2017-09-10 [06:11:06] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:11:15] [Server thread/INFO]: beach guy[/66.229.201.192:54151] logged out due to Invalid name!
-2017-09-10 [06:11:23] [Server thread/INFO]: Steve[/189.123.149.127:59310] [ClientID: 1415650758617397206] logged in with entity id 10805 at (world, 128.0436, 68.4, 128.0072)
-2017-09-10 [06:11:25] [Server thread/INFO]: Steve joined the game
-2017-09-10 [06:11:26] [Server thread/WARNING]: tmdnmd moved wrongly!
-2017-09-10 [06:11:35] [Server thread/INFO]: beach guy[/66.229.201.192:54151] logged out due to Invalid name!
-2017-09-10 [06:11:41] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟
-2017-09-10 [06:11:51] [Server thread/INFO]: [MVP+]yukozh : 你等一会tp把
-2017-09-10 [06:11:54] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:11:56] [Server thread/INFO]: [aa]tmdnmd : 我去吃个饭
-2017-09-10 [06:11:57] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:12:01] [Server thread/INFO]: [aa]tmdnmd : 待会上线
-2017-09-10 [06:12:03] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:12:04] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:05] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:05] [Server thread/INFO]: [aa]tmdnmd : 拜拜啦
-2017-09-10 [06:12:05] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:08] [Server thread/INFO]: [MVP+]yukozh : 白
-2017-09-10 [06:12:22] [Server thread/INFO]: [建筑师]liuliu2008 : 雨太大了
-2017-09-10 [06:12:22] [Server thread/INFO]: tmdnmd left the game
-2017-09-10 [06:12:22] [Server thread/INFO]: tmdnmd[/220.200.58.141:27338] logged out due to timeout
-2017-09-10 [06:12:39] [Server thread/INFO]: [建筑师]liuliu2008 : 早上起飞
-2017-09-10 [06:12:43] [Server thread/INFO]: yukozh left the game
-2017-09-10 [06:12:43] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
-2017-09-10 [06:12:44] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:12:45] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:45] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:46] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:12:47] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:56] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:12:57] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:12:58] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:13:10] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:13:11] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:13:15] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:13:24] [Server thread/INFO]: Steve left the game
-2017-09-10 [06:13:24] [Server thread/INFO]: Steve[/189.123.149.127:59310] logged out due to Failed to login in 120 seconds
-2017-09-10 [06:13:30] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:13:38] [Server thread/INFO]: Steve[/189.123.149.127:59310] [ClientID: 1415650758617397206] logged in with entity id 10827 at (world, 128.0436, 68.6, 128.0072)
-2017-09-10 [06:13:39] [Server thread/INFO]: Steve joined the game
-2017-09-10 [06:13:58] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:14:09] [Server thread/INFO]: Steve left the game
-2017-09-10 [06:14:09] [Server thread/INFO]: Steve[/189.123.149.127:59310] logged out due to timeout
-2017-09-10 [06:14:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [06:14:12] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟飞行
-2017-09-10 [06:14:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [06:14:20] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:14:21] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟飞行
-2017-09-10 [06:14:24] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [06:14:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-09-10 [06:14:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [06:14:30] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟飞行
-2017-09-10 [06:14:37] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟飞行
-2017-09-10 [06:14:46] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 10836 at (world, 177.6759, 3, 1524.0692)
-2017-09-10 [06:14:47] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟飞行
-2017-09-10 [06:14:48] [Server thread/INFO]: yukozh joined the game
-2017-09-10 [06:14:54] [Server thread/INFO]: [建筑师]liuliu2008 : 因为暴雨所以延迟飞行
-2017-09-10 [06:15:04] [Server thread/INFO]: Thiago[/191.37.183.58:57614] [ClientID: -481636138666761901] logged in with entity id 10841 at (world, 128, 64, 128)
-2017-09-10 [06:15:08] [Server thread/INFO]: Thiago joined the game
-2017-09-10 [06:15:41] [Server thread/INFO]: [建筑师]liuliu2008 : 我现在有160万
-2017-09-10 [06:16:01] [Server thread/INFO]: Thiago left the game
-2017-09-10 [06:16:01] [Server thread/INFO]: Thiago[/191.37.183.58:57614] logged out due to timeout
-2017-09-10 [06:16:03] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:16:45] [Server thread/INFO]: [建筑师]liuliu2008 : 对了
-2017-09-10 [06:16:51] [Server thread/INFO]: [建筑师]liuliu2008 : 安检
-2017-09-10 [06:17:00] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:17:00] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:17:01] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:17:03] [Server thread/INFO]: [帅X]xy520 : 对啊
-2017-09-10 [06:17:28] [Server thread/INFO]: yukozh left the game
-2017-09-10 [06:17:28] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
-2017-09-10 [06:17:49] [Server thread/NOTICE]: Player data not found for "exotisgaming", creating new profile
-2017-09-10 [06:17:49] [Server thread/INFO]: exotisgaming[/112.209.164.46:54463] [ClientID: -6643995091794497462] logged in with entity id 10872 at (world, 128, 68, 128)
-2017-09-10 [06:17:52] [Server thread/INFO]: exotisgaming joined the game
-2017-09-10 [06:18:20] [Server thread/WARNING]: exotisgaming moved wrongly!
-2017-09-10 [06:18:22] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 10877 at (world, 211.5087, 3, 1534.3)
-2017-09-10 [06:18:24] [Server thread/INFO]: yukozh joined the game
-2017-09-10 [06:18:37] [Server thread/INFO]: [建筑师]liuliu2008 : 来
-2017-09-10 [06:18:49] [Server thread/INFO]: [MVP+]yukozh : ？
-2017-09-10 [06:18:58] [Server thread/INFO]: [/113.71.77.168:18174] logged out due to client disconnect
-2017-09-10 [06:19:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [06:19:12] [Server thread/INFO]: [建筑师]liuliu2008 : 这里
-2017-09-10 [06:19:16] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:19:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-10 [06:19:24] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-10 [06:19:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
-2017-09-10 [06:19:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-10 [06:19:30] [Server thread/WARNING]: exotisgaming moved too fast, reverting movement
-2017-09-10 [06:19:31] [Server thread/INFO]: exotisgaming fell out of the world
-2017-09-10 [06:19:37] [Server thread/INFO]: [建筑师]liuliu2008 : 把身上的东西放到箱子里
-2017-09-10 [06:19:39] [Server thread/WARNING]: exotisgaming moved wrongly!
-2017-09-10 [06:19:41] [Server thread/INFO]: [MVP+]yukozh : 。。。
-2017-09-10 [06:19:50] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:19:52] [Server thread/INFO]: [MVP+]yukozh : 我是创造
-2017-09-10 [06:19:54] [Server thread/INFO]: [/113.71.77.168:18174] logged out due to client disconnect
-2017-09-10 [06:20:20] [Server thread/INFO]: [建筑师]liuliu2008 : 把东西放到箱子里
-2017-09-10 [06:20:31] [Server thread/WARNING]: exotisgaming moved wrongly!
-2017-09-10 [06:20:33] [Server thread/WARNING]: exotisgaming moved wrongly!
-2017-09-10 [06:20:40] [Server thread/INFO]: [帅X]xy520 : 还要一个保安
-2017-09-10 [06:21:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:11] [Server thread/INFO]: little warman35[/73.45.153.248:60973] logged out due to Invalid name!
-2017-09-10 [06:21:11] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:19] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:20] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:24] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:24] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:21:27] [Server thread/WARNING]: exotisgaming moved too fast, reverting movement
-2017-09-10 [06:21:36] [Server thread/WARNING]: exotisgaming moved too fast, reverting movement
-2017-09-10 [06:21:50] [Server thread/INFO]: exotisgaming left the game
-2017-09-10 [06:21:50] [Server thread/INFO]: exotisgaming[/112.209.164.46:54463] logged out due to timeout
-2017-09-10 [06:21:50] [Server thread/INFO]: [MVP+]yukozh : 。。
-2017-09-10 [06:22:16] [Server thread/INFO]: little warman35[/73.45.153.248:60973] logged out due to Invalid name!
-2017-09-10 [06:22:24] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:22:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:23:20] [Server thread/INFO]: Steve[/24.35.204.38:60025] [ClientID: -5279375466261373935] logged in with entity id 10903 at (world, 128.0436, 68.8, 128.0072)
-2017-09-10 [06:23:24] [Server thread/INFO]: Steve joined the game
-2017-09-10 [06:23:25] [Server thread/WARNING]: xy520 moved wrongly!
-2017-09-10 [06:23:51] [Server thread/INFO]: tmdnmd[/220.200.58.141:25824] [ClientID: 6928900985537816080] logged in with entity id 10904 at (world, 177.3, 3, 1493.9032)
-2017-09-10 [06:23:52] [Server thread/INFO]: tmdnmd joined the game
-2017-09-10 [06:23:55] [Server thread/NOTICE]: Player data not found for "dong", creating new profile
-2017-09-10 [06:23:55] [Server thread/INFO]: DONG[/73.162.64.103:60272] [ClientID: 8977912908081902129] logged in with entity id 10905 at (world, 128, 68, 128)
-2017-09-10 [06:23:57] [Server thread/INFO]: DONG joined the game
-2017-09-10 [06:24:05] [Server thread/INFO]: [aa]tmdnmd : 我来啦
-2017-09-10 [06:24:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-10 [06:24:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:24:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
-2017-09-10 [06:24:16] [Server thread/INFO]: Steve left the game
-2017-09-10 [06:24:16] [Server thread/INFO]: Steve[/24.35.204.38:60025] logged out due to client disconnect
+2017-09-10 [06:25:27] [Server thread/INFO]: DONG left the game
+2017-09-10 [06:25:27] [Server thread/INFO]: DONG[/73.162.64.103:60272] logged out due to client disconnect
+2017-09-10 [06:25:29] [Server thread/WARNING]: tmdnmd moved too fast, reverting movement
+2017-09-10 [06:25:32] [Server thread/INFO]: [MVP+]yukozh : ？
+2017-09-10 [06:25:35] [Server thread/INFO]: DONG[/73.162.64.103:60272] [ClientID: 8977912908081902129] logged in with entity id 10916 at (world, 128, 68.2, 128)
+2017-09-10 [06:25:37] [Server thread/INFO]: DONG joined the game
+2017-09-10 [06:25:38] [Server thread/INFO]: [MVP+]yukozh : 你好卡
+2017-09-10 [06:25:52] [Server thread/INFO]: aaqw[/58.217.246.121:58021] [ClientID: -6797849728394864316] logged in with entity id 10919 at (world, 136.3, 70, 181.1293)
+2017-09-10 [06:25:55] [Server thread/INFO]: aaqw joined the game
+2017-09-10 [06:25:56] [Server thread/INFO]: DONG left the game
+2017-09-10 [06:25:56] [Server thread/INFO]: DONG[/73.162.64.103:60272] logged out due to client disconnect
+2017-09-10 [06:25:57] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:26:06] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:26:07] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:26:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:26:15] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:26:16] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:26:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:26:26] [Server thread/INFO]: Steve[/24.35.204.38:63423] [ClientID: -5279375466261373935] logged in with entity id 10937 at (world, 128.0436, 69, 128.0072)
+2017-09-10 [06:26:26] [Server thread/INFO]: [帅X]xy520 : 挂机一会
+2017-09-10 [06:26:29] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:26:36] [Server thread/NOTICE]: Player data not found for "hagop", creating new profile
+2017-09-10 [06:26:36] [Server thread/INFO]: hagop[/71.94.157.193:56348] [ClientID: -1829850040644927359] logged in with entity id 10939 at (world, 128, 68, 128)
+2017-09-10 [06:26:40] [Server thread/INFO]: hagop joined the game
+2017-09-10 [06:26:41] [Server thread/INFO]: [/113.71.77.168:18111] logged out due to client disconnect
+2017-09-10 [06:26:43] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:26:44] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:26:45] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:26:51] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:26:51] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:26:51] [Server thread/INFO]: Steve[/24.35.204.38:63423] logged out due to client disconnect
+2017-09-10 [06:26:51] [Server thread/INFO]: hagop left the game
+2017-09-10 [06:26:51] [Server thread/INFO]: hagop[/71.94.157.193:56348] logged out due to timeout
+2017-09-10 [06:26:57] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:27:18] [Server thread/INFO]: [帅X]xy520 : 回来了
+2017-09-10 [06:27:19] [Server thread/INFO]: [aa]tmdnmd : 好卡
+2017-09-10 [06:27:48] [Server thread/INFO]: [MVP+]yukozh : 有金
+2017-09-10 [06:28:00] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:28:28] [Server thread/INFO]: [aa]tmdnmd : 有夜视吗
+2017-09-10 [06:28:31] [Server thread/INFO]: [aa]tmdnmd : 有夜视吗
+2017-09-10 [06:28:31] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:28:32] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:29:02] [Server thread/INFO]: [aa]tmdnmd : 卡出翔
+2017-09-10 [06:29:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:29:19] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:29:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:29:24] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:29:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [06:29:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:29:36] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:29:50] [Server thread/WARNING]: tmdnmd moved too fast, reverting movement
+2017-09-10 [06:29:53] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:29:54] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:30:02] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:30:03] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:30:09] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:30:11] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:30:14] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:30:27] [Server thread/INFO]: [建筑师]liuliu2008 : 干嘛
+2017-09-10 [06:30:38] [Server thread/INFO]: [帅X]xy520 : 么什
+2017-09-10 [06:30:43] [Server thread/INFO]: [aa]tmdnmd : 有夜视吗
+2017-09-10 [06:30:44] [Server thread/NOTICE]: Player data not found for "thecombatmaster", creating new profile
+2017-09-10 [06:30:44] [Server thread/INFO]: TheCombatMaster[/108.253.5.106:57314] [ClientID: 8161092975270711853] logged in with entity id 11068 at (world, 128, 68, 128)
+2017-09-10 [06:30:45] [Server thread/INFO]: [建筑师]liuliu2008 : 我买的会燃烧的熔炉
+2017-09-10 [06:30:46] [Server thread/INFO]: TheCombatMaster joined the game
+2017-09-10 [06:30:50] [Server thread/INFO]: [建筑师]liuliu2008 : 赔
+2017-09-10 [06:31:01] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:06] [Server thread/INFO]: [建筑师]liuliu2008 : 10010
+2017-09-10 [06:31:19] [Server thread/INFO]: [aa]tmdnmd : 给我个夜视呗
+2017-09-10 [06:31:27] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:38] [Server thread/INFO]: [帅X]xy520 : 我什么都没干
+2017-09-10 [06:31:42] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:43] [Server thread/INFO]: [/123.14.179.186:46659] logged out due to timeout
+2017-09-10 [06:31:45] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:47] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:48] [Server thread/INFO]: [建筑师]liuliu2008 : 怎么弄的
+2017-09-10 [06:31:49] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:50] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:31:53] [Server thread/NOTICE]: Player data not found for "josh", creating new profile
+2017-09-10 [06:31:53] [Server thread/INFO]: josh[/173.238.249.93:62194] [ClientID: -5745414195397181717] logged in with entity id 11085 at (world, 128, 68, 128)
+2017-09-10 [06:31:55] [Server thread/INFO]: josh joined the game
+2017-09-10 [06:32:04] [Server thread/INFO]: [帅X]xy520 : 什么都没干
+2017-09-10 [06:32:11] [Server thread/WARNING]: TheCombatMaster moved wrongly!
+2017-09-10 [06:32:11] [Server thread/WARNING]: TheCombatMaster moved wrongly!
+2017-09-10 [06:32:11] [Server thread/INFO]: [MVP+]yukozh : ？
+2017-09-10 [06:32:14] [Server thread/INFO]: TheCombatMaster : hello
+2017-09-10 [06:32:15] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:16] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:17] [Server thread/WARNING]: TheCombatMaster moved wrongly!
+2017-09-10 [06:32:18] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:19] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:32:23] [Server thread/INFO]: [MVP+]yukozh : 人呢
+2017-09-10 [06:32:27] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:29] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:30] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:31] [Server thread/INFO]: [帅X]xy520 : 我只是在你床上走一走
+2017-09-10 [06:32:32] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:35] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:32:40] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:45] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:48] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:51] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:32:51] [Server thread/INFO]: [帅X]xy520 : 然后就没了
+2017-09-10 [06:32:52] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:33:04] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:33:05] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:33:07] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:33:07] [Server thread/INFO]: josh left the game
+2017-09-10 [06:33:07] [Server thread/INFO]: josh[/173.238.249.93:62194] logged out due to client disconnect
+2017-09-10 [06:33:15] [Server thread/INFO]: josh[/173.238.249.93:62194] [ClientID: -5745414195397181717] logged in with entity id 11105 at (world, 128, 68.2, 128)
+2017-09-10 [06:33:16] [Server thread/INFO]: [/123.14.179.186:52158] logged out due to timeout
+2017-09-10 [06:33:16] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [06:33:16] [Server thread/INFO]: tmdnmd[/220.200.58.141:25824] logged out due to client disconnect
+2017-09-10 [06:33:17] [Server thread/INFO]: josh joined the game
+2017-09-10 [06:33:23] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:33:32] [Server thread/INFO]: TheCombatMaster : hey
+2017-09-10 [06:33:32] [Server thread/INFO]: TheCombatMaster left the game
+2017-09-10 [06:33:32] [Server thread/INFO]: TheCombatMaster[/108.253.5.106:57314] logged out due to client disconnect
+2017-09-10 [06:33:38] [Server thread/INFO]: [/220.200.58.141:25824] logged out due to timeout
+2017-09-10 [06:33:39] [Server thread/INFO]: tmdnmd[/220.200.58.141:25996] [ClientID: 6928900985537816080] logged in with entity id 11113 at (world, 467.2077, 3, 1534.6622)
+2017-09-10 [06:33:40] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [06:33:49] [Server thread/INFO]: [MVP+]yukozh : 不卡了么
+2017-09-10 [06:33:49] [Server thread/INFO]: josh left the game
+2017-09-10 [06:33:49] [Server thread/INFO]: josh[/173.238.249.93:62194] logged out due to client disconnect
+2017-09-10 [06:33:59] [Server thread/INFO]: [aa]tmdnmd : 好多了
+2017-09-10 [06:34:09] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:34:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:34:20] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:34:24] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:34:24] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:34:28] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:34:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [06:34:29] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:34:31] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:34:33] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:34:41] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:34:54] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:34:57] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:34:58] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:34:59] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:02] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:03] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:04] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:05] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:05] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:35:06] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:12] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:12] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:35:23] [Server thread/INFO]: [/123.14.179.186:58527] logged out due to timeout
+2017-09-10 [06:35:29] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:35:32] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:35:34] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:35:40] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:35:41] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:35:41] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:36:11] [Server thread/INFO]: [建筑师]liuliu2008 : 怎么总是下雨
+2017-09-10 [06:36:15] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:36:16] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:36:21] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:36:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:36:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:36:38] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [06:36:38] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [06:36:42] [Server thread/INFO]: [帅X]xy520 : 这服就是这样
+2017-09-10 [06:36:43] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [06:36:43] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [06:37:00] [Server thread/INFO]: [建筑师]liuliu2008 : 我飞机什么时候才能起飞
+2017-09-10 [06:37:03] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:13] [Server thread/INFO]: [帅X]xy520 : 天知道
+2017-09-10 [06:37:20] [Server thread/INFO]: [MVP+]yukozh : 你等一会tp我把
+2017-09-10 [06:37:23] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:37:26] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:27] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:37:29] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:36] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:41] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:50] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:52] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:54] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:56] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:37:59] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:01] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:05] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:08] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:38:11] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:13] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:18] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:19] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:38:25] [Server thread/INFO]: Steve[/179.208.139.19:55803] [ClientID: 4795948805305756848] logged in with entity id 11278 at (world, 128.0436, 68.2, 128.0072)
+2017-09-10 [06:38:25] [Server thread/WARNING]: tmdnmd moved too fast, reverting movement
+2017-09-10 [06:38:29] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:38:30] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:38:31] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [06:38:38] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:40] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:38:54] [Server thread/INFO]: [aa]tmdnmd : 等一下我又好卡
+2017-09-10 [06:38:57] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [06:38:57] [Server thread/INFO]: tmdnmd[/220.200.58.141:25996] logged out due to client disconnect
+2017-09-10 [06:39:07] [Server thread/INFO]: tmdnmd[/220.200.58.141:26029] [ClientID: 6928900985537816080] logged in with entity id 11290 at (world, 546.5121, 6, 1510.7484)
+2017-09-10 [06:39:08] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [06:39:09] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:39:09] [Server thread/INFO]: Steve[/179.208.139.19:55803] logged out due to timeout
+2017-09-10 [06:39:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:39:21] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:39:23] [Server thread/INFO]: [aa]aaqw : op能调时间吗
+2017-09-10 [06:39:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:39:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [06:39:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:39:41] [Server thread/INFO]: [帅X]xy520 : 没有op
+2017-09-10 [06:39:42] [Server thread/INFO]: DONG[/73.162.64.103:51788] [ClientID: 8977912908081902129] logged in with entity id 11305 at (world, 128, 68.4, 128)
+2017-09-10 [06:39:44] [Server thread/INFO]: DONG joined the game
+2017-09-10 [06:40:14] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:40:16] [Server thread/INFO]: DONG left the game
+2017-09-10 [06:40:16] [Server thread/INFO]: DONG[/73.162.64.103:51788] logged out due to client disconnect
+2017-09-10 [06:40:22] [Server thread/INFO]: [建筑师]liuliu2008 : 快来
+2017-09-10 [06:40:25] [Server thread/INFO]: [aa]tmdnmd : 我去卖个东西
+2017-09-10 [06:40:27] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:41:00] [Server thread/INFO]: [建筑师]liuliu2008 : 我家
+2017-09-10 [06:41:47] [Server thread/INFO]: [/123.14.179.186:50496] logged out due to timeout
+2017-09-10 [06:41:56] [Server thread/INFO]: Steve[/179.208.139.19:51689] [ClientID: 4795948805305756848] logged in with entity id 11397 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [06:42:00] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:42:10] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:42:10] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:42:12] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:42:13] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:42:16] [Server thread/INFO]: [建筑师]liuliu2008 : 我造一个房子
+2017-09-10 [06:42:17] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:42:17] [Server thread/INFO]: Steve[/179.208.139.19:51689] logged out due to timeout
+2017-09-10 [06:42:19] [Server thread/INFO]: [aa]aaqw : 额
+2017-09-10 [06:42:31] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:42:33] [Server thread/INFO]: [MVP+]yukozh : 哦
+2017-09-10 [06:42:38] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:42:48] [Server thread/NOTICE]: Player data not found for "carson", creating new profile
+2017-09-10 [06:42:48] [Server thread/INFO]: Carson[/107.141.94.127:61429] [ClientID: 241272511295046217] logged in with entity id 11411 at (world, 128, 68, 128)
+2017-09-10 [06:42:51] [Server thread/INFO]: Carson joined the game
+2017-09-10 [06:43:01] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:43:02] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:43:04] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:43:04] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:43:07] [Server thread/INFO]: Steve[/14.148.203.51:52554] [ClientID: -2208946840778475264] logged in with entity id 11413 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [06:43:08] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:43:20] [Server thread/INFO]: YOUTUBE WTF[/118.150.86.94:50901] logged out due to Invalid name!
+2017-09-10 [06:43:28] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:43:28] [Server thread/INFO]: Steve[/14.148.203.51:52554] logged out due to client disconnect
+2017-09-10 [06:43:31] [Server thread/INFO]: [MVP+]yukozh : 再发一次
+2017-09-10 [06:43:39] [Server thread/INFO]: YOUTUBE WTF[/118.150.86.94:50901] logged out due to Invalid name!
+2017-09-10 [06:43:57] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:43:57] [Server thread/INFO]: aaqw left the game
+2017-09-10 [06:43:57] [Server thread/INFO]: aaqw[/58.217.246.121:58021] logged out due to client disconnect
+2017-09-10 [06:44:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:44:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:44:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:44:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [06:44:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理10个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:44:31] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:44:37] [Server thread/INFO]: Carson left the game
+2017-09-10 [06:44:37] [Server thread/INFO]: Carson[/107.141.94.127:61429] logged out due to client disconnect
+2017-09-10 [06:45:01] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:45:01] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:45:12] [Server thread/INFO]: [/123.14.179.186:41353] logged out due to timeout
+2017-09-10 [06:45:12] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:45:29] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:45:44] [Server thread/INFO]: Lucifer[/123.14.179.186:37313] [ClientID: 3387026450036143444] logged in with entity id 11570 at (world, 48.578, 58, 40.1248)
+2017-09-10 [06:45:47] [Server thread/INFO]: Lucifer joined the game
+2017-09-10 [06:46:32] [Server thread/WARNING]: Lucifer moved wrongly!
+2017-09-10 [06:46:39] [Server thread/INFO]: YOUTUBE WTF[/118.150.86.94:58004] logged out due to Invalid name!
+2017-09-10 [06:47:00] [Server thread/INFO]: YOUTUBE WTF[/118.150.86.94:58004] logged out due to Invalid name!
+2017-09-10 [06:48:37] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:48:42] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:49:07] [Server thread/INFO]: [MVP+]yukozh : ？
+2017-09-10 [06:49:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:49:13] [Server thread/INFO]: 10086[/222.76.106.21:8789] [ClientID: 6709504870013403706] logged in with entity id 11888 at (world, 104.5716, 70, 141.759)
+2017-09-10 [06:49:14] [Server thread/INFO]: [PVP大师]Lucifer : 呵呵
+2017-09-10 [06:49:16] [Server thread/INFO]: 10086 joined the game
+2017-09-10 [06:49:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:49:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:49:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [06:49:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理9个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:49:32] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:49:41] [Server thread/WARNING]: Lucifer moved wrongly!
+2017-09-10 [06:49:47] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:49:47] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:49:59] [Server thread/INFO]: [aa]tmdnmd : 在坐的各位谁知道圈地指令
+2017-09-10 [06:50:07] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [06:50:19] [Server thread/INFO]: YOUTUBE WTF[/118.150.86.94:58004] logged out due to Invalid name!
+2017-09-10 [06:50:35] [Server thread/INFO]: [帅X]xy520 : 我和liuliu2008都知道
+2017-09-10 [06:50:38] [Server thread/INFO]: 10086 : 我卡虚空里了
+2017-09-10 [06:50:42] [Server thread/INFO]: [建筑师]liuliu2008 : 什么
+2017-09-10 [06:50:44] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:50:44] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:50:47] [Server thread/INFO]: 10086 : 要死要死
+2017-09-10 [06:50:50] [Server thread/INFO]: [MVP+]yukozh : 现在几点
+2017-09-10 [06:50:52] [Server thread/INFO]: [PVP大师]Lucifer : 怎么圈地
+2017-09-10 [06:50:56] [Server thread/INFO]: 10086 drowned
+2017-09-10 [06:51:09] [Server thread/INFO]: [aa]tmdnmd : 8:51
+2017-09-10 [06:51:09] [Server thread/INFO]: [建筑师]liuliu2008 : 输入/startp
+2017-09-10 [06:51:20] [Server thread/INFO]: [建筑师]liuliu2008 : 再打/endp
+2017-09-10 [06:51:28] [Server thread/INFO]: [帅X]xy520 : 第一个点
+2017-09-10 [06:51:29] [Server thread/INFO]: [aa]tmdnmd : 3Q
+2017-09-10 [06:51:42] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:51:42] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:51:55] [Server thread/INFO]: [帅X]xy520 : 后是第二个
+2017-09-10 [06:52:24] [Server thread/INFO]: [建筑师]liuliu2008 : 告示牌 第二行plcmd 第三行land buy
+2017-09-10 [06:52:39] [Server thread/INFO]: [建筑师]liuliu2008 : 点牌子
+2017-09-10 [06:53:08] [Server thread/INFO]: Steve[/223.75.2.129:58837] [ClientID: 7152410089004083906] logged in with entity id 12087 at (world, 128.0436, 68.8, 128.0072)
+2017-09-10 [06:53:18] [Server thread/INFO]: [aa]tmdnmd : 地皮世界为什么会变成那个样子
+2017-09-10 [06:53:21] [Server thread/INFO]: Steve[/223.75.2.129:58837] logged out due to client disconnect
+2017-09-10 [06:53:28] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:53:30] [Server thread/INFO]: Steve[/223.75.2.129:58837] [ClientID: 7152410089004083906] logged in with entity id 12094 at (world, 128.0436, 68.8, 128.0072)
+2017-09-10 [06:53:33] [Server thread/INFO]: 10086 : 怎么去主世界啊
+2017-09-10 [06:53:33] [Server thread/INFO]: Steve[/223.75.2.129:58837] logged out due to Kicked by admin. Reason: logged in from another location
+2017-09-10 [06:53:33] [Server thread/INFO]: Steve[/72.192.139.36:63351] [ClientID: 2870763307899391516] logged in with entity id 12095 at (world, 128.0436, 68.8, 128.0072)
+2017-09-10 [06:53:35] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:53:42] [Server thread/INFO]: [建筑师]liuliu2008 : 给你个十万xy
+2017-09-10 [06:53:50] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:53:50] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:53:50] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:53:50] [Server thread/INFO]: Steve[/72.192.139.36:63351] logged out due to Login from the same device
+2017-09-10 [06:53:58] [Server thread/INFO]: [建筑师]liuliu2008 : 多不多
+2017-09-10 [06:54:04] [Server thread/INFO]: [aa]tmdnmd : 。。
+2017-09-10 [06:54:08] [Server thread/INFO]: [帅X]xy520 : 多
+2017-09-10 [06:54:10] [Server thread/INFO]: Steve[/72.192.139.36:63351] [ClientID: 2870763307899391516] logged in with entity id 12101 at (world, 128.0436, 69, 128.0072)
+2017-09-10 [06:54:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:54:12] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:54:13] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:54:13] [Server thread/INFO]: Steve[/72.192.139.36:63351] logged out due to Kicked by admin. Reason: logged in from another location
+2017-09-10 [06:54:13] [Server thread/INFO]: Steve[/223.75.2.129:58837] [ClientID: 7152410089004083906] logged in with entity id 12103 at (world, 128.0436, 68.2, 128.0072)
+2017-09-10 [06:54:19] [Server thread/INFO]: 10086 : 有没有人教教我怎么玩.....
+2017-09-10 [06:54:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:54:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:54:29] [Server thread/INFO]: Steve[/223.75.2.129:58837] logged out due to Login from the same device
+2017-09-10 [06:54:31] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [06:54:31] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:54:31] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:54:33] [Server thread/INFO]: Steve[/72.192.139.36:63351] [ClientID: 2870763307899391516] logged in with entity id 12106 at (world, 128.0436, 68.2, 128.0072)
+2017-09-10 [06:54:34] [Server thread/INFO]: Steve joined the game
+2017-09-10 [06:54:44] [Server thread/INFO]: [建筑师]liuliu2008 : 十万
+2017-09-10 [06:54:47] [Server thread/INFO]: [帅X]xy520 : 十分感谢
+2017-09-10 [06:54:52] [Server thread/INFO]: Steve left the game
+2017-09-10 [06:54:52] [Server thread/INFO]: Steve[/72.192.139.36:63351] logged out due to timeout
+2017-09-10 [06:55:00] [Server thread/INFO]: [建筑师]liuliu2008 : 没事我钱多
+2017-09-10 [06:55:31] [Server thread/INFO]: [帅X]xy520 : 我来看一看你有多少
+2017-09-10 [06:55:33] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:55:36] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:55:46] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [06:55:50] [Server thread/INFO]: [建筑师]liuliu2008 : 现在150万
+2017-09-10 [06:56:08] [Server thread/INFO]: [帅X]xy520 : 你有1569521
+2017-09-10 [06:56:13] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:56:17] [Server thread/INFO]: [建筑师]liuliu2008 : 对
+2017-09-10 [06:56:24] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:56:24] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:56:25] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:56:33] [Server thread/INFO]: * Lucifer 是这个指令吗
+2017-09-10 [06:56:40] [Server thread/INFO]: [建筑师]liuliu2008 : 对呀
+2017-09-10 [06:56:53] [Server thread/INFO]: 10086 : 怎么去主世界啊
+2017-09-10 [06:56:53] [Server thread/INFO]: [PVP大师]Lucifer : 咋弄领地啊
+2017-09-10 [06:57:00] [Server thread/INFO]: [帅X]xy520 : 猜猜我这那知道
+2017-09-10 [06:57:03] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:57:06] [Server thread/INFO]: [aa]tmdnmd : 我想去圈地盖房子去了
+2017-09-10 [06:57:08] [Server thread/INFO]: [PVP大师]Lucifer : 我这房子容易被熊
+2017-09-10 [06:57:10] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:57:11] [Server thread/INFO]: [建筑师]liuliu2008 : 输入/w world
+2017-09-10 [06:57:13] [Server thread/INFO]: [帅X]xy520 : 怎么
+2017-09-10 [06:57:22] [Server thread/INFO]: [建筑师]liuliu2008 : 回程
+2017-09-10 [06:57:25] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:57:47] [Server thread/INFO]: [建筑师]liuliu2008 : 输入/startp 再输/endp圈地
+2017-09-10 [06:57:57] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:57:59] [Server thread/INFO]: [建筑师]liuliu2008 : 让后告示牌
+2017-09-10 [06:58:09] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:58:23] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-10 [06:58:29] [Server thread/INFO]: 10086 : 怎么撸木头啊
+2017-09-10 [06:58:54] [Server thread/INFO]: [MVP+]yukozh : 。。。
+2017-09-10 [06:58:56] [Server thread/INFO]: [帅X]xy520 : 手撸
+2017-09-10 [06:59:01] [Server thread/INFO]: [建筑师]liuliu2008 : 我要吐了
+2017-09-10 [06:59:04] [Server thread/INFO]: [aa]tmdnmd : 在找地方圈地盖房子
+2017-09-10 [06:59:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [06:59:13] [Server thread/INFO]: 10086 : 撸不了啊
+2017-09-10 [06:59:17] [Server thread/INFO]: [MVP+]yukozh : qwq
+2017-09-10 [06:59:18] [Server thread/NOTICE]: Player data not found for "adriel", creating new profile
+2017-09-10 [06:59:18] [Server thread/INFO]: Adriel[/76.175.46.241:57731] [ClientID: -462227449694828286] logged in with entity id 12209 at (world, 128, 68, 128)
+2017-09-10 [06:59:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [06:59:22] [Server thread/INFO]: [建筑师]liuliu2008 : 是领地
+2017-09-10 [06:59:25] [Server thread/INFO]: 10086 : 到处都是领地
+2017-09-10 [06:59:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [06:59:30] [Server thread/INFO]: [建筑师]liuliu2008 : 别人的
+2017-09-10 [06:59:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [06:59:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理16个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [06:59:31] [Server thread/INFO]: [MVP+]yukozh : 我来看看
+2017-09-10 [06:59:31] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [06:59:33] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:59:35] [Server thread/INFO]: aaqw[/58.217.246.121:58428] [ClientID: -6797849728394864316] logged in with entity id 12212 at (world, 225.7408, 70, 236.1578)
+2017-09-10 [06:59:38] [Server thread/INFO]: aaqw joined the game
+2017-09-10 [06:59:40] [Server thread/INFO]: Lucifer left the game
+2017-09-10 [06:59:40] [Server thread/INFO]: Lucifer[/123.14.179.186:37313] logged out due to timeout
+2017-09-10 [06:59:54] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [06:59:54] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:00:01] [Server thread/INFO]: Adriel joined the game
+2017-09-10 [07:00:03] [Server thread/INFO]: [MVP+]yukozh : 可以米
+2017-09-10 [07:00:12] [Server thread/INFO]: [aa]tmdnmd : 嗯
+2017-09-10 [07:00:12] [Server thread/INFO]: Adriel left the game
+2017-09-10 [07:00:12] [Server thread/INFO]: Adriel[/76.175.46.241:57731] logged out due to client disconnect
+2017-09-10 [07:00:12] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:00:15] [Server thread/INFO]: 10086 : an
+2017-09-10 [07:00:25] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:00:26] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:00:27] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:00:28] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:00:29] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:00:29] [Server thread/INFO]: [aa]tmdnmd : 找到地方了
+2017-09-10 [07:00:32] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:00:32] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:00:33] [Server thread/INFO]: [aa]tmdnmd : 海上
+2017-09-10 [07:00:36] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:00:44] [Server thread/INFO]: [MVP+]yukozh : 。
+2017-09-10 [07:00:57] [Server thread/INFO]: Lucifer[/123.14.179.186:55442] [ClientID: 3387026450036143444] logged in with entity id 12240 at (world, 109.9074, 69, -15.0365)
+2017-09-10 [07:00:59] [Server thread/INFO]: Lucifer joined the game
+2017-09-10 [07:00:59] [Server thread/INFO]: 10086 : 怎么传送呢
+2017-09-10 [07:01:08] [Server thread/INFO]: [MVP+]yukozh : 你本来有家么
+2017-09-10 [07:01:11] [Server thread/INFO]: [建筑师]liuliu2008 : 输入/w world
+2017-09-10 [07:01:12] [Server thread/INFO]: 10086 : 想到大佬身边玩
+2017-09-10 [07:01:13] [Server thread/INFO]: [aa]tmdnmd : 没有
+2017-09-10 [07:01:20] [Server thread/INFO]: [MVP+]yukozh : 找人 名字
+2017-09-10 [07:01:24] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:01:24] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:01:28] [Server thread/INFO]: [MVP+]yukozh : 要打/
+2017-09-10 [07:01:29] [Server thread/WARNING]: 10086 moved too fast, reverting movement
+2017-09-10 [07:01:38] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:01:42] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:01:43] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:01:53] [Server thread/WARNING]: Lucifer moved wrongly!
+2017-09-10 [07:02:09] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:02:18] [Server thread/INFO]: 10086 : 你好
+2017-09-10 [07:02:21] [Server thread/INFO]: [PVP大师]Lucifer : 哈喽
+2017-09-10 [07:02:33] [Server thread/INFO]: 10086 : 带带我
+2017-09-10 [07:02:43] [Server thread/INFO]: [PVP大师]Lucifer : 咋带你
+2017-09-10 [07:02:47] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:02:51] [Server thread/INFO]: [MVP+]yukozh : hi
+2017-09-10 [07:02:52] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:02:54] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-10 [07:02:56] [Server thread/INFO]: 10086 : 怎么撸木头
+2017-09-10 [07:03:01] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:03:06] [Server thread/INFO]: 10086 : 我手无寸铁
+2017-09-10 [07:03:07] [Server thread/NOTICE]: Player data not found for "dkdkdiddododidid", creating new profile
+2017-09-10 [07:03:07] [Server thread/INFO]: dkdkdiddododidid[/42.98.52.17:39233] [ClientID: 8178979654370607072] logged in with entity id 12263 at (world, 128, 68, 128)
+2017-09-10 [07:03:10] [Server thread/INFO]: dkdkdiddododidid joined the game
+2017-09-10 [07:03:11] [Server thread/INFO]: [PVP大师]Lucifer : 你去资源世界不得额
+2017-09-10 [07:03:12] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:03:12] [Server thread/INFO]: [帅X]xy520 : 让大神带你
+2017-09-10 [07:03:15] [Server thread/WARNING]: Lucifer moved wrongly!
+2017-09-10 [07:03:21] [Server thread/INFO]: [建筑师]liuliu2008 : 我是大神
+2017-09-10 [07:03:23] [Server thread/NOTICE]: Player data not found for "essakareem0", creating new profile
+2017-09-10 [07:03:23] [Server thread/INFO]: essakareem0[/149.255.203.42:43340] [ClientID: -6357309284704329732] logged in with entity id 12270 at (world, 128, 68, 128)
+2017-09-10 [07:03:24] [Server thread/INFO]: [aa]tmdnmd : 怎么设置家来着
+2017-09-10 [07:03:27] [Server thread/INFO]: essakareem0 joined the game
+2017-09-10 [07:03:28] [Server thread/INFO]: 10086 : 资源世界都是领地
+2017-09-10 [07:03:31] [Server thread/INFO]: [帅X]xy520 : 先打/w zy
+2017-09-10 [07:03:32] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:03:34] [Server thread/INFO]: [建筑师]liuliu2008 : 那是别人的领地
+2017-09-10 [07:03:38] [Server thread/INFO]: [PVP大师]Lucifer : 你跟我来吧
+2017-09-10 [07:03:40] [Server thread/WARNING]: dkdkdiddododidid moved wrongly!
+2017-09-10 [07:03:44] [Server thread/INFO]: [帅X]xy520 : 打啊
+2017-09-10 [07:03:54] [Server thread/INFO]: [PVP大师]Lucifer : 你打/w zy
+2017-09-10 [07:03:56] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:04:00] [Server thread/INFO]: 10086 : 嗯
+2017-09-10 [07:04:03] [Server thread/INFO]: [帅X]xy520 : 打啊
+2017-09-10 [07:04:05] [Server thread/INFO]: [建筑师]liuliu2008 : 好菜
+2017-09-10 [07:04:05] [Server thread/NOTICE]: Player data not found for "bryan", creating new profile
+2017-09-10 [07:04:05] [Server thread/INFO]: bryan[/73.115.45.205:60455] [ClientID: -881955605026494075] logged in with entity id 12288 at (world, 128, 68, 128)
+2017-09-10 [07:04:08] [Server thread/INFO]: bryan joined the game
+2017-09-10 [07:04:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:04:13] [Server thread/INFO]: [aa]tmdnmd : 怎么设置家呀
+2017-09-10 [07:04:14] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:04:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:04:24] [Server thread/INFO]: 10086 : 我来了
+2017-09-10 [07:04:25] [Server thread/INFO]: bryan left the game
+2017-09-10 [07:04:25] [Server thread/INFO]: bryan[/73.115.45.205:60455] logged out due to client disconnect
+2017-09-10 [07:04:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:04:29] [Server thread/INFO]: [建筑师]liuliu2008 : 输入/安家 名字
+2017-09-10 [07:04:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [07:04:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:04:31] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:04:32] [Server thread/WARNING]: dkdkdiddododidid moved wrongly!
+2017-09-10 [07:04:35] [Server thread/INFO]: dkdkdiddododidid left the game
+2017-09-10 [07:04:35] [Server thread/INFO]: dkdkdiddododidid[/42.98.52.17:39233] logged out due to client disconnect
+2017-09-10 [07:04:59] [Server thread/INFO]: [建筑师]liuliu2008 : 我去带新手
+2017-09-10 [07:05:04] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:05:10] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:05:12] [Server thread/INFO]: 10086 has just earned the achievement Getting Wood
+2017-09-10 [07:05:22] [Server thread/INFO]: 10086 : 一个木头！
+2017-09-10 [07:05:24] [Server thread/INFO]: essakareem0 left the game
+2017-09-10 [07:05:24] [Server thread/INFO]: essakareem0[/149.255.203.42:43340] logged out due to Failed to login in 120 seconds
+2017-09-10 [07:05:29] [Server thread/INFO]: [建筑师]liuliu2008 : 给你铁
+2017-09-10 [07:05:34] [Server thread/INFO]: [帅X]xy520 : 钻
+2017-09-10 [07:05:40] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:05:43] [Server thread/INFO]: [建筑师]liuliu2008 : 和钱
+2017-09-10 [07:05:46] [Server thread/INFO]: [PVP大师]Lucifer : 怎么圈地来着
+2017-09-10 [07:05:50] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-10 [07:05:55] [Server thread/INFO]: 10086 : 多谢大佬
+2017-09-10 [07:06:28] [Server thread/INFO]: Steve[/69.114.176.120:60965] [ClientID: 2684530551396032045] logged in with entity id 12325 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [07:06:31] [Server thread/INFO]: Steve joined the game
+2017-09-10 [07:06:32] [Server thread/INFO]: [建筑师]liuliu2008 : 五万
+2017-09-10 [07:06:50] [Server thread/INFO]: [建筑师]liuliu2008 : 还是那几个字
+2017-09-10 [07:06:55] [Server thread/INFO]: 10086 : 我快饿死了……
+2017-09-10 [07:06:59] [Server thread/INFO]: [建筑师]liuliu2008 : 有钱任性
+2017-09-10 [07:07:03] [Server thread/INFO]: 10086 : 怎么搞吃的
+2017-09-10 [07:07:07] [Server thread/INFO]: [帅X]xy520 : 1万
+2017-09-10 [07:07:15] [Server thread/INFO]: [建筑师]liuliu2008 : 去主城买吃的
+2017-09-10 [07:07:18] [Server thread/INFO]: [aa]tmdnmd : ..
+2017-09-10 [07:07:26] [Server thread/INFO]: 10086 : 主城怎么去捏
+2017-09-10 [07:07:28] [Server thread/INFO]: [帅X]xy520 : 没钱可怜
+2017-09-10 [07:07:28] [Server thread/INFO]: [建筑师]liuliu2008 : 输入/w world
+2017-09-10 [07:07:35] [Server thread/INFO]: Steve left the game
+2017-09-10 [07:07:35] [Server thread/INFO]: Steve[/69.114.176.120:60965] logged out due to client disconnect
+2017-09-10 [07:07:38] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:07:38] [Server thread/INFO]: tmdnmd[/220.200.58.141:26029] logged out due to Failed to login in 120 seconds
+2017-09-10 [07:07:38] [Server thread/NOTICE]: Player data not found for "veikid", creating new profile
+2017-09-10 [07:07:38] [Server thread/INFO]: veikid[/108.6.224.144:65405] [ClientID: 7265742797336516937] logged in with entity id 12355 at (world, 128, 68, 128)
+2017-09-10 [07:07:41] [Server thread/INFO]: [建筑师]liuliu2008 : 不是给你钱了吗
+2017-09-10 [07:07:41] [Server thread/INFO]: veikid joined the game
+2017-09-10 [07:07:56] [Server thread/INFO]: tmdnmd[/220.200.58.141:26029] [ClientID: 6928900985537816080] logged in with entity id 12365 at (th, -226.2872, 63, -72.3958)
+2017-09-10 [07:07:57] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:08:06] [Server thread/INFO]: veikid left the game
+2017-09-10 [07:08:06] [Server thread/INFO]: veikid[/108.6.224.144:65405] logged out due to client disconnect
+2017-09-10 [07:08:10] [Server thread/INFO]: [建筑师]liuliu2008 : 给你装备
+2017-09-10 [07:08:12] [Server thread/INFO]: [aa]tmdnmd : 为什么land buy没有用
+2017-09-10 [07:08:18] [Server thread/INFO]: [PVP大师]Lucifer : 对啊
+2017-09-10 [07:08:21] [Server thread/INFO]: 10086 : 把家修一下
+2017-09-10 [07:08:25] [Server thread/INFO]: [MVP+]yukozh : 牌子
+2017-09-10 [07:08:37] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:08:39] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:08:51] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:08:57] [Server thread/INFO]: [MVP+]yukozh : 我出去一下
+2017-09-10 [07:09:00] [Server thread/INFO]: xy520 left the game
+2017-09-10 [07:09:00] [Server thread/INFO]: xy520[/190.45.41.56:62794] logged out due to client disconnect
+2017-09-10 [07:09:05] [Server thread/INFO]: [aa]tmdnmd : en
+2017-09-10 [07:09:07] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:09:07] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
+2017-09-10 [07:09:07] [Server thread/INFO]: [aa]tmdnmd : 嗯
+2017-09-10 [07:09:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:09:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:09:24] [Server thread/INFO]: [aa]tmdnmd : 为什么land buy没用
+2017-09-10 [07:09:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:09:28] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 12393 at (th, -222.9577, 63, -78.8446)
+2017-09-10 [07:09:30] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:09:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:09:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:09:36] [Server thread/NOTICE]: Player data not found for "chouye", creating new profile
+2017-09-10 [07:09:36] [Server thread/INFO]: chouye[/97.113.209.201:61012] [ClientID: 8655422156490307881] logged in with entity id 12394 at (world, 128, 68, 128)
+2017-09-10 [07:09:39] [Server thread/INFO]: chouye joined the game
+2017-09-10 [07:09:44] [Server thread/INFO]: rainbow pro[/201.227.226.150:18510] logged out due to Invalid name!
+2017-09-10 [07:09:50] [Server thread/INFO]: 10086 has just earned the achievement Benchmarking
+2017-09-10 [07:09:52] [Server thread/INFO]: [PVP大师]Lucifer : 到底怎么圈地
+2017-09-10 [07:10:08] [Server thread/INFO]: chouye left the game
+2017-09-10 [07:10:08] [Server thread/INFO]: chouye[/97.113.209.201:61012] logged out due to client disconnect
+2017-09-10 [07:10:10] [Server thread/INFO]: [建筑师]liuliu2008 : 你要去滨滨机场坐飞机吗
+2017-09-10 [07:10:14] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:10:15] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:10:23] [Server thread/INFO]: chouye[/97.113.209.201:61012] [ClientID: 8655422156490307881] logged in with entity id 12398 at (world, 128, 68.2, 128)
+2017-09-10 [07:10:25] [Server thread/INFO]: 10086 : 哇
+2017-09-10 [07:10:25] [Server thread/INFO]: chouye joined the game
+2017-09-10 [07:10:30] [Server thread/INFO]: [建筑师]liuliu2008 : 要么
+2017-09-10 [07:10:32] [Server thread/INFO]: 10086 : 我家下面
+2017-09-10 [07:10:37] [Server thread/INFO]: 10086 : 有个
+2017-09-10 [07:10:41] [Server thread/INFO]: [MVP+]yukozh : 哪到哪
+2017-09-10 [07:10:46] [Server thread/INFO]: 10086 : 矿洞
+2017-09-10 [07:10:46] [Server thread/INFO]: chouye left the game
+2017-09-10 [07:10:46] [Server thread/INFO]: chouye[/97.113.209.201:61012] logged out due to client disconnect
+2017-09-10 [07:10:55] [Server thread/INFO]: Lucifer left the game
+2017-09-10 [07:10:55] [Server thread/INFO]: Lucifer[/123.14.179.186:55442] logged out due to timeout
+2017-09-10 [07:10:56] [Server thread/INFO]: Steve[/1.27.159.7:33910] [ClientID: -2691364780446459658] logged in with entity id 12401 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [07:10:56] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:10:58] [Server thread/INFO]: liuliu2008 left the game
+2017-09-10 [07:10:58] [Server thread/INFO]: liuliu2008[/101.87.228.242:60695] logged out due to client disconnect
+2017-09-10 [07:10:58] [Server thread/INFO]: Steve joined the game
+2017-09-10 [07:11:10] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:11:11] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:11:13] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:11:41] [Server thread/INFO]: [MVP+]yukozh : 点
+2017-09-10 [07:11:42] [Server thread/INFO]: [aa]tmdnmd : 好了
+2017-09-10 [07:11:43] [Server thread/INFO]: Steve left the game
+2017-09-10 [07:11:43] [Server thread/INFO]: Steve[/1.27.159.7:33910] logged out due to client disconnect
+2017-09-10 [07:12:11] [Server thread/INFO]: [MVP+]yukozh : 我也造一个
+2017-09-10 [07:12:48] [Server thread/INFO]: 10086 : 搞个菜地
+2017-09-10 [07:13:08] [Server thread/INFO]: [MVP+]yukozh : 我有无限金币
+2017-09-10 [07:13:24] [Server thread/INFO]: [aa]aaqw : 我搞透视了
+2017-09-10 [07:13:28] [Server thread/INFO]: 10086 : 菜地在家里会不会被熊啊
+2017-09-10 [07:13:32] [Server thread/INFO]: [aa]aaqw : 全红宝石
+2017-09-10 [07:13:50] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:14:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:14:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:14:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:14:31] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:14:31] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:14:41] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:14:41] [Server thread/INFO]: tmdnmd[/220.200.58.141:26029] logged out due to Failed to login in 120 seconds
+2017-09-10 [07:14:57] [Server thread/INFO]: tmdnmd[/220.200.58.141:26029] [ClientID: 6928900985537816080] logged in with entity id 12422 at (th, -214.0972, 63, -73.3595)
+2017-09-10 [07:14:59] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:15:09] [Server thread/INFO]: xy520[/190.45.41.56:61610] [ClientID: -5729687298302546594] logged in with entity id 12423 at (world, 138.5871, 64, 111.4895)
+2017-09-10 [07:15:11] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:15:13] [Server thread/INFO]: xy520 joined the game
+2017-09-10 [07:15:14] [Server thread/INFO]: MetqweR112233[/180.125.26.222:6084] [ClientID: -6084973876221755786] logged in with entity id 12424 at (world, 231.3, 26, 219.6346)
+2017-09-10 [07:15:17] [Server thread/INFO]: MetqweR112233 joined the game
+2017-09-10 [07:15:19] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:15:27] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:15:27] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:15:31] [Server thread/INFO]: [帅X]xy520 : 注意
+2017-09-10 [07:15:39] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:15:39] [Server thread/INFO]: tmdnmd[/220.200.58.141:26029] logged out due to client disconnect
+2017-09-10 [07:15:50] [Server thread/INFO]: tmdnmd[/220.200.58.141:26498] [ClientID: 6928900985537816080] logged in with entity id 12436 at (th, -212.1806, 63, -75.5995)
+2017-09-10 [07:15:52] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:16:01] [Server thread/INFO]: MetqweR112233 left the game
+2017-09-10 [07:16:01] [Server thread/INFO]: MetqweR112233[/180.125.26.222:6084] logged out due to client disconnect
+2017-09-10 [07:16:01] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:16:10] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:16:14] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:16:16] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:16:17] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:16:19] [Server thread/INFO]: [帅X]xy520 : 你们玩我的世界多久了
+2017-09-10 [07:16:23] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:16:23] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
+2017-09-10 [07:16:31] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:16:40] [Server thread/INFO]: 10086 : 弄家的指令是什么来着
+2017-09-10 [07:16:45] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:16:45] [Server thread/INFO]: tmdnmd[/220.200.58.141:26498] logged out due to client disconnect
+2017-09-10 [07:16:46] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 12439 at (th, -216.2753, 64, -114.1626)
+2017-09-10 [07:16:48] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:16:49] [Server thread/INFO]: tmdnmd[/220.200.58.141:26498] [ClientID: 6928900985537816080] logged in with entity id 12440 at (th, -212.8928, 63, -72.275)
+2017-09-10 [07:16:50] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:17:05] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:17:10] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:17:15] [Server thread/NOTICE]: Player data not found for "jase", creating new profile
+2017-09-10 [07:17:15] [Server thread/INFO]: jase[/174.134.102.185:64557] [ClientID: -1098301081395914089] logged in with entity id 12445 at (world, 128, 68, 128)
+2017-09-10 [07:17:17] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:17:17] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:17:18] [Server thread/INFO]: jase joined the game
+2017-09-10 [07:17:19] [Server thread/INFO]: [帅X]xy520 : 打/安家 家名
+2017-09-10 [07:17:24] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:17:29] [Server thread/INFO]: 10086 : 哦哦
+2017-09-10 [07:17:31] [Server thread/INFO]: jase left the game
+2017-09-10 [07:17:31] [Server thread/INFO]: jase[/174.134.102.185:64557] logged out due to client disconnect
+2017-09-10 [07:17:39] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:17:43] [Server thread/INFO]: 10086 : 想换个平坦的地方
+2017-09-10 [07:17:45] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:17:45] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to client disconnect
+2017-09-10 [07:17:56] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:18:05] [Server thread/INFO]: yukozh[/125.54.27.121:50901] [ClientID: 6797555042684619036] logged in with entity id 12457 at (th, -224.1955, 63, -94.8996)
+2017-09-10 [07:18:08] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:18:33] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:18:33] [Server thread/INFO]: tmdnmd[/220.200.58.141:26498] logged out due to client disconnect
+2017-09-10 [07:18:37] [Server thread/INFO]: tmdnmd[/220.200.58.141:26498] [ClientID: 6928900985537816080] logged in with entity id 12463 at (th, -213.2366, 63, -70.1799)
+2017-09-10 [07:18:38] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:18:42] [Server thread/INFO]: Steve[/113.246.172.180:54464] [ClientID: -3292622974382674262] logged in with entity id 12464 at (world, 128.0436, 68.8, 128.0072)
+2017-09-10 [07:18:46] [Server thread/INFO]: Steve joined the game
+2017-09-10 [07:19:03] [Server thread/INFO]: Steve left the game
+2017-09-10 [07:19:03] [Server thread/INFO]: Steve[/113.246.172.180:54464] logged out due to Login from the same device
+2017-09-10 [07:19:07] [Server thread/INFO]: Steve[/71.86.106.57:57994] [ClientID: 522837499975828145] logged in with entity id 12467 at (world, 128.0436, 69, 128.0072)
+2017-09-10 [07:19:09] [Server thread/NOTICE]: Player data not found for "stone", creating new profile
+2017-09-10 [07:19:09] [Server thread/INFO]: Stone[/174.104.152.175:60996] [ClientID: 117938243405732232] logged in with entity id 12469 at (world, 128, 68, 128)
+2017-09-10 [07:19:10] [Server thread/INFO]: Steve joined the game
+2017-09-10 [07:19:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:19:15] [Server thread/INFO]: Stone joined the game
+2017-09-10 [07:19:15] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:19:15] [Server thread/INFO]: yukozh[/125.54.27.121:50901] logged out due to timeout
+2017-09-10 [07:19:19] [Server thread/INFO]: [帅X]xy520 : 谁想pvp
+2017-09-10 [07:19:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:19:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:19:27] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 12471 at (th, -221.1396, 63, -100.6009)
+2017-09-10 [07:19:29] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:19:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:19:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:20:06] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:20:07] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:20:08] [Server thread/INFO]: [帅X]xy520 : 谁想pvp
+2017-09-10 [07:20:15] [Server thread/NOTICE]: Player data not found for "hoeshavetoesv2", creating new profile
+2017-09-10 [07:20:15] [Server thread/INFO]: hoeshavetoesv2[/96.59.212.120:58640] [ClientID: 8892548274967439511] logged in with entity id 12477 at (world, 128, 68, 128)
+2017-09-10 [07:20:18] [Server thread/INFO]: hoeshavetoesv2 joined the game
+2017-09-10 [07:20:21] [Server thread/INFO]: Steve left the game
+2017-09-10 [07:20:21] [Server thread/INFO]: Steve[/71.86.106.57:57994] logged out due to client disconnect
+2017-09-10 [07:20:21] [Server thread/INFO]: aaqw fell out of the world
+2017-09-10 [07:20:37] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:20:37] [Server thread/INFO]: [aa]tmdnmd : 我想搞个信标
+2017-09-10 [07:20:42] [Server thread/INFO]: Stone left the game
+2017-09-10 [07:20:42] [Server thread/INFO]: Stone[/174.104.152.175:60996] logged out due to client disconnect
+2017-09-10 [07:20:58] [Server thread/INFO]: hoeshavetoesv2 left the game
+2017-09-10 [07:20:58] [Server thread/INFO]: hoeshavetoesv2[/96.59.212.120:58640] logged out due to client disconnect
+2017-09-10 [07:20:58] [Server thread/INFO]: 10086 : 卡了
+2017-09-10 [07:20:59] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:21:11] [Server thread/INFO]: hua_ji[/222.248.116.86:59922] [ClientID: -823107708206661233] logged in with entity id 12489 at (world, 167.6569, 54.2, -335.4481)
+2017-09-10 [07:21:13] [Server thread/INFO]: hua_ji joined the game
+2017-09-10 [07:21:20] [Server thread/INFO]: [帅X]xy520 : 10086你很卡
+2017-09-10 [07:21:37] [Server thread/NOTICE]: Player data not found for "aa2635497", creating new profile
+2017-09-10 [07:21:37] [Server thread/INFO]: Aa2635497[/1.27.159.7:35293] [ClientID: -2691364780446459658] logged in with entity id 12492 at (world, 128, 68, 128)
+2017-09-10 [07:21:39] [Server thread/INFO]: Aa2635497 joined the game
+2017-09-10 [07:21:40] [Server thread/INFO]: 10086 left the game
+2017-09-10 [07:21:40] [Server thread/INFO]: 10086[/222.76.106.21:8789] logged out due to timeout
+2017-09-10 [07:22:08] [Server thread/INFO]: 10086[/222.76.106.21:8789] [ClientID: 6709504870013403706] logged in with entity id 12596 at (world, 122.6551, 69, 109.0877)
+2017-09-10 [07:22:11] [Server thread/INFO]: 10086 joined the game
+2017-09-10 [07:22:20] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:22:21] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:22:24] [Server thread/INFO]: [aa]aaqw : 我问一下，附魔的在哪
+2017-09-10 [07:22:26] [Server thread/INFO]: [帅X]xy520 : 谁想pvp
+2017-09-10 [07:22:30] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:22:30] [Server thread/INFO]: [aa]aaqw : 做不了
+2017-09-10 [07:22:34] [Server thread/INFO]: [表情包之王]hua_ji : 这个服不能附魔
+2017-09-10 [07:22:39] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:22:42] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:22:42] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:22:51] [Server thread/INFO]: 10086 : 怎么搞地皮啊
+2017-09-10 [07:22:53] [Server thread/INFO]: [帅X]xy520 : 谁想pvp
+2017-09-10 [07:22:56] [Server thread/INFO]: [表情包之王]hua_ji : 我
+2017-09-10 [07:22:59] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:22:59] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:23:00] [Server thread/INFO]: [表情包之王]hua_ji : 我想pvp
+2017-09-10 [07:23:07] [Server thread/INFO]: [帅X]xy520 : tp我
+2017-09-10 [07:23:09] [Server thread/INFO]: hua_ji left the game
+2017-09-10 [07:23:09] [Server thread/INFO]: hua_ji[/222.248.116.86:59922] logged out due to client disconnect
+2017-09-10 [07:23:10] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:23:10] [Server thread/INFO]: tmdnmd[/220.200.58.141:26498] logged out due to timeout
+2017-09-10 [07:23:16] [Server thread/INFO]: tmdnmd[/220.200.58.141:26560] [ClientID: 6928900985537816080] logged in with entity id 12763 at (th, -211.322, 63, -73.8966)
+2017-09-10 [07:23:24] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:23:51] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:24:01] [Server thread/INFO]: 10086 : 领地的路能挖？
+2017-09-10 [07:24:09] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:24:09] [Server thread/INFO]: [aa]aaqw : 能
+2017-09-10 [07:24:10] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:24:12] [Server thread/INFO]: Aa2635497 left the game
+2017-09-10 [07:24:12] [Server thread/INFO]: Aa2635497[/1.27.159.7:35293] logged out due to timeout
+2017-09-10 [07:24:13] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:24:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:24:21] [Server thread/INFO]: 10086 : 这路要没了
+2017-09-10 [07:24:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:24:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:24:30] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:24:39] [Server thread/INFO]: sunjiahao520[/123.185.182.32:11025] [ClientID: 1063107769292482471] logged in with entity id 12800 at (world, 127.1656, 68, 129.5053)
+2017-09-10 [07:24:39] [Server thread/INFO]: hua_ji[/222.248.116.86:59922] [ClientID: -823107708206661233] logged in with entity id 12803 at (world, 167.5275, 70, -365.7996)
+2017-09-10 [07:24:40] [Server thread/INFO]: sunjiahao520 joined the game
+2017-09-10 [07:24:42] [Server thread/INFO]: hua_ji joined the game
+2017-09-10 [07:24:45] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:24:53] [Server thread/INFO]: [表情包之王]hua_ji : 来pvp
+2017-09-10 [07:24:58] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:25:01] [Server thread/INFO]: [帅哥]sunjiahao520 : 滑稽
+2017-09-10 [07:25:01] [Server thread/INFO]: 10086 : 咋弄领地
+2017-09-10 [07:25:04] [Server thread/INFO]: [帅哥]sunjiahao520 : 我来了
+2017-09-10 [07:25:05] [Server thread/INFO]: [表情包之王]hua_ji : ？
+2017-09-10 [07:25:08] [Server thread/INFO]: [表情包之王]hua_ji : 咋啦
+2017-09-10 [07:25:13] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:25:13] [Server thread/INFO]: [帅哥]sunjiahao520 : 昨天
+2017-09-10 [07:25:24] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:25:27] [Server thread/INFO]: [表情包之王]hua_ji : 右熊？
+2017-09-10 [07:25:30] [Server thread/INFO]: [帅哥]sunjiahao520 : 附魔书
+2017-09-10 [07:25:33] [Server thread/INFO]: [帅哥]sunjiahao520 : 没了
+2017-09-10 [07:25:33] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:25:34] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:25:36] [Server thread/INFO]: [aa]aaqw : 谁有线
+2017-09-10 [07:25:41] [Server thread/INFO]: [aa]aaqw : 给我一个
+2017-09-10 [07:25:42] [Server thread/INFO]: [帅哥]sunjiahao520 : 钱给你了
+2017-09-10 [07:25:46] [Server thread/INFO]: [表情包之王]hua_ji : 额
+2017-09-10 [07:25:48] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:25:50] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-10 [07:25:51] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:25:51] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:25:53] [Server thread/INFO]: [表情包之王]hua_ji : 过来
+2017-09-10 [07:25:56] [Server thread/INFO]: [表情包之王]hua_ji : 发工资
+2017-09-10 [07:25:58] [Server thread/NOTICE]: Player data not found for "danielzawolf", creating new profile
+2017-09-10 [07:25:58] [Server thread/INFO]: DanielZaWolf[/207.38.199.59:63331] [ClientID: -2887412939377839982] logged in with entity id 12867 at (world, 128, 68, 128)
+2017-09-10 [07:26:00] [Server thread/INFO]: [帅X]xy520 : 来pvp啊
+2017-09-10 [07:26:00] [Server thread/INFO]: DanielZaWolf joined the game
+2017-09-10 [07:26:08] [Server thread/INFO]: 10086 : 怎么弄领地啊
+2017-09-10 [07:26:12] [Server thread/INFO]: lihaoyy[/116.230.187.39:59783] [ClientID: -5747510323413524081] logged in with entity id 12870 at (world, 139.0163, 65, 127.209)
+2017-09-10 [07:26:14] [Server thread/INFO]: lihaoyy joined the game
+2017-09-10 [07:26:22] [Server thread/INFO]: [帅哥]sunjiahao520 : 哪里
+2017-09-10 [07:26:23] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:26:27] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:26:29] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:26:29] [Server thread/INFO]: [帅哥]sunjiahao520 : 滑稽小店吗
+2017-09-10 [07:26:30] [Server thread/INFO]: [表情包之王]hua_ji : sun
+2017-09-10 [07:26:32] [Server thread/INFO]: [表情包之王]hua_ji : 过来啊
+2017-09-10 [07:26:34] [Server thread/INFO]: [帅X]xy520 : 腐竹来了
+2017-09-10 [07:26:36] [Server thread/INFO]: [表情包之王]hua_ji : 发工资
+2017-09-10 [07:26:38] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:26:40] [Server thread/INFO]: DanielZaWolf : hi
+2017-09-10 [07:26:46] [Server thread/INFO]: [表情包之王]hua_ji : 嗯
+2017-09-10 [07:26:47] [Server thread/WARNING]: DanielZaWolf moved wrongly!
+2017-09-10 [07:26:51] [Server thread/WARNING]: DanielZaWolf moved wrongly!
+2017-09-10 [07:26:51] [Server thread/INFO]: [表情包之王]hua_ji : 那里
+2017-09-10 [07:26:59] [Server thread/INFO]: [表情包之王]hua_ji : 拿吧
+2017-09-10 [07:27:07] [Server thread/INFO]: [表情包之王]hua_ji : 9个
+2017-09-10 [07:27:11] [Server thread/INFO]: [aa]aaqw : 我看到附魔的了
+2017-09-10 [07:27:13] [Server thread/INFO]: [表情包之王]hua_ji : 少了告诉我
+2017-09-10 [07:27:23] [Server thread/INFO]: [帅哥]sunjiahao520 : 昨天的钱
+2017-09-10 [07:27:27] [Server thread/INFO]: [表情包之王]hua_ji : 啥
+2017-09-10 [07:27:31] [Server thread/INFO]: [帅X]xy520 : 来pvp啊！！
+2017-09-10 [07:27:34] [Server thread/WARNING]: 10086 moved wrongly!
+2017-09-10 [07:27:35] [Server thread/WARNING]: DanielZaWolf moved wrongly!
+2017-09-10 [07:27:35] [Server thread/INFO]: [帅哥]sunjiahao520 : 附魔书
+2017-09-10 [07:27:41] [Server thread/INFO]: [表情包之王]hua_ji : 下面是仓库
+2017-09-10 [07:27:46] [Server thread/INFO]: [帅哥]sunjiahao520 : 按个火把
+2017-09-10 [07:27:51] [Server thread/INFO]: 10086 : 怎么搞领地啊
+2017-09-10 [07:27:54] [Server thread/INFO]: [帅哥]sunjiahao520 : 太暗了
+2017-09-10 [07:28:00] [Server thread/NOTICE]: Player data not found for "hannahbear1607", creating new profile
+2017-09-10 [07:28:00] [Server thread/INFO]: HannahBear1607[/68.1.137.69:56974] [ClientID: -7835903498276315526] logged in with entity id 12894 at (world, 128, 68, 128)
+2017-09-10 [07:28:04] [Server thread/INFO]: [表情包之王]hua_ji : p就p
+2017-09-10 [07:28:05] [Server thread/INFO]: HannahBear1607 joined the game
+2017-09-10 [07:28:18] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:28:19] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:28:20] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:28:31] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:28:32] [Server thread/INFO]: HannahBear1607 left the game
+2017-09-10 [07:28:32] [Server thread/INFO]: HannahBear1607[/68.1.137.69:56974] logged out due to client disconnect
+2017-09-10 [07:28:33] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:28:34] [Server thread/INFO]: 10086 : 在别人领地偷火把
+2017-09-10 [07:28:46] [Server thread/INFO]: [帅X]xy520 : 创你妺啊
+2017-09-10 [07:28:52] [Server thread/INFO]: DanielZaWolf left the game
+2017-09-10 [07:28:52] [Server thread/INFO]: DanielZaWolf[/207.38.199.59:63331] logged out due to timeout
+2017-09-10 [07:29:04] [Server thread/INFO]: [帅哥]sunjiahao520 : 我来
+2017-09-10 [07:29:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:29:14] [Server thread/INFO]: [帅哥]sunjiahao520 : 我坚不可摧
+2017-09-10 [07:29:22] [Server thread/INFO]: [帅哥]sunjiahao520 : 无敌的
+2017-09-10 [07:29:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:29:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:29:32] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:29:32] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:29:37] [Server thread/INFO]: hua_ji left the game
+2017-09-10 [07:29:37] [Server thread/INFO]: hua_ji[/222.248.116.86:59922] logged out due to client disconnect
+2017-09-10 [07:29:52] [Server thread/INFO]: [帅哥]sunjiahao520 : 滑稽
+2017-09-10 [07:29:54] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:29:55] [Server thread/INFO]: [帅哥]sunjiahao520 : 接受
+2017-09-10 [07:30:00] [Server thread/INFO]: [帅X]xy520 : 我回家了
+2017-09-10 [07:30:02] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:30:04] [Server thread/INFO]: 10086 : 怎么弄领地
+2017-09-10 [07:30:16] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:30:17] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:30:21] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:30:27] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:30:27] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:30:28] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:30:28] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:30:33] [Server thread/INFO]: GHD[/183.47.137.145:51679] [ClientID: -6009527916499289536] logged in with entity id 12960 at (world, 126.9498, 64, 134.0956)
+2017-09-10 [07:30:38] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-10 [07:30:38] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:30:38] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:30:38] [Server thread/INFO]: GHD joined the game
+2017-09-10 [07:30:50] [Server thread/INFO]: 10086 : 拆别人房子
+2017-09-10 [07:30:53] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:30:53] [Server thread/INFO]: [帅哥]sunjiahao520 : xy520
+2017-09-10 [07:30:54] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:30:58] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 12970 at (th, -221.4538, 89.1236, -102.5713)
+2017-09-10 [07:31:00] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:31:30] [Server thread/INFO]: [帅X]xy520 : 我鬼畜了
+2017-09-10 [07:31:31] [Server thread/INFO]: sunjiahao520 died
+2017-09-10 [07:31:45] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:31:49] [Server thread/INFO]: 10086 : 可怕
+2017-09-10 [07:31:54] [Server thread/INFO]: GHD : 我发现了黑曜石岛
+2017-09-10 [07:32:03] [Server thread/INFO]: sunjiahao520 died
+2017-09-10 [07:32:05] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:32:08] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to GHD]
+2017-09-10 [07:32:16] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:32:16] [Server thread/INFO]: 10086 : 我发现了一个可以拆的领地
+2017-09-10 [07:32:18] [Server thread/INFO]: HoodedLobster31[/114.18.43.211:62196] [ClientID: 378013698192185338] logged in with entity id 13009 at (world, 128, 68.4, 128)
+2017-09-10 [07:32:18] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:32:19] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:32:21] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to 3000, 80, 2000]
+2017-09-10 [07:32:21] [Server thread/INFO]: HoodedLobster31 joined the game
+2017-09-10 [07:32:23] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:32:24] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:32:27] [Server thread/INFO]: GHD : 呵呵
+2017-09-10 [07:32:27] [Server thread/INFO]: sunjiahao520 died
+2017-09-10 [07:32:34] [Server thread/INFO]: [lihaoyy] 服务器将在1分钟后重启
+2017-09-10 [07:32:35] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-10 [07:32:40] [Server thread/INFO]: GHD : 有没有钻石搞
+2017-09-10 [07:32:45] [Server thread/INFO]: [帅哥]sunjiahao520 : 不
+2017-09-10 [07:32:45] [Server thread/INFO]: [lihaoyy] 服务器将在1分钟后重启
+2017-09-10 [07:32:45] [Server thread/INFO]: [lihaoyy] 服务器将在1分钟后重启
+2017-09-10 [07:32:47] [Server thread/INFO]: [帅哥]sunjiahao520 : 不要
+2017-09-10 [07:32:51] [Server thread/INFO]: [帅哥]sunjiahao520 : 不要
+2017-09-10 [07:32:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:32:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:32:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:32:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:32:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:32:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:33:00] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 不会的
+2017-09-10 [07:33:02] [Server thread/INFO]: 10086 : 重启咯
+2017-09-10 [07:33:04] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我就是看看告示牌
+2017-09-10 [07:33:07] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 不重启
+2017-09-10 [07:33:17] [Server thread/INFO]: 10086 : 腐竹大大
+2017-09-10 [07:33:28] [Server thread/INFO]: 10086 : 怎么搞领地呀
+2017-09-10 [07:33:33] [Server thread/INFO]: [帅X]xy520 : 逗我
+2017-09-10 [07:33:36] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:33:36] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:33:37] [Server thread/INFO]: GHD : 对啊
+2017-09-10 [07:33:42] [Server thread/INFO]: GHD : 怎么弄领地
+2017-09-10 [07:33:43] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 啊啊
+2017-09-10 [07:33:47] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 我教你们
+2017-09-10 [07:33:50] [Server thread/INFO]: [lihaoyy: Teleported lihaoyy to GHD]
+2017-09-10 [07:33:53] [Server thread/INFO]: [MVP+]yukozh : 。。。
+2017-09-10 [07:33:58] [Server thread/INFO]: [帅X]xy520 : 我会
+2017-09-10 [07:34:06] [Server thread/INFO]: HoodedLobster31 left the game
+2017-09-10 [07:34:06] [Server thread/INFO]: HoodedLobster31[/114.18.43.211:62196] logged out due to client disconnect
+2017-09-10 [07:34:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:34:17] [Server thread/INFO]: 10086 : 啦啦啦
+2017-09-10 [07:34:18] [Server thread/INFO]: [帅X]xy520 : 来吧
+2017-09-10 [07:34:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:34:24] [Server thread/INFO]: 10086 : 怎么弄
+2017-09-10 [07:34:25] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:34:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:34:28] [Server thread/INFO]: [帅X]xy520 : 哪到哪
+2017-09-10 [07:34:32] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:34:32] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理9个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:34:35] [Server thread/INFO]: [帅X]xy520 : 领地
+2017-09-10 [07:34:49] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:57816] [ClientID: 6445752726955809211] logged in with entity id 13081 at (th, -2293.8684, 65, 263.4244)
+2017-09-10 [07:34:51] [Server thread/INFO]: RoyBlahBlah joined the game
+2017-09-10 [07:34:51] [Server thread/INFO]: 10086 : ？
+2017-09-10 [07:34:51] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-10 [07:34:58] [Server thread/INFO]: [帅哥]sunjiahao520 : 有人拆家
+2017-09-10 [07:35:00] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:35:01] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:35:01] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:35:01] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:35:01] [Server thread/INFO]: [帅哥]sunjiahao520 : 腐竹
+2017-09-10 [07:35:02] [Server thread/INFO]: [MVP+]RoyBlahBlah : 呃呃呃
+2017-09-10 [07:35:03] [Server thread/INFO]: [帅哥]sunjiahao520 : 呜呜呜
+2017-09-10 [07:35:05] [Server thread/INFO]: [帅哥]sunjiahao520 : 呜呜呜
+2017-09-10 [07:35:06] [Server thread/INFO]: [帅X]xy520 : 哪到哪
+2017-09-10 [07:35:08] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13084 at (th, -219.5695, 89.8735, -110.1104)
+2017-09-10 [07:35:10] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:35:24] [Server thread/INFO]: 10086 : ？
+2017-09-10 [07:35:26] [Server thread/INFO]: [帅哥]sunjiahao520 : 资源世界
+2017-09-10 [07:35:32] [Server thread/INFO]: 10086 : 整块地
+2017-09-10 [07:35:34] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:35:35] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:35:40] [Server thread/INFO]: [帅X]xy520 : 好
+2017-09-10 [07:35:42] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:35:43] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:35:47] [Server thread/INFO]: [帅哥]sunjiahao520 : 我的10000元买的东西都没了
+2017-09-10 [07:35:50] [Server thread/INFO]: 10086 : 就这边的地
+2017-09-10 [07:35:51] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:35:51] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:35:51] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:35:51] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:35:57] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13108 at (th, -219.0186, 83.8735, -109.0109)
+2017-09-10 [07:35:58] [Server thread/INFO]: [帅哥]sunjiahao520 : 100000
+2017-09-10 [07:35:59] [Server thread/INFO]: 10086 : 想建房子
+2017-09-10 [07:35:59] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:36:01] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:36:07] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:36:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 我要圈地
+2017-09-10 [07:36:13] [Server thread/INFO]: Steve[/117.12.1.129:13196] [ClientID: 3936110765915560986] logged in with entity id 13111 at (world, 128.0436, 68.2, 128.0072)
+2017-09-10 [07:36:14] [Server thread/INFO]: Steve joined the game
+2017-09-10 [07:36:16] [Server thread/INFO]: [帅哥]sunjiahao520 : 10000够不
+2017-09-10 [07:36:17] [Server thread/INFO]: [帅X]xy520 : 这里打/startp
+2017-09-10 [07:36:22] [Server thread/INFO]: [MVP+]yukozh : 又卡bug了
+2017-09-10 [07:36:33] [Server thread/INFO]: [MVP+]RoyBlahBlah : 草
+2017-09-10 [07:36:43] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:36:44] [Server thread/INFO]: qiangpojun1[/117.132.92.112:2787] [ClientID: -3338615153963892430] logged in with entity id 13119 at (th, -2331.3635, 64.2, 305.4746)
+2017-09-10 [07:36:50] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:36:51] [Server thread/INFO]: qiangpojun1 joined the game
+2017-09-10 [07:36:51] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:36:52] [Server thread/INFO]: [MVP+]RoyBlahBlah : 我们现在有三个MVP＋了
+2017-09-10 [07:36:54] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-10 [07:37:00] [Server thread/INFO]: [帅X]xy520 : 这里打/endp
+2017-09-10 [07:37:14] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:37:14] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:37:16] [Server thread/INFO]: [强迫君]qiangpojun1 : 。
+2017-09-10 [07:37:29] [Server thread/INFO]: [帅气的腐竹]lihaoyy : qinagpojun
+2017-09-10 [07:37:31] [Server thread/INFO]: popqoq[/117.28.182.30:18598] [ClientID: -8220463036521151707] logged in with entity id 13132 at (world, 9962.749, 71, 9956.2998)
+2017-09-10 [07:37:34] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 不是进来了吗
+2017-09-10 [07:37:34] [Server thread/INFO]: popqoq joined the game
+2017-09-10 [07:37:39] [Server thread/INFO]: [强迫君]qiangpojun1 : 昨天晚上不行
+2017-09-10 [07:37:42] [Server thread/INFO]: [强迫君]qiangpojun1 : 现在可以了
+2017-09-10 [07:37:44] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:37:44] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:37:54] [Server thread/INFO]: GHD : 谢谢腐竹大大
+2017-09-10 [07:38:06] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么
+2017-09-10 [07:38:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 创建
+2017-09-10 [07:38:13] [Server thread/INFO]: Steve left the game
+2017-09-10 [07:38:13] [Server thread/INFO]: Steve[/117.12.1.129:13196] logged out due to Failed to login in 120 seconds
+2017-09-10 [07:38:18] [Server thread/INFO]: [强迫君]qiangpojun1 : 不得不说
+2017-09-10 [07:38:20] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:38:20] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:38:27] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13141 at (th, -219.4268, 89.1228, -99.1849)
+2017-09-10 [07:38:28] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:38:30] [Server thread/INFO]: 10086 : 为啥买不了
+2017-09-10 [07:38:31] [Server thread/INFO]: [强迫君]qiangpojun1 : 换了内地的快多了
+2017-09-10 [07:38:37] [Server thread/WARNING]: popqoq moved wrongly!
+2017-09-10 [07:38:40] [Server thread/INFO]: 10086 : 说是未知指令
+2017-09-10 [07:38:46] [Server thread/INFO]: [帅X]xy520 : 这个
+2017-09-10 [07:38:52] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你们有bug
+2017-09-10 [07:38:59] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 点领地教程的告示牌
+2017-09-10 [07:39:06] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 就是land buy
+2017-09-10 [07:39:09] [Server thread/INFO]: [强迫君]qiangpojun1 : plcmd   land buy
+2017-09-10 [07:39:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:39:16] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:39:16] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:39:19] [Server thread/INFO]: 10086 left the game
+2017-09-10 [07:39:19] [Server thread/INFO]: 10086[/222.76.106.21:8789] logged out due to client disconnect
+2017-09-10 [07:39:22] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13154 at (th, -217.1737, 93.4631, -110.3239)
+2017-09-10 [07:39:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:39:23] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 不是
+2017-09-10 [07:39:24] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:39:25] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:39:26] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:39:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:39:28] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 告示牌输
+2017-09-10 [07:39:32] [Server thread/INFO]: [帅X]xy520 : what！
+2017-09-10 [07:39:32] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:39:32] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:39:35] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:39:35] [Server thread/INFO]: Lucifer[/123.14.179.186:37606] [ClientID: 3387026450036143444] logged in with entity id 13157 at (world, 101.9135, 70, 11.1581)
+2017-09-10 [07:39:38] [Server thread/INFO]: Lucifer joined the game
+2017-09-10 [07:39:41] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:39:42] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:39:44] [Server thread/INFO]: [帅X]xy520 : 我知道
+2017-09-10 [07:39:44] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:39:49] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:39:51] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:39:52] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:39:54] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:40:02] [Server thread/INFO]: Lucifer drowned
+2017-09-10 [07:40:07] [Server thread/WARNING]: Lucifer moved wrongly!
+2017-09-10 [07:40:08] [Server thread/INFO]: [强迫君]qiangpojun1 : 腐竹
+2017-09-10 [07:40:13] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:40:14] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:40:14] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:40:14] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:40:15] [Server thread/INFO]: [帅哥]sunjiahao520 : 第三个点怎么
+2017-09-10 [07:40:16] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:40:22] [Server thread/INFO]: [强迫君]qiangpojun1 : op是不是所有的物品都可以用啊
+2017-09-10 [07:40:24] [Server thread/INFO]: [帅哥]sunjiahao520 : 告诉我
+2017-09-10 [07:40:26] [Server thread/INFO]: [PVP大师]Lucifer : 还
+2017-09-10 [07:40:30] [Server thread/INFO]: [PVP大师]Lucifer : 朋友
+2017-09-10 [07:40:33] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:40:38] [Server thread/INFO]: Jacob[/172.12.0.200:64820] [ClientID: -6739917897876174640] logged in with entity id 13167 at (world, 128, 64, 128)
+2017-09-10 [07:40:41] [Server thread/INFO]: Jacob joined the game
+2017-09-10 [07:40:45] [Server thread/INFO]: [PVP大师]Lucifer : 朋友
+2017-09-10 [07:40:54] [Server thread/WARNING]: popqoq moved wrongly!
+2017-09-10 [07:40:55] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:40:55] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:40:56] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:40:56] [Server thread/INFO]: [PVP大师]Lucifer : popqoq
+2017-09-10 [07:40:57] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:41:00] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:41:03] [Server thread/INFO]: [帅X]xy520 : 第三个点没有
+2017-09-10 [07:41:10] [Server thread/INFO]: [帅X]xy520 : 第二个
+2017-09-10 [07:41:11] [Server thread/INFO]: popqoq left the game
+2017-09-10 [07:41:11] [Server thread/INFO]: popqoq[/117.28.182.30:18598] logged out due to client disconnect
+2017-09-10 [07:41:13] [Server thread/INFO]: Jacob left the game
+2017-09-10 [07:41:13] [Server thread/INFO]: Jacob[/172.12.0.200:64820] logged out due to client disconnect
+2017-09-10 [07:41:14] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:41:17] [Server thread/INFO]: [帅哥]sunjiahao520 : 好了
+2017-09-10 [07:41:24] [Server thread/INFO]: [帅X]xy520 : 后是卖地
+2017-09-10 [07:41:25] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么3创建
+2017-09-10 [07:41:30] [Server thread/INFO]: [帅X]xy520 : 买
+2017-09-10 [07:41:32] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to timeout
+2017-09-10 [07:41:32] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么买
+2017-09-10 [07:42:18] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [07:42:20] [Server thread/INFO]: snowball0913[/117.82.186.32:5504] [ClientID: -5833097095930266693] logged in with entity id 13183 at (th, 190.7753, 65, -10.4389)
+2017-09-10 [07:42:20] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:42:22] [Server thread/INFO]: snowball0913 joined the game
+2017-09-10 [07:42:22] [Server thread/WARNING]: tmdnmd moved too fast, reverting movement
+2017-09-10 [07:42:26] [Server thread/WARNING]: tmdnmd moved too fast, reverting movement
+2017-09-10 [07:42:29] [Server thread/WARNING]: tmdnmd moved too fast, reverting movement
+2017-09-10 [07:42:30] [Server thread/INFO]: tmdnmd fell from a high place
+2017-09-10 [07:42:36] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:42:41] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:42:41] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:42:41] [Server thread/INFO]: GHD : 额
+2017-09-10 [07:42:43] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:42:46] [Server thread/INFO]: Jeff[/172.58.11.32:29932] [ClientID: 3436563328806341719] logged in with entity id 13187 at (nether, 147.5934, 44, 128.3819)
+2017-09-10 [07:42:49] [Server thread/INFO]: Jeff joined the game
+2017-09-10 [07:42:51] [Server thread/INFO]: [帅X]xy520 : 好了
+2017-09-10 [07:42:58] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:42:59] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:42:59] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:42:59] [Server thread/INFO]: tmdnmd[/220.200.58.141:26560] logged out due to timeout
+2017-09-10 [07:43:12] [Server thread/INFO]: GHD : 这么的自大
+2017-09-10 [07:43:13] [Server thread/INFO]: fenkeo[/117.149.98.248:31106] [ClientID: -3153966384310663858] logged in with entity id 13198 at (world, 128.9114, 70, 131.5552)
+2017-09-10 [07:43:16] [Server thread/INFO]: fenkeo joined the game
+2017-09-10 [07:43:16] [Server thread/INFO]: [帅气的腐竹]lihaoyy : ghd
+2017-09-10 [07:43:19] [Server thread/INFO]: tmdnmd[/220.200.58.141:26735] [ClientID: 6928900985537816080] logged in with entity id 13199 at (world, 128.0232, 67.5, 125.7317)
+2017-09-10 [07:43:19] [Server thread/INFO]: [强迫君]qiangpojun1 : 233
+2017-09-10 [07:43:20] [Server thread/INFO]: [帅哥]sunjiahao520 : 过来
+2017-09-10 [07:43:20] [Server thread/INFO]: tmdnmd joined the game
+2017-09-10 [07:43:21] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:43:22] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 你钻石哪里来的
+2017-09-10 [07:43:39] [Server thread/INFO]: [帅X]xy520 : 把牌子还给我
+2017-09-10 [07:43:45] [Server thread/INFO]: GHD : 我没有钻石是朋友给的
+2017-09-10 [07:43:46] [Server thread/INFO]: [妹子]snowball0913 : jeff
+2017-09-10 [07:43:55] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 谁给的
+2017-09-10 [07:43:57] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 谁
+2017-09-10 [07:44:02] [Server thread/INFO]: [帅气的腐竹]lihaoyy : 说
+2017-09-10 [07:44:07] [Server thread/INFO]: GHD : hon
+2017-09-10 [07:44:10] [Server thread/INFO]: [妹子]snowball0913 : 你是不是jeffxiang的小号
+2017-09-10 [07:44:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:44:22] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:44:22] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:44:23] [Server thread/INFO]: Jeff left the game
+2017-09-10 [07:44:23] [Server thread/INFO]: Jeff[/172.58.11.32:29932] logged out due to client disconnect
+2017-09-10 [07:44:24] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:44:26] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:44:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:44:29] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:44:30] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:44:32] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:44:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:44:33] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理10个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:44:33] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:44:33] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:44:34] [Server thread/INFO]: [帅X]xy520 : 牌子还我
+2017-09-10 [07:44:38] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:44:39] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:44:46] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:44:55] [Server thread/INFO]: GHD : 还有李白送我的铁剑
+2017-09-10 [07:45:00] [Server thread/INFO]: [帅X]xy520 : 牌子
+2017-09-10 [07:45:04] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:45:05] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:05] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:45:05] [Server thread/INFO]: [强迫君]qiangpojun1 : 立白……
+2017-09-10 [07:45:08] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:09] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:21] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:29] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:30] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:33] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [07:45:36] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:45:39] [Server thread/INFO]: FullStarling353[/38.128.132.97:56734] [ClientID: -5050370845510310272] logged in with entity id 13296 at (world, 128, 68.2, 128)
+2017-09-10 [07:45:40] [Server thread/INFO]: FullStarling353 joined the game
+2017-09-10 [07:45:46] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:45:50] [Server thread/INFO]: xiao_hao[/59.63.24.33:54111] [ClientID: -2670619536676626385] logged in with entity id 13299 at (th, -2288.3696, 66, 302.1266)
+2017-09-10 [07:45:50] [Server thread/WARNING]: tmdnmd moved wrongly!
+2017-09-10 [07:45:51] [Server thread/INFO]: tmdnmd left the game
+2017-09-10 [07:45:51] [Server thread/INFO]: tmdnmd[/220.200.58.141:26735] logged out due to client disconnect
+2017-09-10 [07:45:52] [Server thread/INFO]: xiao_hao joined the game
+2017-09-10 [07:46:08] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:46:11] [Server thread/INFO]: [/220.200.58.141:26735] logged out due to timeout
+2017-09-10 [07:46:12] [Server thread/INFO]: GHD : 哈哈
+2017-09-10 [07:46:21] [Server thread/INFO]: [帅X]xy520 : 错了
+2017-09-10 [07:46:22] [Server thread/INFO]: lihaoyy left the game
+2017-09-10 [07:46:22] [Server thread/INFO]: lihaoyy[/116.230.187.39:59783] logged out due to client disconnect
+2017-09-10 [07:46:28] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:46:29] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:46:29] [Server thread/INFO]: [帅哥]sunjiahao520 : 你来
+2017-09-10 [07:46:29] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:46:30] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [07:46:30] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:46:41] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:46:50] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:46:52] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:46:53] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:46:54] [Server thread/INFO]: fenkeo fell out of the world
+2017-09-10 [07:46:56] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:46:58] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:47:01] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:47:01] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:47:02] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:47:03] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:47:03] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:47:03] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:47:04] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:47:06] [Server thread/INFO]: bug kill123[/60.226.74.79:51163] logged out due to Invalid name!
+2017-09-10 [07:47:08] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:47:08] [Server thread/INFO]: Lucifer left the game
+2017-09-10 [07:47:08] [Server thread/INFO]: Lucifer[/123.14.179.186:37606] logged out due to timeout
+2017-09-10 [07:47:09] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:47:38] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:47:39] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:47:39] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:47:40] [Server thread/INFO]: FullStarling353 left the game
+2017-09-10 [07:47:40] [Server thread/INFO]: FullStarling353[/38.128.132.97:56734] logged out due to Failed to login in 120 seconds
+2017-09-10 [07:47:40] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:47:47] [Server thread/INFO]: [帅哥]sunjiahao520 : 不是我的
+2017-09-10 [07:47:51] [Server thread/INFO]: [帅哥]sunjiahao520 : 这里
+2017-09-10 [07:47:52] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:48:01] [Server thread/INFO]: bug kill123[/60.226.74.79:51163] logged out due to Invalid name!
+2017-09-10 [07:48:01] [Server thread/INFO]: GHD : 我去找黑曜石岛了拜拜
+2017-09-10 [07:48:18] [Server thread/INFO]: GHD : 昨天发现了四个
+2017-09-10 [07:48:39] [Server thread/INFO]: [帅X]xy520 : 定了点吗
+2017-09-10 [07:48:41] [Server thread/INFO]: qiangpojun1 left the game
+2017-09-10 [07:48:41] [Server thread/INFO]: qiangpojun1[/117.132.92.112:2787] logged out due to timeout
+2017-09-10 [07:48:45] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么
+2017-09-10 [07:48:47] [Server thread/INFO]: [帅哥]sunjiahao520 : 定
+2017-09-10 [07:49:07] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13371 at (th, -217.7304, 89.054, -108.8092)
+2017-09-10 [07:49:09] [Server thread/INFO]: [帅X]xy520 : 这打/startp
+2017-09-10 [07:49:09] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:49:15] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:49:23] [Server thread/INFO]: sunjiahao520 left the game
+2017-09-10 [07:49:23] [Server thread/INFO]: sunjiahao520[/123.185.182.32:11025] logged out due to timeout
+2017-09-10 [07:49:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:49:29] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:49:29] [Server thread/INFO]:  stampy[/73.142.224.205:60232] logged out due to Invalid name!
+2017-09-10 [07:49:30] [Server thread/INFO]: sunjiahao520[/123.185.182.32:11630] [ClientID: 1063107769292482471] logged in with entity id 13374 at (world, 178.2256, 59, 96.7)
+2017-09-10 [07:49:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:49:31] [Server thread/INFO]: sunjiahao520 joined the game
+2017-09-10 [07:49:35] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:49:35] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:49:43] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:49:44] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:49:44] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:49:46] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:49:52] [Server thread/INFO]:  stampy[/73.142.224.205:60232] logged out due to Invalid name!
+2017-09-10 [07:50:03] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:50:04] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:50:13] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:50:16] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:50:17] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:50:22] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:50:22] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:50:22] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:50:31] [Server thread/WARNING]: GHD moved too fast, reverting movement
+2017-09-10 [07:50:40] [Server thread/WARNING]: xiao_hao moved wrongly!
+2017-09-10 [07:50:52] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:50:59] [Server thread/INFO]: xiao_hao left the game
+2017-09-10 [07:50:59] [Server thread/INFO]: xiao_hao[/59.63.24.33:54111] logged out due to timeout
+2017-09-10 [07:51:02] [Server thread/INFO]: [帅X]xy520 : 这里打/startp
+2017-09-10 [07:51:08] [Server thread/INFO]: liuliu2008[/101.87.228.242:60695] [ClientID: -1938652873023499581] logged in with entity id 13388 at (world, 140.7905, 70, 122.1407)
+2017-09-10 [07:51:10] [Server thread/INFO]: liuliu2008 joined the game
+2017-09-10 [07:51:10] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:51:10] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:51:17] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13391 at (th, -218.8856, 90.9426, -102.647)
+2017-09-10 [07:51:18] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:51:44] [Server thread/WARNING]: snowball0913 moved wrongly!
+2017-09-10 [07:51:56] [Server thread/INFO]: [建筑师]liuliu2008 : 我只能玩个15分钟
+2017-09-10 [07:52:00] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:52:00] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:52:06] [Server thread/INFO]: [建筑师]liuliu2008 : 待会有事
+2017-09-10 [07:52:07] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13397 at (th, -219.5954, 91.8117, -99.9905)
+2017-09-10 [07:52:08] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:52:17] [Server thread/INFO]: FullStarling353[/38.128.132.97:56734] [ClientID: -5050370845510310272] logged in with entity id 13399 at (world, 128, 68.4, 128)
+2017-09-10 [07:52:18] [Server thread/INFO]: FullStarling353 joined the game
+2017-09-10 [07:52:18] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:52:35] [Server thread/INFO]: aaqw drowned
+2017-09-10 [07:52:39] [Server thread/INFO]: xy520 left the game
+2017-09-10 [07:52:39] [Server thread/INFO]: xy520[/190.45.41.56:61610] logged out due to client disconnect
+2017-09-10 [07:52:48] [Server thread/INFO]: FullStarling353 left the game
+2017-09-10 [07:52:48] [Server thread/INFO]: FullStarling353[/38.128.132.97:56734] logged out due to client disconnect
+2017-09-10 [07:52:50] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:52:55] [Server thread/INFO]: snowball0913 left the game
+2017-09-10 [07:52:55] [Server thread/INFO]: snowball0913[/117.82.186.32:5504] logged out due to timeout
+2017-09-10 [07:53:14] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:53:14] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:53:20] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:53:56] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:53:56] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:53:59] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:53:59] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:54:04] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:54:15] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:54:22] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [07:54:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:54:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:54:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:54:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:54:36] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [07:54:55] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13452 at (th, -218.6009, 93.4065, -111.1247)
+2017-09-10 [07:54:55] [Server thread/NOTICE]: Player data not found for "xwp", creating new profile
+2017-09-10 [07:54:55] [Server thread/INFO]: xwp[/116.24.99.215:42849] [ClientID: -1917934345202484861] logged in with entity id 13453 at (world, 128, 68, 128)
+2017-09-10 [07:54:57] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:54:58] [Server thread/INFO]: GHD : 吗的kwkkwk弄个博物馆我进去就没有粗门
+2017-09-10 [07:55:12] [Server thread/INFO]: aaqw left the game
+2017-09-10 [07:55:12] [Server thread/INFO]: aaqw[/58.217.246.121:58428] logged out due to client disconnect
+2017-09-10 [07:55:21] [Server thread/INFO]: xwp[/116.24.99.215:42849] logged out due to client disconnect
+2017-09-10 [07:55:25] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:55:26] [Server thread/INFO]: aaqw[/58.217.246.121:58428] [ClientID: -6797849728394864316] logged in with entity id 13458 at (world, 128, 68, 128)
+2017-09-10 [07:55:29] [Server thread/INFO]: aaqw joined the game
+2017-09-10 [07:55:37] [Server thread/INFO]: xwp[/116.24.99.215:42849] [ClientID: -1917934345202484861] logged in with entity id 13473 at (world, 128, 68, 128)
+2017-09-10 [07:55:41] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:55:49] [Server thread/INFO]: xwp[/116.24.99.215:42849] logged out due to client disconnect
+2017-09-10 [07:56:10] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:56:47] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:56:48] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:57:00] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:57:07] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么买地
+2017-09-10 [07:57:11] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [07:57:13] [Server thread/INFO]: [帅哥]sunjiahao520 : 我还有
+2017-09-10 [07:57:21] [Server thread/INFO]: [帅哥]sunjiahao520 : 一块
+2017-09-10 [07:57:24] [Server thread/INFO]: GHD : 不是有教材吗
+2017-09-10 [07:57:44] [Server thread/INFO]: [帅哥]sunjiahao520 : 创建领地
+2017-09-10 [07:57:56] [Server thread/INFO]: GHD : 对啊
+2017-09-10 [07:58:02] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:58:06] [Server thread/INFO]: GHD : 主城有教材
+2017-09-10 [07:58:12] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:58:28] [Server thread/INFO]: xxx44[/58.217.17.222:48550] [ClientID: -5267037422897834865] logged in with entity id 13540 at (world, 154.4902, 66, 130.5303)
+2017-09-10 [07:58:28] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:58:28] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:58:34] [Server thread/INFO]: xy520[/190.45.41.56:50277] [ClientID: -5729687298302546594] logged in with entity id 13542 at (world, 123.3, 64, 116.3435)
+2017-09-10 [07:58:35] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13543 at (th, -218.3958, 91.8585, -110.5332)
+2017-09-10 [07:58:37] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:58:38] [Server thread/INFO]: xy520 joined the game
+2017-09-10 [07:58:41] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [07:58:44] [Server thread/INFO]: xxx44 joined the game
+2017-09-10 [07:58:55] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:59:00] [Server thread/INFO]: xxx44 left the game
+2017-09-10 [07:59:00] [Server thread/INFO]: xxx44[/58.217.17.222:48550] logged out due to client disconnect
+2017-09-10 [07:59:11] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:59:11] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:59:15] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [07:59:20] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [07:59:22] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:59:23] [Server thread/INFO]: yukozh left the game
+2017-09-10 [07:59:23] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [07:59:23] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:59:24] [Server thread/WARNING]: liuliu2008 moved wrongly!
+2017-09-10 [07:59:25] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [07:59:29] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13551 at (th, -214.8075, 91.679, -111.1882)
+2017-09-10 [07:59:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [07:59:31] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [07:59:35] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [07:59:35] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [07:59:45] [Server thread/INFO]: liuliu2008 left the game
+2017-09-10 [07:59:45] [Server thread/INFO]: liuliu2008[/101.87.228.242:60695] logged out due to client disconnect
+2017-09-10 [08:00:01] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:00:02] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:00:02] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:00:13] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:00:13] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:00:35] [Server thread/INFO]: Steve[/124.160.154.11:3809] [ClientID: -1447624792025456327] logged in with entity id 13569 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [08:00:44] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:00:50] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:00:52] [Server thread/INFO]: Steve[/124.160.154.11:3809] logged out due to client disconnect
+2017-09-10 [08:00:59] [Server thread/INFO]: Steve[/124.160.154.11:3809] [ClientID: -1447624792025456327] logged in with entity id 13599 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [08:01:01] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:01:02] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:01:03] [Server thread/INFO]: Steve[/124.160.154.11:3809] logged out due to Login from the same device
+2017-09-10 [08:01:05] [Server thread/INFO]: Steve[/108.68.105.242:49756] [ClientID: -2662566554677394865] logged in with entity id 13607 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [08:01:06] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:01:07] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:01:07] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:01:13] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:01:21] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:01:21] [Server thread/INFO]: Steve[/108.68.105.242:49756] logged out due to Login from the same device
+2017-09-10 [08:01:24] [Server thread/INFO]: Steve[/124.160.154.11:3809] [ClientID: -1447624792025456327] logged in with entity id 13627 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [08:01:26] [Server thread/INFO]: Steve[/124.160.154.11:3809] logged out due to Login from the same device
+2017-09-10 [08:01:30] [Server thread/INFO]: [aa]aaqw : 谁能告诉我哪里有钻石
+2017-09-10 [08:01:32] [Server thread/INFO]: Steve[/73.173.96.6:62293] [ClientID: -9032185598083226252] logged in with entity id 13631 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [08:01:35] [Server thread/INFO]: Steve[/73.173.96.6:62293] logged out due to Login from the same device
+2017-09-10 [08:01:37] [Server thread/INFO]: Steve[/124.160.154.11:3809] [ClientID: -1447624792025456327] logged in with entity id 13634 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [08:01:39] [Server thread/INFO]: Steve[/124.160.154.11:3809] logged out due to Kicked by admin. Reason: logged in from another location
+2017-09-10 [08:01:39] [Server thread/INFO]: Steve[/108.68.105.242:49756] [ClientID: -2662566554677394865] logged in with entity id 13635 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [08:01:40] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:01:40] [Server thread/INFO]: [帅X]xy520 : 木头世界
+2017-09-10 [08:01:42] [Server thread/INFO]: [aa]aaqw : 透视看了一遍
+2017-09-10 [08:01:49] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:01:49] [Server thread/INFO]: Steve[/108.68.105.242:49756] logged out due to Login from the same device
+2017-09-10 [08:01:50] [Server thread/INFO]: [aa]aaqw : 全红石
+2017-09-10 [08:01:52] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:01:55] [Server thread/INFO]: Steve[/73.173.96.6:62293] [ClientID: -9032185598083226252] logged in with entity id 13641 at (world, 128.0436, 68.8, 128.0072)
+2017-09-10 [08:01:56] [Server thread/INFO]: [帅X]xy520 : 的石头山
+2017-09-10 [08:01:58] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:01:59] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:01:59] [Server thread/INFO]: Steve[/73.173.96.6:62293] logged out due to Kicked by admin. Reason: logged in from another location
+2017-09-10 [08:01:59] [Server thread/INFO]: Steve[/72.227.139.186:54744] [ClientID: 6320671050960780401] logged in with entity id 13644 at (world, 128.0436, 69, 128.0072)
+2017-09-10 [08:02:02] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:02:10] [Server thread/INFO]: GHD suffocated in a wall
+2017-09-10 [08:02:10] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:02:27] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:02:32] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:02:32] [Server thread/INFO]: Steve[/72.227.139.186:54744] logged out due to Login from the same device
+2017-09-10 [08:02:37] [Server thread/INFO]: [MVP+]RoyBlahBlah : 草
+2017-09-10 [08:02:38] [Server thread/INFO]: Steve[/73.173.96.6:62293] [ClientID: -9032185598083226252] logged in with entity id 13658 at (world, 128.0436, 68.2, 128.0072)
+2017-09-10 [08:02:41] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:02:53] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:02:58] [Server thread/INFO]: [帅X]xy520 : 去木头世界
+2017-09-10 [08:03:14] [Server thread/INFO]: sunjiahao520 left the game
+2017-09-10 [08:03:14] [Server thread/INFO]: sunjiahao520[/123.185.182.32:11630] logged out due to Login from the same device
+2017-09-10 [08:03:16] [Server thread/INFO]: sunjiahao520[/123.185.182.32:11929] [ClientID: 1063107769292482471] logged in with entity id 13666 at (world, 174.3, 59, 92.9392)
+2017-09-10 [08:03:17] [Server thread/INFO]: sunjiahao520 joined the game
+2017-09-10 [08:03:25] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:03:26] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:03:35] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:03:35] [Server thread/INFO]: Steve[/73.173.96.6:62293] logged out due to timeout
+2017-09-10 [08:03:41] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-10 [08:03:43] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:03:52] [Server thread/INFO]: aaqw fell from a high place
+2017-09-10 [08:04:07] [Server thread/INFO]: Steve[/218.66.243.54:27715] [ClientID: 7250128510802093112] logged in with entity id 13693 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [08:04:09] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:04:10] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:04:10] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:04:11] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:04:11] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:04:11] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:04:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [08:04:20] [Server thread/INFO]: yukozh left the game
+2017-09-10 [08:04:20] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to client disconnect
+2017-09-10 [08:04:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [08:04:28] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:04:31] [Server thread/INFO]: yukozh[/125.54.27.121:61705] [ClientID: 6797555042684619036] logged in with entity id 13704 at (th, -220.2289, 87, -99.7)
+2017-09-10 [08:04:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [08:04:33] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [08:04:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可爱的动物⊙﹏⊙
+2017-09-10 [08:04:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [08:04:41] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:04:41] [Server thread/INFO]: Steve[/218.66.243.54:27715] logged out due to client disconnect
+2017-09-10 [08:04:42] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:04:47] [Server thread/INFO]: GHD : 你好
+2017-09-10 [08:04:53] [Server thread/INFO]: [MVP+]RoyBlahBlah : 好
+2017-09-10 [08:05:05] [Server thread/INFO]: xiaochunyin[/183.25.149.110:56331] [ClientID: -361225888754481025] logged in with entity id 13710 at (world, 128, 68.2, 128)
+2017-09-10 [08:05:05] [Server thread/INFO]: Steve[/218.66.243.54:27715] [ClientID: 7250128510802093112] logged in with entity id 13711 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [08:05:07] [Server thread/INFO]: xiaochunyin joined the game
+2017-09-10 [08:05:07] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:05:15] [Server thread/INFO]: xiaochunyin left the game
+2017-09-10 [08:05:15] [Server thread/INFO]: xiaochunyin[/183.25.149.110:56331] logged out due to client disconnect
+2017-09-10 [08:05:20] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:05:35] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:05:39] [Server thread/INFO]: GHD : 那是你的房子
+2017-09-10 [08:05:46] [Server thread/INFO]: [aa]aaqw : 我不玩了，距离目标差90000
+2017-09-10 [08:05:49] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:06:05] [Server thread/INFO]: [/58.100.203.191:59493] logged out due to client disconnect
+2017-09-10 [08:06:21] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:06:25] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:06:26] [Server thread/WARNING]: RoyBlahBlah moved wrongly!
+2017-09-10 [08:06:36] [Server thread/INFO]: GHD was slain by sunjiahao520
+2017-09-10 [08:06:46] [Server thread/INFO]: [MVP+]RoyBlahBlah : sunjiahao……
+2017-09-10 [08:06:47] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:06:47] [Server thread/INFO]: Steve[/218.66.243.54:27715] logged out due to Login from the same device
+2017-09-10 [08:06:50] [Server thread/INFO]: GHD : 好残忍
+2017-09-10 [08:06:50] [Server thread/INFO]: Steve[/124.160.154.11:50500] [ClientID: -1447624792025456327] logged in with entity id 13742 at (world, 128.0436, 68.8, 128.0072)
+2017-09-10 [08:06:58] [Server thread/INFO]: [帅哥]sunjiahao520 : 偷家的
+2017-09-10 [08:07:05] [Server thread/INFO]: [帅哥]sunjiahao520 : 来我家干啥
+2017-09-10 [08:07:22] [Server thread/INFO]: yukozh left the game
+2017-09-10 [08:07:22] [Server thread/INFO]: yukozh[/125.54.27.121:61705] logged out due to timeout
+2017-09-10 [08:07:26] [Server thread/INFO]: GHD : 我刚才不小心挖了一个方块就到这里
+2017-09-10 [08:07:30] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:07:34] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:07:34] [Server thread/INFO]: [帅哥]sunjiahao520 : 都是因为你们
+2017-09-10 [08:07:34] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-10 [08:07:34] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:07:37] [Server thread/INFO]: [帅哥]sunjiahao520 : 我我怕我
+2017-09-10 [08:07:41] [Server thread/INFO]: [帅哥]sunjiahao520 : 110000
+2017-09-10 [08:07:45] [Server thread/INFO]: [MVP+]RoyBlahBlah : 你打错了
+2017-09-10 [08:07:46] [Server thread/INFO]: [帅哥]sunjiahao520 : 钱
+2017-09-10 [08:07:51] [Server thread/INFO]: [帅哥]sunjiahao520 : 全没了
+2017-09-10 [08:07:53] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:07:54] [Server thread/NOTICE]: Player data not found for "me_me", creating new profile
+2017-09-10 [08:07:54] [Server thread/INFO]: ME_ME[/37.236.190.25:14976] [ClientID: 1300339463031156055] logged in with entity id 13755 at (world, 128, 68, 128)
+2017-09-10 [08:07:56] [Server thread/INFO]: [帅哥]sunjiahao520 : 小偷
+2017-09-10 [08:07:56] [Server thread/INFO]: ME_ME joined the game
+2017-09-10 [08:07:59] [Server thread/INFO]: [MVP+]RoyBlahBlah : 是在第二行写plcmd
+2017-09-10 [08:08:04] [Server thread/INFO]: yukozh[/125.54.27.121:60654] [ClientID: 6797555042684619036] logged in with entity id 13758 at (th, -218.6457, 92.5676, -112.1403)
+2017-09-10 [08:08:04] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:08:06] [Server thread/INFO]: yukozh joined the game
+2017-09-10 [08:08:07] [Server thread/INFO]: GHD : 我都不是熊
+2017-09-10 [08:08:10] [Server thread/INFO]: [MVP+]RoyBlahBlah : 第三行写land buy
+2017-09-10 [08:08:21] [Server thread/INFO]: [MVP+]RoyBlahBlah : 给我个牌子
+2017-09-10 [08:08:23] [Server thread/INFO]: [MVP+]RoyBlahBlah : 我给你写
+2017-09-10 [08:08:44] [Server thread/INFO]: GHD : 我去给 你的房子补一个方块
+2017-09-10 [08:08:47] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:08:47] [Server thread/INFO]: ME_ME left the game
+2017-09-10 [08:08:47] [Server thread/INFO]: ME_ME[/37.236.190.25:14976] logged out due to client disconnect
+2017-09-10 [08:08:50] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么
+2017-09-10 [08:08:50] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:08:50] [Server thread/INFO]: Steve[/124.160.154.11:50500] logged out due to Failed to login in 120 seconds
+2017-09-10 [08:08:57] [Server thread/INFO]: [MVP+]RoyBlahBlah : 好了
+2017-09-10 [08:09:09] [Server thread/INFO]: Steve[/124.160.154.11:50500] [ClientID: -1447624792025456327] logged in with entity id 13769 at (world, 128.0436, 69, 128.0072)
+2017-09-10 [08:09:10] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:09:11] [Server thread/INFO]: GHD : 我刚才挖了一个粗来
+2017-09-10 [08:09:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [08:09:17] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:09:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [08:09:27] [Server thread/INFO]: [MVP+]RoyBlahBlah : 你家在木头世界？？？
+2017-09-10 [08:09:31] [Server thread/INFO]: fenkeo left the game
+2017-09-10 [08:09:31] [Server thread/INFO]: fenkeo[/117.149.98.248:31106] logged out due to client disconnect
+2017-09-10 [08:09:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [08:09:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [08:09:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [08:09:46] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:09:47] [Server thread/INFO]: fenkeo[/117.149.98.248:31106] [ClientID: -3153966384310663858] logged in with entity id 13779 at (th, 195.6774, 66, 316.7255)
+2017-09-10 [08:09:47] [Server thread/INFO]: ME_ME[/37.236.190.25:15200] [ClientID: 1300339463031156055] logged in with entity id 13780 at (world, 128, 68.2, 128)
+2017-09-10 [08:09:47] [Server thread/INFO]: blue_sky[/111.249.58.120:54954] [ClientID: 5903278655021412276] logged in with entity id 13781 at (th, -2324.8276, 115, 273.9275)
+2017-09-10 [08:09:48] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:09:48] [Server thread/INFO]: Steve[/124.160.154.11:50500] logged out due to timeout
+2017-09-10 [08:09:49] [Server thread/INFO]: fenkeo joined the game
+2017-09-10 [08:09:50] [Server thread/INFO]: blue_sky joined the game
+2017-09-10 [08:10:02] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:10:09] [Server thread/INFO]: ME_ME[/37.236.190.25:15200] logged out due to client disconnect
+2017-09-10 [08:10:15] [Server thread/INFO]: GHD : 补好了
+2017-09-10 [08:10:18] [Server thread/INFO]: [帅哥]sunjiahao520 : 不能
+2017-09-10 [08:10:34] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:10:37] [Server thread/INFO]: [帅哥]sunjiahao520 : 这里
+2017-09-10 [08:10:43] [Server thread/INFO]: GHD : sun出去的门在哪一边
+2017-09-10 [08:10:45] [Server thread/INFO]: [SVIP]blue_sky : 蛤
+2017-09-10 [08:10:50] [Server thread/WARNING]: blue_sky moved too fast, reverting movement
+2017-09-10 [08:10:57] [Server thread/INFO]: [MVP+]RoyBlahBlah : 哈
+2017-09-10 [08:11:04] [Server thread/INFO]: Frank[/112.192.69.23:2201] [ClientID: 9099812388355375704] logged in with entity id 13793 at (world, 133.8213, 65, 131.5547)
+2017-09-10 [08:11:04] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31857] [ClientID: 3036730296650954731] logged in with entity id 13794 at (th, 234.9837, 82.4985, -273.9938)
+2017-09-10 [08:11:07] [Server thread/INFO]: zhumengzhiying joined the game
+2017-09-10 [08:11:08] [Server thread/INFO]: Frank joined the game
+2017-09-10 [08:11:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 这里
+2017-09-10 [08:11:15] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:11:16] [Server thread/INFO]: sen[/71.219.212.176:55924] logged out due to timeout
+2017-09-10 [08:11:16] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:11:23] [Server thread/INFO]: [帅哥]sunjiahao520 : 打个牌子
+2017-09-10 [08:11:23] [Server thread/INFO]: GHD : 看来你们还没有弄领地
+2017-09-10 [08:11:39] [Server thread/INFO]: [帅X]xy520 : 在这打/startp
+2017-09-10 [08:11:42] [Server thread/INFO]: GHD : 我懒得弄
+2017-09-10 [08:11:57] [Server thread/INFO]: [SVIP]blue_sky : 我幫你
+2017-09-10 [08:11:58] [Server thread/INFO]: GHD : 我去1万坐标了拜拜
+2017-09-10 [08:12:04] [Server thread/NOTICE]: Player data not found for "sen", creating new profile
+2017-09-10 [08:12:04] [Server thread/INFO]: sen[/71.219.212.176:55924] [ClientID: 797690299105006225] logged in with entity id 13802 at (world, 128, 68, 128)
+2017-09-10 [08:12:10] [Server thread/INFO]: Steve[/36.225.140.229:57015] [ClientID: 7746408922565593542] logged in with entity id 13804 at (world, 128.0436, 68.2, 128.0072)
+2017-09-10 [08:12:11] [Server thread/INFO]: RoyBlahBlah left the game
+2017-09-10 [08:12:11] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:57816] logged out due to client disconnect
+2017-09-10 [08:12:12] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:12:12] [Server thread/INFO]: [/119.136.152.49:12641] logged out due to client disconnect
+2017-09-10 [08:12:19] [Server thread/INFO]: Frank left the game
+2017-09-10 [08:12:19] [Server thread/INFO]: Frank[/112.192.69.23:2201] logged out due to client disconnect
+2017-09-10 [08:12:22] [Server thread/INFO]: sen joined the game
+2017-09-10 [08:12:24] [Server thread/INFO]: GHD : 你们需要黑曜石吗
+2017-09-10 [08:12:35] [Server thread/NOTICE]: Player data not found for "hanxin", creating new profile
+2017-09-10 [08:12:35] [Server thread/INFO]: hanxin[/223.75.2.129:62444] [ClientID: 7152410089004083906] logged in with entity id 13808 at (world, 128, 68, 128)
+2017-09-10 [08:12:46] [Server thread/INFO]: sen left the game
+2017-09-10 [08:12:46] [Server thread/INFO]: sen[/71.219.212.176:55924] logged out due to timeout
+2017-09-10 [08:12:47] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:57816] [ClientID: 6445752726955809211] logged in with entity id 13811 at (world, 160.096, 70, 119.464)
+2017-09-10 [08:12:48] [Server thread/INFO]: RoyBlahBlah joined the game
+2017-09-10 [08:12:50] [Server thread/INFO]: [帅哥]sunjiahao520 : 他说不能覆盖
+2017-09-10 [08:13:00] [Server thread/INFO]: GHD : 是你的领地了
+2017-09-10 [08:13:00] [Server thread/INFO]: [帅X]xy520 : 这里
+2017-09-10 [08:13:00] [Server thread/INFO]: [aa]aaqw : 未知指令
+2017-09-10 [08:13:04] [Server thread/INFO]: [aa]aaqw : 什么意思
+2017-09-10 [08:13:06] [Server thread/INFO]: hanxin[/223.75.2.129:62444] logged out due to client disconnect
+2017-09-10 [08:13:19] [Server thread/INFO]: GHD : 怎么没了
+2017-09-10 [08:13:22] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:13:24] [Server thread/INFO]: [帅X]xy520 : 我站的
+2017-09-10 [08:13:34] [Server thread/INFO]: Pencil[/121.237.226.213:12868] [ClientID: -2179829141784024706] logged in with entity id 13821 at (th, 677.4763, 67.9305, 28.7857)
+2017-09-10 [08:13:34] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:13:34] [Server thread/INFO]: Steve[/36.225.140.229:57015] logged out due to client disconnect
+2017-09-10 [08:13:35] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:13:35] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:13:36] [Server thread/INFO]: Pencil joined the game
+2017-09-10 [08:13:40] [Server thread/INFO]: Steve[/36.225.140.229:57015] [ClientID: 7746408922565593542] logged in with entity id 13826 at (world, 128.0436, 68.4, 128.0072)
+2017-09-10 [08:13:41] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:13:50] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:14:20] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:14:20] [Server thread/INFO]: Steve[/36.225.140.229:57015] logged out due to client disconnect
+2017-09-10 [08:14:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-10 [08:14:24] [Server thread/NOTICE]: Player data not found for "zfj", creating new profile
+2017-09-10 [08:14:24] [Server thread/INFO]: zfj[/112.192.69.23:2299] [ClientID: 9099812388355375704] logged in with entity id 13844 at (world, 128, 68, 128)
+2017-09-10 [08:14:27] [Server thread/INFO]: zfj joined the game
+2017-09-10 [08:14:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-10 [08:14:34] [Server thread/INFO]: [aa]aaqw : 为什么输入/land buy 是未知指令
+2017-09-10 [08:14:35] [Server thread/INFO]: ace.浪死[/183.160.80.160:25027] logged out due to Invalid name!
+2017-09-10 [08:14:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-10 [08:14:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-10 [08:14:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-10 [08:14:43] [Server thread/INFO]: Steve[/36.225.140.229:57015] [ClientID: 7746408922565593542] logged in with entity id 13848 at (world, 128.0436, 68.6, 128.0072)
+2017-09-10 [08:14:45] [Server thread/INFO]: Steve joined the game
+2017-09-10 [08:14:52] [Server thread/INFO]: GHD : 经验又没有了
+2017-09-10 [08:14:52] [Server thread/WARNING]: zfj moved wrongly!
+2017-09-10 [08:14:54] [Server thread/WARNING]: zfj moved wrongly!
+2017-09-10 [08:14:55] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:15:06] [Server thread/INFO]: RoyBlahBlah left the game
+2017-09-10 [08:15:06] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:57816] logged out due to client disconnect
+2017-09-10 [08:15:17] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:15:23] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:57816] [ClientID: 6445752726955809211] logged in with entity id 13853 at (world, 129.268, 70, 114.8197)
+2017-09-10 [08:15:24] [Server thread/INFO]: RoyBlahBlah joined the game
+2017-09-10 [08:15:34] [Server thread/WARNING]: Pencil moved wrongly!
+2017-09-10 [08:15:36] [Server thread/WARNING]: Pencil moved wrongly!
+2017-09-10 [08:15:36] [Server thread/WARNING]: Pencil moved wrongly!
+2017-09-10 [08:15:38] [Server thread/INFO]: [MVP+]RoyBlahBlah : 谁要跟我来玩pvp
+2017-09-10 [08:15:43] [Server thread/INFO]: [帅哥]sunjiahao520 : 我
+2017-09-10 [08:15:44] [Server thread/INFO]: [MVP+]RoyBlahBlah : 用什么药谁都行
+2017-09-10 [08:15:47] [Server thread/INFO]: [MVP+]RoyBlahBlah : 药水
+2017-09-10 [08:15:51] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:15:55] [Server thread/INFO]: [帅X]xy520 : 主城有领地教晨
+2017-09-10 [08:16:00] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-10 [08:16:00] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [08:16:06] [Server thread/INFO]: Steve left the game
+2017-09-10 [08:16:06] [Server thread/INFO]: Steve[/36.225.140.229:57015] logged out due to client disconnect
+2017-09-10 [08:16:07] [Server thread/INFO]: GHD : 对啊
+2017-09-10 [08:16:13] [Server thread/WARNING]: xy520 moved wrongly!
+2017-09-10 [08:16:16] [Server thread/INFO]: [MVP+]RoyBlahBlah : tp我
+2017-09-10 [08:16:21] [Server thread/INFO]: [MVP+]RoyBlahBlah : 我来挖矿去
+2017-09-10 [08:16:23] [Server thread/INFO]: [MVP+]RoyBlahBlah : 区
+2017-09-10 [08:16:25] [Server thread/WARNING]: aaqw moved wrongly!
+2017-09-10 [08:16:33] [Server thread/WARNING]: fenkeo moved wrongly!
+2017-09-10 [08:16:41] [Server thread/INFO]: GHD : 我还有事
+2017-09-10 [08:16:50] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-10 [00:29:39] [Server thread/WARNING]: OpenSSL extension not found
+2017-09-10 [00:29:39] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-09-10 [00:29:39] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-10 [00:29:39] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-10 [00:29:39] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading recipes...
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading resource packs...
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading Asign v1.4
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading db v1.0.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading BanItem v2.2
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
+2017-09-10 [00:29:39] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading ld v流星优化
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-09-10 [00:29:39] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-09-10 [00:29:39] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling db v1.0.0
+2017-09-10 [00:29:39] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-09-10 [00:29:39] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-09-10 [00:29:39] [Server thread/INFO]: Preparing level "world"
+2017-09-10 [00:29:39] [Server thread/INFO]: Preparing level "nether"
+2017-09-10 [00:29:39] [Server thread/INFO]: Preparing level "ender"
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling Asign v1.4
+2017-09-10 [00:29:39] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-09-10 [00:29:39] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-09-10 [00:29:39] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-09-10 [08:29:39] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-09-10 [08:29:39] [Server thread/INFO]: Enabling BanItem v2.2
+2017-09-10 [08:29:39] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-09-10 [08:29:39] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-09-10 [08:29:39] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-09-10 [08:29:39] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-09-10 [08:29:39] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-09-10 [08:29:39] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-09-10 [08:29:39] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-09-10 [08:29:39] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-09-10 [08:29:39] [Server thread/INFO]: SWorld loaded!
+2017-09-10 [08:29:39] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-09-10 [08:29:39] [Server thread/INFO]: Preparing level "world"
+2017-09-10 [08:29:39] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-09-10 [08:29:39] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-09-10 [08:29:39] [Server thread/INFO]: Preparing level "th"
+2017-09-10 [08:29:39] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
+2017-09-10 [08:29:39] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-09-10 [08:29:40] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-09-10 [08:29:40] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-09-10 [08:29:40] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-09-10 [08:29:40] [Server thread/INFO]: Enabling ld v流星优化
+2017-09-10 [08:29:40] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-10 [08:29:40] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-09-10 [08:29:40] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-09-10 [08:29:40] [Server thread/INFO]: Starting GS4 status listener
+2017-09-10 [08:29:40] [Server thread/INFO]: Setting query port to 19132
+2017-09-10 [08:29:40] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-10 [08:29:40] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-10 [08:29:40] [Server thread/INFO]: Done (1.533s)! For help, type "help" or "?"

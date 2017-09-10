@@ -778,10 +778,6 @@
   count: "1"
   money: "1000"
   id: "388"
-3002:80:2006:world:
-  kind: E
-  name: §l§o副服主
-  money: "19199"
 148:65:117:world:
   kind: E
   name: §cVIP§a+§c
@@ -871,7 +867,7 @@
 157:65:93:th:
   kind: C
   name: snowball0913
-  count: 39
+  count: 33
   money: "550"
   if: 100
   id: "265"
