@@ -4507,7 +4507,7 @@
   startZ: 154
   endZ: 189
   price: 115600
-  owner: power777888
+  owner: top_ray
   level: th
   invitee: []
   expires: ~
@@ -4597,6 +4597,39 @@
   price: 600
   owner: fenkeo
   level: th
+  invitee: []
+  expires: ~
+495:
+  ID: 495
+  startX: -245
+  endX: -239
+  startZ: -105
+  endZ: -99
+  price: 2500
+  owner: yukozh
+  level: th
+  invitee: []
+  expires: ~
+496:
+  ID: 496
+  startX: -24
+  endX: 18
+  startZ: 1566
+  endZ: 1580
+  price: 53300
+  owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+497:
+  ID: 497
+  startX: 2746
+  endX: 2831
+  startZ: 1838
+  endZ: 1961
+  price: 1024800
+  owner: power777888
+  level: world
   invitee: []
   expires: ~
 ...

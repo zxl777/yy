@@ -933,7 +933,7 @@
 207:65:-275:th:
   kind: C
   name: Devil
-  count: 16
+  count: 0
   money: "1050"
   if: 100
   id: "264"
