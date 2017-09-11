@@ -4828,7 +4828,8 @@
   price: 423500
   owner: liuliu2008
   level: th
-  invitee: []
+  invitee:
+    tmdnmd: true
   expires: ~
 520:
   ID: 520
