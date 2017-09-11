@@ -788,7 +788,7 @@
   money: "500000"
 154:65:117:world:
   kind: E
-  name: §9我是港/澳/台人
+  name: §9港澳同胞
   money: "0"
 142:64:107:world:
   kind: C
@@ -860,7 +860,7 @@
 157:65:93:th:
   kind: C
   name: snowball0913
-  count: 33
+  count: 32
   money: "550"
   if: 100
   id: "265"
@@ -895,7 +895,7 @@
 136:66:-93:th:
   kind: C
   name: mc_ROCK
-  count: 49
+  count: 48
   money: "12000"
   if: 100
   id: "57"
@@ -1158,7 +1158,7 @@
 184:66:-69:th:
   kind: C
   name: Scream0210
-  count: 5
+  count: 4
   money: "30"
   if: 100
   id: "348"
@@ -1176,48 +1176,6 @@
   money: "210"
   if: 100
   id: "265"
-181:66:-67:th:
-  kind: C
-  name: Scream0210
-  count: 2
-  money: "550"
-  if: 100
-  id: "266"
-181:66:-65:th:
-  kind: C
-  name: Scream0210
-  count: "0"
-  money: "210"
-  if: 100
-  id: "265"
-181:66:-63:th:
-  kind: C
-  name: Scream0210
-  count: "0"
-  money: "200"
-  if: 100
-  id: "351"
-181:66:-61:th:
-  kind: C
-  name: Scream0210
-  count: "0"
-  money: "10"
-  if: 100
-  id: "348"
-181:66:-59:th:
-  kind: C
-  name: Scream0210
-  count: "0"
-  money: "50"
-  if: 100
-  id: "352"
-181:66:-57:th:
-  kind: C
-  name: Scream0210
-  count: "0"
-  money: "20"
-  if: 100
-  id: "297"
 184:66:-73:th:
   kind: C
   name: Scream0210
@@ -1225,4 +1183,8 @@
   money: "30000"
   if: 100
   id: "347"
+269:76:-284:th:
+  kind: E
+  name: §b逐梦集团董事
+  money: "99999"
 ...
