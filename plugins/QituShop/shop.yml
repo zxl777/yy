@@ -1155,4 +1155,74 @@
   kind: E
   name: §l§a§m副腐竹
   money: ~
+184:66:-69:th:
+  kind: C
+  name: Scream0210
+  count: 5
+  money: "30"
+  if: 100
+  id: "348"
+184:66:-71:th:
+  kind: C
+  name: Scream0210
+  count: 9
+  money: "550"
+  if: 100
+  id: "266"
+184:66:-67:th:
+  kind: C
+  name: Scream0210
+  count: 19
+  money: "210"
+  if: 100
+  id: "265"
+181:66:-67:th:
+  kind: C
+  name: Scream0210
+  count: 2
+  money: "550"
+  if: 100
+  id: "266"
+181:66:-65:th:
+  kind: C
+  name: Scream0210
+  count: "0"
+  money: "210"
+  if: 100
+  id: "265"
+181:66:-63:th:
+  kind: C
+  name: Scream0210
+  count: "0"
+  money: "200"
+  if: 100
+  id: "351"
+181:66:-61:th:
+  kind: C
+  name: Scream0210
+  count: "0"
+  money: "10"
+  if: 100
+  id: "348"
+181:66:-59:th:
+  kind: C
+  name: Scream0210
+  count: "0"
+  money: "50"
+  if: 100
+  id: "352"
+181:66:-57:th:
+  kind: C
+  name: Scream0210
+  count: "0"
+  money: "20"
+  if: 100
+  id: "297"
+184:66:-73:th:
+  kind: C
+  name: Scream0210
+  count: "2"
+  money: "30000"
+  if: 100
+  id: "347"
 ...

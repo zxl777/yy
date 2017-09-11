@@ -4932,4 +4932,59 @@
   level: th
   invitee: []
   expires: ~
+527:
+  ID: 527
+  startX: -49
+  endX: 30
+  startZ: -377
+  endZ: -250
+  price: 982800
+  owner: AllHELLOaaa1227
+  level: th
+  invitee: []
+  expires: ~
+528:
+  ID: 528
+  startX: -49
+  endX: 30
+  startZ: -250
+  endZ: -239
+  price: 78000
+  owner: AllHELLOaaa1227
+  level: th
+  invitee: []
+  expires: ~
+529:
+  ID: 529
+  startX: -372
+  endX: -370
+  startZ: -106
+  endZ: -82
+  price: 2300
+  owner: yukozh
+  level: th
+  invitee: []
+  expires: ~
+530:
+  ID: 530
+  startX: -370
+  endX: -364
+  startZ: -89
+  endZ: -83
+  price: 2500
+  owner: yukozh
+  level: th
+  invitee: []
+  expires: ~
+531:
+  ID: 531
+  startX: -28
+  endX: -3
+  startZ: 4
+  endZ: 13
+  price: 19200
+  owner: liuliu2008
+  level: th
+  invitee: []
+  expires: ~
 ...
