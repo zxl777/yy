@@ -1,913 +1,486 @@
-2017-09-11 [11:18:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:18:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:18:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:18:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:18:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:23:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:23:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:23:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:23:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:23:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:28:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:28:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:28:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:28:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:28:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:33:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:33:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:33:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:33:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:33:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:38:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:38:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:38:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:38:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:38:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:43:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:43:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:43:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:43:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:43:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:48:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:48:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:48:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:48:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:48:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:53:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:53:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:53:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:53:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:53:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [11:58:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [11:58:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [11:58:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [11:58:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [11:58:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:00:04] [Server thread/INFO]: GHD[/183.47.137.145:46898] [ClientID: -6009527916499289536] logged in with entity id 14 at (world, 143.8178, 71, 122.8748)
-2017-09-11 [12:00:12] [Server thread/INFO]: GHD joined the game
-2017-09-11 [12:00:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:00:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:00:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:00:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:01:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:01:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:01:03] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:01:27] [Server thread/INFO]: GHD left the game
-2017-09-11 [12:01:27] [Server thread/INFO]: GHD[/183.47.137.145:46898] logged out due to client disconnect
-2017-09-11 [12:03:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:03:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:03:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:03:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:03:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:04:10] [Server thread/INFO]: GHD[/183.47.137.145:52565] [ClientID: -6009527916499289536] logged in with entity id 15 at (world, 122.8208, 64, 104.367)
-2017-09-11 [12:04:18] [Server thread/INFO]: GHD joined the game
-2017-09-11 [12:04:48] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:05:12] [Server thread/INFO]: GHD fell from a high place
-2017-09-11 [12:05:46] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:02] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:06:54] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:07:29] [Server thread/INFO]: GHD left the game
-2017-09-11 [12:07:29] [Server thread/INFO]: GHD[/183.47.137.145:52565] logged out due to client disconnect
-2017-09-11 [12:08:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:08:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:08:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:08:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:08:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:13:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:13:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:13:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:13:18] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52936] [ClientID: -308776663400809635] logged in with entity id 16 at (world, 135.1482, 64, 109.5424)
-2017-09-11 [12:13:20] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [12:13:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:13:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:13:34] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 3000, 80, 2000]
-2017-09-11 [12:13:38] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在3分钟后重启
-2017-09-11 [12:13:40] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-11 [12:13:41] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-11 [12:13:41] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-11 [12:13:41] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-11 [12:13:41] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-11 [12:13:50] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling db v1.0.0
-2017-09-11 [12:13:50] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling Asign v1.4
-2017-09-11 [12:13:50] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-09-11 [12:13:50] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-09-11 [12:13:50] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-09-11 [12:13:50] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling BanItem v2.2
-2017-09-11 [12:13:50] [Server thread/INFO]: Disabling ld v流星优化
-2017-09-11 [12:13:50] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [12:13:50] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52936] logged out due to Server closed
-2017-09-11 [12:13:50] [Server thread/INFO]: Unloading level "world"
-2017-09-11 [12:13:50] [Server thread/INFO]: Unloading level "nether"
-2017-09-11 [12:13:50] [Server thread/INFO]: Unloading level "ender"
-2017-09-11 [12:13:50] [Server thread/INFO]: Unloading level "world"
-2017-09-11 [12:13:50] [Server thread/INFO]: Unloading level "th"
-2017-09-11 [12:13:55] [Server thread/INFO]: Stopping other threads
-2017-09-11 [04:13:56] [Server thread/INFO]: 
-
-  _____            _               _____
- / ____|          (_)             |  __ \
-| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
-| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
-| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
- \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
-                          __/ |
-                         |___/
-
-	Version: 1.1dev (5437e0f)
-	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
-	PHP Version: 7.0.9
-	OS: Linux
-	This core is maintained by GenisysPro (https://github.com/GenisysPro)
-	Discord Group chat: https://discord.gg/WrKzRNn 
-	Chatroom on QQ: 559301590 
-	Welcome to donate us on QQ: 1912003473
-	
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading properties and configuration...
-2017-09-11 [04:13:56] [Server thread/WARNING]: OpenSSL extension not found
-2017-09-11 [04:13:56] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-09-11 [04:13:56] [Server thread/INFO]: Selected English (eng) as the base language
-2017-09-11 [04:13:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-09-11 [04:13:56] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading recipes...
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading resource packs...
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading db v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-09-11 [04:13:56] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading Asign v1.4
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
-2017-09-11 [04:13:56] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading BanItem v2.2
-2017-09-11 [04:13:56] [Server thread/INFO]: Loading ld v流星优化
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling db v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-09-11 [04:13:56] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-09-11 [04:13:56] [Server thread/INFO]: Preparing level "world"
-2017-09-11 [04:13:56] [Server thread/INFO]: Preparing level "nether"
-2017-09-11 [04:13:56] [Server thread/INFO]: Preparing level "ender"
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-09-11 [04:13:56] [Server thread/INFO]: SWorld loaded!
-2017-09-11 [04:13:56] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-09-11 [04:13:56] [Server thread/INFO]: Preparing level "world"
-2017-09-11 [04:13:56] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-09-11 [04:13:56] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-09-11 [04:13:56] [Server thread/INFO]: Preparing level "th"
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling Asign v1.4
-2017-09-11 [04:13:56] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-09-11 [04:13:56] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-09-11 [04:13:56] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-09-11 [04:13:56] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-09-11 [04:13:56] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-11 [04:13:56] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-09-11 [12:13:56] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-09-11 [12:13:56] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-09-11 [12:13:56] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-09-11 [12:13:56] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
-2017-09-11 [12:13:56] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-09-11 [12:13:56] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-09-11 [12:13:56] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-09-11 [12:13:56] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-09-11 [12:13:56] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-09-11 [12:13:58] [Server thread/INFO]: Enabling BanItem v2.2
-2017-09-11 [12:13:58] [Server thread/INFO]: Enabling ld v流星优化
-2017-09-11 [12:13:58] [Server thread/INFO]: Starting GS4 status listener
-2017-09-11 [12:13:58] [Server thread/INFO]: Setting query port to 19132
-2017-09-11 [12:13:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-09-11 [12:13:58] [Server thread/INFO]: Default game type: Survival Mode
-2017-09-11 [12:13:58] [Server thread/INFO]: Done (2.2s)! For help, type "help" or "?"
-2017-09-11 [12:14:14] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52936] [ClientID: -308776663400809635] logged in with entity id 1 at (world, 3003.8159, 80, 2008.467)
-2017-09-11 [12:14:16] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [12:14:42] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在3分钟后重启
-2017-09-11 [12:14:44] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-11 [12:14:46] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
-2017-09-11 [12:14:51] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling db v1.0.0
-2017-09-11 [12:14:51] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling Asign v1.4
-2017-09-11 [12:14:51] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-09-11 [12:14:51] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-09-11 [12:14:51] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-09-11 [12:14:51] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling BanItem v2.2
-2017-09-11 [12:14:51] [Server thread/INFO]: Disabling ld v流星优化
-2017-09-11 [12:14:51] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [12:14:51] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52936] logged out due to Server closed
-2017-09-11 [12:14:51] [Server thread/INFO]: Unloading level "world"
-2017-09-11 [12:14:51] [Server thread/INFO]: Unloading level "nether"
-2017-09-11 [12:14:51] [Server thread/INFO]: Unloading level "ender"
-2017-09-11 [12:14:51] [Server thread/INFO]: Unloading level "world"
-2017-09-11 [12:14:51] [Server thread/INFO]: Unloading level "th"
-2017-09-11 [12:14:56] [Server thread/INFO]: Stopping other threads
-2017-09-11 [04:14:57] [Server thread/INFO]: 
-
-  _____            _               _____
- / ____|          (_)             |  __ \
-| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
-| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
-| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
- \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
-                          __/ |
-                         |___/
-
-	Version: 1.1dev (5437e0f)
-	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
-	PHP Version: 7.0.9
-	OS: Linux
-	This core is maintained by GenisysPro (https://github.com/GenisysPro)
-	Discord Group chat: https://discord.gg/WrKzRNn 
-	Chatroom on QQ: 559301590 
-	Welcome to donate us on QQ: 1912003473
-	
-2017-09-11 [04:14:57] [Server thread/INFO]: Loading properties and configuration...
-2017-09-11 [04:14:57] [Server thread/WARNING]: OpenSSL extension not found
-2017-09-11 [04:14:57] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-09-11 [04:14:57] [Server thread/INFO]: Selected English (eng) as the base language
-2017-09-11 [04:14:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-09-11 [04:14:57] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-09-11 [04:14:57] [Server thread/INFO]: Loading recipes...
-2017-09-11 [04:14:57] [Server thread/INFO]: Loading resource packs...
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading db v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-09-11 [04:14:58] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading Asign v1.4
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
-2017-09-11 [04:14:58] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading BanItem v2.2
-2017-09-11 [04:14:58] [Server thread/INFO]: Loading ld v流星优化
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling db v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-09-11 [04:14:58] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-09-11 [04:14:58] [Server thread/INFO]: Preparing level "world"
-2017-09-11 [04:14:58] [Server thread/INFO]: Preparing level "nether"
-2017-09-11 [04:14:58] [Server thread/INFO]: Preparing level "ender"
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-09-11 [04:14:58] [Server thread/INFO]: SWorld loaded!
-2017-09-11 [04:14:58] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-09-11 [04:14:58] [Server thread/INFO]: Preparing level "world"
-2017-09-11 [04:14:58] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-09-11 [04:14:58] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-09-11 [04:14:58] [Server thread/INFO]: Preparing level "th"
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling Asign v1.4
-2017-09-11 [04:14:58] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-09-11 [04:14:58] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-09-11 [04:14:58] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-09-11 [04:14:58] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-09-11 [04:14:58] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-11 [04:14:58] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-09-11 [12:14:58] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-09-11 [12:14:58] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-09-11 [12:14:58] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-09-11 [12:14:58] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
-2017-09-11 [12:14:58] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-09-11 [12:14:58] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-09-11 [12:14:58] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-09-11 [12:14:58] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-09-11 [12:14:58] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-09-11 [12:14:59] [Server thread/INFO]: Enabling BanItem v2.2
-2017-09-11 [12:14:59] [Server thread/INFO]: Enabling ld v流星优化
-2017-09-11 [12:14:59] [Server thread/INFO]: Starting GS4 status listener
-2017-09-11 [12:14:59] [Server thread/INFO]: Setting query port to 19132
-2017-09-11 [12:14:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-09-11 [12:14:59] [Server thread/INFO]: Default game type: Survival Mode
-2017-09-11 [12:14:59] [Server thread/INFO]: Done (1.728s)! For help, type "help" or "?"
-2017-09-11 [12:15:26] [Server thread/INFO]: Devil[/111.22.81.30:8663] [ClientID: -718125915298570028] logged in with entity id 1 at (th, 133.2641, 65, -204.7135)
-2017-09-11 [12:15:28] [Server thread/INFO]: Devil joined the game
-2017-09-11 [12:15:58] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-11 [12:15:58] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-11 [12:16:26] [Server thread/INFO]: Devil left the game
-2017-09-11 [12:16:26] [Server thread/INFO]: Devil[/111.22.81.30:8663] logged out due to client disconnect
-2017-09-11 [12:17:05] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53870] [ClientID: -308776663400809635] logged in with entity id 2 at (world, 3001.5537, 80, 2008.546)
-2017-09-11 [12:17:07] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [12:17:32] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
-2017-09-11 [12:17:50] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [12:17:50] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53870] logged out due to client disconnect
-2017-09-11 [12:19:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:19:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:19:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:19:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:19:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:20:41] [Server thread/INFO]: Devil[/111.22.81.30:8850] [ClientID: -718125915298570028] logged in with entity id 3 at (th, 205.7, 68.5, -272.4838)
-2017-09-11 [12:20:42] [Server thread/INFO]: Devil joined the game
-2017-09-11 [12:20:51] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-11 [12:21:09] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:51321] [ClientID: -308776663400809635] logged in with entity id 4 at (world, 128, 68, 128)
-2017-09-11 [12:21:11] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [12:21:19] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-11 [12:21:28] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-11 [12:21:29] [Server thread/INFO]: [MVP+]Devil : 嗯
-2017-09-11 [12:21:36] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 装备也放好
-2017-09-11 [12:21:46] [Server thread/INFO]: [MVP+]Devil : 那等一下下
-2017-09-11 [12:21:52] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 好
-2017-09-11 [12:22:07] [Server thread/INFO]: [MVP+]Devil : 放好了
-2017-09-11 [12:22:20] [Server thread/INFO]: [AllHELLOaaa1227: Teleported Devil to AllHELLOaaa1227]
-2017-09-11 [12:22:31] [Server thread/INFO]: [AllHELLOaaa1227: Set Devil's game mode to Creative Mode]
-2017-09-11 [12:22:42] [Server thread/INFO]: [MVP+]Devil : 好我抓紧时间建
-2017-09-11 [12:22:46] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我可能中午不能上线
-2017-09-11 [12:22:54] [Server thread/INFO]: [MVP+]Devil : 下次上线什么时候
-2017-09-11 [12:22:57] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 下午我来了就帮你关了
-2017-09-11 [12:23:02] [Server thread/INFO]: [MVP+]Devil : 好的
-2017-09-11 [12:23:10] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 不能让别人看见
-2017-09-11 [12:23:16] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 谨记！！！！！
-2017-09-11 [12:23:16] [Server thread/INFO]: [MVP+]Devil : 嗯
-2017-09-11 [12:23:20] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [12:23:20] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:51321] logged out due to client disconnect
-2017-09-11 [12:23:30] [Server thread/INFO]: GHD[/183.47.137.145:52565] [ClientID: -6009527916499289536] logged in with entity id 6 at (th, -9132.5479, 77, -410.1893)
-2017-09-11 [12:23:36] [Server thread/INFO]: GHD joined the game
-2017-09-11 [12:24:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:08] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:24:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:41] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:43] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:24:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:24:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:24:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:24:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:26:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:26:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:26:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:27:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:46] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:28:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:29:03] [Server thread/INFO]: GHD fell from a high place
-2017-09-11 [12:29:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:29:39] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:29:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:29:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:29:56] [Server thread/WARNING]: GHD moved too fast, reverting movement
-2017-09-11 [12:29:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:29:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:30:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:30:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:30:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:30:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:31:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:31:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:31:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:31:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:31:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:31:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:32:25] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:32:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:32:38] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:32:56] [Server thread/INFO]: Devil left the game
-2017-09-11 [12:32:56] [Server thread/INFO]: Devil[/111.22.81.30:8850] logged out due to client disconnect
-2017-09-11 [12:33:08] [Server thread/INFO]: 2136131645[/117.90.206.187:17030] [ClientID: 3605837626884141308] logged in with entity id 45 at (world, 137.2409, 65, 108.5931)
-2017-09-11 [12:33:10] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [12:33:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:33:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:33:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:33:26] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:33:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:33:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:33:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:34:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:34:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:34:54] [Server thread/INFO]: 2136131645 left the game
-2017-09-11 [12:34:54] [Server thread/INFO]: 2136131645[/117.90.206.187:17030] logged out due to timeout
-2017-09-11 [12:34:55] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:34:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:34:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:35:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:54] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:35:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:36:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:36:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:36:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:36:58] [Server thread/INFO]: Devil[/111.22.81.30:8650] [ClientID: -718125915298570028] logged in with entity id 76 at (th, 136.2917, 67.8475, -194.9905)
-2017-09-11 [12:37:01] [Server thread/INFO]: Devil joined the game
-2017-09-11 [12:37:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:02] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:03] [Server thread/INFO]: 2136131645[/117.90.206.187:17111] [ClientID: 3605837626884141308] logged in with entity id 79 at (world, 133.699, 64, 107.6638)
-2017-09-11 [12:37:05] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [12:37:11] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:24] [Server thread/WARNING]: Devil moved too fast, reverting movement
-2017-09-11 [12:37:28] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:39] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:41] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:37:44] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:00] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:38:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:11] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:38:58] [Server thread/INFO]: [/122.6.184.125:17866] logged out due to client disconnect
-2017-09-11 [12:38:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:39:04] [Server thread/INFO]: 2136131645 has just earned the achievement Time to Mine!
-2017-09-11 [12:39:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:39:14] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:39:14] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:39:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:39:42] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:39:43] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:39:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:39:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:39:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:39:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:40:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:13] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:41] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:41] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:42] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:42] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:47] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:47] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:48] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:48] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:48] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:48] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:40:54] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:40:54] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:41:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:34] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:41:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:42:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:42:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:42:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:42:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:42:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:42:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:43:25] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:43:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:44:10] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:44:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:44:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:44:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:44:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:44:55] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:44:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:44:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:44:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:45:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:45:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:34] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:46:35] [Server thread/INFO]: 2136131645 left the game
-2017-09-11 [12:46:35] [Server thread/INFO]: 2136131645[/117.90.206.187:17111] logged out due to timeout
-2017-09-11 [12:46:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:48:36] [Server thread/INFO]: 2136131645[/117.90.206.187:17205] [ClientID: 3605837626884141308] logged in with entity id 291 at (world, 232.7211, 70, 72.2914)
-2017-09-11 [12:48:38] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [12:49:02] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:49:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:49:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:49:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:49:49] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:49:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:49:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:49:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:50:11] [Server thread/INFO]: [副腐竹]2136131645 : 结婚
-2017-09-11 [12:50:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:51:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:51:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:52:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:52:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:52:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:52:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:30] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:53:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:39] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:53:43] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:53:44] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:53:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:54:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:54:13] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:54:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:54:16] [Server thread/INFO]: 2136131645 fell from a high place
-2017-09-11 [12:54:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:54:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:54:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:54:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:54:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:54:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:54:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理10个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:55:03] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:55:08] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:55:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:55:22] [Server thread/INFO]: Devil left the game
-2017-09-11 [12:55:22] [Server thread/INFO]: Devil[/111.22.81.30:8650] logged out due to client disconnect
-2017-09-11 [12:55:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:55:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:55:28] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:57:29] [Server thread/INFO]: * 2136131645 逐梦酒店开业了更有精彩活动等你来
-2017-09-11 [12:57:31] [Server thread/INFO]: julianne[/209.33.81.31:54786] [ClientID: -2218747844574545257] logged in with entity id 554 at (th, 130, 65, 131)
-2017-09-11 [12:57:33] [Server thread/INFO]: julianne joined the game
-2017-09-11 [12:57:51] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:51] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:51] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:52] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:53] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:53] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:53] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:53] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:53] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:54] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:54] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:54] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:54] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:54] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:54] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:55] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:55] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:55] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:55] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:55] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:55] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:56] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:56] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:56] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:56] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:56] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:56] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:57] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:57] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:57] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:57] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:57:57] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:01] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:01] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:01] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:01] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:01] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:02] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:02] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:02] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:05] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:05] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:06] [Server thread/INFO]: * 2136131645 欢迎来到逐梦酒店
-2017-09-11 [12:58:43] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:59:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [12:59:32] [Server thread/INFO]: julianne left the game
-2017-09-11 [12:59:32] [Server thread/INFO]: julianne[/209.33.81.31:54786] logged out due to Failed to login in 120 seconds
-2017-09-11 [12:59:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [12:59:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [12:59:49] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [12:59:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [12:59:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [12:59:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理26个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [12:59:59] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:00:20] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:00:21] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:00:21] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:00:28] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:00:38] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:00:47] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:00:49] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:01:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:08] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:19] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:25] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:36] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:01:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:46] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:56] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:01:59] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:02] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:03] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:11] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:43] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:02:46] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:47] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:48] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:49] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:49] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:49] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:49] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:50] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:51] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:51] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:51] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:02:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:02:51] [Server thread/INFO]: * 2136131645 是个人就回来
-2017-09-11 [13:03:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:43] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:03:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:52] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:55] [Server thread/INFO]: xiaochuyin[/218.17.75.92:2712] [ClientID: 3536275204857610160] logged in with entity id 891 at (th, -289.662, 63, -138.4286)
-2017-09-11 [13:03:57] [Server thread/INFO]: xiaochuyin joined the game
-2017-09-11 [13:03:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:03:59] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:02] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:02] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:07] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:04:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [13:04:46] [Server thread/INFO]: [初音陛下]xiaochuyin : 人好少
-2017-09-11 [13:04:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [13:04:53] [Server thread/INFO]: * xiaochuyin 新店开张。来来来～^_^
-2017-09-11 [13:04:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [13:04:58] [Server thread/INFO]: [副腐竹]2136131645 : 是啊
-2017-09-11 [13:04:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [13:04:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理15个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [13:05:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:06:42] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:07:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:11] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:19] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:28] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:33] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:34] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:34] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:35] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-11 [13:07:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:07:35] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-11 [13:08:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:44] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:46] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:46] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:48] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:48] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:52] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:52] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:59] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:59] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:08:59] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:01] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:09:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:32] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:09:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [13:09:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:41] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:42] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [13:09:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [13:09:55] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:09:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [13:09:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理18个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [13:10:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:10:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:10:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:10:57] [Server thread/INFO]: 2136131645 fell from a high place
-2017-09-11 [13:11:13] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:11:18] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:11:25] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:12:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:12:40] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:12:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:13:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:13:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:13:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [13:13:26] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:13:39] [Server thread/INFO]: GHD left the game
-2017-09-11 [13:13:39] [Server thread/INFO]: GHD[/183.47.137.145:52565] logged out due to client disconnect
-2017-09-11 [13:13:39] [Server thread/INFO]: Dan[/183.12.100.84:5981] [ClientID: -4206736758471902915] logged in with entity id 1501 at (world, 128, 68.6, 128)
-2017-09-11 [13:13:41] [Server thread/INFO]: Dan joined the game
-2017-09-11 [13:14:01] [Server thread/INFO]: [副腐竹]2136131645 : 代挖矿一元一组钻石骗人没jj
-2017-09-11 [13:14:30] [Server thread/INFO]: [初音陛下]xiaochuyin : 别污，小心被ban
-2017-09-11 [13:14:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [13:14:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [13:14:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [13:14:54] [Server thread/INFO]: [副腐竹]2136131645 : 代挖矿一元一组钻石不骗人
-2017-09-11 [13:14:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [13:14:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [13:15:01] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:15:01] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:15:40] [Server thread/INFO]: Dan left the game
-2017-09-11 [13:15:40] [Server thread/INFO]: Dan[/183.12.100.84:5981] logged out due to Failed to login in 120 seconds
-2017-09-11 [13:16:06] [Server thread/INFO]: Dan[/183.12.100.84:5981] [ClientID: -4206736758471902915] logged in with entity id 1505 at (world, 128, 68.8, 128)
-2017-09-11 [13:16:08] [Server thread/INFO]: Dan joined the game
-2017-09-11 [13:16:23] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:16:23] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [13:16:24] [Server thread/INFO]: Dan left the game
-2017-09-11 [13:16:24] [Server thread/INFO]: Dan[/183.12.100.84:5981] logged out due to timeout
+2017-09-11 [13:17:18] [Server thread/INFO]: [初音陛下]xiaochuyin : 额
+2017-09-11 [13:17:21] [Server thread/INFO]: [副腐竹]2136131645 : 集团老大
+2017-09-11 [13:17:22] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
+2017-09-11 [13:17:38] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 初音群里有人要娶你
+2017-09-11 [13:17:49] [Server thread/INFO]: [初音陛下]xiaochuyin : 别理
+2017-09-11 [13:17:55] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嘻嘻
+2017-09-11 [13:18:12] [Server thread/INFO]: [副腐竹]2136131645 : 咋了昨天晚上作业没写完被老师骂了？
+2017-09-11 [13:18:13] [Server thread/NOTICE]: Player data not found for "halo4", creating new profile
+2017-09-11 [13:18:13] [Server thread/INFO]: halo4[/86.219.230.64:55687] [ClientID: -5491883381643673986] logged in with entity id 1508 at (world, 128, 68, 128)
+2017-09-11 [13:18:19] [Server thread/INFO]: halo4 joined the game
+2017-09-11 [13:18:32] [Server thread/INFO]: halo4 left the game
+2017-09-11 [13:18:32] [Server thread/INFO]: halo4[/86.219.230.64:55687] logged out due to timeout
+2017-09-11 [13:18:43] [Server thread/WARNING]: Dan moved wrongly!
+2017-09-11 [13:19:01] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没
+2017-09-11 [13:19:05] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 写完了
+2017-09-11 [13:19:07] [Server thread/WARNING]: Dan moved wrongly!
+2017-09-11 [13:19:08] [Server thread/WARNING]: Dan moved wrongly!
+2017-09-11 [13:19:26] [Server thread/INFO]: [副腐竹]2136131645 : 写到几点？
+2017-09-11 [13:19:32] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 一点
+2017-09-11 [13:19:36] [Server thread/INFO]: Dan left the game
+2017-09-11 [13:19:36] [Server thread/INFO]: Dan[/183.12.100.84:5985] logged out due to timeout
+2017-09-11 [13:19:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:19:46] [Server thread/INFO]: [副腐竹]2136131645 : 那也不晚嘛
+2017-09-11 [13:19:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:19:52] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嗯
+2017-09-11 [13:19:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:19:57] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:19:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:19:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:20:39] [Server thread/INFO]: [副腐竹]2136131645 : 我在找那块写我要娶初音的牌子
+2017-09-11 [13:20:53] [Server thread/INFO]: [初音陛下]xiaochuyin : 呃呃
+2017-09-11 [13:21:57] [Server thread/INFO]: [初音陛下]xiaochuyin : 先走了
+2017-09-11 [13:22:14] [Server thread/INFO]: [初音陛下]xiaochuyin : 准备等下去吃午茶
+2017-09-11 [13:22:17] [Server thread/INFO]: xiaochuyin left the game
+2017-09-11 [13:22:17] [Server thread/INFO]: xiaochuyin[/218.17.75.92:2712] logged out due to client disconnect
+2017-09-11 [13:23:00] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 拜拜
+2017-09-11 [13:23:16] [Server thread/INFO]: [副腐竹]2136131645 : 找到了
+2017-09-11 [13:23:36] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:36] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:36] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:36] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:36] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:36] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:36] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 噗哈哈
+2017-09-11 [13:23:37] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:37] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:37] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:37] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:38] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:38] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:38] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:38] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:38] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:38] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:39] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:40] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:40] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:40] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:40] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:40] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:40] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:41] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:41] [Server thread/INFO]: * 2136131645 我要跟你结婚
+2017-09-11 [13:23:41] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:41] [Server thread/INFO]: * 2136131645 初音在吗？
+2017-09-11 [13:23:53] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 小子狂妄
+2017-09-11 [13:24:12] [Server thread/INFO]: [副腐竹]2136131645 : 那牌子不是我写的
+2017-09-11 [13:24:17] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:24:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:24:43] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 知道
+2017-09-11 [13:24:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:24:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:24:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:24:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:25:33] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:27:00] [Server thread/INFO]: halo4[/86.219.230.64:55008] [ClientID: -5491883381643673986] logged in with entity id 1559 at (world, 128, 68.2, 128)
+2017-09-11 [13:27:10] [Server thread/INFO]: halo4[/86.219.230.64:55008] logged out due to timeout
+2017-09-11 [13:27:12] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:28:12] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52051] [ClientID: -308776663400809635] logged in with entity id 1561 at (th, 143.878, 65, -205.3209)
+2017-09-11 [13:28:14] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [13:28:28] [Server thread/INFO]: [副腐竹]2136131645 : 给我cz
+2017-09-11 [13:28:44] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : Hello everyone！
+2017-09-11 [13:28:48] [Server thread/INFO]: 2136131645 tried to swim in lava
+2017-09-11 [13:28:55] [Server thread/INFO]: [副腐竹]2136131645 : 看不懂
+2017-09-11 [13:29:01] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 额
+2017-09-11 [13:29:39] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:29:41] [Server thread/INFO]: [副腐竹]2136131645 : 这里有个收购商店一个钻石1100
+2017-09-11 [13:29:49] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:29:50] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 2136131645]
+2017-09-11 [13:29:54] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:29:55] [Server thread/INFO]: [副腐竹]2136131645 : 来把他拆了
+2017-09-11 [13:29:57] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 厉害
+2017-09-11 [13:29:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:29:59] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:30:16] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 为什么要拆？
+2017-09-11 [13:30:43] [Server thread/INFO]: Steve[/117.27.183.251:14783] [ClientID: 8453978969931013337] logged in with entity id 1562 at (nether, 155.4038, 46.8, 126.978)
+2017-09-11 [13:30:44] [Server thread/INFO]: Steve joined the game
+2017-09-11 [13:30:51] [Server thread/INFO]: [副腐竹]2136131645 : 给我一组钻石我要把他卖穷
+2017-09-11 [13:30:51] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 3000, 80, 2000]
+2017-09-11 [13:30:58] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [13:31:00] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [13:31:12] [Server thread/INFO]: [副腐竹]2136131645 : 再重启死给你看
+2017-09-11 [13:31:16] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:31:17] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:31:23] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 死啊
+2017-09-11 [13:31:26] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [13:31:27] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [13:31:37] [Server thread/INFO]: 2136131645 fell from a high place
+2017-09-11 [13:31:42] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [13:31:56] [Server thread/INFO]: Steve left the game
+2017-09-11 [13:31:56] [Server thread/INFO]: Steve[/117.27.183.251:14783] logged out due to client disconnect
+2017-09-11 [13:32:00] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling db v1.0.0
+2017-09-11 [13:32:00] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling Asign v1.4
+2017-09-11 [13:32:00] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-09-11 [13:32:00] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-09-11 [13:32:00] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-09-11 [13:32:00] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling BanItem v2.2
+2017-09-11 [13:32:00] [Server thread/INFO]: Disabling ld v流星优化
+2017-09-11 [13:32:01] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [13:32:01] [Server thread/INFO]: 2136131645[/117.90.206.187:17205] logged out due to Server closed
+2017-09-11 [13:32:01] [Server thread/INFO]: zhumengzhiying left the game
+2017-09-11 [13:32:01] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:47025] logged out due to Server closed
+2017-09-11 [13:32:01] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [13:32:01] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52051] logged out due to Server closed
+2017-09-11 [13:32:01] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [13:32:01] [Server thread/INFO]: Unloading level "nether"
+2017-09-11 [13:32:01] [Server thread/INFO]: Unloading level "ender"
+2017-09-11 [13:32:01] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [13:32:02] [Server thread/INFO]: Unloading level "th"
+2017-09-11 [13:32:06] [Server thread/INFO]: Stopping other threads
+2017-09-11 [05:32:06] [Server thread/WARNING]: OpenSSL extension not found
+2017-09-11 [05:32:06] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-09-11 [05:32:06] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-11 [05:32:06] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-11 [05:32:06] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-09-11 [05:32:06] [Server thread/INFO]: Loading recipes...
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading resource packs...
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading db v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-09-11 [05:32:07] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading Asign v1.4
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
+2017-09-11 [05:32:07] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading BanItem v2.2
+2017-09-11 [05:32:07] [Server thread/INFO]: Loading ld v流星优化
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling db v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-09-11 [05:32:07] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-09-11 [05:32:07] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [05:32:07] [Server thread/INFO]: Preparing level "nether"
+2017-09-11 [05:32:07] [Server thread/INFO]: Preparing level "ender"
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-09-11 [05:32:07] [Server thread/INFO]: SWorld loaded!
+2017-09-11 [05:32:07] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-09-11 [05:32:07] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [05:32:07] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-09-11 [05:32:07] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-09-11 [05:32:07] [Server thread/INFO]: Preparing level "th"
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling Asign v1.4
+2017-09-11 [05:32:07] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-09-11 [05:32:07] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-09-11 [05:32:07] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-09-11 [05:32:07] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-09-11 [05:32:07] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [05:32:07] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-09-11 [13:32:07] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-09-11 [13:32:07] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [13:32:07] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-09-11 [13:32:07] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
+2017-09-11 [13:32:07] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-09-11 [13:32:07] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-09-11 [13:32:07] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-09-11 [13:32:07] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-09-11 [13:32:07] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-09-11 [13:32:08] [Server thread/INFO]: Enabling BanItem v2.2
+2017-09-11 [13:32:08] [Server thread/INFO]: Enabling ld v流星优化
+2017-09-11 [13:32:08] [Server thread/INFO]: Starting GS4 status listener
+2017-09-11 [13:32:08] [Server thread/INFO]: Setting query port to 19132
+2017-09-11 [13:32:08] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-11 [13:32:08] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-11 [13:32:08] [Server thread/INFO]: Done (2.094s)! For help, type "help" or "?"
+2017-09-11 [13:32:22] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:47025] [ClientID: 3036730296650954731] logged in with entity id 1 at (th, 258.803, 75, -274.9322)
+2017-09-11 [13:32:24] [Server thread/INFO]: zhumengzhiying joined the game
+2017-09-11 [13:32:28] [Server thread/INFO]: 2136131645[/117.90.206.187:17205] [ClientID: 3605837626884141308] logged in with entity id 2 at (world, 128, 70, 128)
+2017-09-11 [13:32:29] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52051] [ClientID: -308776663400809635] logged in with entity id 3 at (world, 3003.6406, 80, 2008.6008)
+2017-09-11 [13:32:30] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [13:32:31] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [13:32:54] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:33:03] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to zhumengzhiying]
+2017-09-11 [13:33:11] [Server thread/INFO]: [副腐竹]2136131645 : 我要建房子
+2017-09-11 [13:33:25] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 不给不给
+2017-09-11 [13:33:48] [Server thread/INFO]: Steve[/222.220.34.85:12587] [ClientID: -7330856163021162890] logged in with entity id 4 at (nether, 155.4038, 47, 126.978)
+2017-09-11 [13:33:52] [Server thread/INFO]: Steve joined the game
+2017-09-11 [13:33:57] [Server thread/INFO]: [副腐竹]2136131645 : f****
+2017-09-11 [13:33:58] [Server thread/INFO]: Devil[/111.22.81.30:8773] [ClientID: -718125915298570028] logged in with entity id 5 at (th, 133.0615, 65, -202.5495)
+2017-09-11 [13:34:00] [Server thread/INFO]: Devil joined the game
+2017-09-11 [13:34:09] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
+2017-09-11 [13:34:20] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 弄好了吗
+2017-09-11 [13:34:30] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [13:34:30] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:52051] logged out due to client disconnect
+2017-09-11 [13:34:35] [Server thread/INFO]: [MVP+]Devil : 你帮我下了吧
+2017-09-11 [13:34:47] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : ？？
+2017-09-11 [13:35:10] [Server thread/INFO]: [MVP+]Devil : 实在是渣
+2017-09-11 [13:35:48] [Server thread/INFO]: Steve left the game
+2017-09-11 [13:35:48] [Server thread/INFO]: Steve[/222.220.34.85:12587] logged out due to Failed to login in 120 seconds
+2017-09-11 [13:35:50] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 围墙不用完全封闭吧
+2017-09-11 [13:36:09] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:36:13] [Server thread/INFO]: [MVP+]Devil : 是不用
+2017-09-11 [13:36:24] [Server thread/INFO]: Steve[/222.220.34.85:12587] [ClientID: -7330856163021162890] logged in with entity id 6 at (nether, 155.4038, 46.2, 126.978)
+2017-09-11 [13:36:26] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 诶这个路面
+2017-09-11 [13:36:27] [Server thread/INFO]: Steve joined the game
+2017-09-11 [13:36:33] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:36:48] [Server thread/INFO]: [MVP+]Devil : 我是建筑渣 实在没建筑能力
+2017-09-11 [13:36:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:36:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:36:59] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 以后我们把路买了
+2017-09-11 [13:37:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:37:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:37:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:37:11] [Server thread/INFO]: [MVP+]Devil : 路我都买完了
+2017-09-11 [13:37:18] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 别人一出门就进了我们的地盘哈哈哈
+2017-09-11 [13:37:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我说这边这些
+2017-09-11 [13:37:40] [Server thread/WARNING]: Steve moved wrongly!
+2017-09-11 [13:37:58] [Server thread/INFO]: [MVP+]Devil : 你在那
+2017-09-11 [13:38:04] [Server thread/WARNING]: Steve moved wrongly!
+2017-09-11 [13:38:12] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你家旁边
+2017-09-11 [13:39:10] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 别
+2017-09-11 [13:39:13] [Server thread/INFO]: [MVP+]Devil : 还是你建筑吧 我实在不爱好这个
+2017-09-11 [13:39:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我来就好
+2017-09-11 [13:39:18] [Server thread/INFO]: Steve left the game
+2017-09-11 [13:39:18] [Server thread/INFO]: Steve[/222.220.34.85:12587] logged out due to client disconnect
+2017-09-11 [13:39:26] [Server thread/INFO]: halo4[/86.219.230.64:60180] [ClientID: -5491883381643673986] logged in with entity id 9 at (world, 128, 68.2, 128)
+2017-09-11 [13:39:27] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 路面我来就好
+2017-09-11 [13:39:30] [Server thread/INFO]: halo4 joined the game
+2017-09-11 [13:39:33] [Server thread/INFO]: [MVP+]Devil : 我没动啊
+2017-09-11 [13:39:45] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
+2017-09-11 [13:40:08] [Server thread/INFO]: halo4 left the game
+2017-09-11 [13:40:08] [Server thread/INFO]: halo4[/86.219.230.64:60180] logged out due to timeout
+2017-09-11 [13:40:51] [Server thread/INFO]: [MVP+]Devil : 路面贵死了 你应该要花100多万
+2017-09-11 [13:40:58] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没事
+2017-09-11 [13:41:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我有十亿
+2017-09-11 [13:41:19] [Server thread/INFO]: [副腐竹]2136131645 : 可怕。
+2017-09-11 [13:41:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:41:51] [Server thread/INFO]: [MVP+]Devil : 以后居民区变成逐梦集团了
+2017-09-11 [13:41:54] [Server thread/INFO]: [MVP+]Devil : 嘻嘻
+2017-09-11 [13:41:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:42:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:42:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:42:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:42:10] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哈哈
+2017-09-11 [13:43:01] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 说不定我们还可以搞反房地产
+2017-09-11 [13:43:11] [Server thread/INFO]: Steve[/175.182.95.225:50113] [ClientID: 7196194936690359606] logged in with entity id 11 at (world, 160.8403, 65, 119.4444)
+2017-09-11 [13:43:12] [Server thread/INFO]: Steve joined the game
+2017-09-11 [13:43:15] [Server thread/INFO]: [MVP+]Devil : 对
+2017-09-11 [13:43:18] [Server thread/INFO]: [MVP+]Devil : 买别墅
+2017-09-11 [13:43:20] [Server thread/INFO]: [MVP+]Devil : 卖
+2017-09-11 [13:43:28] [Server thread/INFO]: [副腐竹]2136131645 : 我要买
+2017-09-11 [13:43:32] [Server thread/INFO]: Steve left the game
+2017-09-11 [13:43:32] [Server thread/INFO]: Steve[/175.182.95.225:50113] logged out due to client disconnect
+2017-09-11 [13:43:52] [Server thread/INFO]: [MVP+]Devil : 逐梦你负责建筑好了 我建的太丑了
+2017-09-11 [13:43:59] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嗯
+2017-09-11 [13:44:03] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好吧
+2017-09-11 [13:44:12] [Server thread/INFO]: 帅哥[/117.177.31.146:34225] logged out due to Invalid name!
+2017-09-11 [13:44:20] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你有创造的话
+2017-09-11 [13:44:26] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 可以这样
+2017-09-11 [13:44:28] [Server thread/INFO]: Steve[/175.182.95.225:50113] [ClientID: 7196194936690359606] logged in with entity id 12 at (world, 160.8403, 65.2, 119.4444)
+2017-09-11 [13:44:30] [Server thread/INFO]: 帅哥[/117.177.31.146:34225] logged out due to Invalid name!
+2017-09-11 [13:44:30] [Server thread/INFO]: Steve joined the game
+2017-09-11 [13:44:36] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 比如对称建筑
+2017-09-11 [13:44:45] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我建一半
+2017-09-11 [13:45:05] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你就照着我的建另一半
+2017-09-11 [13:45:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你不是要买吗
+2017-09-11 [13:45:24] [Server thread/INFO]: Steve left the game
+2017-09-11 [13:45:24] [Server thread/INFO]: Steve[/175.182.95.225:50113] logged out due to client disconnect
+2017-09-11 [13:45:26] [Server thread/INFO]: [副腐竹]2136131645 : 对啊
+2017-09-11 [13:45:31] [Server thread/INFO]: [MVP+]Devil : 是啊 过几天
+2017-09-11 [13:45:39] [Server thread/INFO]: [MVP+]Devil : 到时就有钱了
+2017-09-11 [13:46:15] [Server thread/NOTICE]: Player data not found for "prometheus", creating new profile
+2017-09-11 [13:46:15] [Server thread/INFO]: Prometheus[/175.182.95.225:50113] [ClientID: 7196194936690359606] logged in with entity id 13 at (world, 128, 68, 128)
+2017-09-11 [13:46:17] [Server thread/INFO]: Prometheus joined the game
+2017-09-11 [13:46:21] [Server thread/INFO]: [MVP+]Devil : 好的
+2017-09-11 [13:46:31] [Server thread/INFO]: Steve[/106.61.61.136:32666] logged out due to client disconnect
+2017-09-11 [13:46:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:46:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:47:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:47:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:47:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:47:11] [Server thread/WARNING]: Prometheus moved wrongly!
+2017-09-11 [13:47:11] [Server thread/WARNING]: Prometheus moved wrongly!
+2017-09-11 [13:47:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 对了
+2017-09-11 [13:47:30] [Server thread/INFO]: Prometheus left the game
+2017-09-11 [13:47:30] [Server thread/INFO]: Prometheus[/175.182.95.225:50113] logged out due to timeout
+2017-09-11 [13:47:37] [Server thread/INFO]: [MVP+]Devil : 嗯？
+2017-09-11 [13:47:37] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 在这些地皮用完之前就别买了
+2017-09-11 [13:47:50] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:47:52] [Server thread/INFO]: [MVP+]Devil : 嗯 我也没什么了 就300万了
+2017-09-11 [13:47:52] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:48:13] [Server thread/INFO]: 2136131645 fell from a high place
+2017-09-11 [13:48:19] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [13:50:10] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [13:50:10] [Server thread/INFO]: 2136131645[/117.90.206.187:17205] logged out due to timeout
+2017-09-11 [13:51:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:51:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:52:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:52:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:52:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:52:55] [Server thread/INFO]: [/219.159.49.9:59004] logged out due to timeout
+2017-09-11 [13:53:31] [Server thread/INFO]: [/219.159.49.9:59004] logged out due to client disconnect
+2017-09-11 [13:54:19] [Server thread/INFO]: [/219.159.49.9:59004] logged out due to client disconnect
+2017-09-11 [13:56:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [13:56:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [13:57:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [13:57:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [13:57:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [13:59:32] [Server thread/WARNING]: Devil moved too fast, reverting movement
+2017-09-11 [14:00:13] [Server thread/INFO]: [MVP+]Devil : 这怎么会有一条啊
+2017-09-11 [14:00:22] [Server thread/WARNING]: Devil moved too fast, reverting movement
+2017-09-11 [14:01:20] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这个...
+2017-09-11 [14:01:25] [Server thread/WARNING]: Devil moved too fast, reverting movement
+2017-09-11 [14:01:34] [Server thread/INFO]: [MVP+]Devil : 对
+2017-09-11 [14:01:44] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 先不管它
+2017-09-11 [14:01:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:01:53] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我晚上处理
+2017-09-11 [14:01:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:02:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:02:03] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我待会要下线了
+2017-09-11 [14:02:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:02:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:02:14] [Server thread/INFO]: [MVP+]Devil : 额
+2017-09-11 [14:02:16] [Server thread/INFO]: [MVP+]Devil : 好吧
+2017-09-11 [14:02:22] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 晚上十点才能玩
+2017-09-11 [14:02:54] [Server thread/INFO]: [MVP+]Devil : 还要做啥
+2017-09-11 [14:02:54] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 建完这点点先
+2017-09-11 [14:03:11] [Server thread/INFO]: [MVP+]Devil : 我现在刚好有资源
+2017-09-11 [14:03:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我去上课
+2017-09-11 [14:03:31] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 暂时不用
+2017-09-11 [14:04:00] [Server thread/INFO]: mo_yan[/222.84.1.173:10977] [ClientID: -1472131958007646116] logged in with entity id 15 at (world, 128, 68, 128)
+2017-09-11 [14:04:11] [Server thread/INFO]: mo_yan[/222.84.1.173:10977] logged out due to client disconnect
+2017-09-11 [14:04:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 拜拜
+2017-09-11 [14:04:21] [Server thread/INFO]: [MVP+]Devil : 嗯
+2017-09-11 [14:04:23] [Server thread/INFO]: [MVP+]Devil : 拜
+2017-09-11 [14:04:29] [Server thread/INFO]: mo_yan[/222.84.1.173:10977] [ClientID: -1472131958007646116] logged in with entity id 16 at (world, 128, 68, 128)
+2017-09-11 [14:04:34] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 有主意的话我在群里告诉你
+2017-09-11 [14:04:37] [Server thread/INFO]: mo_yan[/222.84.1.173:10977] logged out due to client disconnect
+2017-09-11 [14:04:37] [Server thread/INFO]: zhumengzhiying left the game
+2017-09-11 [14:04:37] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:47025] logged out due to client disconnect
+2017-09-11 [14:05:15] [Server thread/INFO]: Devil left the game
+2017-09-11 [14:05:15] [Server thread/INFO]: Devil[/111.22.81.30:8773] logged out due to client disconnect
+2017-09-11 [14:06:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:06:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:07:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:07:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:07:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:10:23] [Server thread/INFO]: Steve[/106.61.61.136:32466] [ClientID: -7330856163021162890] logged in with entity id 17 at (world, 160.8403, 65.4, 119.4444)
+2017-09-11 [14:10:25] [Server thread/INFO]: Steve joined the game
+2017-09-11 [14:11:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:11:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:12:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:12:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:12:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:16:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:16:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:17:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:17:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:17:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:21:10] [Server thread/WARNING]: Steve moved wrongly!
+2017-09-11 [14:21:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:21:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:22:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:22:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:22:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:26:12] [Server thread/INFO]: Steve left the game
+2017-09-11 [14:26:12] [Server thread/INFO]: Steve[/106.61.61.136:32466] logged out due to client disconnect
+2017-09-11 [14:26:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:26:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:27:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:27:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:27:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:31:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:31:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:32:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:32:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:32:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:36:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:36:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:37:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:37:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:37:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:39:26] [Server thread/INFO]: 2136131645[/117.90.206.187:13637] [ClientID: 3605837626884141308] logged in with entity id 70 at (th, 170.9256, 65, -229.1474)
+2017-09-11 [14:39:28] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [14:39:44] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [14:41:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:41:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:42:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:42:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:42:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:45:06] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [14:45:11] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [14:45:44] [Server thread/INFO]: 2136131645 fell from a high place
+2017-09-11 [14:46:02] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [14:46:40] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [14:46:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:46:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:47:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:47:06] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [14:47:06] [Server thread/INFO]: 2136131645[/117.90.206.187:13637] logged out due to client disconnect
+2017-09-11 [14:47:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:47:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:51:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:51:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:52:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:52:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:52:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:55:27] [Server thread/INFO]: yukozh[/125.54.27.121:52436] [ClientID: 6797555042684619036] logged in with entity id 71 at (th, -243.3248, 63, -170.8034)
+2017-09-11 [14:55:29] [Server thread/INFO]: yukozh joined the game
+2017-09-11 [14:56:34] [Server thread/INFO]: [MVP+]yukozh : 有人么
+2017-09-11 [14:56:43] [Server thread/INFO]: yukozh left the game
+2017-09-11 [14:56:43] [Server thread/INFO]: yukozh[/125.54.27.121:52436] logged out due to client disconnect
+2017-09-11 [14:56:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [14:56:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [14:57:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [14:57:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [14:57:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [14:58:14] [Server thread/INFO]: yukozh[/125.54.27.121:52436] [ClientID: 6797555042684619036] logged in with entity id 84 at (th, -241.6649, 174.865, -95.806)
+2017-09-11 [14:58:16] [Server thread/INFO]: yukozh joined the game
+2017-09-11 [15:01:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [15:01:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [15:02:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [15:02:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [15:02:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [15:06:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [15:06:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [15:07:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [15:07:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [15:07:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [15:11:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [15:11:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [15:12:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [15:12:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [15:12:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [15:16:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [15:16:58] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [15:17:03] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [15:17:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [15:17:08] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
