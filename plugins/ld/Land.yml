@@ -4830,18 +4830,6 @@
   level: th
   invitee: []
   expires: ~
-519:
-  ID: 519
-  startX: 36
-  endX: 150
-  startZ: -328
-  endZ: -205
-  price: 1378600
-  owner: Devil
-  level: th
-  invitee:
-    zhumengzhiying: true
-  expires: ~
 520:
   ID: 520
   startX: 115
@@ -4919,17 +4907,6 @@
   endZ: -281
   price: 8000
   owner: yukozh
-  level: th
-  invitee: []
-  expires: ~
-527:
-  ID: 527
-  startX: -49
-  endX: 30
-  startZ: -377
-  endZ: -250
-  price: 982800
-  owner: AllHELLOaaa1227
   level: th
   invitee: []
   expires: ~

@@ -52,12 +52,6 @@
   count: "16"
   money: "200"
   id: "17:1"
-150:66:103:world:
-  kind: B
-  name: §f白桦木
-  count: "16"
-  money: "200"
-  id: "17:2"
 152:66:103:world:
   kind: B
   name: 从林木
@@ -94,12 +88,6 @@
   count: "1"
   money: "1100"
   id: "264"
-156:66:103:world:
-  kind: B
-  name: §8圆石
-  count: "64"
-  money: "250"
-  id: "4"
 158:66:103:world:
   kind: B
   name: §7石头
@@ -158,12 +146,6 @@
   count: "64"
   money: "200"
   id: "13"
-150:66:110:world:
-  kind: B
-  name: §c红沙
-  count: "64"
-  money: "500"
-  id: "12:1"
 152:66:110:world:
   kind: B
   name: §e砂石
@@ -1067,90 +1049,6 @@
   count: "16"
   money: "400"
   id: "35"
-154:71:117:world:
-  kind: B
-  name: §6羊毛
-  count: "16"
-  money: "400"
-  id: "35:1"
-153:71:117:world:
-  kind: B
-  name: §b羊毛
-  count: "16"
-  money: "400"
-  id: "35:3"
-152:71:117:world:
-  kind: B
-  name: §e羊毛
-  count: "16"
-  money: "400"
-  id: "35:4"
-151:71:117:world:
-  kind: B
-  name: §a羊毛
-  count: "16"
-  money: "400"
-  id: "35:5"
-150:71:117:world:
-  kind: B
-  name: §d羊毛
-  count: "16"
-  money: "400"
-  id: "35:6"
-149:71:117:world:
-  kind: B
-  name: §8羊毛
-  count: "16"
-  money: "400"
-  id: "35:7"
-148:71:117:world:
-  kind: B
-  name: §7羊毛
-  count: "16"
-  money: "400"
-  id: "35:8"
-147:71:117:world:
-  kind: B
-  name: §3羊毛
-  count: "16"
-  money: "400"
-  id: "35:9"
-146:71:117:world:
-  kind: B
-  name: §5羊毛
-  count: "16"
-  money: "400"
-  id: "35:10"
-145:71:117:world:
-  kind: B
-  name: §1羊毛
-  count: "16"
-  money: "400"
-  id: "35:11"
-144:71:117:world:
-  kind: B
-  name: §2羊毛
-  count: "16"
-  money: "400"
-  id: "35:13"
-157:71:117:world:
-  kind: B
-  name: §4羊毛
-  count: "16"
-  money: "400"
-  id: "35:14"
-156:71:117:world:
-  kind: B
-  name: §0羊毛
-  count: "16"
-  money: "400"
-  id: "35:15"
-158:71:117:world:
-  kind: B
-  name: §d羊毛
-  count: "16"
-  money: "400"
-  id: "35:2"
 3006:82:2008:world:
   kind: E
   name: §l§a§m副腐竹
@@ -1187,4 +1085,10 @@
   kind: E
   name: §b逐梦集团董事
   money: "99999"
+156:66:103:world:
+  kind: B
+  name: §8原石
+  count: "64"
+  money: "200"
+  id: "4"
 ...
