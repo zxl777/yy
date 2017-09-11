@@ -1,1035 +1,569 @@
-2017-09-11 [21:23:23] [Server thread/INFO]: [掘地矿工]GHD : 你们知道怎么锁箱子吗
-2017-09-11 [21:23:36] [Server thread/INFO]: [-老司机-]Acve : 知道
-2017-09-11 [21:23:37] [Server thread/INFO]: [掘地矿工]GHD : 不认识
-2017-09-11 [21:23:41] [Server thread/INFO]: hello : 箱子里给你的钻石
-2017-09-11 [21:23:49] [Server thread/INFO]: [掘地矿工]GHD : 我不需要
-2017-09-11 [21:24:08] [Server thread/INFO]: Steve[/106.61.59.128:33002] [ClientID: -7330856163021162890] logged in with entity id 109 at (world, 717.2605, 63.2, 872.3)
-2017-09-11 [21:24:11] [Server thread/INFO]: Steve joined the game
-2017-09-11 [21:24:26] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:24:28] [Server thread/WARNING]: 5478 moved wrongly!
-2017-09-11 [21:24:31] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:24:32] [Server thread/INFO]: [掘地矿工]GHD : 我去把你们名字都贴在村口
-2017-09-11 [21:24:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:24:57] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:25:00] [Server thread/INFO]: [/180.116.0.195:58749] logged out due to client disconnect
-2017-09-11 [21:25:04] [Server thread/INFO]: top_ray[/117.14.118.58:58300] [ClientID: 9000261554536894911] logged in with entity id 139 at (th, 153.2335, 65, 166.8817)
-2017-09-11 [21:25:06] [Server thread/INFO]: top_ray joined the game
-2017-09-11 [21:25:08] [Server thread/INFO]: [掘地矿工]GHD : 还有这里是有规定的
-2017-09-11 [21:25:09] [Server thread/INFO]: [/180.116.0.195:58749] logged out due to client disconnect
-2017-09-11 [21:25:17] [Server thread/INFO]: [-老司机-]Acve : 给我一个
-2017-09-11 [21:25:23] [Server thread/INFO]: [掘地矿工]GHD : 不能乱开发
-2017-09-11 [21:25:26] [Server thread/INFO]: [-老司机-]Acve : 牌子
-2017-09-11 [21:25:27] [Server thread/INFO]: だいち[/106.184.72.139:50940] logged out due to Invalid name!
-2017-09-11 [21:25:29] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:25:29] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:25:33] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:25:38] [Server thread/INFO]: GHD left the game
-2017-09-11 [21:25:38] [Server thread/INFO]: GHD[/183.47.137.145:47216] logged out due to timeout
-2017-09-11 [21:25:43] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:26:00] [Server thread/INFO]: GHD[/113.117.7.179:59020] [ClientID: -6009527916499289536] logged in with entity id 143 at (th, -9124.6563, 69, -401.3965)
-2017-09-11 [21:26:04] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:26:06] [Server thread/INFO]: GHD joined the game
-2017-09-11 [21:26:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:26:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:26:34] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:26:37] [Server thread/INFO]: だいち[/106.184.72.139:50940] logged out due to Invalid name!
-2017-09-11 [21:26:44] [Server thread/INFO]: [掘地矿工]GHD : 怎么乱tp别人
-2017-09-11 [21:27:01] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:27:16] [Server thread/INFO]: Acve left the game
-2017-09-11 [21:27:16] [Server thread/INFO]: Acve[/27.38.8.255:25215] logged out due to client disconnect
-2017-09-11 [21:27:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:27:20] [Server thread/INFO]: [掘地矿工]GHD : 这位少爷这里是不属于你的
-2017-09-11 [21:27:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:27:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:27:33] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:27:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:27:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理16个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:27:47] [Server thread/INFO]: [top_ray: Teleported top_ray to 3000, 80, 2000]
-2017-09-11 [21:27:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:27:55] [Server thread/INFO]: [top_ray: Set the time to 7000]
-2017-09-11 [21:28:03] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:28:14] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:28:31] [Server thread/INFO]: [掘地矿工]GHD : 我来
-2017-09-11 [21:28:35] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:28:46] [Server thread/INFO]: hello : 卡方块了
-2017-09-11 [21:28:48] [Server thread/WARNING]: 5478 moved wrongly!
-2017-09-11 [21:29:16] [Server thread/INFO]: top_ray left the game
-2017-09-11 [21:29:16] [Server thread/INFO]: top_ray[/117.14.118.58:58300] logged out due to client disconnect
-2017-09-11 [21:29:23] [Server thread/INFO]: [掘地矿工]GHD : 别挖
-2017-09-11 [21:29:46] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:29:46] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:30:07] [Server thread/INFO]: Steve left the game
-2017-09-11 [21:30:07] [Server thread/INFO]: Steve[/106.61.59.128:33002] logged out due to Login from the same device
-2017-09-11 [21:30:08] [Server thread/NOTICE]: Player data not found for "ryanmakyo", creating new profile
-2017-09-11 [21:30:08] [Server thread/INFO]: Ryanmakyo[/42.2.140.115:53605] [ClientID: -7764579852531979319] logged in with entity id 396 at (world, 128, 68, 128)
-2017-09-11 [21:30:12] [Server thread/INFO]: Steve[/183.204.252.77:9898] [ClientID: 5831666824790611291] logged in with entity id 399 at (world, 127.5842, 64, 121.1631)
-2017-09-11 [21:30:13] [Server thread/INFO]: Ryanmakyo joined the game
-2017-09-11 [21:30:15] [Server thread/INFO]: Steve joined the game
-2017-09-11 [21:30:19] [Server thread/INFO]: [掘地矿工]GHD : 是谁在下面挖矿
-2017-09-11 [21:30:27] [Server thread/INFO]: Steve left the game
-2017-09-11 [21:30:27] [Server thread/INFO]: Steve[/183.204.252.77:9898] logged out due to Login from the same device
-2017-09-11 [21:30:32] [Server thread/INFO]: Steve[/106.61.59.128:33002] [ClientID: -7330856163021162890] logged in with entity id 402 at (world, 127.5842, 64.2, 121.1631)
-2017-09-11 [21:30:35] [Server thread/INFO]: Steve joined the game
-2017-09-11 [21:30:43] [Server thread/INFO]: 5478 : 我
-2017-09-11 [21:31:11] [Server thread/INFO]: 5478 : 够了
-2017-09-11 [21:31:18] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:31:23] [Server thread/INFO]: [掘地矿工]GHD : 到别处挖谢谢不然都是坑
-2017-09-11 [21:31:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:31:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:31:33] [Server thread/INFO]: 5478 : OK
-2017-09-11 [21:31:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:31:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:31:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:32:05] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:32:08] [Server thread/INFO]: Ryanmakyo left the game
-2017-09-11 [21:32:08] [Server thread/INFO]: Ryanmakyo[/42.2.140.115:53605] logged out due to Failed to login in 120 seconds
-2017-09-11 [21:32:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:32:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:32:21] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:32:23] [Server thread/INFO]: 5478 left the game
-2017-09-11 [21:32:23] [Server thread/INFO]: 5478[/171.110.8.56:19655] logged out due to client disconnect
-2017-09-11 [21:32:24] [Server thread/WARNING]: Steve moved too fast, reverting movement
-2017-09-11 [21:32:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:32:30] [Server thread/INFO]: Acve[/27.38.8.255:25215] [ClientID: 8699734635721174707] logged in with entity id 411 at (th, -9144.2422, 68, -408.8487)
-2017-09-11 [21:32:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:32:31] [Server thread/INFO]: Acve joined the game
-2017-09-11 [21:32:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:32:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理8个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:32:36] [Server thread/INFO]: [/27.38.60.107:28248] logged out due to client disconnect
-2017-09-11 [21:32:47] [Server thread/INFO]: [-老司机-]Acve : 对不起
-2017-09-11 [21:32:56] [Server thread/INFO]: [掘地矿工]GHD : 这里是新手区
-2017-09-11 [21:33:12] [Server thread/INFO]: [掘地矿工]GHD : 请你别来欺负新手
-2017-09-11 [21:33:29] [Server thread/INFO]: [-老司机-]Acve : 我不会
-2017-09-11 [21:33:41] [Server thread/INFO]: [掘地矿工]GHD : 那我就放心了
-2017-09-11 [21:34:16] [Server thread/INFO]: [-老司机-]Acve : 我心地善良
-2017-09-11 [21:34:20] [Server thread/INFO]: [掘地矿工]GHD : 你们建房子不要乱挖泥土
-2017-09-11 [21:34:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:34:29] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:34:33] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:34:34] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:34:44] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:34:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:34:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:35:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:35:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:35:39] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:36:09] [Server thread/INFO]: Etigoya SATOU[/126.0.119.95:65092] logged out due to Invalid name!
-2017-09-11 [21:36:25] [Server thread/INFO]: Etigoya SATOU[/126.0.119.95:65092] logged out due to Invalid name!
-2017-09-11 [21:36:33] [Server thread/INFO]: MADE[/219.156.114.191:57468] [ClientID: 7520286991202742319] logged in with entity id 533 at (world, 139.3039, 70, 76.4944)
-2017-09-11 [21:36:35] [Server thread/INFO]: MADE joined the game
-2017-09-11 [21:36:40] [Server thread/INFO]: Etigoya SATOU[/126.0.119.95:65092] logged out due to Invalid name!
-2017-09-11 [21:37:05] [Server thread/INFO]: [掘地矿工]GHD : 对了你是初音的弟弟对吧
-2017-09-11 [21:37:12] [Server thread/INFO]: [-老司机-]Acve : 是
-2017-09-11 [21:37:13] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:37:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:37:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:37:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:37:23] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:37:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:37:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:37:34] [Server thread/INFO]: [掘地矿工]GHD : 那你姐夫是不是kwkkwk
-2017-09-11 [21:37:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:37:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:37:43] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:37:44] [Server thread/INFO]: [-老司机-]Acve : 是啊
-2017-09-11 [21:37:49] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:38:02] [Server thread/INFO]: [-老司机-]Acve : 怎么了
-2017-09-11 [21:38:05] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:38:05] [Server thread/INFO]: [掘地矿工]GHD : 上一次我被他坑了
-2017-09-11 [21:38:18] [Server thread/INFO]: [-老司机-]Acve : ...........
-2017-09-11 [21:38:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:38:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:38:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:38:34] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:38:41] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:32755] [ClientID: 3036730296650954731] logged in with entity id 551 at (th, 269.411, 80, -283.6684)
-2017-09-11 [21:38:44] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-11 [21:38:55] [Server thread/INFO]: [掘地矿工]GHD : 你是老手
-2017-09-11 [21:38:59] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:39:02] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:39:03] [Server thread/WARNING]: Steve moved wrongly!
-2017-09-11 [21:39:06] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:39:08] [Server thread/INFO]: [-老司机-]Acve : 嗯哼
-2017-09-11 [21:39:13] [Server thread/INFO]: hello : 谁锁我家的箱子了
-2017-09-11 [21:39:16] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:39:17] [Server thread/INFO]: Steve left the game
-2017-09-11 [21:39:17] [Server thread/INFO]: Steve[/106.61.59.128:33002] logged out due to timeout
-2017-09-11 [21:39:21] [Server thread/INFO]: [-老司机-]Acve : 什么
-2017-09-11 [21:39:34] [Server thread/INFO]: [-老司机-]Acve : 锁了?
-2017-09-11 [21:39:39] [Server thread/INFO]: hello : 嗯
-2017-09-11 [21:39:42] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:39:48] [Server thread/INFO]: [掘地矿工]GHD : 你锁他箱子干嘛?(・?・)
-2017-09-11 [21:39:52] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:39:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:39:54] [Server thread/INFO]: [-老司机-]Acve : 我试着开一下
-2017-09-11 [21:39:55] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:40:06] [Server thread/INFO]: [掘地矿工]GHD : 3/开
-2017-09-11 [21:40:11] [Server thread/INFO]: [掘地矿工]GHD : 点一下
-2017-09-11 [21:40:14] [Server thread/NOTICE]: Player data not found for "itzbrooklyn_here", creating new profile
-2017-09-11 [21:40:14] [Server thread/INFO]: ITZBrooklyn_Here[/73.112.84.162:41052] [ClientID: -3707567328220334736] logged in with entity id 553 at (world, 128, 68, 128)
-2017-09-11 [21:40:20] [Server thread/INFO]: hello : 只不过左边没锁
-2017-09-11 [21:40:29] [Server thread/INFO]: ITZBrooklyn_Here joined the game
-2017-09-11 [21:40:52] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:40:54] [Server thread/WARNING]: Acve moved wrongly!
-2017-09-11 [21:40:59] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:00] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:41:00] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:41:04] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:08] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:11] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:30] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:41:32] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:34] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:36] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:37] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:39] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:40] [Server thread/WARNING]: ITZBrooklyn_Here moved wrongly!
-2017-09-11 [21:41:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:41:53] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:41:55] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:42:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:42:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:42:26] [Server thread/INFO]: ITZBrooklyn_Here left the game
-2017-09-11 [21:42:26] [Server thread/INFO]: ITZBrooklyn_Here[/73.112.84.162:41052] logged out due to client disconnect
-2017-09-11 [21:42:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:42:32] [Server thread/INFO]: Acve left the game
-2017-09-11 [21:42:32] [Server thread/INFO]: Acve[/27.38.8.255:25215] logged out due to client disconnect
-2017-09-11 [21:42:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:42:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:42:59] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:44:59] [Server thread/INFO]: Lockey[/123.241.172.99:52579] [ClientID: 1425757950528207570] logged in with entity id 699 at (world, 172.7, 63, 117.2543)
-2017-09-11 [21:45:02] [Server thread/INFO]: Lockey joined the game
-2017-09-11 [21:45:27] [Server thread/INFO]: [掘地矿工]GHD : 我不语余别人去浮岛
-2017-09-11 [21:45:35] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:45:47] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:45:50] [Server thread/NOTICE]: Player data not found for "kimono", creating new profile
-2017-09-11 [21:45:50] [Server thread/INFO]: kimono[/60.246.135.237:60327] [ClientID: 4009892701114726512] logged in with entity id 705 at (world, 128, 68, 128)
-2017-09-11 [21:45:53] [Server thread/INFO]: kimono joined the game
-2017-09-11 [21:46:09] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:46:22] [Server thread/WARNING]: Lockey moved wrongly!
-2017-09-11 [21:46:31] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:46:39] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 加入逐梦集团成为工程师有高额工资哦
-2017-09-11 [21:46:51] [Server thread/INFO]: [掘地矿工]GHD : 然后我
-2017-09-11 [21:46:53] [Server thread/INFO]: [掘地矿工]GHD : 呢
-2017-09-11 [21:46:53] [Server thread/INFO]: [PVP大师]MADE : 我要加入
-2017-09-11 [21:46:55] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:46:56] [Server thread/WARNING]: Lockey moved wrongly!
-2017-09-11 [21:46:56] [Server thread/INFO]: [掘地矿工]GHD : 然后呢
-2017-09-11 [21:47:00] [Server thread/WARNING]: Lockey moved wrongly!
-2017-09-11 [21:47:00] [Server thread/WARNING]: Lockey moved wrongly!
-2017-09-11 [21:47:02] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:47:04] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:47:05] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:47:05] [Server thread/INFO]: [PVP大师]MADE : 我要加入
-2017-09-11 [21:47:10] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 前提是你得有那水平
-2017-09-11 [21:47:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:47:20] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 给我看看你建的建筑
-2017-09-11 [21:47:23] [Server thread/INFO]: [PVP大师]MADE : 好
-2017-09-11 [21:47:24] [Server thread/INFO]: kimono left the game
-2017-09-11 [21:47:24] [Server thread/INFO]: kimono[/60.246.135.237:60327] logged out due to client disconnect
-2017-09-11 [21:47:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:47:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:47:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:47:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理8个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:47:37] [Server thread/INFO]: Lockey left the game
-2017-09-11 [21:47:37] [Server thread/INFO]: Lockey[/123.241.172.99:52579] logged out due to timeout
-2017-09-11 [21:47:39] [Server thread/INFO]: [/60.246.135.237:60327] logged out due to timeout
-2017-09-11 [21:47:47] [Server thread/INFO]: kimono[/60.246.135.237:60327] [ClientID: 4009892701114726512] logged in with entity id 727 at (world, 128, 68.2, 128)
-2017-09-11 [21:47:50] [Server thread/INFO]: kimono joined the game
-2017-09-11 [21:48:18] [Server thread/INFO]: [掘地矿工]GHD : 别老是范错哦
-2017-09-11 [21:48:23] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你在哪呢
-2017-09-11 [21:48:42] [Server thread/INFO]: [PVP大师]MADE : 我在警察局
-2017-09-11 [21:48:46] [Server thread/INFO]: kimono left the game
-2017-09-11 [21:48:46] [Server thread/INFO]: kimono[/60.246.135.237:60327] logged out due to timeout
-2017-09-11 [21:49:10] [Server thread/NOTICE]: Player data not found for "mina", creating new profile
-2017-09-11 [21:49:10] [Server thread/INFO]: mina[/185.117.8.93:60845] [ClientID: 7732040770585895880] logged in with entity id 733 at (world, 128, 68, 128)
-2017-09-11 [21:49:13] [Server thread/INFO]: mina joined the game
-2017-09-11 [21:49:16] [Server thread/WARNING]: GHD moved too fast, reverting movement
-2017-09-11 [21:49:22] [Server thread/INFO]: Steve[/61.235.96.118:20799] [ClientID: -6570883861692670911] logged in with entity id 735 at (world, 147.8015, 70, 119.9727)
-2017-09-11 [21:49:24] [Server thread/INFO]: Steve joined the game
-2017-09-11 [21:49:38] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 所以你的建筑呢
-2017-09-11 [21:49:47] [Server thread/INFO]: [PVP大师]MADE : 我带你去
-2017-09-11 [21:50:05] [Server thread/INFO]: [PVP大师]MADE : 在资源世界
-2017-09-11 [21:50:05] [Server thread/INFO]: Steve left the game
-2017-09-11 [21:50:05] [Server thread/INFO]: Steve[/61.235.96.118:20799] logged out due to client disconnect
-2017-09-11 [21:50:14] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:50:17] [Server thread/INFO]: [掘地矿工]GHD : 我一笔钱是帮新手的
-2017-09-11 [21:50:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:50:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:50:28] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:50:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:50:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:50:31] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:50:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:50:59] [Server thread/INFO]: mina left the game
-2017-09-11 [21:50:59] [Server thread/INFO]: mina[/185.117.8.93:60845] logged out due to timeout
-2017-09-11 [21:51:06] [Server thread/INFO]: 2136131645[/117.90.206.187:16177] [ClientID: 3605837626884141308] logged in with entity id 738 at (world, 98.0236, 72.3093, 140.8976)
-2017-09-11 [21:51:06] [Server thread/INFO]: [PVP大师]MADE : 这是我的家
-2017-09-11 [21:51:09] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [21:51:13] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:51:15] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:51:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:51:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:51:22] [Server thread/WARNING]: GHD moved too fast, reverting movement
-2017-09-11 [21:51:25] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 看样子没认真建
-2017-09-11 [21:51:28] [Server thread/INFO]: [PVP大师]MADE : 我的建筑是哪个塔
-2017-09-11 [21:51:35] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:51:45] [Server thread/INFO]: 2136131645 drowned
-2017-09-11 [21:51:51] [Server thread/INFO]: [掘地矿工]GHD : 哎呀哈哈
-2017-09-11 [21:52:06] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:52:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:52:17] [Server thread/INFO]: mina[/185.117.8.93:61673] [ClientID: 7732040770585895880] logged in with entity id 801 at (world, 128, 68.2, 128)
-2017-09-11 [21:52:20] [Server thread/INFO]: mina joined the game
-2017-09-11 [21:52:22] [Server thread/INFO]: [PVP大师]MADE : 可以吗
-2017-09-11 [21:52:23] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 如果是认真的建一个建筑你能建出什么样的呢
-2017-09-11 [21:52:26] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:52:31] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:52:31] [Server thread/INFO]: [掘地矿工]GHD : 给我弄个雨天
-2017-09-11 [21:52:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:52:36] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理10个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:52:40] [Server thread/INFO]: [PVP大师]MADE : 我现在健
-2017-09-11 [21:52:47] [Server thread/INFO]: Summer[/101.93.93.219:51202] [ClientID: 3208760958272153577] logged in with entity id 850 at (th, 88.1723, 79, 45.7663)
-2017-09-11 [21:52:50] [Server thread/INFO]: Summer joined the game
-2017-09-11 [21:52:53] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不要求太大
-2017-09-11 [21:52:57] [Server thread/INFO]: [PVP大师]MADE : 好
-2017-09-11 [21:53:02] [Server thread/INFO]: [掘地矿工]GHD : 呵呵
-2017-09-11 [21:53:11] [Server thread/INFO]: [-老司机-]2136131645 : 请求加入逐梦集团
-2017-09-11 [21:53:13] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 但以后我们都是以大型建筑为主
-2017-09-11 [21:53:17] [Server thread/INFO]: [-老司机-]Summer : 2136
-2017-09-11 [21:53:25] [Server thread/INFO]: [-老司机-]Summer : 我回来了
-2017-09-11 [21:53:30] [Server thread/WARNING]: MADE moved wrongly!
-2017-09-11 [21:53:33] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 老司机...
-2017-09-11 [21:53:38] [Server thread/INFO]: [-老司机-]2136131645 : 来么一个
-2017-09-11 [21:53:42] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 弄有什么建筑
-2017-09-11 [21:53:47] [Server thread/INFO]: [-老司机-]Summer : zhumeng我建筑不错可以加入
-2017-09-11 [21:53:48] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:54:02] [Server thread/INFO]: [掘地矿工]GHD : 可以参观我的房子但我不想去你们那里zhume
-2017-09-11 [21:54:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:54:17] [Server thread/INFO]: mina left the game
-2017-09-11 [21:54:17] [Server thread/INFO]: mina[/185.117.8.93:61673] logged out due to Failed to login in 120 seconds
-2017-09-11 [21:54:18] [Server thread/INFO]: [-老司机-]Summer : zhumeng你到我这来
-2017-09-11 [21:54:38] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:54:46] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不强制招人的...
-2017-09-11 [21:54:47] [Server thread/NOTICE]: Player data not found for "vungmuninhor", creating new profile
-2017-09-11 [21:54:47] [Server thread/INFO]: vungmuninhor[/72.211.181.235:63927] [ClientID: 6036635861550837906] logged in with entity id 938 at (world, 128, 68, 128)
-2017-09-11 [21:54:48] [Server thread/INFO]: vungmuninhor joined the game
-2017-09-11 [21:55:17] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [21:55:37] [Server thread/INFO]: [掘地矿工]GHD : 可以参观但是房子还没有装修好
-2017-09-11 [21:55:43] [Server thread/INFO]: i[/72.211.181.235:58429] logged out due to Invalid name!
-2017-09-11 [21:55:44] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 等会
-2017-09-11 [21:55:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:56:01] [Server thread/INFO]: vungmuninhor left the game
-2017-09-11 [21:56:01] [Server thread/INFO]: vungmuninhor[/72.211.181.235:63927] logged out due to client disconnect
-2017-09-11 [21:56:06] [Server thread/INFO]: i[/72.211.181.235:58429] logged out due to Invalid name!
-2017-09-11 [21:56:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:56:33] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:56:34] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [21:56:34] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [21:57:04] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [21:57:07] [Server thread/INFO]: [-老司机-]Summer : 还有旁边的教堂也是我造的
-2017-09-11 [21:57:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [21:57:21] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
-2017-09-11 [21:57:22] [Server thread/INFO]: [掘地矿工]GHD : hello在雪源习惯吗
-2017-09-11 [21:57:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [21:57:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [21:57:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [21:57:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [21:57:42] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 内饰做的很好
-2017-09-11 [21:57:48] [Server thread/INFO]: [掘地矿工]GHD : 啊
-2017-09-11 [21:58:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 房子外观我个人觉得颜色杂了一些
-2017-09-11 [21:58:07] [Server thread/INFO]: [-老司机-]2136131645 : 我这网络没救了
-2017-09-11 [21:58:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 通过
-2017-09-11 [21:58:23] [Server thread/INFO]: [-老司机-]Summer : 因为我个人比较喜欢原木
-2017-09-11 [21:58:30] [Server thread/INFO]: [掘地矿工]GHD : 恭喜
-2017-09-11 [21:58:32] [Server thread/INFO]: [掘地矿工]GHD : 你
-2017-09-11 [21:58:34] [Server thread/INFO]: [掘地矿工]GHD : 呵呵
-2017-09-11 [21:58:34] [Server thread/INFO]: [-老司机-]Summer : 还有砖块这两种材质
-2017-09-11 [21:58:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 先列个名单
-2017-09-11 [21:58:52] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:58:56] [Server thread/INFO]: [-老司机-]Summer : 什么名单
-2017-09-11 [21:58:57] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 暂时还不到用人的时候
-2017-09-11 [21:58:58] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:58:58] [Server thread/INFO]: hello was pricked to death
-2017-09-11 [21:59:09] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:59:11] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:59:11] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [21:59:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:18] [Server thread/INFO]: hello was pricked to death
-2017-09-11 [21:59:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:19] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:23] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [21:59:34] [Server thread/INFO]: [-老司机-]Summer : 一个op都不在什么情况
-2017-09-11 [21:59:36] [Server thread/INFO]: hello was pricked to death
-2017-09-11 [21:59:45] [Server thread/INFO]: [掘地矿工]GHD : 我去建房子了拜拜
-2017-09-11 [21:59:49] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:00:13] [Server thread/INFO]: [掘地矿工]GHD : 1组原木
-2017-09-11 [22:00:16] [Server thread/INFO]: [PVP大师]MADE : 我健好了
-2017-09-11 [22:00:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : summer。
-2017-09-11 [22:00:35] [Server thread/INFO]: [PVP大师]MADE : 来资源世界
-2017-09-11 [22:01:00] [Server thread/INFO]: [PVP大师]MADE : 一个兔子小屋
-2017-09-11 [22:01:03] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 兔子？？？
-2017-09-11 [22:01:51] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额...
-2017-09-11 [22:01:54] [Server thread/INFO]: [PVP大师]MADE : 可以吗
-2017-09-11 [22:02:01] [Server thread/INFO]: [-老司机-]Summer : 21367一起造吧
-2017-09-11 [22:02:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你觉得自己比较会建哪种建筑
-2017-09-11 [22:02:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:02:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:02:29] [Server thread/INFO]: [PVP大师]MADE : 房子
-2017-09-11 [22:02:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:02:33] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [22:02:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:02:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:02:40] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [22:02:45] [Server thread/INFO]: [-老司机-]2136131645 : 火柴盒
-2017-09-11 [22:02:49] [Server thread/INFO]: top_ray[/117.14.118.58:58300] [ClientID: 9000261554536894911] logged in with entity id 1027 at (th, 108.0955, 56, 155.5128)
-2017-09-11 [22:02:51] [Server thread/INFO]: top_ray[/117.14.118.58:58300] logged out due to client disconnect
-2017-09-11 [22:03:02] [Server thread/INFO]: top_ray[/117.14.118.58:58300] [ClientID: 9000261554536894911] logged in with entity id 1028 at (th, 108.0955, 56, 155.5128)
-2017-09-11 [22:03:04] [Server thread/INFO]: top_ray joined the game
-2017-09-11 [22:03:05] [Server thread/INFO]: [PVP大师]MADE : 艺术房子
-2017-09-11 [22:03:13] [Server thread/INFO]: [PVP大师]MADE : 行吗
-2017-09-11 [22:03:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emmm
-2017-09-11 [22:03:20] [Server thread/INFO]: [-老司机-]Summer : 游泳馆要不要
-2017-09-11 [22:03:26] [Server thread/INFO]: [-老司机-]Summer : 正在造
-2017-09-11 [22:03:27] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我给你资金买材料
-2017-09-11 [22:03:31] [Server thread/INFO]: [掘地矿工]GHD : 那源木房子呢
-2017-09-11 [22:03:40] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 任意建个房子
-2017-09-11 [22:03:47] [Server thread/INFO]: hello was pricked to death
-2017-09-11 [22:03:48] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 认真建
-2017-09-11 [22:04:01] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 然后我再评价
-2017-09-11 [22:04:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : OK？
-2017-09-11 [22:04:08] [Server thread/INFO]: [PVP大师]MADE : 我通过了吗
-2017-09-11 [22:04:09] [Server thread/INFO]: 2136131645 fell from a high place
-2017-09-11 [22:04:16] [Server thread/INFO]: [-老司机-]2136131645 : what
-2017-09-11 [22:04:23] [Server thread/INFO]: [掘地矿工]GHD : 你们得多多帮助新手
-2017-09-11 [22:04:24] [Server thread/INFO]: [-老司机-]2136131645 : ？找人
-2017-09-11 [22:04:29] [Server thread/INFO]: [-老司机-]Summer : 哈哈
-2017-09-11 [22:04:43] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 给你个项目
-2017-09-11 [22:04:45] [Server thread/INFO]: [PVP大师]MADE : 让我通过，我一定好好健
-2017-09-11 [22:04:51] [Server thread/INFO]: [PVP大师]MADE : 什么
-2017-09-11 [22:04:51] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不论风格
-2017-09-11 [22:04:58] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 房子
-2017-09-11 [22:05:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 给你资金
-2017-09-11 [22:05:08] [Server thread/INFO]: [PVP大师]MADE : 我通过了
-2017-09-11 [22:05:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:05:10] [Server thread/INFO]: [-老司机-]Summer : 等等我通过了没
-2017-09-11 [22:05:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:05:13] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:05:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:05:15] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 先给你过吧
-2017-09-11 [22:05:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:05:22] [Server thread/INFO]: [PVP大师]MADE : 耶
-2017-09-11 [22:05:23] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : summer通过了
-2017-09-11 [22:05:27] [Server thread/INFO]: [-老司机-]Summer : ok
-2017-09-11 [22:05:35] [Server thread/INFO]: [PVP大师]MADE : 你明天来检查
-2017-09-11 [22:05:40] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : summer你擅长哪种风格的建筑
-2017-09-11 [22:05:46] [Server thread/INFO]: [PVP大师]MADE : 随便
-2017-09-11 [22:05:47] [Server thread/INFO]: [-老司机-]Summer : emmm
-2017-09-11 [22:05:48] [Server thread/WARNING]: hello moved wrongly!
-2017-09-11 [22:06:02] [Server thread/INFO]: [PVP大师]MADE : 后天检查好吧
-2017-09-11 [22:06:06] [Server thread/INFO]: [-老司机-]Summer : 中式的很久没建了
-2017-09-11 [22:06:13] [Server thread/INFO]: [PVP大师]MADE : 好啊
-2017-09-11 [22:06:13] [Server thread/INFO]: [-老司机-]Summer : 就是中世纪
-2017-09-11 [22:06:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 一个星期内
-2017-09-11 [22:06:19] [Server thread/INFO]: [PVP大师]MADE : 好
-2017-09-11 [22:06:20] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好吧
-2017-09-11 [22:06:25] [Server thread/NOTICE]: Player data not found for "marblewharf6226", creating new profile
-2017-09-11 [22:06:25] [Server thread/INFO]: MarbleWharf6226[/106.165.169.196:57893] [ClientID: 8641895054500826917] logged in with entity id 1029 at (world, 128, 68, 128)
-2017-09-11 [22:06:27] [Server thread/INFO]: MarbleWharf6226 joined the game
-2017-09-11 [22:06:33] [Server thread/INFO]: MarbleWharf6226 left the game
-2017-09-11 [22:06:33] [Server thread/INFO]: MarbleWharf6226[/106.165.169.196:57893] logged out due to client disconnect
-2017-09-11 [22:06:53] [Server thread/INFO]: [掘地矿工]GHD : 要不要来参观一下我的小房子
-2017-09-11 [22:06:56] [Server thread/INFO]: [PVP大师]MADE : 星期日你来我家旁边检查
-2017-09-11 [22:07:01] [Server thread/INFO]: [PVP大师]MADE : 谢谢
-2017-09-11 [22:07:14] [Server thread/INFO]: [PVP大师]MADE : 拜拜
-2017-09-11 [22:07:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:07:20] [Server thread/INFO]: MADE left the game
-2017-09-11 [22:07:20] [Server thread/INFO]: MADE[/219.156.114.191:57468] logged out due to client disconnect
-2017-09-11 [22:07:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:07:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:07:33] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : summer
-2017-09-11 [22:07:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:07:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:07:40] [Server thread/INFO]: [-老司机-]Summer : ？
-2017-09-11 [22:07:58] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 建个中世纪的建筑好不好
-2017-09-11 [22:08:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我回头给你地皮
-2017-09-11 [22:08:11] [Server thread/INFO]: [-老司机-]Summer : 多大
-2017-09-11 [22:08:20] [Server thread/INFO]: top_ray left the game
-2017-09-11 [22:08:20] [Server thread/INFO]: top_ray[/117.14.118.58:58300] logged out due to client disconnect
-2017-09-11 [22:08:25] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不要太小
-2017-09-11 [22:08:27] [Server thread/INFO]: hello : 我得下了，拜拜
-2017-09-11 [22:08:29] [Server thread/INFO]: [-老司机-]2136131645 : 128×128
-2017-09-11 [22:08:30] [Server thread/INFO]: [-老司机-]Summer : 懂
-2017-09-11 [22:08:35] [Server thread/INFO]: [掘地矿工]GHD : 88
-2017-09-11 [22:08:37] [Server thread/INFO]: hello left the game
-2017-09-11 [22:08:37] [Server thread/INFO]: hello[/49.221.62.175:9498] logged out due to client disconnect
-2017-09-11 [22:08:42] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 重点是美观
-2017-09-11 [22:08:46] [Server thread/INFO]: [-老司机-]Summer : ok
-2017-09-11 [22:08:50] [Server thread/INFO]: [-老司机-]Summer : 很简单的其实
-2017-09-11 [22:08:55] [Server thread/INFO]: [掘地矿工]GHD : 我得懂建筑了
-2017-09-11 [22:09:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你自己找地皮也可以
-2017-09-11 [22:09:11] [Server thread/INFO]: [-老司机-]2136131645 : 挖矿去
-2017-09-11 [22:09:16] [Server thread/INFO]: [-老司机-]Summer : 其实相比建筑和跑酷我选择跑酷
-2017-09-11 [22:09:22] [Server thread/INFO]: [掘地矿工]GHD : 我可以去参观吗Summer
-2017-09-11 [22:09:28] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
-2017-09-11 [22:09:29] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:09:34] [Server thread/INFO]: [-老司机-]Summer : Of course
-2017-09-11 [22:09:38] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 跑酷以后会建的
-2017-09-11 [22:09:44] [Server thread/INFO]: [-老司机-]Summer : 我家有
-2017-09-11 [22:09:47] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不过要等到下个月
-2017-09-11 [22:10:15] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 下个月开始开发一个大湖
-2017-09-11 [22:10:34] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 离居民区有点远
-2017-09-11 [22:10:48] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:10:51] [Server thread/INFO]: [-老司机-]Summer : 我觉得我们干脆弄个大公园
-2017-09-11 [22:10:54] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 但是到时候我会铺路到这边的
-2017-09-11 [22:10:56] [Server thread/INFO]: [-老司机-]Summer : 要什么有什么
-2017-09-11 [22:10:59] [Server thread/INFO]: [-老司机-]Summer : 结束
-2017-09-11 [22:11:01] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
-2017-09-11 [22:11:08] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 差不多啦
-2017-09-11 [22:11:11] [Server thread/INFO]: [掘地矿工]GHD : 我建房子很远古
-2017-09-11 [22:11:21] [Server thread/INFO]: [-老司机-]Summer : 清一色火柴盒
-2017-09-11 [22:11:27] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 半地穴式房屋？
-2017-09-11 [22:11:41] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 还是杆栏式
-2017-09-11 [22:11:50] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 或者山洞
-2017-09-11 [22:11:56] [Server thread/INFO]: hhhhh[/117.150.210.213:5353] [ClientID: 7152410089004083906] logged in with entity id 1036 at (th, 151.7886, 65, 111.4467)
-2017-09-11 [22:11:58] [Server thread/INFO]: [-老司机-]Summer : 怎么像我……
-2017-09-11 [22:11:59] [Server thread/INFO]: hhhhh joined the game
-2017-09-11 [22:12:07] [Server thread/INFO]: hhhhh left the game
-2017-09-11 [22:12:07] [Server thread/INFO]: hhhhh[/117.150.210.213:5353] logged out due to client disconnect
-2017-09-11 [22:12:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:12:25] [Server thread/INFO]: [掘地矿工]GHD : 你们建好了我会来学习建筑工程
-2017-09-11 [22:12:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:12:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:12:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:12:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:12:45] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:12:46] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:12:55] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这路就是属于我们逐梦集团搞的
-2017-09-11 [22:13:07] [Server thread/INFO]: [掘地矿工]GHD : 然后呢
-2017-09-11 [22:13:13] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:13:20] [Server thread/INFO]: [-老司机-]2136131645 : 你创造还要捐款？
-2017-09-11 [22:13:24] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 怎么样，我给你地皮还是你自己建
-2017-09-11 [22:13:27] [Server thread/INFO]: [-老司机-]2136131645 : =͟͟͞͞=͟͟͞͞(●⁰ꈊ⁰● |||)
-2017-09-11 [22:13:35] [Server thread/INFO]: [-老司机-]Summer : (´•༝•`)
-2017-09-11 [22:14:08] [Server thread/INFO]: [掘地矿工]GHD : 学习
-2017-09-11 [22:14:10] [Server thread/INFO]: MADE[/219.156.114.191:57468] [ClientID: 7520286991202742319] logged in with entity id 1037 at (world, 123.624, 70, -37.0755)
-2017-09-11 [22:14:12] [Server thread/INFO]: MADE joined the game
-2017-09-11 [22:14:28] [Server thread/INFO]: MADE left the game
-2017-09-11 [22:14:28] [Server thread/INFO]: MADE[/219.156.114.191:57468] logged out due to client disconnect
-2017-09-11 [22:14:46] [Server thread/INFO]: [掘地矿工]GHD : 我也喜欢用原木
-2017-09-11 [22:14:51] [Server thread/INFO]: [掘地矿工]GHD : 建房子
-2017-09-11 [22:15:11] [Server thread/INFO]: [-老司机-]Summer : 纹路好看
-2017-09-11 [22:15:25] [Server thread/INFO]: [-老司机-]2136131645 : 下了一会儿再来
-2017-09-11 [22:15:28] [Server thread/INFO]: 2136131645 left the game
-2017-09-11 [22:15:28] [Server thread/INFO]: 2136131645[/117.90.206.187:16177] logged out due to client disconnect
-2017-09-11 [22:16:01] [Server thread/INFO]: Steve[/149.147.35.102:57924] [ClientID: 8598843409656154491] logged in with entity id 1039 at (world, 147.8015, 73.2, 119.9727)
-2017-09-11 [22:16:04] [Server thread/INFO]: Steve joined the game
-2017-09-11 [22:16:20] [Server thread/INFO]: Steve left the game
-2017-09-11 [22:16:20] [Server thread/INFO]: Steve[/149.147.35.102:57924] logged out due to client disconnect
-2017-09-11 [22:16:37] [Server thread/INFO]: [-老司机-]Summer : 别看了(´•༝•`)
-2017-09-11 [22:17:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:17:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:17:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:17:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:17:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:18:57] [Server thread/INFO]: [-老司机-]Summer : 人呢
-2017-09-11 [22:19:25] [Server thread/INFO]: [-老司机-]Summer : 干嘛呢
-2017-09-11 [22:19:55] [Server thread/INFO]: Summer left the game
-2017-09-11 [22:19:55] [Server thread/INFO]: Summer[/101.93.93.219:51202] logged out due to client disconnect
-2017-09-11 [22:20:42] [Server thread/INFO]: [掘地矿工]GHD : 呵呵
-2017-09-11 [22:20:57] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
-2017-09-11 [22:21:04] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我在洗澡
-2017-09-11 [22:21:09] [Server thread/INFO]: [掘地矿工]GHD : 我回家搜集材料拜拜
-2017-09-11 [22:21:12] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 刚洗完
-2017-09-11 [22:21:22] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我这边有bug
-2017-09-11 [22:21:33] [Server thread/INFO]: [掘地矿工]GHD : 人都走了
-2017-09-11 [22:21:39] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我自己发的话都要过好久才看得到
-2017-09-11 [22:22:05] [Server thread/INFO]: [掘地矿工]GHD : 你按到隐藏了
-2017-09-11 [22:22:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:22:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:22:27] [Server thread/NOTICE]: Player data not found for "stfu", creating new profile
-2017-09-11 [22:22:27] [Server thread/INFO]: Stfu[/36.4.135.14:19072] [ClientID: -8171070649492188439] logged in with entity id 1040 at (world, 128, 68, 128)
-2017-09-11 [22:22:30] [Server thread/INFO]: Stfu joined the game
-2017-09-11 [22:22:31] [Server thread/INFO]: [掘地矿工]GHD : 有人吗
-2017-09-11 [22:22:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:22:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:22:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:22:51] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:23:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:23:25] [Server thread/INFO]: kimono[/60.246.135.237:62150] [ClientID: 4009892701114726512] logged in with entity id 1041 at (world, 128, 68.4, 128)
-2017-09-11 [22:23:28] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 啥子隐藏
-2017-09-11 [22:23:30] [Server thread/INFO]: kimono joined the game
-2017-09-11 [22:24:02] [Server thread/INFO]: [掘地矿工]GHD : 聊天框那里不是有个返回和隐藏
-2017-09-11 [22:24:22] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:24:28] [Server thread/INFO]: Stfu left the game
-2017-09-11 [22:24:28] [Server thread/INFO]: Stfu[/36.4.135.14:19072] logged out due to Failed to login in 120 seconds
-2017-09-11 [22:24:40] [Server thread/INFO]: [掘地矿工]GHD : 我学习建筑
-2017-09-11 [22:24:44] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:24:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:24:57] [Server thread/INFO]: kimono left the game
-2017-09-11 [22:24:57] [Server thread/INFO]: kimono[/60.246.135.237:62150] logged out due to client disconnect
-2017-09-11 [22:25:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
-2017-09-11 [22:25:23] [Server thread/INFO]: [掘地矿工]GHD : 我去建房子了
-2017-09-11 [22:25:29] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emmm
-2017-09-11 [22:25:36] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emmm
-2017-09-11 [22:25:41] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
-2017-09-11 [22:25:45] [Server thread/INFO]: Steve[/113.70.134.15:12672] [ClientID: -4925441767580208818] logged in with entity id 1042 at (world, 147.8015, 73.4, 119.9727)
-2017-09-11 [22:25:49] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 也许吧
-2017-09-11 [22:26:03] [Server thread/INFO]: [掘地矿工]GHD : 我的房子的屋顶还没有弄好
-2017-09-11 [22:26:04] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我傻
-2017-09-11 [22:26:18] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emmm
-2017-09-11 [22:26:23] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emmm
-2017-09-11 [22:26:33] [Server thread/INFO]: Steve[/113.70.134.15:12672] logged out due to client disconnect
-2017-09-11 [22:26:37] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我试过了，不是这个问题
-2017-09-11 [22:26:47] [Server thread/INFO]: Steve[/113.70.134.15:12672] [ClientID: -4925441767580208818] logged in with entity id 1043 at (world, 147.8015, 73.4, 119.9727)
-2017-09-11 [22:26:52] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53704] [ClientID: -308776663400809635] logged in with entity id 1044 at (world, 3000.2122, 80.2, 2003.3024)
-2017-09-11 [22:26:52] [Server thread/INFO]: [掘地矿工]GHD : 是什么
-2017-09-11 [22:26:54] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [22:27:08] [Server thread/INFO]: Steve[/113.70.134.15:12672] logged out due to client disconnect
-2017-09-11 [22:27:10] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:27:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:27:18] [Server thread/INFO]: gongxiang520[/221.211.231.249:50550] [ClientID: 4711635306757450241] logged in with entity id 1048 at (th, -228.7484, 63, -180.7)
-2017-09-11 [22:27:20] [Server thread/INFO]: gongxiang520 joined the game
-2017-09-11 [22:27:27] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emm
-2017-09-11 [22:27:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:27:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:27:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:27:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:27:38] [Server thread/INFO]: [VIP]gongxiang520 : hi
-2017-09-11 [22:27:40] [Server thread/INFO]: [掘地矿工]GHD : 你有没有斧头zhumen
-2017-09-11 [22:27:44] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [22:27:44] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53704] logged out due to client disconnect
-2017-09-11 [22:27:56] [Server thread/NOTICE]: Player data not found for "subtiltyspore37", creating new profile
-2017-09-11 [22:27:56] [Server thread/INFO]: SubtiltySpore37[/81.235.203.154:51399] [ClientID: -5181395796353948203] logged in with entity id 1053 at (world, 128, 68, 128)
-2017-09-11 [22:27:59] [Server thread/INFO]: SubtiltySpore37 joined the game
-2017-09-11 [22:28:02] [Server thread/NOTICE]: Player data not found for "enes38", creating new profile
-2017-09-11 [22:28:02] [Server thread/INFO]: enes38[/88.228.154.243:61890] [ClientID: 5368513325369119032] logged in with entity id 1056 at (world, 128, 68, 128)
-2017-09-11 [22:28:05] [Server thread/INFO]: enes38 joined the game
-2017-09-11 [22:28:10] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不知道诶
-2017-09-11 [22:28:10] [Server thread/INFO]: Alex[/76.108.84.212:55343] [ClientID: 5135931603036148625] logged in with entity id 1058 at (th, -64.4369, 65.4, 271.5544)
-2017-09-11 [22:28:13] [Server thread/INFO]: Alex joined the game
-2017-09-11 [22:28:30] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 可能是手机问题吧
-2017-09-11 [22:28:33] [Server thread/WARNING]: gongxiang520 moved wrongly!
-2017-09-11 [22:28:33] [Server thread/INFO]: 2136131645[/117.90.206.187:16366] [ClientID: 3605837626884141308] logged in with entity id 1062 at (th, 43.2664, 70, -135.1555)
-2017-09-11 [22:28:35] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [22:28:36] [Server thread/INFO]: gongxiang520 left the game
-2017-09-11 [22:28:36] [Server thread/INFO]: gongxiang520[/221.211.231.249:50550] logged out due to client disconnect
-2017-09-11 [22:28:38] [Server thread/INFO]: [掘地矿工]GHD : Alex你有没有斧头
-2017-09-11 [22:28:49] [Server thread/INFO]: Alex left the game
-2017-09-11 [22:28:49] [Server thread/INFO]: Alex[/76.108.84.212:55343] logged out due to client disconnect
-2017-09-11 [22:28:54] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53704] [ClientID: -308776663400809635] logged in with entity id 1064 at (world, 3000.2122, 80, 2003.3024)
-2017-09-11 [22:28:56] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [22:29:18] [Server thread/INFO]: SubtiltySpore37 left the game
-2017-09-11 [22:29:18] [Server thread/INFO]: SubtiltySpore37[/81.235.203.154:51399] logged out due to client disconnect
-2017-09-11 [22:29:19] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [22:29:19] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53704] logged out due to client disconnect
-2017-09-11 [22:29:22] [Server thread/INFO]: 2136131645 left the game
-2017-09-11 [22:29:22] [Server thread/INFO]: 2136131645[/117.90.206.187:16366] logged out due to timeout
-2017-09-11 [22:29:35] [Server thread/INFO]: SubtiltySpore37[/81.235.203.154:51399] [ClientID: -5181395796353948203] logged in with entity id 1067 at (world, 128, 68.2, 128)
-2017-09-11 [22:29:38] [Server thread/INFO]: SubtiltySpore37 joined the game
-2017-09-11 [22:29:44] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53704] [ClientID: -308776663400809635] logged in with entity id 1068 at (world, 2999.2554, 80, 2005.0906)
-2017-09-11 [22:29:45] [Server thread/INFO]: 2136131645[/117.90.206.187:16389] [ClientID: 3605837626884141308] logged in with entity id 1069 at (th, 43.2664, 70.2, -135.1555)
-2017-09-11 [22:29:46] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-11 [22:29:47] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [22:29:52] [Server thread/INFO]: power777888[/180.212.55.90:53758] [ClientID: 3116428789215175809] logged in with entity id 1070 at (th, 136.2435, 72.304, 129.4565)
-2017-09-11 [22:29:54] [Server thread/INFO]: SubtiltySpore37 left the game
-2017-09-11 [22:29:54] [Server thread/INFO]: SubtiltySpore37[/81.235.203.154:51399] logged out due to client disconnect
-2017-09-11 [22:29:55] [Server thread/INFO]: power777888 joined the game
-2017-09-11 [22:30:01] [Server thread/INFO]: GHD left the game
-2017-09-11 [22:30:01] [Server thread/INFO]: GHD[/113.117.7.179:59020] logged out due to timeout
-2017-09-11 [22:30:02] [Server thread/INFO]: [副腐竹]power777888 : e
-2017-09-11 [22:30:03] [Server thread/INFO]: enes38 left the game
-2017-09-11 [22:30:03] [Server thread/INFO]: enes38[/88.228.154.243:61890] logged out due to Failed to login in 120 seconds
-2017-09-11 [22:30:04] [Server thread/INFO]: [-老司机-]2136131645 : 来了
-2017-09-11 [22:30:05] [Server thread/INFO]: [power777888: Teleported power777888 to zhumengzhiying]
-2017-09-11 [22:30:15] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to power777888]
-2017-09-11 [22:30:21] [Server thread/INFO]: GHD[/113.117.7.179:59020] [ClientID: -6009527916499289536] logged in with entity id 1072 at (th, -9133.5156, 77, -407.0809)
-2017-09-11 [22:30:27] [Server thread/INFO]: GHD joined the game
-2017-09-11 [22:30:35] [Server thread/INFO]: enes38[/88.228.154.243:61890] logged out due to timeout
-2017-09-11 [22:30:47] [Server thread/INFO]: [掘地矿工]GHD : 谁有斧头
-2017-09-11 [22:30:53] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 哇副腐竹你怎么做到的
-2017-09-11 [22:31:04] [Server thread/INFO]: [副腐竹]power777888 : 。
-2017-09-11 [22:31:10] [Server thread/INFO]: [副腐竹]power777888 : 别用我的称号
-2017-09-11 [22:31:21] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 那个
-2017-09-11 [22:31:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这么多路是谁铺的
-2017-09-11 [22:31:39] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 现在可以了吧
-2017-09-11 [22:31:41] [Server thread/INFO]: [副腐竹]power777888 : me
-2017-09-11 [22:31:43] [Server thread/INFO]: [副腐竹]power777888 : enen
-2017-09-11 [22:31:46] [Server thread/INFO]: [掘地矿工]GHD : 你们谁有斧头
-2017-09-11 [22:31:48] [Server thread/INFO]: [副腐竹]power777888 : 卧铺的
-2017-09-11 [22:31:50] [Server thread/INFO]: [副腐竹]power777888 : 我铺的
-2017-09-11 [22:31:51] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 重要的是
-2017-09-11 [22:31:58] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to power777888]
-2017-09-11 [22:32:02] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 和原来的路不一样啊
-2017-09-11 [22:32:12] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:32:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:32:22] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈
-2017-09-11 [22:32:26] [Server thread/INFO]: [MagicWE] 94
-2017-09-11 [22:32:26] [Server thread/INFO]: [MagicWE] -13
-2017-09-11 [22:32:26] [Server thread/INFO]: [MagicWE] 94
-2017-09-11 [22:32:26] [Server thread/INFO]: [MagicWE] -13
-2017-09-11 [22:32:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:32:29] [Server thread/INFO]: [副腐竹]power777888 : OK
-2017-09-11 [22:32:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:32:32] [Server thread/INFO]: [掘地矿工]GHD : 谁有斧头
-2017-09-11 [22:32:33] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 果然
-2017-09-11 [22:32:33] [Server thread/WARNING]: power777888 moved too fast, reverting movement
-2017-09-11 [22:32:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:32:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:32:38] [Server thread/WARNING]: power777888 moved too fast, reverting movement
-2017-09-11 [22:32:47] [Server thread/INFO]: Steve[/116.235.171.92:48738] [ClientID: -2331683838133594727] logged in with entity id 1087 at (world, 147.8015, 73.4, 119.9727)
-2017-09-11 [22:32:53] [Server thread/INFO]: Steve joined the game
-2017-09-11 [22:32:59] [Server thread/INFO]: [掘地矿工]GHD : 我需要斧头
-2017-09-11 [22:33:04] [Server thread/INFO]: [MagicWE] 112
-2017-09-11 [22:33:04] [Server thread/INFO]: [MagicWE] 8
-2017-09-11 [22:33:07] [Server thread/INFO]: [掘地矿工]GHD : 谁给我一个
-2017-09-11 [22:33:17] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : power
-2017-09-11 [22:33:27] [Server thread/INFO]: Steve left the game
-2017-09-11 [22:33:27] [Server thread/INFO]: Steve[/116.235.171.92:48738] logged out due to client disconnect
-2017-09-11 [22:33:31] [Server thread/INFO]: [副腐竹]power777888 : 这个地是给贫民用的
-2017-09-11 [22:33:41] [Server thread/INFO]: [副腐竹]power777888 : 平民
-2017-09-11 [22:33:44] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这个路和原来的好像不太一样
-2017-09-11 [22:34:13] [Server thread/INFO]: [掘地矿工]GHD : 呵呵已经没新手去地皮了
-2017-09-11 [22:34:15] [Server thread/INFO]: mao[/116.235.171.92:48738] [ClientID: -2331683838133594727] logged in with entity id 1095 at (world, 10.5333, 63.2, 100.5145)
-2017-09-11 [22:34:21] [Server thread/INFO]: mao joined the game
-2017-09-11 [22:34:57] [Server thread/INFO]: [掘地矿工]GHD : 今天收留了2个新手
-2017-09-11 [22:35:05] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 大家睡觉啊
-2017-09-11 [22:35:19] [Server thread/INFO]: [副腐竹]power777888 : 我直接回家睡了
-2017-09-11 [22:35:24] [Server thread/INFO]: [power777888: Teleported power777888 to AllHELLOaaa1227]
-2017-09-11 [22:35:40] [Server thread/INFO]: [副腐竹]power777888 : sleep
-2017-09-11 [22:35:49] [Server thread/INFO]: [power777888: Teleported zhumengzhiying to power777888]
-2017-09-11 [22:35:50] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我又看不到自己发的话了，别人的也看不到
-2017-09-11 [22:35:56] [Server thread/INFO]: [副腐竹]power777888 : 。。
-2017-09-11 [22:36:05] [Server thread/INFO]: [副腐竹]power777888 : 我睡觉能说话
-2017-09-11 [22:36:07] [Server thread/INFO]: [副腐竹]power777888 : 呵呵
-2017-09-11 [22:36:07] [Server thread/INFO]: 2136131645 fell from a high place
-2017-09-11 [22:36:07] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 那个
-2017-09-11 [22:36:11] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 额
-2017-09-11 [22:36:13] [Server thread/INFO]: [掘地矿工]GHD : 那是你按到了隐藏
-2017-09-11 [22:36:17] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:36:18] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:36:20] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:36:21] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:36:32] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : Devil没听我的话直接买了
-2017-09-11 [22:36:37] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 妈耶？？
-2017-09-11 [22:36:43] [Server thread/INFO]: [掘地矿工]GHD : 买什么
-2017-09-11 [22:36:47] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我的床呢
-2017-09-11 [22:36:48] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没按到OK？
-2017-09-11 [22:36:51] [Server thread/INFO]: * power777888 逐梦酒店被副腐竹-评为四星级酒店
-2017-09-11 [22:36:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我说地皮
-2017-09-11 [22:37:02] [Server thread/INFO]: [掘地矿工]GHD : 管理过来
-2017-09-11 [22:37:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:37:24] [Server thread/INFO]: [掘地矿工]GHD : 为什么我买云杉却是橡木
-2017-09-11 [22:37:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:37:28] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : power来帮我铺些石砖
-2017-09-11 [22:37:31] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-11 [22:37:31] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53704] logged out due to client disconnect
-2017-09-11 [22:37:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:37:35] [Server thread/INFO]: [掘地矿工]GHD : 管理过来
-2017-09-11 [22:37:36] [Server thread/INFO]: enes38[/88.228.154.243:52519] [ClientID: 5368513325369119032] logged in with entity id 1105 at (world, 128, 68.2, 128)
-2017-09-11 [22:37:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:37:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:37:39] [Server thread/INFO]: enes38 joined the game
-2017-09-11 [22:37:41] [Server thread/INFO]: [掘地矿工]GHD : 不许走
-2017-09-11 [22:37:43] [Server thread/INFO]: [掘地矿工]GHD : 管理
-2017-09-11 [22:37:48] [Server thread/INFO]: Steve[/51.223.103.82:49567] [ClientID: 4225802810701085053] logged in with entity id 1106 at (world, 147.8015, 73.6, 119.9727)
-2017-09-11 [22:37:51] [Server thread/INFO]: [掘地矿工]GHD : 管理管理
-2017-09-11 [22:37:52] [Server thread/INFO]: Steve joined the game
-2017-09-11 [22:37:53] [Server thread/INFO]: [掘地矿工]GHD : 过来
-2017-09-11 [22:37:58] [Server thread/INFO]: [掘地矿工]GHD : 速度
-2017-09-11 [22:38:01] [Server thread/INFO]: power777888 left the game
-2017-09-11 [22:38:01] [Server thread/INFO]: power777888[/180.212.55.90:53758] logged out due to timeout
-2017-09-11 [22:38:13] [Server thread/INFO]: [掘地矿工]GHD : 你好贱管理
-2017-09-11 [22:38:30] [Server thread/INFO]: power777888[/180.212.55.90:50227] [ClientID: 3116428789215175809] logged in with entity id 1107 at (th, -46.9049, 66.4133, -201.6661)
-2017-09-11 [22:38:32] [Server thread/INFO]: power777888 joined the game
-2017-09-11 [22:38:41] [Server thread/INFO]: [掘地矿工]GHD : 我买云杉居然是橡木气死我了
-2017-09-11 [22:38:44] [Server thread/INFO]: [副腐竹]power777888 : ..
-2017-09-11 [22:38:45] [Server thread/INFO]: power777888 died
-2017-09-11 [22:38:46] [Server thread/INFO]: [-老司机-]2136131645 : 商店有bug
-2017-09-11 [22:39:08] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 老铁来帮个小忙
-2017-09-11 [22:39:20] [Server thread/WARNING]: zhumengzhiying moved too fast, reverting movement
-2017-09-11 [22:39:26] [Server thread/INFO]: [SVIP]mao : power过来
-2017-09-11 [22:39:34] [Server thread/INFO]: [SVIP]mao : 滚过来
-2017-09-11 [22:39:36] [Server thread/INFO]: enes38 left the game
-2017-09-11 [22:39:36] [Server thread/INFO]: enes38[/88.228.154.243:52519] logged out due to Failed to login in 120 seconds
-2017-09-11 [22:39:48] [Server thread/INFO]: Steve left the game
-2017-09-11 [22:39:48] [Server thread/INFO]: Steve[/51.223.103.82:49567] logged out due to Failed to login in 120 seconds
-2017-09-11 [22:39:51] [Server thread/INFO]: [SVIP]mao : 把我东西毁了
-2017-09-11 [22:40:01] [Server thread/INFO]: enes38[/88.228.154.243:52519] [ClientID: 5368513325369119032] logged in with entity id 1113 at (world, 128, 68.4, 128)
-2017-09-11 [22:40:04] [Server thread/INFO]: enes38 joined the game
-2017-09-11 [22:40:24] [Server thread/INFO]: enes38 left the game
-2017-09-11 [22:40:24] [Server thread/INFO]: enes38[/88.228.154.243:52519] logged out due to timeout
-2017-09-11 [22:40:41] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:40:46] [Server thread/NOTICE]: Player data not found for "uuuuuu", creating new profile
-2017-09-11 [22:40:46] [Server thread/INFO]: uuuuuu[/51.39.139.235:2578] [ClientID: 6409449804247161199] logged in with entity id 1115 at (world, 128, 68, 128)
-2017-09-11 [22:40:49] [Server thread/INFO]: uuuuuu joined the game
-2017-09-11 [22:40:50] [Server thread/INFO]: [掘地矿工]GHD : 怎么只有卖橡木不许走
-2017-09-11 [22:40:57] [Server thread/INFO]: [副腐竹]power777888 : 插件BUG
-2017-09-11 [22:41:03] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:41:11] [Server thread/INFO]: [power777888: Given Spruce Wood (17:1) * 128 to GHD]
-2017-09-11 [22:41:12] [Server thread/INFO]: [掘地矿工]GHD : 纳尼
-2017-09-11 [22:41:13] [Server thread/INFO]: [副腐竹]power777888 : t给你
-2017-09-11 [22:41:18] [Server thread/INFO]: [副腐竹]power777888 : 免费的
-2017-09-11 [22:41:24] [Server thread/INFO]: [掘地矿工]GHD : 谢谢
-2017-09-11 [22:41:34] [Server thread/INFO]: [-老司机-]2136131645 : 腐竹可能买了个假插件
-2017-09-11 [22:41:36] [Server thread/INFO]: [副腐竹]power777888 : ..
-2017-09-11 [22:41:42] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:41:53] [Server thread/INFO]: [副腐竹]power777888 : 这个插件竟然是有青花的时代的
-2017-09-11 [22:41:57] [Server thread/INFO]: [掘地矿工]GHD : 我的房子好远古啊
-2017-09-11 [22:42:07] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:42:08] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:42:11] [Server thread/INFO]: [副腐竹]power777888 : 注册
-2017-09-11 [22:42:15] [Server thread/INFO]: [副腐竹]power777888 : or
-2017-09-11 [22:42:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:42:18] [Server thread/INFO]: [副腐竹]power777888 : Register
-2017-09-11 [22:42:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : power来帮个小忙好不好
-2017-09-11 [22:42:22] [Server thread/INFO]: [power777888: Teleported power777888 to zhumengzhiying]
-2017-09-11 [22:42:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:42:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:42:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:42:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:42:47] [Server thread/INFO]: uuuuuu left the game
-2017-09-11 [22:42:47] [Server thread/INFO]: uuuuuu[/51.39.139.235:2578] logged out due to Failed to login in 120 seconds
-2017-09-11 [22:42:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : pushizhuan
-2017-09-11 [22:43:03] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:43:04] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:43:12] [Server thread/INFO]: uuuuuu[/51.39.139.235:2578] [ClientID: 6409449804247161199] logged in with entity id 1119 at (world, 128, 68.2, 128)
-2017-09-11 [22:43:14] [Server thread/INFO]: uuuuuu joined the game
-2017-09-11 [22:43:22] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 中间
-2017-09-11 [22:43:34] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 谢了
-2017-09-11 [22:43:34] [Server thread/INFO]: uuuuuu left the game
-2017-09-11 [22:43:34] [Server thread/INFO]: uuuuuu[/51.39.139.235:2578] logged out due to timeout
-2017-09-11 [22:44:08] [Server thread/WARNING]: zhumengzhiying moved too fast, reverting movement
-2017-09-11 [22:44:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:44:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:44:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:44:28] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:44:49] [Server thread/INFO]: [-老司机-]2136131645 : 加一个末影之眼商品吧
-2017-09-11 [22:45:07] [Server thread/INFO]: [-老司机-]2136131645 : 末影珍珠
-2017-09-11 [22:45:11] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:45:11] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:45:26] [Server thread/INFO]: [-老司机-]2136131645 : 哦
-2017-09-11 [22:45:52] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:45:58] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:46:05] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:46:20] [Server thread/INFO]: [掘地矿工]GHD : 你们得多多帮助新手
-2017-09-11 [22:46:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:46:28] [Server thread/INFO]: [/114.43.193.66:52714] logged out due to client disconnect
-2017-09-11 [22:47:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:47:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我刚进来的时候还是一个普通玩家收留我.....
-2017-09-11 [22:47:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:47:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:47:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:47:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:47:46] [Server thread/INFO]: [掘地矿工]GHD : 我今天收留了2个新手
-2017-09-11 [22:48:05] [Server thread/INFO]: [掘地矿工]GHD : 新手
-2017-09-11 [22:48:11] [Server thread/INFO]: [-老司机-]2136131645 : 然后他们都退游了
-2017-09-11 [22:48:18] [Server thread/INFO]: MAX[/114.91.7.108:50283] [ClientID: 4000914638185981578] logged in with entity id 1131 at (ender, -16.6164, 50, -4.9112)
-2017-09-11 [22:48:18] [Server thread/INFO]: [-老司机-]2136131645 : 啊哈哈哈
-2017-09-11 [22:48:21] [Server thread/INFO]: MAX joined the game
-2017-09-11 [22:48:29] [Server thread/INFO]: [掘地矿工]GHD : 是一个人害的呗
-2017-09-11 [22:48:45] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 啥？
-2017-09-11 [22:48:45] [Server thread/INFO]: [掘地矿工]GHD : 老是打新手的那个
-2017-09-11 [22:49:08] [Server thread/INFO]: [掘地矿工]GHD : 我也刚来不久
-2017-09-11 [22:49:24] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 是哪个
-2017-09-11 [22:49:28] [Server thread/INFO]: [-老司机-]2136131645 : 我打新手？
-2017-09-11 [22:49:32] [Server thread/INFO]: [掘地矿工]GHD : 不是你
-2017-09-11 [22:49:45] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 知道名字吗
-2017-09-11 [22:49:50] [Server thread/INFO]: [/114.43.193.66:52714] logged out due to client disconnect
-2017-09-11 [22:49:57] [Server thread/INFO]: [掘地矿工]GHD : 只知道个O
-2017-09-11 [22:50:19] [Server thread/INFO]: MAX left the game
-2017-09-11 [22:50:19] [Server thread/INFO]: MAX[/114.91.7.108:50283] logged out due to Failed to login in 120 seconds
-2017-09-11 [22:50:36] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : pvp事件过后我就没听说过了
-2017-09-11 [22:50:54] [Server thread/INFO]: [掘地矿工]GHD : 我们都是那个李白的保护才玩生存的
-2017-09-11 [22:51:14] [Server thread/INFO]: [/114.32.221.108:64592] logged out due to client disconnect
-2017-09-11 [22:51:22] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : ROCK是吧
-2017-09-11 [22:51:29] [Server thread/INFO]: [掘地矿工]GHD : 不是
-2017-09-11 [22:51:50] [Server thread/INFO]: [/79.22.129.240:49685] logged out due to timeout
-2017-09-11 [22:52:03] [Server thread/INFO]: [掘地矿工]GHD : 我的房子的领地是他的名字
-2017-09-11 [22:52:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:52:17] [Server thread/INFO]: [-老司机-]2136131645 : KLP？
-2017-09-11 [22:52:23] [Server thread/INFO]: [掘地矿工]GHD : 嗯
-2017-09-11 [22:52:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:52:31] [Server thread/INFO]: [-老司机-]2136131645 : 又是那条狗
-2017-09-11 [22:52:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:52:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:52:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:52:41] [Server thread/INFO]: [掘地矿工]GHD : 他哪里是
-2017-09-11 [22:52:43] [Server thread/INFO]: [副腐竹]power777888 : 跟roy有关系吗
-2017-09-11 [22:52:49] [Server thread/INFO]: [掘地矿工]GHD : 没有
-2017-09-11 [22:53:33] [Server thread/INFO]: onenbdr[/188.166.217.179:60835] [ClientID: -770299208931083063] logged in with entity id 1133 at (world, 67.3002, 15.2952, -84.1599)
-2017-09-11 [22:53:38] [Server thread/INFO]: [掘地矿工]GHD : 你们有买那个特效吗
-2017-09-11 [22:53:41] [Server thread/INFO]: onenbdr joined the game
-2017-09-11 [22:53:51] [Server thread/INFO]: [掘地矿工]GHD : 500000的那个特效
-2017-09-11 [22:53:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : power
-2017-09-11 [22:54:02] [Server thread/INFO]: [副腐竹]power777888 : ?
-2017-09-11 [22:54:03] [Server thread/INFO]: [-老司机-]2136131645 : 什么特效
-2017-09-11 [22:54:09] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 牌子怎么改字的颜色啊
-2017-09-11 [22:54:10] [Server thread/INFO]: onenbdr left the game
-2017-09-11 [22:54:10] [Server thread/INFO]: onenbdr[/188.166.217.179:60835] logged out due to timeout
-2017-09-11 [22:54:12] [Server thread/INFO]: [掘地矿工]GHD : 抗性
-2017-09-11 [22:54:17] [Server thread/INFO]: [掘地矿工]GHD : 9999999999999999999
-2017-09-11 [22:54:19] [Server thread/INFO]: [副腐竹]power777888 :   符号
-2017-09-11 [22:54:33] [Server thread/INFO]: [副腐竹]power777888 : 其实抗性5就可以不会死
-2017-09-11 [22:54:45] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 啥符号
-2017-09-11 [22:55:02] [Server thread/INFO]: [掘地矿工]GHD : 我差30万就可以买了
-2017-09-11 [22:55:06] [Server thread/INFO]: [-老司机-]2136131645 : 那抗性一掉虚空就废了
-2017-09-11 [22:55:10] [Server thread/INFO]: [副腐竹]power777888 : 不是
-2017-09-11 [22:55:19] [Server thread/INFO]: [副腐竹]power777888 : 一掉虚空也可以活下来
-2017-09-11 [22:55:26] [Server thread/INFO]: [-老司机-]2136131645 : 不可以
-2017-09-11 [22:55:33] [Server thread/INFO]: [-老司机-]2136131645 : 我掉两次了
-2017-09-11 [22:55:50] [Server thread/INFO]: [-老司机-]2136131645 : op你可以试试
-2017-09-11 [22:56:13] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:56:16] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:56:20] [Server thread/INFO]: MAX[/114.91.7.108:61070] [ClientID: 4000914638185981578] logged in with entity id 1165 at (ender, -16.6164, 50.2, -4.9112)
-2017-09-11 [22:56:22] [Server thread/INFO]: MAX joined the game
-2017-09-11 [22:56:54] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:56:56] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [22:57:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:18] [Server thread/INFO]: 2136131645 was pricked to death
-2017-09-11 [22:57:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [22:57:28] [Server thread/INFO]: MAX left the game
-2017-09-11 [22:57:28] [Server thread/INFO]: MAX[/114.91.7.108:61070] logged out due to client disconnect
-2017-09-11 [22:57:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [22:57:33] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:33] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:57:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [22:57:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [22:57:45] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [22:57:53] [Server thread/INFO]: [MagicWE] 92
-2017-09-11 [22:57:53] [Server thread/INFO]: [MagicWE] -17
-2017-09-11 [22:57:53] [Server thread/INFO]: [MagicWE] 92
-2017-09-11 [22:57:53] [Server thread/INFO]: [MagicWE] -17
-2017-09-11 [22:58:12] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:58:16] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-11 [22:58:25] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:58:25] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:58:26] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:58:26] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:58:26] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:58:34] [Server thread/INFO]: [-老司机-]2136131645 : 1234567890abce
-2017-09-11 [22:58:52] [Server thread/INFO]: Alex[/114.91.7.108:62096] [ClientID: 4000914638185981578] logged in with entity id 1166 at (th, -64.4369, 65.6, 271.5544)
-2017-09-11 [22:58:55] [Server thread/INFO]: Alex joined the game
-2017-09-11 [22:58:55] [Server thread/INFO]: [-老司机-]2136131645 : 
-2017-09-11 [22:59:12] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:59:13] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:59:13] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:59:14] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:59:14] [Server thread/INFO]: * zhumengzhiying 教我改牌子上字的-颜色啊
-2017-09-11 [22:59:18] [Server thread/INFO]: [-老司机-]2136131645 : 
-2017-09-11 [22:59:24] [Server thread/INFO]: [-老司机-]2136131645 : 用这个符号
-2017-09-11 [22:59:24] [Server thread/INFO]: [MagicWE] 181
-2017-09-11 [22:59:24] [Server thread/INFO]: [MagicWE] 6
-2017-09-11 [22:59:24] [Server thread/INFO]: [MagicWE] 181
-2017-09-11 [22:59:24] [Server thread/INFO]: [MagicWE] 6
-2017-09-11 [22:59:33] [Server thread/INFO]: [-老司机-]2136131645 : 加上数字
-2017-09-11 [22:59:36] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 怎么找
-2017-09-11 [22:59:38] [Server thread/INFO]: [-老司机-]2136131645 : 1234567890abce
-2017-09-11 [22:59:51] [Server thread/INFO]: [-老司机-]2136131645 : 符号  数学里
-2017-09-11 [23:00:03] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : $
-2017-09-11 [23:00:10] [Server thread/INFO]: [-老司机-]2136131645 : 你仔细找找
-2017-09-11 [23:00:14] [Server thread/INFO]: power777888 left the game
-2017-09-11 [23:00:14] [Server thread/INFO]: power777888[/180.212.55.90:50227] logged out due to client disconnect
-2017-09-11 [23:00:14] [Server thread/INFO]: Alex left the game
-2017-09-11 [23:00:14] [Server thread/INFO]: Alex[/114.91.7.108:62096] logged out due to client disconnect
-2017-09-11 [23:00:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不对
-2017-09-11 [23:01:03] [Server thread/INFO]: [-老司机-]2136131645 : 像两个s
-2017-09-11 [23:01:09] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : $1
-2017-09-11 [23:01:15] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 磨的
-2017-09-11 [23:01:20] [Server thread/INFO]: chris[/151.45.141.123:59132] [ClientID: -7040891460726851107] logged in with entity id 1168 at (world, 212.8106, 77, 152.0866)
-2017-09-11 [23:01:22] [Server thread/INFO]: chris joined the game
-2017-09-11 [23:01:23] [Server thread/INFO]: [-老司机-]2136131645 : 来群里
-2017-09-11 [23:01:28] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
-2017-09-11 [23:01:28] [Server thread/INFO]: [-老司机-]2136131645 : 发给你
-2017-09-11 [23:01:29] [Server thread/INFO]: GHD left the game
-2017-09-11 [23:01:29] [Server thread/INFO]: GHD[/113.117.7.179:59020] logged out due to client disconnect
-2017-09-11 [23:01:33] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好
-2017-09-11 [23:01:41] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-11 [23:01:41] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:32755] logged out due to client disconnect
-2017-09-11 [23:01:53] [Server thread/INFO]: chris left the game
-2017-09-11 [23:01:53] [Server thread/INFO]: chris[/151.45.141.123:59132] logged out due to client disconnect
-2017-09-11 [23:02:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [23:02:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [23:02:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [23:02:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [23:02:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [23:02:37] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:03:37] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31065] [ClientID: 3036730296650954731] logged in with entity id 1169 at (th, 269.8141, 83, -274.578)
-2017-09-11 [23:03:39] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-11 [23:04:11] [Server thread/INFO]: [-老司机-]2136131645 : 1234567890abce这是数字对应的颜色
-2017-09-11 [23:04:50] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没法复制到游戏里来诶…………
-2017-09-11 [23:05:07] [Server thread/INFO]: [-老司机-]2136131645 : 你用的什么输入法
-2017-09-11 [23:05:27] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我用iPhone的
-2017-09-11 [23:05:42] [Server thread/INFO]: [-老司机-]2136131645 : 用剪切板
-2017-09-11 [23:05:49] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-11 [23:05:49] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31065] logged out due to client disconnect
-2017-09-11 [23:07:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [23:07:25] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:07:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [23:07:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [23:07:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [23:07:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [23:08:18] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:08:35] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31065] [ClientID: 3036730296650954731] logged in with entity id 1170 at (th, 267.4151, 83, -277.5474)
-2017-09-11 [23:08:37] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-11 [23:08:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没有找到剪切板
-2017-09-11 [23:09:20] [Server thread/INFO]: [-老司机-]2136131645 : 那只能下载一个搜狗输入法了
-2017-09-11 [23:09:38] [Server thread/INFO]: [-老司机-]2136131645 : 因为我没用过iOS
-2017-09-11 [23:09:51] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好吧
-2017-09-11 [23:09:52] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:10:34] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:10:57] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:11:34] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:12:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [23:12:23] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:12:24] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:12:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [23:12:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [23:12:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [23:12:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [23:13:50] [Server thread/INFO]: [-老司机-]2136131645 : 1234567890abce
-2017-09-11 [23:13:53] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:13:57] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:13:59] [Server thread/INFO]: dazhou666[/118.117.185.11:7534] [ClientID: -5305863501821818046] logged in with entity id 1171 at (world, 128, 68.4, 128)
-2017-09-11 [23:14:02] [Server thread/INFO]: dazhou666 joined the game
-2017-09-11 [23:14:04] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:14:43] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我现在只有晚上上线时间长点
-2017-09-11 [23:14:49] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:14:54] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没法庇护新人
-2017-09-11 [23:15:01] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:15:29] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:16:08] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:10] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:14] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:16] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:17] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:18] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:22] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:26] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:30] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:34] [Server thread/WARNING]: dazhou666 moved wrongly!
-2017-09-11 [23:16:56] [Server thread/INFO]: dazhou666 left the game
-2017-09-11 [23:16:56] [Server thread/INFO]: dazhou666[/118.117.185.11:7534] logged out due to timeout
-2017-09-11 [23:17:12] [Server thread/INFO]: [-老司机-]2136131645 : 贼无聊
-2017-09-11 [23:17:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [23:17:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [23:17:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [23:17:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [23:17:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [23:17:38] [Server thread/INFO]: 2136131645 fell from a high place
-2017-09-11 [23:17:51] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-11 [23:22:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [23:22:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [23:22:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [23:22:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [23:22:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:26:35] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [23:26:35] [Server thread/INFO]: 2136131645[/117.90.206.187:16389] logged out due to timeout
+2017-09-11 [23:27:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:27:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:27:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:27:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:27:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:31:04] [Server thread/INFO]: GHD[/113.117.7.179:47359] [ClientID: -6009527916499289536] logged in with entity id 1173 at (world, 107, 90, 116)
+2017-09-11 [23:31:10] [Server thread/INFO]: GHD joined the game
+2017-09-11 [23:31:27] [Server thread/NOTICE]: Player data not found for "sander", creating new profile
+2017-09-11 [23:31:27] [Server thread/INFO]: sander[/94.225.49.103:63199] [ClientID: -5788151941864093093] logged in with entity id 1175 at (world, 128, 68, 128)
+2017-09-11 [23:31:30] [Server thread/INFO]: sander joined the game
+2017-09-11 [23:31:31] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:31:31] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:31:37] [Server thread/INFO]: [掘地矿工]GHD : 有人吗
+2017-09-11 [23:31:47] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 有
+2017-09-11 [23:32:13] [Server thread/INFO]: [掘地矿工]GHD : 正好你能不能帮我看看我的房子哪里不好
+2017-09-11 [23:32:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:32:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:32:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:32:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:32:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:32:58] [Server thread/INFO]: [掘地矿工]GHD : 屋顶还没有装修
+2017-09-11 [23:32:59] [Server thread/INFO]: sander left the game
+2017-09-11 [23:32:59] [Server thread/INFO]: sander[/94.225.49.103:63199] logged out due to client disconnect
+2017-09-11 [23:33:02] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:33:11] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 很好
+2017-09-11 [23:33:37] [Server thread/INFO]: [掘地矿工]GHD : 那我就是怕不好看
+2017-09-11 [23:33:52] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我想想.....
+2017-09-11 [23:34:13] [Server thread/INFO]: [掘地矿工]GHD : 看着看着有远古的现象
+2017-09-11 [23:34:25] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:34:58] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 表面太平了吧
+2017-09-11 [23:35:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 很不错了
+2017-09-11 [23:35:59] [Server thread/INFO]: [掘地矿工]GHD : 我建这个房子研究好几遍了
+2017-09-11 [23:36:41] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这个.....
+2017-09-11 [23:37:12] [Server thread/INFO]: [掘地矿工]GHD : 到时候我建成白话木的也可以
+2017-09-11 [23:37:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:37:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 请允许我包下这片湖
+2017-09-11 [23:37:24] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 太完美了
+2017-09-11 [23:37:25] [Server thread/INFO]: [掘地矿工]GHD : 为什么
+2017-09-11 [23:37:27] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:37:28] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:37:31] [Server thread/INFO]: [掘地矿工]GHD : 不行
+2017-09-11 [23:37:32] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:37:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:37:37] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:37:38] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 比我之前找的那个好太多了
+2017-09-11 [23:37:57] [Server thread/INFO]: [掘地矿工]GHD : 这里是自然的地方
+2017-09-11 [23:38:04] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不行的话就算了
+2017-09-11 [23:38:17] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 就让这做一个世外桃源吧
+2017-09-11 [23:38:23] [Server thread/INFO]: [掘地矿工]GHD : 你可以包
+2017-09-11 [23:38:34] [Server thread/INFO]: [掘地矿工]GHD : 但是不能发展
+2017-09-11 [23:38:39] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额？
+2017-09-11 [23:39:04] [Server thread/INFO]: [掘地矿工]GHD : 因为我遇到好几个这样的湖了
+2017-09-11 [23:39:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 如果只是我自己的一点建筑呢
+2017-09-11 [23:39:32] [Server thread/INFO]: [掘地矿工]GHD : 有创意就行
+2017-09-11 [23:39:49] [Server thread/INFO]: [掘地矿工]GHD : 但是得经过同意才行
+2017-09-11 [23:39:53] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 请允许我在这设置家
+2017-09-11 [23:40:03] [Server thread/INFO]: [掘地矿工]GHD : 嗯
+2017-09-11 [23:40:05] [Server thread/INFO]: [掘地矿工]GHD : 可以
+2017-09-11 [23:40:10] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:40:11] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:40:39] [Server thread/INFO]: [掘地矿工]GHD : 我们还有用不完的黑曜石
+2017-09-11 [23:40:44] [Server thread/INFO]: [掘地矿工]GHD : 湖
+2017-09-11 [23:40:48] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我去寻找更多的湖去了
+2017-09-11 [23:40:59] [Server thread/INFO]: [掘地矿工]GHD : 你过来看看黑曜石的
+2017-09-11 [23:41:14] [Server thread/INFO]: [掘地矿工]GHD : 过来
+2017-09-11 [23:41:47] [Server thread/INFO]: [掘地矿工]GHD : 过来看看这个
+2017-09-11 [23:42:01] [Server thread/INFO]: [掘地矿工]GHD : 也是一个湖
+2017-09-11 [23:42:03] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这里这个也很好
+2017-09-11 [23:42:13] [Server thread/INFO]: [掘地矿工]GHD : 你来看看这个
+2017-09-11 [23:42:17] [Server thread/INFO]: [掘地矿工]GHD : 黑曜石的
+2017-09-11 [23:42:18] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:42:20] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我知道
+2017-09-11 [23:42:28] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:42:33] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:42:38] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:42:38] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:42:41] [Server thread/INFO]: [掘地矿工]GHD : 你来过？
+2017-09-11 [23:42:41] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我之前找到的那个就是黑曜石的
+2017-09-11 [23:42:51] [Server thread/INFO]: [掘地矿工]GHD : 我找到5个
+2017-09-11 [23:42:58] [Server thread/INFO]: [掘地矿工]GHD : 行不行
+2017-09-11 [23:43:00] [Server thread/INFO]: [掘地矿工]GHD : 信不信
+2017-09-11 [23:43:09] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:43:33] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 有黑曜石就不好看了
+2017-09-11 [23:43:55] [Server thread/INFO]: [掘地矿工]GHD : 还有别忘了
+2017-09-11 [23:44:15] [Server thread/INFO]: [掘地矿工]GHD : 我们村不要tp别人来
+2017-09-11 [23:44:25] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嗯
+2017-09-11 [23:44:27] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:45:07] [Server thread/INFO]: [掘地矿工]GHD : 我在建天空城的时候发现这个胡的
+2017-09-11 [23:45:15] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
+2017-09-11 [23:45:26] [Server thread/INFO]: [掘地矿工]GHD : 我还以为是大海呢
+2017-09-11 [23:45:41] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:45:46] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:45:52] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:46:13] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 那个难找啊
+2017-09-11 [23:46:14] [Server thread/INFO]: gabriel[/81.166.165.116:51454] [ClientID: 3529241624624010029] logged in with entity id 1180 at (world, 128, 28.42, 128)
+2017-09-11 [23:46:18] [Server thread/INFO]: gabriel joined the game
+2017-09-11 [23:46:18] [Server thread/INFO]: [掘地矿工]GHD : 我的村民都是爱环境的
+2017-09-11 [23:46:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 都是新人吗
+2017-09-11 [23:46:42] [Server thread/INFO]: [掘地矿工]GHD : 我也是
+2017-09-11 [23:46:45] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:46:49] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
+2017-09-11 [23:46:54] [Server thread/INFO]: gabriel left the game
+2017-09-11 [23:46:54] [Server thread/INFO]: gabriel[/81.166.165.116:51454] logged out due to client disconnect
+2017-09-11 [23:46:58] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:47:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:47:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:47:30] [Server thread/INFO]: [掘地矿工]GHD : 帮我拆那个柱子
+2017-09-11 [23:47:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:47:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:47:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:47:51] [Server thread/INFO]: [掘地矿工]GHD : 谢谢
+2017-09-11 [23:48:10] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这柱子破坏美观
+2017-09-11 [23:48:21] [Server thread/INFO]: [掘地矿工]GHD : 9000的坐标只是我们一起落脚
+2017-09-11 [23:48:27] [Server thread/INFO]: Sempre_Fly[/93.34.233.164:62084] [ClientID: -8916788302617540071] logged in with entity id 1181 at (th, 141.4962, 65, 132.1278)
+2017-09-11 [23:48:29] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:48:29] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:48:33] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:48:33] [Server thread/INFO]: Sempre_Fly joined the game
+2017-09-11 [23:48:42] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:48:44] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:48:47] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:48:55] [Server thread/NOTICE]: Player data not found for "abdilla", creating new profile
+2017-09-11 [23:48:55] [Server thread/INFO]: abdilla[/5.1.108.115:45225] [ClientID: -9201923185806525112] logged in with entity id 1182 at (world, 128, 68, 128)
+2017-09-11 [23:49:02] [Server thread/INFO]: abdilla joined the game
+2017-09-11 [23:49:50] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-11 [23:49:55] [Server thread/INFO]: [掘地矿工]GHD : 我准备去别的地方
+2017-09-11 [23:50:12] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:50:12] [Server thread/INFO]: Sempre_Fly : emmmmmmm
+2017-09-11 [23:50:14] [Server thread/INFO]: [掘地矿工]GHD : 这次坐标已经暴露了
+2017-09-11 [23:50:38] [Server thread/INFO]: Sempre_Fly has just earned the achievement Getting Wood
+2017-09-11 [23:50:53] [Server thread/INFO]: max[/151.224.167.89:56137] [ClientID: 5635285898470959270] logged in with entity id 1187 at (ender, -16.6164, 50.4, -4.9112)
+2017-09-11 [23:50:54] [Server thread/INFO]: max joined the game
+2017-09-11 [23:51:10] [Server thread/INFO]: [掘地矿工]GHD : 我的地盘4个地形
+2017-09-11 [23:51:39] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我要爱上这里了
+2017-09-11 [23:51:52] [Server thread/INFO]: [掘地矿工]GHD : 不如你也帮过来
+2017-09-11 [23:51:56] [Server thread/INFO]: [掘地矿工]GHD : 搬过来
+2017-09-11 [23:52:05] [Server thread/INFO]: abdilla has just earned the achievement Getting Wood
+2017-09-11 [23:52:16] [Server thread/INFO]: max left the game
+2017-09-11 [23:52:16] [Server thread/INFO]: max[/151.224.167.89:56137] logged out due to client disconnect
+2017-09-11 [23:52:17] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 六种生物群系的交界处
+2017-09-11 [23:52:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:52:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:52:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:52:38] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没事
+2017-09-11 [23:52:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:52:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:52:40] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:52:52] [Server thread/INFO]: [掘地矿工]GHD : 这里需要野性的森林
+2017-09-11 [23:52:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我回头在这边造个房子就好了
+2017-09-11 [23:53:28] [Server thread/INFO]: [掘地矿工]GHD : 喜欢湖就建在湖的旁边吧
+2017-09-11 [23:53:36] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我先回去了
+2017-09-11 [23:53:42] [Server thread/INFO]: [掘地矿工]GHD : 拜拜
+2017-09-11 [23:53:53] [Server thread/INFO]: [掘地矿工]GHD : 第一次被夸奖
+2017-09-11 [23:54:23] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嘻嘻
+2017-09-11 [23:54:38] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-11 [23:54:46] [Server thread/WARNING]: GHD moved too fast, reverting movement
+2017-09-11 [23:54:48] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:54:48] [Server thread/INFO]: GHD fell from a high place
+2017-09-11 [23:54:54] [Server thread/INFO]: abdilla : tt
+2017-09-11 [23:55:05] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:14] [Server thread/INFO]: [掘地矿工]GHD : 我去拆了过程
+2017-09-11 [23:55:15] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:15] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:17] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:55:24] [Server thread/INFO]: [掘地矿工]GHD : 工程
+2017-09-11 [23:55:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 难怪你说不肯加入我的集团
+2017-09-11 [23:55:39] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:39] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:44] [Server thread/INFO]: abdilla : tt
+2017-09-11 [23:55:45] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:47] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:48] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:48] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:55:56] [Server thread/INFO]: [掘地矿工]GHD : 但是我为什么要进去
+2017-09-11 [23:55:58] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 原来是在隐居
+2017-09-11 [23:56:05] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:56:05] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:56:09] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没强迫你
+2017-09-11 [23:56:18] [Server thread/INFO]: [掘地矿工]GHD : 我这个只是在保护新手
+2017-09-11 [23:56:20] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:56:20] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:56:25] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嗯
+2017-09-11 [23:56:34] [Server thread/INFO]: [掘地矿工]GHD : 我有玩个mc
+2017-09-11 [23:56:40] [Server thread/INFO]: [掘地矿工]GHD : 过
+2017-09-11 [23:56:43] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 需要帮助就找我
+2017-09-11 [23:56:52] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 如果我在
+2017-09-11 [23:57:06] [Server thread/INFO]: [掘地矿工]GHD : 我还要找地方
+2017-09-11 [23:57:09] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:57:12] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:57:12] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-11 [23:57:13] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-11 [23:57:19] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-11 [23:57:19] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-11 [23:57:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [23:57:25] [Server thread/NOTICE]: Player data not found for "meritedland9178", creating new profile
+2017-09-11 [23:57:25] [Server thread/INFO]: MeritedLand9178[/111.253.116.250:44051] [ClientID: -7542271425635037838] logged in with entity id 1267 at (world, 128, 68, 128)
+2017-09-11 [23:57:27] [Server thread/INFO]: MeritedLand9178 joined the game
+2017-09-11 [23:57:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [23:57:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [23:57:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [23:57:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [23:57:41] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:57:48] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:58:03] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:58:05] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:58:25] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:58:26] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:58:29] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:58:30] [Server thread/INFO]: MeritedLand9178 left the game
+2017-09-11 [23:58:30] [Server thread/INFO]: MeritedLand9178[/111.253.116.250:44051] logged out due to client disconnect
+2017-09-11 [23:58:36] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-11 [23:58:52] [Server thread/WARNING]: abdilla moved wrongly!
+2017-09-11 [23:59:12] [Server thread/INFO]: abdilla left the game
+2017-09-11 [23:59:12] [Server thread/INFO]: abdilla[/5.1.108.115:45225] logged out due to client disconnect
+2017-09-11 [23:59:18] [Server thread/INFO]: [掘地矿工]GHD : 今天有一个人给我160000
+2017-09-12 [00:00:25] [Server thread/INFO]: [掘地矿工]GHD : 但是这些钱我不知道该怎么用
+2017-09-12 [00:01:00] [Server thread/INFO]: [掘地矿工]GHD : 你说我会选择什么
+2017-09-12 [00:01:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不知道....
+2017-09-12 [00:01:49] [Server thread/INFO]: [掘地矿工]GHD : 我会尽量的用这些钱去帮助新手
+2017-09-12 [00:02:13] [Server thread/INFO]: * zhumengzhiying 我代表逐梦集团承诺
+2017-09-12 [00:02:16] [Server thread/INFO]: * zhumengzhiying 不对新人的村庄进-行开发
+2017-09-12 [00:02:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:02:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:02:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:02:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:02:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:02:49] [Server thread/INFO]: * zhumengzhiying 我代表逐梦集团承诺
+2017-09-12 [00:02:50] [Server thread/INFO]: * zhumengzhiying 不对新人的村庄进-行开发
+2017-09-12 [00:02:51] [Server thread/INFO]: * zhumengzhiying 保证村
+2017-09-12 [00:03:10] [Server thread/INFO]: * zhumengzhiying 我代表逐梦集团承诺
+2017-09-12 [00:03:11] [Server thread/INFO]: * zhumengzhiying 不对新人的村庄进-行开发
+2017-09-12 [00:03:12] [Server thread/INFO]: * zhumengzhiying 保证村庄的祥和安宁
+2017-09-12 [00:03:14] [Server thread/NOTICE]: Player data not found for "24globoe", creating new profile
+2017-09-12 [00:03:14] [Server thread/INFO]: 24globoe[/108.204.244.178:36870] [ClientID: -1708798459667973440] logged in with entity id 1377 at (world, 128, 68, 128)
+2017-09-12 [00:03:17] [Server thread/INFO]: 24globoe joined the game
+2017-09-12 [00:03:53] [Server thread/WARNING]: 24globoe moved wrongly!
+2017-09-12 [00:03:55] [Server thread/WARNING]: 24globoe moved wrongly!
+2017-09-12 [00:04:02] [Server thread/INFO]: * zhumengzhiying 我的地皮被熊了帮我搞了这些地皮
+2017-09-12 [00:04:03] [Server thread/WARNING]: 24globoe moved wrongly!
+2017-09-12 [00:04:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好样的
+2017-09-12 [00:04:29] [Server thread/WARNING]: 24globoe moved wrongly!
+2017-09-12 [00:04:29] [Server thread/WARNING]: 24globoe moved wrongly!
+2017-09-12 [00:04:34] [Server thread/INFO]: [掘地矿工]GHD : 什么地皮
+2017-09-12 [00:04:35] [Server thread/INFO]: MeritedLand9178[/111.253.116.250:44051] [ClientID: -7542271425635037838] logged in with entity id 1379 at (world, 128, 68.2, 128)
+2017-09-12 [00:04:37] [Server thread/INFO]: MeritedLand9178 joined the game
+2017-09-12 [00:04:38] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你现在有多少钱
+2017-09-12 [00:04:38] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-12 [00:04:38] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-12 [00:04:47] [Server thread/INFO]: [掘地矿工]GHD : 198000
+2017-09-12 [00:04:58] [Server thread/WARNING]: 24globoe moved wrongly!
+2017-09-12 [00:05:01] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:05:04] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 那边共有几个新人
+2017-09-12 [00:05:18] [Server thread/INFO]: 24globoe left the game
+2017-09-12 [00:05:18] [Server thread/INFO]: 24globoe[/108.204.244.178:36870] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-09-12 [00:05:40] [Server thread/INFO]: Sempre_Fly : 怎么定点
+2017-09-12 [00:05:41] [Server thread/INFO]: [掘地矿工]GHD : 2个2个成员1个村长  村长就是我
+2017-09-12 [00:05:43] [Server thread/INFO]: MeritedLand9178 left the game
+2017-09-12 [00:05:43] [Server thread/INFO]: MeritedLand9178[/111.253.116.250:44051] logged out due to client disconnect
+2017-09-12 [00:05:46] [Server thread/INFO]: Sempre_Fly : 指令没有诶
+2017-09-12 [00:05:56] [Server thread/INFO]: [掘地矿工]GHD : 2个新手
+2017-09-12 [00:06:01] [Server thread/INFO]: [掘地矿工]GHD : 2个成员
+2017-09-12 [00:06:07] [Server thread/INFO]: [掘地矿工]GHD : 1个村长
+2017-09-12 [00:06:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 共5个人？
+2017-09-12 [00:06:19] [Server thread/INFO]: [掘地矿工]GHD : 村长就是我
+2017-09-12 [00:06:24] [Server thread/WARNING]: Sempre_Fly moved wrongly!
+2017-09-12 [00:06:34] [Server thread/INFO]: [掘地矿工]GHD : 一个可以说不是我们村的
+2017-09-12 [00:06:49] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:06:56] [Server thread/INFO]: [掘地矿工]GHD : 你来看
+2017-09-12 [00:07:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:07:26] [Server thread/INFO]: [掘地矿工]GHD : 这个
+2017-09-12 [00:07:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:07:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:07:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
+2017-09-12 [00:07:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:07:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:07:40] [Server thread/INFO]: [掘地矿工]GHD : Ac
+2017-09-12 [00:07:54] [Server thread/INFO]: [掘地矿工]GHD : Acve不是我们村的
+2017-09-12 [00:08:04] [Server thread/INFO]: Sempre_Fly : 定点怎么弄
+2017-09-12 [00:08:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : emmm....
+2017-09-12 [00:08:16] [Server thread/INFO]: Sempre_Fly : 定点怎么弄
+2017-09-12 [00:08:19] [Server thread/INFO]: Sempre_Fly : 定点怎么弄
+2017-09-12 [00:08:21] [Server thread/INFO]: [掘地矿工]GHD : 我不知道
+2017-09-12 [00:08:25] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:08:26] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:08:48] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你们要不要给村子取个名
+2017-09-12 [00:08:54] [Server thread/INFO]: [掘地矿工]GHD : 如果你要建房子的话可以把名字写上去
+2017-09-12 [00:09:04] [Server thread/INFO]: Sempre_Fly left the game
+2017-09-12 [00:09:04] [Server thread/INFO]: Sempre_Fly[/93.34.233.164:62084] logged out due to client disconnect
+2017-09-12 [00:09:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 不急
+2017-09-12 [00:09:13] [Server thread/INFO]: [掘地矿工]GHD : 村名有啊
+2017-09-12 [00:09:34] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 就这个？
+2017-09-12 [00:09:43] [Server thread/INFO]: [掘地矿工]GHD : 嗯
+2017-09-12 [00:09:48] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好的
+2017-09-12 [00:10:12] [Server thread/INFO]: [掘地矿工]GHD : 我去把天空拆了
+2017-09-12 [00:10:23] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我帮你吧
+2017-09-12 [00:10:35] [Server thread/INFO]: Steve[/84.138.168.7:61546] [ClientID: 6684434332431655693] logged in with entity id 1389 at (world, 147.8015, 73.8, 119.9727)
+2017-09-12 [00:10:37] [Server thread/INFO]: Steve joined the game
+2017-09-12 [00:10:38] [Server thread/INFO]: diego[/79.18.148.130:54998] [ClientID: 5734321532777512538] logged in with entity id 1390 at (world, 128, 68.2, 128)
+2017-09-12 [00:10:58] [Server thread/INFO]: GHD fell from a high place
+2017-09-12 [00:11:18] [Server thread/INFO]: Steve left the game
+2017-09-12 [00:11:18] [Server thread/INFO]: Steve[/84.138.168.7:61546] logged out due to timeout
+2017-09-12 [00:11:20] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我拆了哦
+2017-09-12 [00:11:29] [Server thread/INFO]: [掘地矿工]GHD : en
+2017-09-12 [00:12:01] [Server thread/INFO]: [掘地矿工]GHD : 别拆浮岛堡垒
+2017-09-12 [00:12:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:12:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:12:33] [Server thread/INFO]: [掘地矿工]GHD : 那是我们避难的地方
+2017-09-12 [00:12:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:12:38] [Server thread/INFO]: diego[/79.18.148.130:54998] logged out due to Failed to login in 120 seconds
+2017-09-12 [00:12:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:12:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:13:06] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额.....
+2017-09-12 [00:13:27] [Server thread/INFO]: [掘地矿工]GHD : 浮岛是自然的
+2017-09-12 [00:13:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没事我回头帮你们建一个
+2017-09-12 [00:13:41] [Server thread/INFO]: [掘地矿工]GHD : 好吧
+2017-09-12 [00:13:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 这边呢
+2017-09-12 [00:13:57] [Server thread/INFO]: [掘地矿工]GHD : 别拆泥土
+2017-09-12 [00:14:06] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:14:36] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:15:44] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
+2017-09-12 [00:15:54] [Server thread/INFO]: Steve[/83.51.49.172:62204] [ClientID: -388534995548771044] logged in with entity id 1434 at (world, 147.8015, 74, 119.9727)
+2017-09-12 [00:15:56] [Server thread/INFO]: Steve joined the game
+2017-09-12 [00:16:02] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我想想避难所怎么建
+2017-09-12 [00:16:04] [Server thread/NOTICE]: Player data not found for "ali200", creating new profile
+2017-09-12 [00:16:04] [Server thread/INFO]: ALI200[/37.239.65.56:40296] [ClientID: 2460154278538994612] logged in with entity id 1440 at (world, 128, 68, 128)
+2017-09-12 [00:16:38] [Server thread/INFO]: [掘地矿工]GHD : 我可以建成房子
+2017-09-12 [00:17:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:17:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:17:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:17:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:17:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:17:52] [Server thread/INFO]: ALI200[/37.239.65.56:40296] logged out due to client disconnect
+2017-09-12 [00:17:54] [Server thread/INFO]: Steve left the game
+2017-09-12 [00:17:54] [Server thread/INFO]: Steve[/83.51.49.172:62204] logged out due to Failed to login in 120 seconds
+2017-09-12 [00:18:16] [Server thread/INFO]: [掘地矿工]GHD : 你要是能让湖不能让人破坏就可以了
+2017-09-12 [00:18:28] [Server thread/INFO]: Steve[/83.51.49.172:62204] [ClientID: -388534995548771044] logged in with entity id 1445 at (world, 147.8015, 73.2, 119.9727)
+2017-09-12 [00:18:31] [Server thread/INFO]: Steve joined the game
+2017-09-12 [00:18:46] [Server thread/INFO]: Steve left the game
+2017-09-12 [00:18:46] [Server thread/INFO]: Steve[/83.51.49.172:62204] logged out due to timeout
+2017-09-12 [00:18:56] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:19:19] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:19:19] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 没人会无聊去破坏湖的
+2017-09-12 [00:19:48] [Server thread/INFO]: [掘地矿工]GHD : 耕田
+2017-09-12 [00:20:17] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 啥意思？
+2017-09-12 [00:20:38] [Server thread/INFO]: [掘地矿工]GHD : 种土豆
+2017-09-12 [00:20:44] [Server thread/INFO]: [掘地矿工]GHD : 胡萝卜
+2017-09-12 [00:20:48] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:21:08] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:21:23] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:21:25] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:21:28] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
+2017-09-12 [00:21:50] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我先下了
+2017-09-12 [00:22:04] [Server thread/INFO]: [掘地矿工]GHD : 没事明天再来
+2017-09-12 [00:22:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:22:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:22:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:22:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:22:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:22:52] [Server thread/INFO]: * zhumengzhiying 我代表逐梦集团承诺
+2017-09-12 [00:22:53] [Server thread/INFO]: * zhumengzhiying 不对新人雪地村庄-进行d kai f
+2017-09-12 [00:22:56] [Server thread/INFO]: * zhumengzhiying 保证村庄的祥和安宁
+2017-09-12 [00:23:13] [Server thread/INFO]: [掘地矿工]GHD : 嗯
+2017-09-12 [00:23:17] [Server thread/INFO]: phoebe mai 2008[/82.0.222.26:58924] logged out due to Invalid name!
+2017-09-12 [00:23:26] [Server thread/INFO]: * zhumengzhiying 我代表逐梦集团承诺
+2017-09-12 [00:23:27] [Server thread/INFO]: * zhumengzhiying 不对新人雪地村庄-进行开发
+2017-09-12 [00:23:28] [Server thread/INFO]: * zhumengzhiying 保证村庄的祥和安宁
+2017-09-12 [00:23:34] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 好了
+2017-09-12 [00:23:37] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 拜拜
+2017-09-12 [00:23:38] [Server thread/INFO]: [掘地矿工]GHD : 村庄有李白守护
+2017-09-12 [00:23:42] [Server thread/INFO]: phoebe mai 2008[/82.0.222.26:58924] logged out due to Invalid name!
+2017-09-12 [00:23:50] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 嗯
+2017-09-12 [00:23:53] [Server thread/INFO]: zhumengzhiying left the game
+2017-09-12 [00:23:53] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31065] logged out due to client disconnect
+2017-09-12 [00:24:03] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31065] [ClientID: 3036730296650954731] logged in with entity id 1485 at (th, 273.6697, 83, -278.2444)
+2017-09-12 [00:24:05] [Server thread/INFO]: zhumengzhiying joined the game
+2017-09-12 [00:24:27] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 回来问一下
+2017-09-12 [00:24:32] [Server thread/INFO]: [掘地矿工]GHD : 什么
+2017-09-12 [00:24:42] [Server thread/NOTICE]: Player data not found for "theboss", creating new profile
+2017-09-12 [00:24:42] [Server thread/INFO]: theboss[/84.138.168.7:55937] [ClientID: 6684434332431655693] logged in with entity id 1486 at (world, 128, 68, 128)
+2017-09-12 [00:24:44] [Server thread/INFO]: theboss joined the game
+2017-09-12 [00:24:45] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你说的李白是生存还是创造
+2017-09-12 [00:24:52] [Server thread/INFO]: [掘地矿工]GHD : 生存
+2017-09-12 [00:24:57] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
+2017-09-12 [00:25:06] [Server thread/INFO]: [掘地矿工]GHD : KLP
+2017-09-12 [00:25:15] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 千年之狐吗
+2017-09-12 [00:25:22] [Server thread/INFO]: [掘地矿工]GHD : 嗯
+2017-09-12 [00:25:24] [Server thread/INFO]: theboss left the game
+2017-09-12 [00:25:24] [Server thread/INFO]: theboss[/84.138.168.7:55937] logged out due to client disconnect
+2017-09-12 [00:25:26] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:25:28] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:25:48] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哈哈哈KPL这小子
+2017-09-12 [00:26:04] [Server thread/INFO]: [掘地矿工]GHD : 额
+2017-09-12 [00:26:10] [Server thread/INFO]: [掘地矿工]GHD : 你们认识？
+2017-09-12 [00:26:14] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 他在居民区的房子还是我帮他建的
+2017-09-12 [00:26:33] [Server thread/INFO]: [掘地矿工]GHD : 额
+2017-09-12 [00:26:58] [Server thread/INFO]: [掘地矿工]GHD : 我有一个房子设计图
+2017-09-12 [00:27:16] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : ？
+2017-09-12 [00:27:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:27:23] [Server thread/INFO]: [掘地矿工]GHD : 跟我这个差不多
+2017-09-12 [00:27:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:27:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:27:35] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 哦
+2017-09-12 [00:27:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:27:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:27:40] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我下了
+2017-09-12 [00:27:43] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 拜拜
+2017-09-12 [00:27:43] [Server thread/INFO]: [掘地矿工]GHD : 但是他是5个这样的房子
+2017-09-12 [00:27:53] [Server thread/INFO]: zhumengzhiying left the game
+2017-09-12 [00:27:53] [Server thread/INFO]: zhumengzhiying[/125.73.198.133:31065] logged out due to client disconnect
+2017-09-12 [00:27:54] [Server thread/INFO]: Chen in ten[/111.253.116.250:39253] logged out due to Invalid name!
+2017-09-12 [00:27:55] [Server thread/INFO]: [掘地矿工]GHD : 拜拜
+2017-09-12 [00:28:17] [Server thread/INFO]: Chen in ten[/111.253.116.250:39253] logged out due to Invalid name!
+2017-09-12 [00:28:41] [Server thread/INFO]: Chen in ten[/111.253.116.250:39253] logged out due to Invalid name!
+2017-09-12 [00:29:30] [Server thread/INFO]: Chen in ten[/111.253.116.250:65006] logged out due to Invalid name!
+2017-09-12 [00:30:38] [Server thread/INFO]: Chen in ten[/111.253.116.250:42193] logged out due to Invalid name!
+2017-09-12 [00:30:38] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:32:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:32:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:32:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:32:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:32:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:33:00] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:35:01] [Server thread/INFO]: Hao[/84.90.91.110:60128] [ClientID: -1367228373787467547] logged in with entity id 1488 at (world, 128, 28, 128)
+2017-09-12 [00:35:03] [Server thread/INFO]: Hao joined the game
+2017-09-12 [00:37:11] [Server thread/WARNING]: Hao moved wrongly!
+2017-09-12 [00:37:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:37:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:37:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:37:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:37:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:37:59] [Server thread/INFO]: Hao left the game
+2017-09-12 [00:37:59] [Server thread/INFO]: Hao[/84.90.91.110:60128] logged out due to timeout
+2017-09-12 [00:41:17] [Server thread/INFO]: thelastkirby503[/104.183.69.39:53629] [ClientID: 6224303829874470099] logged in with entity id 1492 at (world, 128, 64, 128)
+2017-09-12 [00:41:19] [Server thread/INFO]: thelastkirby503 joined the game
+2017-09-12 [00:42:03] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:42:15] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:42:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:42:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:42:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:42:37] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:42:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:42:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:42:48] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:42:53] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:02] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:15] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:43:15] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:17] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:43:18] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:43:20] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:22] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:26] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:28] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:32] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:35] [Server thread/WARNING]: thelastkirby503 moved wrongly!
+2017-09-12 [00:43:43] [Server thread/INFO]: GHD left the game
+2017-09-12 [00:43:43] [Server thread/INFO]: GHD[/113.117.7.179:47359] logged out due to Failed to login in 120 seconds
+2017-09-12 [00:43:47] [Server thread/INFO]: thelastkirby503 left the game
+2017-09-12 [00:43:47] [Server thread/INFO]: thelastkirby503[/104.183.69.39:53629] logged out due to timeout
+2017-09-12 [00:44:19] [Server thread/INFO]: GHD[/113.117.7.179:47359] [ClientID: -6009527916499289536] logged in with entity id 1493 at (th, -9145.7002, 68, -413.2959)
+2017-09-12 [00:44:26] [Server thread/INFO]: GHD joined the game
+2017-09-12 [00:44:46] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:44:53] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:44:54] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:46:36] [Server thread/INFO]: 2136131645[/117.90.206.187:15619] [ClientID: 3605837626884141308] logged in with entity id 1494 at (world, 126.6385, 64, 104.5104)
+2017-09-12 [00:46:37] [Server thread/INFO]: [掘地矿工]GHD : plcmd
+2017-09-12 [00:46:38] [Server thread/INFO]: 2136131645 joined the game
+2017-09-12 [00:47:06] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:47:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:47:24] [Server thread/INFO]: 2136131645 left the game
+2017-09-12 [00:47:24] [Server thread/INFO]: 2136131645[/117.90.206.187:15619] logged out due to timeout
+2017-09-12 [00:47:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:47:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:47:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:47:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:48:13] [Server thread/INFO]: Steve[/31.135.121.123:55951] [ClientID: 2122405544157187159] logged in with entity id 1496 at (world, 147.8015, 73.4, 119.9727)
+2017-09-12 [00:48:20] [Server thread/INFO]: Steve joined the game
+2017-09-12 [00:48:36] [Server thread/INFO]: Steve left the game
+2017-09-12 [00:48:36] [Server thread/INFO]: Steve[/31.135.121.123:55951] logged out due to timeout
+2017-09-12 [00:49:14] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:51:04] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:51:33] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:51:45] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:52:17] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:52:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:52:20] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:52:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:52:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:52:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:52:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [00:56:47] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [00:57:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [00:57:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [00:57:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [00:57:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [00:57:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [01:01:38] [Server thread/NOTICE]: Player data not found for "mcedge", creating new profile
+2017-09-12 [01:01:38] [Server thread/INFO]: mcedge[/66.90.230.208:51775] [ClientID: 387269192] logged in with entity id 1513 at (world, 128, 68, 128)
+2017-09-12 [01:01:40] [Server thread/INFO]: mcedge joined the game
+2017-09-12 [01:02:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [01:02:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [01:02:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [01:02:35] [Server thread/WARNING]: mcedge moved wrongly!
+2017-09-12 [01:02:36] [Server thread/WARNING]: mcedge moved wrongly!
+2017-09-12 [01:02:39] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:02:39] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:02:39] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:02:39] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:02:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [01:02:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [01:02:40] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:02:40] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:02:41] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:02:41] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:03:29] [Server thread/INFO]: Steve[/185.128.38.4:27593] [ClientID: 1587988135039891306] logged in with entity id 1517 at (world, 147.8015, 73.6, 119.9727)
+2017-09-12 [01:03:33] [Server thread/INFO]: mcedge was pricked to death
+2017-09-12 [01:03:44] [Server thread/INFO]: Steve joined the game
+2017-09-12 [01:04:19] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:04:19] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:04:20] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:04:20] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:04:21] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:04:21] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:04:33] [Server thread/INFO]: mcedge left the game
+2017-09-12 [01:04:33] [Server thread/INFO]: mcedge[/66.90.230.208:51775] logged out due to timeout
+2017-09-12 [01:04:49] [Server thread/INFO]: Steve left the game
+2017-09-12 [01:04:49] [Server thread/INFO]: Steve[/185.128.38.4:27593] logged out due to client disconnect
+2017-09-12 [01:06:38] [Server thread/WARNING]: GHD moved wrongly!
+2017-09-12 [01:07:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [01:07:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [01:07:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [01:07:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [01:07:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [01:08:02] [Server thread/INFO]: Steve[/82.239.44.181:62718] [ClientID: 2242159250592016128] logged in with entity id 1520 at (world, 147.8015, 73.8, 119.9727)
+2017-09-12 [01:08:13] [Server thread/INFO]: Steve joined the game
+2017-09-12 [01:08:34] [Server thread/INFO]: Steve left the game
+2017-09-12 [01:08:34] [Server thread/INFO]: Steve[/82.239.44.181:62718] logged out due to timeout
+2017-09-12 [01:09:08] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:09:08] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:09:10] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:09:10] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:09:10] [Server thread/CRITICAL]: "Could not pass event 'pocketmine\event\block\SignChangeEvent' to 'QituShop v1.2.0': Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441 on QituShop\QituShop
+2017-09-12 [01:09:10] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to pocketmine\item\Item::__construct() must be of the type integer, string given, called in phar:///root/yy/plugins/超级商店.phar/src/QituShop/QituShop.php on line 441" (EXCEPTION) in "/src/pocketmine/item/Item" at line 436
+2017-09-12 [01:10:36] [Server thread/INFO]: GHD left the game
+2017-09-12 [01:10:36] [Server thread/INFO]: GHD[/113.117.7.179:47359] logged out due to client disconnect
+2017-09-12 [01:12:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [01:12:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [01:12:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [01:12:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [01:12:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [01:17:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [01:17:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [01:17:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [01:17:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [01:17:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [01:18:23] [Server thread/NOTICE]: Player data not found for "stormlord666777", creating new profile
+2017-09-12 [01:18:23] [Server thread/INFO]: StormLord666777[/91.20.102.52:60716] [ClientID: 6670991198740896544] logged in with entity id 1524 at (world, 128, 68, 128)
+2017-09-12 [01:18:26] [Server thread/INFO]: StormLord666777 joined the game
+2017-09-12 [01:20:28] [Server thread/INFO]: StormLord666777 : hi mao
+2017-09-12 [01:22:19] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-12 [01:22:29] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-12 [01:22:34] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-12 [01:22:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-12 [01:22:39] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-12 [01:23:11] [Server thread/INFO]: StormLord666777 has just earned the achievement Getting Wood
+2017-09-12 [01:24:08] [Server thread/INFO]: StormLord666777 has just earned the achievement Benchmarking
+2017-09-12 [01:24:16] [Server thread/INFO]: StormLord666777 has just earned the achievement Time to Strike!
