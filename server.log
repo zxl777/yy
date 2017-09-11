@@ -1,254 +1,937 @@
-2017-09-11 [07:14:22] [Server thread/INFO]: JFLU left the game
-2017-09-11 [07:14:22] [Server thread/INFO]: JFLU[/183.192.15.195:27956] logged out due to client disconnect
-2017-09-11 [07:14:32] [Server thread/INFO]: JFLU[/183.192.15.195:27956] [ClientID: -6288997453893957055] logged in with entity id 5251 at (world, 128, 68.2, 128)
-2017-09-11 [07:14:34] [Server thread/INFO]: JFLU joined the game
-2017-09-11 [07:14:50] [Server thread/INFO]: JFLU left the game
-2017-09-11 [07:14:50] [Server thread/INFO]: JFLU[/183.192.15.195:27956] logged out due to timeout
-2017-09-11 [07:15:35] [Server thread/INFO]: JFLU[/183.192.15.195:28055] [ClientID: -6288997453893957055] logged in with entity id 5254 at (world, 128, 68.4, 128)
-2017-09-11 [07:15:37] [Server thread/INFO]: JFLU joined the game
-2017-09-11 [07:15:57] [Server thread/INFO]: JFLU left the game
-2017-09-11 [07:15:57] [Server thread/INFO]: JFLU[/183.192.15.195:28055] logged out due to client disconnect
-2017-09-11 [07:16:31] [Server thread/INFO]: MochaPeach67702 left the game
-2017-09-11 [07:16:31] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64483] logged out due to client disconnect
-2017-09-11 [07:17:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:17:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:17:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:17:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:17:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:18:49] [Server thread/INFO]: 2136131645 left the game
-2017-09-11 [07:18:49] [Server thread/INFO]: 2136131645[/117.90.206.187:16986] logged out due to client disconnect
-2017-09-11 [07:20:45] [Server thread/INFO]: JFLU[/183.192.15.195:28102] [ClientID: -6288997453893957055] logged in with entity id 5255 at (world, 128, 68.6, 128)
-2017-09-11 [07:20:47] [Server thread/INFO]: JFLU joined the game
-2017-09-11 [07:21:29] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64483] [ClientID: 1716104049977458181] logged in with entity id 5256 at (th, -2298.2419, 65, 260.1583)
-2017-09-11 [07:21:32] [Server thread/INFO]: MochaPeach67702 joined the game
-2017-09-11 [07:22:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:22:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:22:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:22:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:22:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:23:30] [Server thread/INFO]: MochaPeach67702 left the game
-2017-09-11 [07:23:30] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64483] logged out due to Failed to login in 120 seconds
-2017-09-11 [07:23:42] [Server thread/INFO]: JFLU fell from a high place
-2017-09-11 [07:24:00] [Server thread/WARNING]: JFLU moved wrongly!
-2017-09-11 [07:24:36] [Server thread/WARNING]: JFLU moved wrongly!
-2017-09-11 [07:25:05] [Server thread/WARNING]: JFLU moved wrongly!
-2017-09-11 [07:25:06] [Server thread/WARNING]: JFLU moved wrongly!
-2017-09-11 [07:25:24] [Server thread/WARNING]: JFLU moved wrongly!
-2017-09-11 [07:25:56] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64483] [ClientID: 1716104049977458181] logged in with entity id 5257 at (th, -2298.2419, 65.2, 260.1583)
-2017-09-11 [07:25:59] [Server thread/INFO]: MochaPeach67702 joined the game
-2017-09-11 [07:26:46] [Server thread/INFO]: JFLU left the game
-2017-09-11 [07:26:46] [Server thread/INFO]: JFLU[/183.192.15.195:28102] logged out due to client disconnect
-2017-09-11 [07:27:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:27:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:27:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:27:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:27:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:29:38] [Server thread/INFO]: MochaPeach67702 left the game
-2017-09-11 [07:29:38] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:64483] logged out due to client disconnect
-2017-09-11 [07:31:56] [Server thread/INFO]: 2136131645[/114.229.173.71:5454] [ClientID: 3605837626884141308] logged in with entity id 5261 at (world, 132.7454, 63.9999, 116.1418)
-2017-09-11 [07:31:57] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [07:32:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:32:24] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:51731] [ClientID: 1716104049977458181] logged in with entity id 5262 at (th, -2297.1152, 66, 250.6299)
-2017-09-11 [07:32:27] [Server thread/INFO]: MochaPeach67702[/218.161.29.218:51731] logged out due to client disconnect
-2017-09-11 [07:32:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:32:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:32:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:32:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:37:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:37:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:37:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:37:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理143个可爱的动物⊙﹏⊙
-2017-09-11 [07:37:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:42:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:42:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:42:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:42:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:42:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:47:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:47:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:47:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:47:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:47:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:50:28] [Server thread/INFO]: OPU[/59.149.50.144:56195] [ClientID: 8999231558102898423] logged in with entity id 5709 at (world, 129.8893, 67.5, 126.2461)
-2017-09-11 [07:50:31] [Server thread/INFO]: OPU joined the game
-2017-09-11 [07:52:06] [Server thread/INFO]: 2136131645 left the game
-2017-09-11 [07:52:06] [Server thread/INFO]: 2136131645[/114.229.173.71:5454] logged out due to timeout
-2017-09-11 [07:52:20] [Server thread/INFO]: OPU left the game
-2017-09-11 [07:52:20] [Server thread/INFO]: OPU[/59.149.50.144:56195] logged out due to client disconnect
-2017-09-11 [07:52:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:52:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:52:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:52:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理10个可爱的动物⊙﹏⊙
-2017-09-11 [07:52:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [07:54:05] [Server thread/INFO]: Steve[/47.155.92.133:64880] [ClientID: -8186373865339832701] logged in with entity id 5710 at (nether, 155.4038, 46.2, 126.978)
-2017-09-11 [07:54:07] [Server thread/INFO]: Steve joined the game
-2017-09-11 [07:54:18] [Server thread/INFO]: 2136131645[/117.90.206.187:13499] [ClientID: 3605837626884141308] logged in with entity id 5711 at (world, 133.5259, 64.9999, 125.7382)
-2017-09-11 [07:54:20] [Server thread/INFO]: 2136131645 joined the game
-2017-09-11 [07:54:59] [Server thread/INFO]: Steve left the game
-2017-09-11 [07:54:59] [Server thread/INFO]: Steve[/47.155.92.133:64880] logged out due to client disconnect
-2017-09-11 [07:57:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [07:57:25] [Server thread/INFO]: am fat[/24.56.20.80:42147] logged out due to Invalid name!
-2017-09-11 [07:57:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [07:57:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [07:57:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [07:57:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:02:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:02:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:02:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:02:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:02:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:07:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:07:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:07:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:07:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:07:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:12:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:12:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:12:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:12:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:12:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:16:05] [Server thread/INFO]: Taylor987654321[/24.126.55.136:61988] [ClientID: -5009327762389256329] logged in with entity id 5819 at (world, -28.4577, 67, 152.7)
-2017-09-11 [08:16:08] [Server thread/INFO]: Taylor987654321 joined the game
-2017-09-11 [08:16:51] [Server thread/WARNING]: Taylor987654321 moved wrongly!
-2017-09-11 [08:16:51] [Server thread/WARNING]: Taylor987654321 moved wrongly!
-2017-09-11 [08:17:15] [Server thread/WARNING]: Taylor987654321 moved wrongly!
-2017-09-11 [08:17:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:17:26] [Server thread/INFO]: Taylor987654321 left the game
-2017-09-11 [08:17:26] [Server thread/INFO]: Taylor987654321[/24.126.55.136:61988] logged out due to client disconnect
-2017-09-11 [08:17:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:17:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:17:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:17:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:19:26] [Server thread/INFO]: * 2136131645 想来竞技场tp我
-2017-09-11 [08:21:42] [Server thread/INFO]: Littile_Apple[/70.64.27.164:49956] [ClientID: -3274805322450550067] logged in with entity id 5855 at (world, 30.6889, 28, -63.2363)
-2017-09-11 [08:21:45] [Server thread/INFO]: Littile_Apple joined the game
-2017-09-11 [08:22:04] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:22:04] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:22:04] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:22:05] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:22:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:22:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:22:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:22:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:22:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:24:39] [Server thread/INFO]: Littile_Apple went up in flames
-2017-09-11 [08:25:33] [Server thread/INFO]: [妹子]Littile_Apple : 钻石
-2017-09-11 [08:25:53] [Server thread/INFO]: [妹子]Littile_Apple : 你去哪了？
-2017-09-11 [08:27:07] [Server thread/INFO]: [伪高压酱]2136131645 : 怎么给别人转账
-2017-09-11 [08:27:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:27:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:27:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:27:39] [Server thread/INFO]: [妹子]Littile_Apple : 长按物品
-2017-09-11 [08:27:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:27:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:27:57] [Server thread/INFO]: [伪高压酱]2136131645 : 我创造不能扔东西
-2017-09-11 [08:28:23] [Server thread/INFO]: [伪高压酱]2136131645 : 只能给你金币
-2017-09-11 [08:28:34] [Server thread/INFO]: [伪高压酱]2136131645 : 我又不知道那指令
-2017-09-11 [08:29:13] [Server thread/INFO]: [妹子]Littile_Apple : 长按你要给人的物品
-2017-09-11 [08:29:41] [Server thread/INFO]: [妹子]Littile_Apple : 在你的物品栏上
-2017-09-11 [08:29:54] [Server thread/INFO]: [伪高压酱]2136131645 : 不能扔
-2017-09-11 [08:30:03] [Server thread/INFO]: [伪高压酱]2136131645 : 我是创造模式
-2017-09-11 [08:30:38] [Server thread/INFO]: 2136131645 died
-2017-09-11 [08:30:57] [Server thread/INFO]: ZSR[/113.16.68.31:10842] [ClientID: -7556758473351942080] logged in with entity id 5912 at (world, 128, 57.4, 128)
-2017-09-11 [08:31:05] [Server thread/INFO]: ZSR joined the game
-2017-09-11 [08:31:07] [Server thread/INFO]: [妹子]Littile_Apple : 你可在箱子里
-2017-09-11 [08:31:20] [Server thread/INFO]: [伪高压酱]2136131645 : 也不行我试过了
-2017-09-11 [08:31:29] [Server thread/INFO]: [伪高压酱]2136131645 : 打不开箱子
-2017-09-11 [08:32:04] [Server thread/INFO]: DanTDM[/73.186.179.44:51551] logged out due to client disconnect
-2017-09-11 [08:32:16] [Server thread/INFO]: [妹子]Littile_Apple : 过来
-2017-09-11 [08:32:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:32:25] [Server thread/INFO]: DanTDM[/73.186.179.44:51723] [ClientID: 7830692704328066761] logged in with entity id 5921 at (world, 128, 68.4, 128)
-2017-09-11 [08:32:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:32:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:32:38] [Server thread/INFO]: DanTDM joined the game
-2017-09-11 [08:32:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:32:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:32:56] [Server thread/INFO]: DanTDM left the game
-2017-09-11 [08:32:56] [Server thread/INFO]: DanTDM[/73.186.179.44:51723] logged out due to timeout
-2017-09-11 [08:32:58] [Server thread/INFO]: ZSR left the game
-2017-09-11 [08:32:58] [Server thread/INFO]: ZSR[/113.16.68.31:10842] logged out due to Failed to login in 120 seconds
-2017-09-11 [08:33:42] [Server thread/INFO]: [妹子]Littile_Apple : 放个箱子在这里
-2017-09-11 [08:34:26] [Server thread/INFO]: [妹子]Littile_Apple : 让后放入钻石
-2017-09-11 [08:34:53] [Server thread/INFO]: [妹子]Littile_Apple : 谢了
-2017-09-11 [08:35:13] [Server thread/INFO]: Steve[/47.155.92.133:52824] [ClientID: -8186373865339832701] logged in with entity id 5968 at (nether, 155.4038, 46.4, 126.978)
-2017-09-11 [08:35:16] [Server thread/INFO]: Steve joined the game
-2017-09-11 [08:35:26] [Server thread/INFO]: Steve left the game
-2017-09-11 [08:35:26] [Server thread/INFO]: Steve[/47.155.92.133:52824] logged out due to client disconnect
-2017-09-11 [08:35:35] [Server thread/INFO]: Steve[/47.155.92.133:52824] [ClientID: -8186373865339832701] logged in with entity id 5991 at (nether, 155.4038, 46.6, 126.978)
-2017-09-11 [08:35:37] [Server thread/INFO]: Steve joined the game
-2017-09-11 [08:36:07] [Server thread/INFO]: Steve left the game
-2017-09-11 [08:36:07] [Server thread/INFO]: Steve[/47.155.92.133:52824] logged out due to client disconnect
-2017-09-11 [08:37:04] [Server thread/INFO]: [伪高压酱]2136131645 : 做把钻石搞挖
-2017-09-11 [08:37:16] [Server thread/INFO]: [妹子]Littile_Apple : OK
-2017-09-11 [08:37:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:37:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:37:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:37:36] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:37:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:37:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:40:51] [Server thread/INFO]: Littile_Apple fell from a high place
-2017-09-11 [08:40:58] [Server thread/INFO]: [伪高压酱]2136131645 : emmmm
-2017-09-11 [08:41:00] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:42:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:42:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:42:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:42:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:42:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:43:02] [Server thread/INFO]: Steve[/108.64.48.74:64965] [ClientID: 1043673997532930229] logged in with entity id 6376 at (nether, 155.4038, 46.8, 126.978)
-2017-09-11 [08:43:05] [Server thread/INFO]: Steve joined the game
-2017-09-11 [08:43:35] [Server thread/INFO]: Steve left the game
-2017-09-11 [08:43:35] [Server thread/INFO]: Steve[/108.64.48.74:64965] logged out due to client disconnect
-2017-09-11 [08:43:55] [Server thread/INFO]: [伪高压酱]2136131645 : 你加我IDQQ吧
-2017-09-11 [08:44:11] [Server thread/INFO]: [妹子]Littile_Apple : 0k
-2017-09-11 [08:44:46] [Server thread/INFO]: [妹子]Littile_Apple : 有微信吗。
-2017-09-11 [08:45:27] [Server thread/INFO]: Steve[/108.64.48.74:64965] [ClientID: 1043673997532930229] logged in with entity id 6476 at (nether, 155.4038, 47, 126.978)
-2017-09-11 [08:45:30] [Server thread/INFO]: Steve joined the game
-2017-09-11 [08:45:36] [Server thread/INFO]: [伪高压酱]2136131645 : 没有
-2017-09-11 [08:47:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:47:28] [Server thread/INFO]: Steve left the game
-2017-09-11 [08:47:28] [Server thread/INFO]: Steve[/108.64.48.74:64965] logged out due to Failed to login in 120 seconds
-2017-09-11 [08:47:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:47:31] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:47:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:47:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:47:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:48:13] [Server thread/INFO]: [妹子]Littile_Apple : 红石火把
-2017-09-11 [08:48:53] [Server thread/INFO]: [伪高压酱]2136131645 : 红石被ban了
-2017-09-11 [08:50:16] [Server thread/INFO]: [妹子]Littile_Apple : 我回去先
-2017-09-11 [08:50:35] [Server thread/WARNING]: Littile_Apple moved wrongly!
-2017-09-11 [08:52:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:52:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:52:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:52:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:52:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:53:30] [Server thread/INFO]: [妹子]Littile_Apple : 挖矿
-2017-09-11 [08:54:42] [Server thread/INFO]: Erica[/117.136.38.45:31896] [ClientID: -1183450116040841424] logged in with entity id 6590 at (world, 124.4312, 64, 130.3658)
-2017-09-11 [08:54:44] [Server thread/INFO]: Erica joined the game
-2017-09-11 [08:54:49] [Server thread/INFO]: Littile_Apple left the game
-2017-09-11 [08:54:49] [Server thread/INFO]: Littile_Apple[/70.64.27.164:49956] logged out due to client disconnect
-2017-09-11 [08:56:17] [Server thread/WARNING]: Erica moved wrongly!
-2017-09-11 [08:56:20] [Server thread/WARNING]: Erica moved wrongly!
-2017-09-11 [08:56:35] [Server thread/INFO]: Erica left the game
-2017-09-11 [08:56:35] [Server thread/INFO]: Erica[/117.136.38.45:31896] logged out due to timeout
-2017-09-11 [08:57:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [08:57:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [08:57:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [08:57:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [08:57:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [08:58:20] [Server thread/INFO]: ga sinh ton[/42.112.228.112:45936] logged out due to Invalid name!
-2017-09-11 [09:02:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [09:02:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [09:02:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [09:02:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [09:02:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [09:04:57] [Server thread/INFO]: [伪高压酱]2136131645 : iai
-2017-09-11 [09:07:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [09:07:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [09:07:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [09:07:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [09:07:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-11 [09:12:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-11 [09:12:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-11 [09:12:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-11 [09:12:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-11 [09:12:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:17:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [09:17:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [09:17:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [09:17:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [09:17:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:20:14] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:59292] [ClientID: -308776663400809635] logged in with entity id 6736 at (th, 142.5421, 70.4986, -215.2863)
+2017-09-11 [09:20:16] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [09:20:38] [Server thread/INFO]: [AllHELLOaaa1227: Set 2136131645's game mode to Survival Mode]
+2017-09-11 [09:21:12] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 2136131645]
+2017-09-11 [09:21:15] [Server thread/INFO]: 2136131645 was slain by AllHELLOaaa1227
+2017-09-11 [09:21:22] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈嗨哈
+2017-09-11 [09:21:27] [Server thread/INFO]: [伪高压酱]2136131645 : emmmm
+2017-09-11 [09:21:41] [Server thread/INFO]: [AllHELLOaaa1227: Teleported 2136131645 to AllHELLOaaa1227]
+2017-09-11 [09:21:44] [Server thread/INFO]: [伪高压酱]2136131645 : 冷清
+2017-09-11 [09:22:07] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你怎么就死了？
+2017-09-11 [09:22:18] [Server thread/INFO]: [伪高压酱]2136131645 : 我不想说话
+2017-09-11 [09:22:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [09:22:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [09:22:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [09:22:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [09:22:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:22:54] [Server thread/INFO]: [伪高压酱]2136131645 : 这op真随便
+2017-09-11 [09:23:00] [Server thread/INFO]: [AllHELLOaaa1227: Given Diamond (264:0) * 640 to 2136131645]
+2017-09-11 [09:23:02] [Server thread/INFO]: [伪高压酱]2136131645 : 不过我喜欢
+2017-09-11 [09:23:27] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 10组钻石
+2017-09-11 [09:23:29] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你要么
+2017-09-11 [09:25:14] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 1块一次你疯了
+2017-09-11 [09:26:07] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你身上有东西么
+2017-09-11 [09:26:12] [Server thread/INFO]: 2136131645 fell from a high place
+2017-09-11 [09:26:13] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我给你创造
+2017-09-11 [09:26:27] [Server thread/INFO]: [伪高压酱]2136131645 : 你给我的钻
+2017-09-11 [09:26:31] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 额
+2017-09-11 [09:26:37] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 那我直接给了
+2017-09-11 [09:26:43] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : ok？
+2017-09-11 [09:26:48] [Server thread/INFO]: [伪高压酱]2136131645 : 随便
+2017-09-11 [09:27:06] [Server thread/INFO]: [AllHELLOaaa1227: Set 2136131645's game mode to Creative Mode]
+2017-09-11 [09:27:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [09:27:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [09:27:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [09:27:36] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [09:27:36] [Server thread/INFO]: 2136131645[/117.90.206.187:13499] logged out due to timeout
+2017-09-11 [09:27:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [09:27:41] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理7个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:28:03] [Server thread/INFO]: 2136131645[/117.90.206.187:14880] [ClientID: 3605837626884141308] logged in with entity id 6799 at (world, 140.8308, 64, 141.3835)
+2017-09-11 [09:28:05] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [09:28:51] [Server thread/INFO]: [伪高压酱]2136131645 : 把雨关了
+2017-09-11 [09:28:58] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 换了啊
+2017-09-11 [09:29:04] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 已经关了啊
+2017-09-11 [09:30:25] [Server thread/INFO]: [伪高压酱]2136131645 : 玩王者荣耀吗
+2017-09-11 [09:30:40] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 不玩
+2017-09-11 [09:31:25] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [09:31:25] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:59292] logged out due to client disconnect
+2017-09-11 [09:32:07] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [09:32:07] [Server thread/INFO]: 2136131645[/117.90.206.187:14880] logged out due to client disconnect
+2017-09-11 [09:32:51] [Server thread/INFO]: Littile_Apple[/70.64.27.164:49956] [ClientID: -3274805322450550067] logged in with entity id 10344 at (world, 8.7, 37, -95.7)
+2017-09-11 [09:32:51] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:59292] logged out due to client disconnect
+2017-09-11 [09:32:51] [Server thread/INFO]: Littile_Apple[/70.64.27.164:49956] logged out due to client disconnect
+2017-09-11 [09:32:51] [Server thread/INFO]: 2136131645[/117.90.206.187:14880] logged out due to timeout
+2017-09-11 [09:33:38] [Server thread/INFO]: Littile_Apple[/70.64.27.164:49956] logged out due to client disconnect
+2017-09-11 [09:33:38] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53210] logged out due to client disconnect
+2017-09-11 [09:34:56] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:53210] logged out due to timeout
+2017-09-11 [09:34:56] [Server thread/INFO]: 2136131645[/117.90.206.187:14880] logged out due to timeout
+2017-09-11 [09:34:56] [Server thread/INFO]: Littile_Apple[/70.64.27.164:52568] logged out due to client disconnect
+2017-09-11 [09:34:58] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:62164] [ClientID: -308776663400809635] logged in with entity id 12764 at (world, 158.7622, 132.7883, 168.8201)
+2017-09-11 [09:36:13] [Server thread/INFO]: Steve[/37.126.18.136:58750] [ClientID: 2604838014531738738] logged in with entity id 13376 at (nether, 155.4038, 46.2, 126.978)
+2017-09-11 [09:36:13] [Server thread/INFO]: Steve[/37.126.18.136:58750] logged out due to client disconnect
+2017-09-11 [09:36:13] [Server thread/INFO]: Littile_Apple[/70.64.27.164:52568] logged out due to client disconnect
+2017-09-11 [09:36:13] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:62164] logged out due to client disconnect
+2017-09-11 [09:36:19] [Server thread/INFO]: 2136131645[/117.90.206.187:14944] [ClientID: 3605837626884141308] logged in with entity id 14300 at (world, 86.7599, 70, 47.9409)
+2017-09-11 [09:38:00] [Server thread/INFO]: Steve[/37.126.18.136:58750] logged out due to timeout
+2017-09-11 [09:38:00] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:59164] logged out due to timeout
+2017-09-11 [09:38:01] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [09:40:04] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:61554] [ClientID: -308776663400809635] logged in with entity id 17628 at (world, 158.7622, 132.7883, 168.8201)
+2017-09-11 [09:40:04] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:42:26] [Server thread/INFO]: [伪高压酱]2136131645 : 卡死
+2017-09-11 [09:42:26] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:61554] logged out due to client disconnect
+2017-09-11 [09:42:26] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:42:33] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:63524] [ClientID: -308776663400809635] logged in with entity id 18530 at (world, 158.7622, 132.7883, 168.8201)
+2017-09-11 [09:42:33] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:42:38] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:42:38] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [09:43:41] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:44:09] [Server thread/INFO]: Littile_Apple[/70.64.27.164:52568] logged out due to client disconnect
+2017-09-11 [09:44:09] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:44:09] [Server thread/WARNING]: AllHELLOaaa1227 moved too fast, reverting movement
+2017-09-11 [09:45:28] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 怎么这么卡
+2017-09-11 [09:45:28] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 动弹不得
+2017-09-11 [09:45:28] [Server thread/INFO]: [伪高压酱]2136131645 : 重启一下服务器
+2017-09-11 [09:45:28] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [09:45:28] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:63524] logged out due to client disconnect
+2017-09-11 [09:45:28] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
+2017-09-11 [09:45:32] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 21943 at (world, 8.7, 37, -95.7)
+2017-09-11 [09:45:34] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [09:45:54] [Server thread/INFO]: [伪高压酱]2136131645 : 我不卡了
+2017-09-11 [09:46:11] [Server thread/INFO]: [妹子]Littile_Apple : 我回来了
+2017-09-11 [09:46:40] [Server thread/INFO]: [伪高压酱]2136131645 : 你还没加我QQ
+2017-09-11 [09:46:56] [Server thread/INFO]: [妹子]Littile_Apple : 号
+2017-09-11 [09:47:05] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [09:47:08] [Server thread/INFO]: [伪高压酱]2136131645 : 我ID啊
+2017-09-11 [09:47:10] [Server thread/INFO]: [妹子]Littile_Apple : QQ 号
+2017-09-11 [09:47:15] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [09:47:15] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:56693] [ClientID: -308776663400809635] logged in with entity id 21959 at (world, 158.481, 80, 166.8363)
+2017-09-11 [09:47:17] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [09:47:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [09:47:25] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [09:47:25] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:48:00] [Server thread/INFO]: [妹子]Littile_Apple : OK
+2017-09-11 [09:48:00] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 好了好了
+2017-09-11 [09:48:00] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 卧槽还是这么卡
+2017-09-11 [09:48:00] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [09:48:00] [Server thread/WARNING]: AllHELLOaaa1227 moved too fast, reverting movement
+2017-09-11 [09:48:00] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [09:48:52] [Server thread/INFO]: [AllHELLOaaa1227: Set 2136131645's game mode to Survival Mode]
+2017-09-11 [09:48:52] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [09:48:52] [Server thread/WARNING]: AllHELLOaaa1227 moved too fast, reverting movement
+2017-09-11 [09:48:52] [Server thread/INFO]: [伪高压酱]2136131645 : 反正我不卡了啊哈哈哈哈
+2017-09-11 [09:48:53] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [09:49:15] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我也不卡了
+2017-09-11 [09:49:16] [Server thread/INFO]: [妹子]Littile_Apple : 好卡
+2017-09-11 [09:50:16] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 过一会就不卡了
+2017-09-11 [09:50:22] [Server thread/INFO]: [妹子]Littile_Apple : 哪
+2017-09-11 [09:50:54] [Server thread/INFO]: alzlzal227[/46.153.84.134:54411] [ClientID: 7191981305683267015] logged in with entity id 23482 at (world, 143.8895, 64, 99.6189)
+2017-09-11 [09:50:57] [Server thread/INFO]: alzlzal227 joined the game
+2017-09-11 [09:51:10] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 这么多人了
+2017-09-11 [09:51:15] [Server thread/INFO]: [伪高压酱]2136131645 : 这名跟你一样
+2017-09-11 [09:51:26] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 嘿嘿嘿
+2017-09-11 [09:51:47] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:51:48] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:51:50] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:51:57] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:51:59] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:52:11] [Server thread/INFO]: [伪高压酱]2136131645 : 阴阳人
+2017-09-11 [09:52:19] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:52:19] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:52:23] [Server thread/INFO]: [伪高压酱]2136131645 : 没毛病吧
+2017-09-11 [09:52:29] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 没毛病
+2017-09-11 [09:52:46] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [09:52:46] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [09:52:48] [Server thread/WARNING]: alzlzal227 moved wrongly!
+2017-09-11 [09:52:53] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 3000, 80, 2000]
+2017-09-11 [09:53:08] [Server thread/INFO]: alzlzal227 left the game
+2017-09-11 [09:53:08] [Server thread/INFO]: alzlzal227[/46.153.84.134:54411] logged out due to timeout
+2017-09-11 [09:53:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [09:53:23] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [09:53:30] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [09:53:30] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:31] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:31] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:31] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:31] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:31] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:32] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 7000]
+2017-09-11 [09:53:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [09:53:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [09:53:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:54:45] [Server thread/INFO]: 2136131645 fell out of the world
+2017-09-11 [09:55:12] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在5分钟后重启
+2017-09-11 [09:55:26] [Server thread/INFO]: [伪高压酱]2136131645 : 一秒重启
+2017-09-11 [09:55:33] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:57:00] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在3分钟后重启
+2017-09-11 [09:57:12] [Server thread/INFO]: [伪高压酱]2136131645 : 直接重启
+2017-09-11 [09:57:18] [Server thread/INFO]: [伪高压酱]2136131645 : 磨磨唧唧的
+2017-09-11 [09:58:06] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [09:58:13] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:58:13] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:58:16] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:58:17] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:58:18] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:58:20] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [09:58:30] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [09:58:31] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [09:58:35] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [09:58:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [09:58:40] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [09:59:01] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [09:59:56] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 5
+2017-09-11 [09:59:57] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 4
+2017-09-11 [09:59:58] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 3
+2017-09-11 [09:59:59] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 1
+2017-09-11 [10:00:01] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling db v1.0.0
+2017-09-11 [10:00:01] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling Asign v1.4
+2017-09-11 [10:00:01] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-09-11 [10:00:01] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-09-11 [10:00:01] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-09-11 [10:00:01] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling BanItem v2.2
+2017-09-11 [10:00:01] [Server thread/INFO]: Disabling ld v流星优化
+2017-09-11 [10:00:01] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [10:00:01] [Server thread/INFO]: 2136131645[/117.90.206.187:14944] logged out due to Server closed
+2017-09-11 [10:00:01] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [10:00:01] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:56693] logged out due to Server closed
+2017-09-11 [10:00:01] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [10:00:01] [Server thread/INFO]: Unloading level "nether"
+2017-09-11 [10:00:01] [Server thread/INFO]: Unloading level "ender"
+2017-09-11 [10:00:01] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [10:00:02] [Server thread/INFO]: Unloading level "th"
+2017-09-11 [10:00:06] [Server thread/INFO]: Stopping other threads
+2017-09-11 [02:00:07] [Server thread/INFO]: 
+
+  _____            _               _____
+ / ____|          (_)             |  __ \
+| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
+| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
+| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
+ \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
+                          __/ |
+                         |___/
+
+	Version: 1.1dev (5437e0f)
+	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
+	PHP Version: 7.0.9
+	OS: Linux
+	This core is maintained by GenisysPro (https://github.com/GenisysPro)
+	Discord Group chat: https://discord.gg/WrKzRNn 
+	Chatroom on QQ: 559301590 
+	Welcome to donate us on QQ: 1912003473
+	
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading properties and configuration...
+2017-09-11 [02:00:07] [Server thread/WARNING]: OpenSSL extension not found
+2017-09-11 [02:00:07] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-09-11 [02:00:07] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-11 [02:00:07] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-11 [02:00:07] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading recipes...
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading resource packs...
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading db v1.0.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-09-11 [02:00:07] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading Asign v1.4
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
+2017-09-11 [02:00:07] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading BanItem v2.2
+2017-09-11 [02:00:07] [Server thread/INFO]: Loading ld v流星优化
+2017-09-11 [02:00:07] [Server thread/INFO]: Enabling db v1.0.0
+2017-09-11 [02:00:07] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-09-11 [02:00:07] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-09-11 [02:00:07] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-09-11 [02:00:07] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-09-11 [02:00:07] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-09-11 [02:00:07] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [02:00:08] [Server thread/INFO]: Preparing level "nether"
+2017-09-11 [02:00:08] [Server thread/INFO]: Preparing level "ender"
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-09-11 [02:00:08] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-09-11 [02:00:08] [Server thread/INFO]: SWorld loaded!
+2017-09-11 [02:00:08] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-09-11 [02:00:08] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [02:00:08] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-09-11 [02:00:08] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-09-11 [02:00:08] [Server thread/INFO]: Preparing level "th"
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling Asign v1.4
+2017-09-11 [02:00:08] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-09-11 [02:00:08] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-09-11 [02:00:08] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-09-11 [02:00:08] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-09-11 [02:00:08] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [02:00:08] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-09-11 [10:00:08] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-09-11 [10:00:08] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [10:00:08] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-09-11 [10:00:08] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
+2017-09-11 [10:00:08] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-09-11 [10:00:08] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-09-11 [10:00:08] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-09-11 [10:00:08] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-09-11 [10:00:08] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-09-11 [10:00:09] [Server thread/INFO]: Enabling BanItem v2.2
+2017-09-11 [10:00:09] [Server thread/INFO]: Enabling ld v流星优化
+2017-09-11 [10:00:10] [Server thread/INFO]: Starting GS4 status listener
+2017-09-11 [10:00:10] [Server thread/INFO]: Setting query port to 19132
+2017-09-11 [10:00:10] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-11 [10:00:10] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-11 [10:00:10] [Server thread/INFO]: Done (2.677s)! For help, type "help" or "?"
+2017-09-11 [10:00:30] [Server thread/INFO]: 2136131645[/117.90.206.187:14944] [ClientID: 3605837626884141308] logged in with entity id 1 at (world, 154.7967, 65, 108.4493)
+2017-09-11 [10:00:31] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:56693] [ClientID: -308776663400809635] logged in with entity id 2 at (world, 3004.0146, 80, 2008.6494)
+2017-09-11 [10:00:32] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [10:00:32] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [10:00:45] [Server thread/INFO]: [伪高压酱]2136131645 : 2136131645
+2017-09-11 [10:01:00] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 重启完成
+2017-09-11 [10:01:29] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 2136131645]
+2017-09-11 [10:01:49] [Server thread/INFO]: 2136131645 fell from a high place
+2017-09-11 [10:01:55] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:03:21] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 2136131645]
+2017-09-11 [10:03:21] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [10:03:21] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:56693] logged out due to client disconnect
+2017-09-11 [10:03:21] [Server thread/INFO]: [伪高压酱]2136131645 : 我小游戏
+2017-09-11 [10:03:21] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [10:03:21] [Server thread/INFO]: 2136131645[/117.90.206.187:14944] logged out due to client disconnect
+2017-09-11 [10:03:21] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:56693] logged out due to timeout
+2017-09-11 [10:03:45] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:56693] logged out due to timeout
+2017-09-11 [10:04:02] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:64012] [ClientID: -308776663400809635] logged in with entity id 1680 at (world, 128.6085, 65, 112.4765)
+2017-09-11 [10:04:04] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [10:04:29] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : woc刚才卡掉了
+2017-09-11 [10:04:49] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 1681 at (world, 132.6146, 65, 120.4446)
+2017-09-11 [10:04:51] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:06:20] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:06:21] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:06:33] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:06:37] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [10:06:42] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:06:42] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:06:43] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:06:44] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:06:44] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:06:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:06:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:06:53] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:07:28] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:07:29] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:07:30] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:07:30] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:08:32] [Server thread/INFO]: Steve[/142.165.27.140:62799] [ClientID: -718447107132253234] logged in with entity id 1696 at (nether, 155.4038, 46.2, 126.978)
+2017-09-11 [10:08:39] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:08:39] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [10:08:49] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 1697 at (world, 85.5941, 9, -65.2616)
+2017-09-11 [10:08:51] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:08:53] [Server thread/INFO]: Steve joined the game
+2017-09-11 [10:09:17] [Server thread/INFO]: Littile_Apple tried to swim in lava
+2017-09-11 [10:09:35] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:09:51] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:09:51] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:09:57] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:10:33] [Server thread/INFO]: Steve left the game
+2017-09-11 [10:10:33] [Server thread/INFO]: Steve[/142.165.27.140:62799] logged out due to Failed to login in 120 seconds
+2017-09-11 [10:11:33] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:11:43] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:11:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:12:12] [Server thread/WARNING]: AllHELLOaaa1227 moved too fast, reverting movement
+2017-09-11 [10:12:29] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:12:37] [Server thread/INFO]: Steve[/207.255.140.213:56931] [ClientID: -6704682208538936469] logged in with entity id 2405 at (nether, 155.4038, 46.4, 126.978)
+2017-09-11 [10:12:37] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:12:38] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:12:45] [Server thread/WARNING]: AllHELLOaaa1227 moved too fast, reverting movement
+2017-09-11 [10:12:45] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:12:45] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理115个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:12:46] [Server thread/INFO]: Steve joined the game
+2017-09-11 [10:13:06] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:13:06] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 3000, 80, 2000]
+2017-09-11 [10:13:07] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:13:11] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在3分钟后重启
+2017-09-11 [10:13:21] [Server thread/INFO]: [妹子]Littile_Apple : 你去哪了
+2017-09-11 [10:13:32] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 管理员平台
+2017-09-11 [10:13:38] [Server thread/INFO]: Steve left the game
+2017-09-11 [10:13:38] [Server thread/INFO]: Steve[/207.255.140.213:56931] logged out due to client disconnect
+2017-09-11 [10:13:53] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 有副腐竹的称号卖
+2017-09-11 [10:14:00] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [10:14:09] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 14000]
+2017-09-11 [10:14:10] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [10:14:23] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:14:31] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:14:46] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 5
+2017-09-11 [10:14:46] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 4
+2017-09-11 [10:14:47] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 3
+2017-09-11 [10:14:48] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 2
+2017-09-11 [10:14:49] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 1
+2017-09-11 [10:14:50] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling db v1.0.0
+2017-09-11 [10:14:50] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling Asign v1.4
+2017-09-11 [10:14:50] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-09-11 [10:14:50] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-09-11 [10:14:50] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-09-11 [10:14:50] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling BanItem v2.2
+2017-09-11 [10:14:50] [Server thread/INFO]: Disabling ld v流星优化
+2017-09-11 [10:14:50] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [10:14:50] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:64012] logged out due to Server closed
+2017-09-11 [10:14:50] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:14:50] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to Server closed
+2017-09-11 [10:14:50] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [10:14:51] [Server thread/INFO]: Unloading level "nether"
+2017-09-11 [10:14:51] [Server thread/INFO]: Unloading level "ender"
+2017-09-11 [10:14:51] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [10:14:51] [Server thread/INFO]: Unloading level "th"
+2017-09-11 [10:14:55] [Server thread/INFO]: Stopping other threads
+2017-09-11 [02:14:56] [Server thread/WARNING]: OpenSSL extension not found
+2017-09-11 [02:14:56] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-09-11 [02:14:56] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-11 [02:14:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-11 [02:14:56] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading recipes...
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading resource packs...
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading db v1.0.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-09-11 [02:14:56] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading Asign v1.4
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
+2017-09-11 [02:14:56] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading BanItem v2.2
+2017-09-11 [02:14:56] [Server thread/INFO]: Loading ld v流星优化
+2017-09-11 [02:14:56] [Server thread/INFO]: Enabling db v1.0.0
+2017-09-11 [02:14:56] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-09-11 [02:14:56] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-09-11 [02:14:57] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-09-11 [02:14:57] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [02:14:57] [Server thread/INFO]: Preparing level "nether"
+2017-09-11 [02:14:57] [Server thread/INFO]: Preparing level "ender"
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-09-11 [02:14:57] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-09-11 [02:14:57] [Server thread/INFO]: SWorld loaded!
+2017-09-11 [02:14:57] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-09-11 [02:14:57] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [02:14:57] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-09-11 [02:14:57] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-09-11 [02:14:57] [Server thread/INFO]: Preparing level "th"
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling Asign v1.4
+2017-09-11 [02:14:57] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-09-11 [02:14:57] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-09-11 [02:14:57] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-09-11 [02:14:57] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-09-11 [02:14:57] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [02:14:57] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-09-11 [10:14:57] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-09-11 [10:14:57] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [10:14:57] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-09-11 [10:14:57] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
+2017-09-11 [10:14:57] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-09-11 [10:14:57] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-09-11 [10:14:57] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-09-11 [10:14:57] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-09-11 [10:14:57] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-09-11 [10:14:58] [Server thread/INFO]: Enabling BanItem v2.2
+2017-09-11 [10:14:58] [Server thread/INFO]: Enabling ld v流星优化
+2017-09-11 [10:14:58] [Server thread/INFO]: Starting GS4 status listener
+2017-09-11 [10:14:58] [Server thread/INFO]: Setting query port to 19132
+2017-09-11 [10:14:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-11 [10:14:58] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-11 [10:14:58] [Server thread/INFO]: Done (1.721s)! For help, type "help" or "?"
+2017-09-11 [10:15:15] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 1 at (world, 125.4535, 69.5, 104.4771)
+2017-09-11 [10:15:17] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:15:23] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:64012] [ClientID: -308776663400809635] logged in with entity id 2 at (world, 3003.7651, 80, 2008.4105)
+2017-09-11 [10:15:25] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [10:15:47] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [10:16:10] [Server thread/INFO]: 2136131645[/117.90.206.187:15493] [ClientID: 3605837626884141308] logged in with entity id 3 at (world, 128.6085, 65, 112.4765)
+2017-09-11 [10:16:11] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [10:16:27] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:17:10] [Server thread/INFO]: [伪高压酱]2136131645 : 你到现在还没加我QQ
+2017-09-11 [10:17:19] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:17:19] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [10:17:48] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 资源世界有bug
+2017-09-11 [10:17:50] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:17:50] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:17:51] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:17:54] [Server thread/INFO]: [伪高压酱]2136131645 : 怎么了
+2017-09-11 [10:18:02] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我加了啊
+2017-09-11 [10:18:10] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我一进去就闪退
+2017-09-11 [10:18:20] [Server thread/INFO]: [伪高压酱]2136131645 : 不是你
+2017-09-11 [10:18:38] [Server thread/INFO]: [伪高压酱]2136131645 : 我不闪啊
+2017-09-11 [10:18:42] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 2136131645]
+2017-09-11 [10:19:03] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 你往石头堆那走
+2017-09-11 [10:19:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:19:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:19:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:19:55] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我一走过去就卡
+2017-09-11 [10:19:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:19:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:20:03] [Server thread/INFO]: 2136131645 was slain by AllHELLOaaa1227
+2017-09-11 [10:20:09] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 哎？
+2017-09-11 [10:20:13] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 你怎么死了
+2017-09-11 [10:20:42] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:20:52] [Server thread/NOTICE]: Player data not found for "amazingshepherd", creating new profile
+2017-09-11 [10:20:52] [Server thread/INFO]: AmazingShepherd[/183.6.159.145:38791] [ClientID: 9195610053564862916] logged in with entity id 4 at (world, 128, 68, 128)
+2017-09-11 [10:20:54] [Server thread/INFO]: AmazingShepherd joined the game
+2017-09-11 [10:21:07] [Server thread/INFO]: [伪高压酱]2136131645 : 被一条小狗打死了
+2017-09-11 [10:21:11] [Server thread/INFO]: [伪高压酱]2136131645 : 唉
+2017-09-11 [10:21:26] [Server thread/INFO]: [伪高压酱]2136131645 : 哈哈哈
+2017-09-11 [10:21:30] [Server thread/INFO]: [伪高压酱]2136131645 : 没话说了吧
+2017-09-11 [10:21:36] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 额
+2017-09-11 [10:21:42] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 5 at (world, 128, 70, 128)
+2017-09-11 [10:21:45] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:21:54] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 0]
+2017-09-11 [10:22:02] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:22:06] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:22:06] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [10:22:36] [Server thread/INFO]: AmazingShepherd left the game
+2017-09-11 [10:22:36] [Server thread/INFO]: AmazingShepherd[/183.6.159.145:38791] logged out due to client disconnect
+2017-09-11 [10:23:40] [Server thread/INFO]: [伪高压酱]2136131645 : 好饿
+2017-09-11 [10:23:45] [Server thread/INFO]: taik anjig aliff[/115.133.247.251:64006] logged out due to Invalid name!
+2017-09-11 [10:23:51] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:23:52] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:23:52] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:24:20] [Server thread/INFO]: taik anjig aliff[/115.133.247.251:64006] logged out due to Invalid name!
+2017-09-11 [10:24:26] [Server thread/INFO]: 2136131645 hit the ground too hard
+2017-09-11 [10:24:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:24:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:24:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:24:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:24:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:25:11] [Server thread/INFO]: [伪高压酱]2136131645 : 你干嘛呢怎么不说话
+2017-09-11 [10:25:36] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 打指令呢没空说话
+2017-09-11 [10:25:37] [Server thread/INFO]: taik anjig aliff[/115.133.247.251:36943] logged out due to Invalid name!
+2017-09-11 [10:26:02] [Server thread/INFO]: [伪高压酱]2136131645 : kill
+2017-09-11 [10:26:10] [Server thread/INFO]: [伪高压酱]2136131645 : @e
+2017-09-11 [10:27:09] [Server thread/INFO]: [伪高压酱]2136131645 : 你又再做什么乱七八糟的东西
+2017-09-11 [10:27:17] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 铺路
+2017-09-11 [10:27:52] [Server thread/INFO]: [伪高压酱]2136131645 : 不是有铺路指令的嘛
+2017-09-11 [10:28:00] [Server thread/INFO]: taik anjig aliff[/115.133.247.251:41906] logged out due to Invalid name!
+2017-09-11 [10:29:00] [Server thread/INFO]: [伪高压酱]2136131645 : 。/铺路
+2017-09-11 [10:29:10] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:29:16] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:29:27] [Server thread/INFO]: AmazingShepherd[/183.6.159.145:11593] [ClientID: 9195610053564862916] logged in with entity id 6 at (world, 128, 68.2, 128)
+2017-09-11 [10:29:28] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 这个没有创世神好用
+2017-09-11 [10:29:29] [Server thread/INFO]: AmazingShepherd joined the game
+2017-09-11 [10:29:32] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 7 at (world, 127.7079, 67.5, 125.8747)
+2017-09-11 [10:29:34] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:29:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:29:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:29:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:29:57] [Server thread/INFO]: [妹子]Littile_Apple : 我来了
+2017-09-11 [10:29:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:29:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:30:01] [Server thread/INFO]: [伪高压酱]2136131645 : 创屎神
+2017-09-11 [10:30:32] [Server thread/INFO]: [妹子]Littile_Apple : 在哪里
+2017-09-11 [10:30:45] [Server thread/INFO]: [伪高压酱]2136131645 : 地皮
+2017-09-11 [10:31:07] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:31:17] [Server thread/INFO]: [伪高压酱]2136131645 : 转账指令是什么
+2017-09-11 [10:31:35] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:31:40] [Server thread/INFO]: [妹子]Littile_Apple : 不可以转账
+2017-09-11 [10:31:53] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:32:08] [Server thread/INFO]: [伪高压酱]2136131645 : 我七百万
+2017-09-11 [10:32:13] [Server thread/INFO]: [伪高压酱]2136131645 : ( •̀ω•́ )✧
+2017-09-11 [10:32:22] [Server thread/INFO]: AmazingShepherd : 怎么玩
+2017-09-11 [10:32:27] [Server thread/INFO]: [妹子]Littile_Apple :    哇好多
+2017-09-11 [10:32:51] [Server thread/INFO]: [伪高压酱]2136131645 : 没负腐竹多
+2017-09-11 [10:32:55] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 0]
+2017-09-11 [10:33:21] [Server thread/INFO]: [妹子]Littile_Apple : 我 有2万多
+2017-09-11 [10:33:36] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:33:36] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [10:33:47] [Server thread/INFO]: [伪高压酱]2136131645 : 怎么买地皮
+2017-09-11 [10:34:06] [Server thread/INFO]: AmazingShepherd : 请问如何去我的领地？
+2017-09-11 [10:34:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:34:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:34:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:34:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:34:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:35:17] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:35:36] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:37:05] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 16 at (th, 119.3745, 65, 78.3233)
+2017-09-11 [10:37:07] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:37:23] [Server thread/INFO]: 123456789666bed[/113.91.208.10:25074] [ClientID: 8026825308295261523] logged in with entity id 17 at (world, 128, 28, 128)
+2017-09-11 [10:37:24] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:37:24] [Server thread/INFO]: 123456789666bed joined the game
+2017-09-11 [10:37:52] [Server thread/INFO]: 123456789666bed left the game
+2017-09-11 [10:37:52] [Server thread/INFO]: 123456789666bed[/113.91.208.10:25074] logged out due to client disconnect
+2017-09-11 [10:37:53] [Server thread/INFO]: Devil[/124.228.56.64:10375] [ClientID: -718125915298570028] logged in with entity id 18 at (th, 135.1608, 65, -198.0776)
+2017-09-11 [10:37:56] [Server thread/INFO]: Devil joined the game
+2017-09-11 [10:38:08] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
+2017-09-11 [10:38:10] [Server thread/INFO]: [妹子]Littile_Apple : 你去哪了
+2017-09-11 [10:38:14] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:38:39] [Server thread/INFO]: AmazingShepherd left the game
+2017-09-11 [10:38:39] [Server thread/INFO]: AmazingShepherd[/183.6.159.145:11593] logged out due to client disconnect
+2017-09-11 [10:39:00] [Server thread/INFO]: [MVP+]Devil : all
+2017-09-11 [10:39:12] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 你过来看看
+2017-09-11 [10:39:14] [Server thread/INFO]: [妹子]Littile_Apple : 2136131645
+2017-09-11 [10:39:19] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我铺路了
+2017-09-11 [10:39:27] [Server thread/INFO]: [伪高压酱]2136131645 : 你tp我
+2017-09-11 [10:39:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:39:38] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:39:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:39:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:39:55] [Server thread/INFO]: [伪高压酱]2136131645 : ，/找人 2136131645
+2017-09-11 [10:39:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:39:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:40:05] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-11 [10:40:17] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-11 [10:40:17] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-11 [10:40:40] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-11 [10:41:06] [Server thread/INFO]: [妹子]Littile_Apple : 不可以tP，在服务器不可以tp
+2017-09-11 [10:41:18] [Server thread/INFO]: [伪高压酱]2136131645 : ，输入/找人
+2017-09-11 [10:41:33] [Server thread/INFO]: [伪高压酱]2136131645 : 找人相当于tp
+2017-09-11 [10:41:37] [Server thread/INFO]: [MVP+]Devil : 你加了群没
+2017-09-11 [10:41:47] [Server thread/INFO]: Devil left the game
+2017-09-11 [10:41:47] [Server thread/INFO]: Devil[/124.228.56.64:10375] logged out due to timeout
+2017-09-11 [10:41:49] [Server thread/INFO]: [妹子]Littile_Apple : 英语是什么
+2017-09-11 [10:41:51] [Server thread/INFO]: [AllHELLOaaa1227: Teleported Littile_Apple to 2136131645]
+2017-09-11 [10:41:57] [Server thread/INFO]: Devil[/124.228.56.64:10375] [ClientID: -718125915298570028] logged in with entity id 22 at (th, 125, 66, -163)
+2017-09-11 [10:41:59] [Server thread/INFO]: Devil joined the game
+2017-09-11 [10:42:06] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我把你啦过来了
+2017-09-11 [10:42:15] [Server thread/INFO]: 2136131645 was slain by AllHELLOaaa1227
+2017-09-11 [10:42:19] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:42:20] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 哈哈
+2017-09-11 [10:42:22] [Server thread/INFO]: [伪高压酱]2136131645 : mmp
+2017-09-11 [10:42:24] [Server thread/INFO]: [MVP+]Devil : 你加了群没
+2017-09-11 [10:42:33] [Server thread/INFO]: [AllHELLOaaa1227: Teleported 2136131645 to AllHELLOaaa1227]
+2017-09-11 [10:42:44] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我加了
+2017-09-11 [10:42:49] [Server thread/INFO]: [妹子]Littile_Apple : 哈哈哈
+2017-09-11 [10:42:51] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:42:55] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:43:08] [Server thread/INFO]: [MVP+]Devil : 你昨天怎么突然下线了
+2017-09-11 [10:43:10] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我忘了我还有力量
+2017-09-11 [10:43:18] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 昨天晚上断网了
+2017-09-11 [10:43:18] [Server thread/INFO]: [妹子]Littile_Apple : ！
+2017-09-11 [10:43:21] [Server thread/INFO]: [伪高压酱]2136131645 : 废话
+2017-09-11 [10:43:23] [Server thread/WARNING]: Devil moved too fast, reverting movement
+2017-09-11 [10:43:36] [Server thread/INFO]: [伪高压酱]2136131645 : 略略略
+2017-09-11 [10:43:40] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:43:40] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:43:41] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:43:45] [Server thread/INFO]: Devil left the game
+2017-09-11 [10:43:45] [Server thread/INFO]: Devil[/124.228.56.64:10375] logged out due to client disconnect
+2017-09-11 [10:44:00] [Server thread/INFO]: [伪高压酱]2136131645 : 炮
+2017-09-11 [10:44:02] [Server thread/INFO]: [伪高压酱]2136131645 : 跑
+2017-09-11 [10:44:06] [Server thread/INFO]: [/124.228.56.64:10375] logged out due to timeout
+2017-09-11 [10:44:15] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [10:44:15] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:64012] logged out due to timeout
+2017-09-11 [10:44:25] [Server thread/INFO]: [妹子]Littile_Apple : 哈哈哈哈哈哈
+2017-09-11 [10:44:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:44:41] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:44:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:44:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:44:55] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:61325] [ClientID: -308776663400809635] logged in with entity id 34 at (th, 299.5849, 67.1633, -237.9998)
+2017-09-11 [10:44:57] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [10:44:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:44:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:45:16] [Server thread/INFO]: Littile_Apple was slain by AllHELLOaaa1227
+2017-09-11 [10:45:32] [Server thread/INFO]: [伪高压酱]2136131645 : 笑死
+2017-09-11 [10:45:45] [Server thread/INFO]: [AllHELLOaaa1227: Teleported Littile_Apple to 2136131645]
+2017-09-11 [10:46:12] [Server thread/INFO]: Devil[/124.228.56.64:10734] [ClientID: -718125915298570028] logged in with entity id 42 at (th, 141.6958, 65, -208.2757)
+2017-09-11 [10:46:14] [Server thread/INFO]: Devil joined the game
+2017-09-11 [10:46:19] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 你们搞这么多沙子
+2017-09-11 [10:46:32] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 谁想要副腐竹称号？
+2017-09-11 [10:46:50] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 不用钱
+2017-09-11 [10:47:06] [Server thread/INFO]: [伪高压酱]2136131645 : 反正是你的钱
+2017-09-11 [10:47:17] [Server thread/INFO]: [妹子]Littile_Apple : 真的吗？
+2017-09-11 [10:47:44] [Server thread/INFO]: Devil left the game
+2017-09-11 [10:47:44] [Server thread/INFO]: Devil[/124.228.56.64:10734] logged out due to timeout
+2017-09-11 [10:48:14] [Server thread/INFO]: [妹子]Littile_Apple : 干嘛
+2017-09-11 [10:48:52] [Server thread/INFO]: [妹子]Littile_Apple : 干嘛
+2017-09-11 [10:49:31] [Server thread/INFO]: [妹子]Littile_Apple : 干嘛去
+2017-09-11 [10:49:35] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 不懂
+2017-09-11 [10:49:38] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:49:48] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:49:51] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 3000, 80, 2000]
+2017-09-11 [10:49:53] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:49:54] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [10:49:57] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:49:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:49:58] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:50:21] [Server thread/INFO]: [妹子]Littile_Apple : 去哪了
+2017-09-11 [10:50:29] [Server thread/INFO]: [AllHELLOaaa1227: Teleported 2136131645 to AllHELLOaaa1227]
+2017-09-11 [10:50:42] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 跟我走
+2017-09-11 [10:50:49] [Server thread/INFO]: [伪高压酱]2136131645 : 卧槽
+2017-09-11 [10:51:01] [Server thread/INFO]: [妹子]Littile_Apple : 你们在哪
+2017-09-11 [10:51:08] [Server thread/INFO]: [AllHELLOaaa1227: Teleported 2136131645 to AllHELLOaaa1227]
+2017-09-11 [10:51:23] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 买不了？
+2017-09-11 [10:51:23] [Server thread/INFO]: [副腐竹]2136131645 : emmmm
+2017-09-11 [10:51:29] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 卧槽
+2017-09-11 [10:51:32] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:33] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:35] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:45] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:45] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:47] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:48] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:51] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:51:53] [Server thread/INFO]: [副腐竹]2136131645 : 哦
+2017-09-11 [10:52:00] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在5分钟后重启
+2017-09-11 [10:52:12] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在3分钟后重启
+2017-09-11 [10:52:15] [Server thread/INFO]: [妹子]Littile_Apple : 我找不到你们
+2017-09-11 [10:52:24] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:52:26] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:52:26] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:52:36] [Server thread/INFO]: [AllHELLOaaa1227: Teleported Littile_Apple to AllHELLOaaa1227]
+2017-09-11 [10:52:44] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [10:53:04] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [10:53:13] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling db v1.0.0
+2017-09-11 [10:53:14] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling MagicWE v0.2.7
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling QituShop v1.2.0
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling ChestLocker v1.2
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling Opaving v1.0.0
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling SWorld v1.1.0
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling Asign v1.4
+2017-09-11 [10:53:14] [Server thread/INFO]: [Asign] |---Bye,bye---|
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2017-09-11 [10:53:14] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling AshMan v1.0.1
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
+2017-09-11 [10:53:14] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling DisableFlow v1.0.0
+2017-09-11 [10:53:14] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling BanItem v2.2
+2017-09-11 [10:53:14] [Server thread/INFO]: Disabling ld v流星优化
+2017-09-11 [10:53:14] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [10:53:14] [Server thread/INFO]: 2136131645[/117.90.206.187:15493] logged out due to Server closed
+2017-09-11 [10:53:14] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:53:14] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to Server closed
+2017-09-11 [10:53:14] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [10:53:14] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:61325] logged out due to Server closed
+2017-09-11 [10:53:14] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [10:53:14] [Server thread/INFO]: Unloading level "nether"
+2017-09-11 [10:53:14] [Server thread/INFO]: Unloading level "ender"
+2017-09-11 [10:53:14] [Server thread/INFO]: Unloading level "world"
+2017-09-11 [10:53:14] [Server thread/INFO]: Unloading level "th"
+2017-09-11 [10:53:19] [Server thread/INFO]: Stopping other threads
+2017-09-11 [02:53:19] [Server thread/WARNING]: OpenSSL extension not found
+2017-09-11 [02:53:19] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2017-09-11 [02:53:19] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-11 [02:53:19] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-11 [02:53:19] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading recipes...
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading resource packs...
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading db v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading MagicWE v0.2.7
+2017-09-11 [02:53:20] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading QituShop v1.2.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading ChestLocker v1.2
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading Opaving v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading SWorld v1.1.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading Asign v1.4
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading AshMan v1.0.1
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading SimpleMarry v1.3.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
+2017-09-11 [02:53:20] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading DisableFlow v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading BanItem v2.2
+2017-09-11 [02:53:20] [Server thread/INFO]: Loading ld v流星优化
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling db v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling MagicWE v0.2.7
+2017-09-11 [02:53:20] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling ChestLocker v1.2
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling AshMan v1.0.1
+2017-09-11 [02:53:20] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [02:53:20] [Server thread/INFO]: Preparing level "nether"
+2017-09-11 [02:53:20] [Server thread/INFO]: Preparing level "ender"
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling QituShop v1.2.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling Opaving v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: [Opaving] 作者:橘子
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling SWorld v1.1.0
+2017-09-11 [02:53:20] [Server thread/INFO]: SWorld loaded!
+2017-09-11 [02:53:20] [Server thread/INFO]: [SWorld] 正在加载世界：zy
+2017-09-11 [02:53:20] [Server thread/INFO]: Preparing level "world"
+2017-09-11 [02:53:20] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
+2017-09-11 [02:53:20] [Server thread/INFO]: [SWorld] 正在加载世界：th
+2017-09-11 [02:53:20] [Server thread/INFO]: Preparing level "th"
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling Asign v1.4
+2017-09-11 [02:53:20] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2017-09-11 [02:53:20] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
+2017-09-11 [02:53:20] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
+2017-09-11 [02:53:20] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
+2017-09-11 [02:53:20] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
+2017-09-11 [02:53:20] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
+2017-09-11 [10:53:20] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
+2017-09-11 [10:53:20] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
+2017-09-11 [10:53:20] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
+2017-09-11 [10:53:20] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
+2017-09-11 [10:53:20] [Server thread/INFO]: Enabling DisableFlow v1.0.0
+2017-09-11 [10:53:20] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
+2017-09-11 [10:53:20] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2017-09-11 [10:53:20] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-09-11 [10:53:20] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-09-11 [10:53:21] [Server thread/INFO]: Enabling BanItem v2.2
+2017-09-11 [10:53:21] [Server thread/INFO]: Enabling ld v流星优化
+2017-09-11 [10:53:21] [Server thread/INFO]: Starting GS4 status listener
+2017-09-11 [10:53:21] [Server thread/INFO]: Setting query port to 19132
+2017-09-11 [10:53:21] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-11 [10:53:21] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-11 [10:53:21] [Server thread/INFO]: Done (2.136s)! For help, type "help" or "?"
+2017-09-11 [10:53:37] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 1 at (world, 3000.5686, 80, 2003.0117)
+2017-09-11 [10:53:39] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:53:43] [Server thread/INFO]: 2136131645[/117.90.206.187:15493] [ClientID: 3605837626884141308] logged in with entity id 2 at (world, 2995.9482, 80, 2008.6458)
+2017-09-11 [10:53:43] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:61325] [ClientID: -308776663400809635] logged in with entity id 3 at (world, 3004.3716, 80, 2008.5155)
+2017-09-11 [10:53:45] [Server thread/INFO]: AllHELLOaaa1227 joined the game
+2017-09-11 [10:53:45] [Server thread/INFO]: 2136131645 joined the game
+2017-09-11 [10:54:02] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
+2017-09-11 [10:54:07] [Server thread/INFO]: [副腐竹]2136131645 : 没事干啊你
+2017-09-11 [10:54:13] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 是啊是啊
+2017-09-11 [10:54:22] [Server thread/INFO]: [妹子]Littile_Apple : ???!!!
+2017-09-11 [10:55:04] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 你们用不了的
+2017-09-11 [10:55:10] [Server thread/INFO]: [副腐竹]2136131645 : 废话
+2017-09-11 [10:55:17] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 呵呵
+2017-09-11 [10:55:19] [Server thread/INFO]: Steve[/112.36.203.72:6090] [ClientID: -2559593893447870905] logged in with entity id 5 at (nether, 155.4038, 46.6, 126.978)
+2017-09-11 [10:55:21] [Server thread/INFO]: Steve joined the game
+2017-09-11 [10:55:35] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 过来
+2017-09-11 [10:56:09] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 不用钱的
+2017-09-11 [10:56:21] [Server thread/INFO]: Steve left the game
+2017-09-11 [10:56:21] [Server thread/INFO]: Steve[/112.36.203.72:6090] logged out due to timeout
+2017-09-11 [10:56:26] [Server thread/INFO]: [副腐竹]2136131645 : ，
+2017-09-11 [10:56:36] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 哈哈
+2017-09-11 [10:56:45] [Server thread/INFO]: [副腐竹]Littile_Apple : 我有事
+2017-09-11 [10:56:49] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 哦
+2017-09-11 [10:56:50] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [10:56:50] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [10:56:55] [Server thread/INFO]: [副腐竹]2136131645 : 哦
+2017-09-11 [10:56:55] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [10:56:55] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
+2017-09-11 [10:57:01] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 不玩了
+2017-09-11 [10:57:02] [Server thread/INFO]: [副腐竹]2136131645 : 别重启了
+2017-09-11 [10:57:17] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] [ClientID: -3274805322450550067] logged in with entity id 7 at (world, 3008.9692, 80, 2006.3617)
+2017-09-11 [10:57:19] [Server thread/INFO]: Littile_Apple joined the game
+2017-09-11 [10:57:27] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abc
+2017-09-11 [10:57:46] [Server thread/INFO]: [副腐竹]Littile_Apple : 你们在哪里？
+2017-09-11 [10:57:52] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:57:54] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:57:57] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:57:58] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:00] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [10:58:02] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:04] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:05] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:08] [Server thread/INFO]: [副腐竹]2136131645 : 869633021269517
+2017-09-11 [10:58:10] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [10:58:12] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:14] [Server thread/INFO]: [副腐竹]2136131645 : 1234567890abce
+2017-09-11 [10:58:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [10:58:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [10:58:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [10:58:33] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [10:58:53] [Server thread/INFO]: [副腐竹]2136131645 : 不知道怎么了我小游戏服务器玩不了
+2017-09-11 [10:59:01] [Server thread/INFO]: [副腐竹]2136131645 : ╮(︶﹏︶)╭
+2017-09-11 [10:59:10] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:59:12] [Server thread/INFO]: HansonKerr[/113.118.187.56:48635] [ClientID: -6535518676050656832] logged in with entity id 9 at (world, 128, 68.2, 128)
+2017-09-11 [10:59:12] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:59:14] [Server thread/INFO]: HansonKerr joined the game
+2017-09-11 [10:59:37] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [10:59:44] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [11:00:29] [Server thread/INFO]: HansonKerr left the game
+2017-09-11 [11:00:29] [Server thread/INFO]: HansonKerr[/113.118.187.56:48635] logged out due to client disconnect
+2017-09-11 [11:00:51] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-11 [11:02:01] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [11:02:02] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [11:02:02] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [11:02:05] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [11:02:31] [Server thread/INFO]: [副腐竹]2136131645 : 我们玩小游戏服务器吧
+2017-09-11 [11:02:37] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 好
+2017-09-11 [11:02:45] [Server thread/INFO]: [副腐竹]Littile_Apple : OK
+2017-09-11 [11:02:46] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 哪个大厅？
+2017-09-11 [11:02:53] [Server thread/INFO]: [副腐竹]2136131645 : 四
+2017-09-11 [11:02:57] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 好
+2017-09-11 [11:02:57] [Server thread/WARNING]: Littile_Apple moved wrongly!
+2017-09-11 [11:03:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [11:03:11] [Server thread/INFO]: [副腐竹]Littile_Apple : OK
+2017-09-11 [11:03:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [11:03:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [11:03:21] [Server thread/INFO]: [副腐竹]AllHELLOaaa1227 : 我走了
+2017-09-11 [11:03:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [11:03:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [11:03:24] [Server thread/INFO]: AllHELLOaaa1227 left the game
+2017-09-11 [11:03:24] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:61325] logged out due to client disconnect
+2017-09-11 [11:03:46] [Server thread/INFO]: 2136131645 left the game
+2017-09-11 [11:03:46] [Server thread/INFO]: 2136131645[/117.90.206.187:15493] logged out due to client disconnect
+2017-09-11 [11:03:54] [Server thread/INFO]: Littile_Apple left the game
+2017-09-11 [11:03:54] [Server thread/INFO]: Littile_Apple[/70.64.27.164:58765] logged out due to client disconnect
+2017-09-11 [11:08:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [11:08:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [11:08:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [11:08:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [11:08:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [11:10:52] [Server thread/NOTICE]: Player data not found for "bigiceboy", creating new profile
+2017-09-11 [11:10:52] [Server thread/INFO]: bigiceboy[/204.195.51.189:54894] [ClientID: 4993085149926274656] logged in with entity id 11 at (world, 128, 68, 128)
+2017-09-11 [11:10:55] [Server thread/INFO]: bigiceboy joined the game
+2017-09-11 [11:11:28] [Server thread/WARNING]: bigiceboy moved wrongly!
+2017-09-11 [11:11:40] [Server thread/WARNING]: bigiceboy moved wrongly!
+2017-09-11 [11:11:44] [Server thread/WARNING]: bigiceboy moved wrongly!
+2017-09-11 [11:11:49] [Server thread/WARNING]: bigiceboy moved wrongly!
+2017-09-11 [11:13:01] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-11 [11:13:11] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-11 [11:13:16] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-11 [11:13:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-11 [11:13:21] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-11 [11:14:04] [Server thread/INFO]: bigiceboy left the game
+2017-09-11 [11:14:04] [Server thread/INFO]: bigiceboy[/204.195.51.189:54894] logged out due to client disconnect
