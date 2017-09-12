@@ -990,7 +990,7 @@
 136:66:-95:th:
   kind: C
   name: qiangpojun1
-  count: "1"
+  count: 0
   money: "64"
   if: 100
   id: "155"
@@ -1105,13 +1105,6 @@
   money: "100"
   if: 100
   id: "391"
--217:64:-184:th:
-  kind: C
-  name: xiaochuyin
-  count: 0
-  money: "1100"
-  if: 100
-  id: "264"
 -213:64:-184:th:
   kind: C
   name: gongxiang520
@@ -1140,4 +1133,25 @@
   money: "200"
   if: 100
   id: "17"
+-212:63:-184:th:
+  kind: C
+  name: "2136131645"
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+-215:64:-184:th:
+  kind: C
+  name: xiaochuyin
+  count: 109
+  money: "100"
+  if: 100
+  id: "264"
+-9933:76:3922:th:
+  kind: C
+  name: "2136131645"
+  count: "1000"
+  money: "1"
+  if: 100
+  id: "57"
 ...
