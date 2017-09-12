@@ -5041,6 +5041,31 @@
   price: 112200
   owner: AllHELLOaaa1227
   level: th
-  invitee: []
+  invitee:
+    Devil: true
+  expires: ~
+540:
+  ID: 540
+  startX: 78
+  endX: 102
+  startZ: -62
+  endZ: -35
+  price: 59800
+  owner: makexin
+  level: zy
+  invitee:
+    makexin: true
+  expires: ~
+541:
+  ID: 541
+  startX: -333
+  endX: -297
+  startZ: 152
+  endZ: 189
+  price: 126000
+  owner: "2136131645"
+  level: th
+  invitee:
+    213613164: true
   expires: ~
 ...
