@@ -957,17 +957,6 @@
   level: world
   invitee: []
   expires: ~
-99:
-  ID: 99
-  startX: 112
-  endX: 115
-  startZ: 92
-  endZ: 152
-  price: 11800
-  owner: JeffXiang
-  level: th
-  invitee: []
-  expires: ~
 100:
   ID: 100
   startX: 116
@@ -5067,5 +5056,40 @@
   level: th
   invitee:
     213613164: true
+    liuliu20: true
+    liuliu2008: true
+  expires: ~
+542:
+  ID: 542
+  startX: 116
+  endX: 149
+  startZ: -242
+  endZ: -206
+  price: 112000
+  owner: zhumengzhiying
+  level: th
+  invitee: []
+  expires: ~
+543:
+  ID: 543
+  startX: 138
+  endX: 140
+  startZ: 106
+  endZ: 108
+  price: 100
+  owner: OPU
+  level: zy
+  invitee: []
+  expires: ~
+544:
+  ID: 544
+  startX: -1
+  endX: 29
+  startZ: -282
+  endZ: -249
+  price: 92800
+  owner: snowball0913
+  level: th
+  invitee: []
   expires: ~
 ...
