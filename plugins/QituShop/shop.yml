@@ -1392,32 +1392,18 @@
   money: "1"
   if: 100
   id: "57"
--299:65:165:th:
-  kind: C
-  name: "2136131645"
-  count: "1000"
-  money: "500"
-  if: 100
-  id: "264"
 -299:65:164:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 983
   money: "300"
   if: 100
   id: "265"
 -299:65:163:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 0
   money: "400"
   if: 100
   id: "266"
-95:70:157:zy:
-  kind: C
-  name: "2136131645"
-  count: "1000"
-  money: "1"
-  if: 100
-  id: "57"
 ...

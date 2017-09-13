@@ -5170,4 +5170,15 @@
   level: th
   invitee: []
   expires: ~
+552:
+  ID: 552
+  startX: -9771
+  endX: -9733
+  startZ: 3923
+  endZ: 3964
+  price: 148000
+  owner: GHD
+  level: th
+  invitee: []
+  expires: ~
 ...
