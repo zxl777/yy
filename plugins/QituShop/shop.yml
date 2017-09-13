@@ -1227,49 +1227,49 @@
 -307:58:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -306:58:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:57:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -310:57:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -309:57:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -308:57:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -307:57:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
@@ -1304,7 +1304,7 @@
 -311:59:180:th:
   kind: C
   name: "2136131645"
-  count: 999
+  count: 996
   money: "1"
   if: 100
   id: "57"
@@ -1318,85 +1318,78 @@
 -311:59:178:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:58:183:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:58:182:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:58:181:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:58:180:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:58:179:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:57:183:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:57:182:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:57:181:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:57:180:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
 -311:57:179:th:
   kind: C
   name: "2136131645"
-  count: "1000"
+  count: 999
   money: "1"
   if: 100
   id: "57"
--299:65:164:th:
-  kind: C
-  name: "2136131645"
-  count: 980
-  money: "300"
-  if: 100
-  id: "265"
 ...

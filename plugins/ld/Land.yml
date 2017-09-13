@@ -4833,6 +4833,7 @@
   level: th
   invitee:
     zhumengzhiying: true
+    RoyBlahBlah: true
   expires: ~
 521:
   ID: 521
@@ -4944,7 +4945,8 @@
   price: 19200
   owner: liuliu2008
   level: th
-  invitee: []
+  invitee:
+    欢迎来到繁华之星: true
   expires: ~
 532:
   ID: 532
@@ -5192,6 +5194,96 @@
   price: 19500
   owner: Staldc123
   level: world
+  invitee:
+    yukozh: true
+  expires: ~
+554:
+  ID: 554
+  startX: 76
+  endX: 111
+  startZ: -284
+  endZ: -247
+  price: 122400
+  owner: Come
+  level: th
+  invitee:
+    zhumengzhiying: true
+  expires: ~
+555:
+  ID: 555
+  startX: 77
+  endX: 111
+  startZ: -289
+  endZ: -285
+  price: 9900
+  owner: Come
+  level: th
+  invitee: []
+  expires: ~
+556:
+  ID: 556
+  startX: 76
+  endX: 111
+  startZ: -285
+  endZ: -283
+  price: 3400
+  owner: Come
+  level: th
+  invitee: []
+  expires: ~
+557:
+  ID: 557
+  startX: 178
+  endX: 190
+  startZ: -832
+  endZ: -822
+  price: 9900
+  owner: yukozh
+  level: world
+  invitee: []
+  expires: ~
+558:
+  ID: 558
+  startX: 115
+  endX: 140
+  startZ: -292
+  endZ: -271
+  price: 48000
+  owner: liuliu2008
+  level: th
+  invitee: []
+  expires: ~
+559:
+  ID: 559
+  startX: 110
+  endX: 116
+  startZ: -287
+  endZ: -247
+  price: 19500
+  owner: Come
+  level: zy
+  invitee: []
+  expires: ~
+560:
+  ID: 560
+  startX: 180
+  endX: 187
+  startZ: -822
+  endZ: -817
+  price: 2400
+  owner: yukozh
+  level: world
+  invitee: []
+  expires: ~
+561:
+  ID: 561
+  startX: -3
+  endX: 71
+  startZ: -372
+  endZ: -293
+  price: 569400
+  owner: top_ray
+  level: th
   invitee: []
   expires: ~
 ...
