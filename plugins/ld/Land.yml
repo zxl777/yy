@@ -4820,6 +4820,7 @@
   invitee:
     tmdnmd: true
     sunjiahao520: true
+    欢迎来到繁华之星: true
   expires: ~
 520:
   ID: 520
@@ -5059,6 +5060,7 @@
     213613164: true
     liuliu20: true
     liuliu2008: true
+    NANAZK33: true
   expires: ~
 542:
   ID: 542
@@ -5179,6 +5181,17 @@
   price: 148000
   owner: GHD
   level: th
+  invitee: []
+  expires: ~
+553:
+  ID: 553
+  startX: 50
+  endX: 66
+  startZ: -375
+  endZ: -361
+  price: 19500
+  owner: Staldc123
+  level: world
   invitee: []
   expires: ~
 ...

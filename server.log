@@ -1,1683 +1,944 @@
-2017-09-13 [12:30:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [12:30:50] [Server thread/INFO]: xiaochuyin[/218.17.75.168:7046] [ClientID: 3536275204857610160] logged in with entity id 4247 at (world, 147.4969, 70, 115.4013)
-2017-09-13 [12:30:52] [Server thread/INFO]: xiaochuyin joined the game
-2017-09-13 [12:30:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [12:30:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [12:31:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [12:31:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [12:31:05] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [12:31:17] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [12:31:30] [Server thread/INFO]: 2136131645 left the game
-2017-09-13 [12:31:30] [Server thread/INFO]: 2136131645[/117.90.41.59:1798] logged out due to timeout
-2017-09-13 [12:31:51] [Server thread/INFO]: Devil[/124.228.58.9:29961] [ClientID: -718125915298570028] logged in with entity id 4251 at (th, 155.8478, 67.5, -244.9693)
-2017-09-13 [12:31:53] [Server thread/INFO]: Devil joined the game
-2017-09-13 [12:32:02] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] [ClientID: 3605837626884141308] logged in with entity id 4253 at (th, -321.3151, 74, 162.6423)
-2017-09-13 [12:32:03] [Server thread/INFO]: Steve[/182.32.200.54:22263] [ClientID: -979493208800313260] logged in with entity id 4254 at (world, 289.4535, 56, 31.3379)
-2017-09-13 [12:32:05] [Server thread/INFO]: 2136131645 joined the game
-2017-09-13 [12:32:07] [Server thread/INFO]: Steve joined the game
-2017-09-13 [12:32:42] [Server thread/INFO]: [千金大小姐]xiaochuyin : hi
-2017-09-13 [12:32:50] [Server thread/INFO]: [千金大小姐]xiaochuyin : 换皮肤了啊
-2017-09-13 [12:32:57] [Server thread/INFO]: [MVP+]Devil : long time no see
-2017-09-13 [12:32:59] [Server thread/INFO]: [MVP+]Devil : yes
-2017-09-13 [12:33:09] [Server thread/INFO]: [千金大小姐]xiaochuyin : 哦
-2017-09-13 [12:33:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:33:22] [Server thread/INFO]: [MVP+]Devil : 2136     6666
-2017-09-13 [12:33:31] [Server thread/INFO]: [-老司机-]2136131645 : 六什么
-2017-09-13 [12:33:33] [Server thread/INFO]: [MVP+]Devil : 同时开两个号就是6
-2017-09-13 [12:33:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:33:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:33:37] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:33:46] [Server thread/INFO]: [-老司机-]2136131645 : emmmm
-2017-09-13 [12:34:01] [Server thread/INFO]: [掘地矿工]GHD : 谁是zi_
-2017-09-13 [12:34:02] [Server thread/INFO]: Steve left the game
-2017-09-13 [12:34:02] [Server thread/INFO]: Steve[/182.32.200.54:22263] logged out due to timeout
-2017-09-13 [12:34:24] [Server thread/INFO]: [MVP+]Devil : 你这里钻石这么便宜啊
-2017-09-13 [12:34:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:34:40] [Server thread/INFO]: [掘地矿工]GHD : 11
-2017-09-13 [12:34:46] [Server thread/INFO]: [-老司机-]2136131645 : 来点这个牌子
-2017-09-13 [12:34:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:34:59] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:35:07] [Server thread/INFO]: * Devil 服务器一分钟后重启
-2017-09-13 [12:35:10] [Server thread/INFO]: * Devil 1234567890abce
-2017-09-13 [12:35:17] [Server thread/INFO]: [-老司机-]2136131645 : 这个自杀的牌子
-2017-09-13 [12:35:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:35:18] [Server thread/INFO]: [MVP+]Devil : 2136
-2017-09-13 [12:35:22] [Server thread/INFO]: [MVP+]Devil : 你告诉我
-2017-09-13 [12:35:36] [Server thread/INFO]: [MVP+]Devil : 你怎么可以设置剩余这么多的钻石啊
-2017-09-13 [12:35:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [12:35:43] [Server thread/INFO]: [MVP+]Devil : 我怎么最高设置64个
-2017-09-13 [12:35:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [12:35:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [12:36:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [12:36:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [12:36:03] [Server thread/INFO]: [千金大小姐]xiaochuyin : 怎么了
-2017-09-13 [12:36:04] [Server thread/INFO]: [-老司机-]2136131645 : 那要看你背包里有多少了
-2017-09-13 [12:36:18] [Server thread/INFO]: [MVP+]Devil : 这些我包了
-2017-09-13 [12:36:24] [Server thread/INFO]: [掘地矿工]GHD : 谁有泥土
-2017-09-13 [12:36:42] [Server thread/INFO]: [-老司机-]2136131645 : 最好是整数
-2017-09-13 [12:37:09] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:37:11] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:37:32] [Server thread/INFO]: [-老司机-]2136131645 : 还有七千多你慢慢来
-2017-09-13 [12:37:45] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:45] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:46] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:46] [Server thread/INFO]: [千金大小姐]xiaochuyin : 神马东东
-2017-09-13 [12:37:46] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:47] [Server thread/INFO]: [掘地矿工]GHD : 额
-2017-09-13 [12:37:47] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:47] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:47] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:47] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:47] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:48] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:48] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:49] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:49] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:49] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:49] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:50] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:50] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:50] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:51] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:51] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:52] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:37:52] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [12:38:01] [Server thread/INFO]: 2136131645 died
-2017-09-13 [12:38:48] [Server thread/INFO]: [-老司机-]2136131645 : 反正钻石是我抢来的
-2017-09-13 [12:38:55] [Server thread/INFO]: [-老司机-]2136131645 : 够多
-2017-09-13 [12:39:03] [Server thread/INFO]: [MVP+]Devil : 你哪里抢来的啊
-2017-09-13 [12:39:19] [Server thread/INFO]: [-老司机-]2136131645 : 我还有几千组钻石块
-2017-09-13 [12:39:34] [Server thread/INFO]: [掘地矿工]GHD : 呵呵
-2017-09-13 [12:39:35] [Server thread/INFO]: [千金大小姐]xiaochuyin : 多啊
-2017-09-13 [12:40:22] [Server thread/INFO]: [千金大小姐]xiaochuyin : 怎么弄收购商店
-2017-09-13 [12:40:41] [Server thread/INFO]: [千金大小姐]xiaochuyin : 太多钻石块，买不完
-2017-09-13 [12:40:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [12:40:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [12:40:57] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [12:40:57] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [12:40:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [12:41:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [12:41:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [12:41:12] [Server thread/INFO]: [掘地矿工]GHD : 我需要一些钻石块
-2017-09-13 [12:41:24] [Server thread/INFO]: [MVP+]Devil : 买完了
-2017-09-13 [12:41:26] [Server thread/INFO]: [MVP+]Devil : 阿西吧
-2017-09-13 [12:41:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:42:16] [Server thread/INFO]: [掘地矿工]GHD : 主城怎么有一个人在那里站着
-2017-09-13 [12:42:54] [Server thread/INFO]: [MVP+]Devil : 你再卖
-2017-09-13 [12:42:58] [Server thread/INFO]: [MVP+]Devil : 我还要卖
-2017-09-13 [12:43:09] [Server thread/INFO]: [掘地矿工]GHD : 23
-2017-09-13 [12:43:13] [Server thread/INFO]: [掘地矿工]GHD : 213
-2017-09-13 [12:43:18] [Server thread/INFO]: [MVP+]Devil : 给我来几百组钻石
-2017-09-13 [12:43:20] [Server thread/INFO]: [掘地矿工]GHD : 过来一下
-2017-09-13 [12:43:28] [Server thread/INFO]: [千金大小姐]xiaochuyin : 我也要
-2017-09-13 [12:43:32] [Server thread/INFO]: [掘地矿工]GHD : 我要100zhu
-2017-09-13 [12:44:12] [Server thread/INFO]: [MVP+]Devil : 我赚了利润20多万
-2017-09-13 [12:44:36] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:45:10] [Server thread/INFO]: [千金大小姐]xiaochuyin : 你有多少组
-2017-09-13 [12:45:14] [Server thread/INFO]: hello[/49.221.62.213:19887] [ClientID: -4603540679492425770] logged in with entity id 4506 at (th, -9930.3887, 68, 3922.4482)
-2017-09-13 [12:45:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:45:19] [Server thread/INFO]: hello joined the game
-2017-09-13 [12:45:34] [Server thread/INFO]: hello : 嗨
-2017-09-13 [12:45:38] [Server thread/INFO]: [MVP+]Devil : 还差1百50万
-2017-09-13 [12:45:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [12:45:46] [Server thread/INFO]: [-老司机-]2136131645 : 来吧
-2017-09-13 [12:45:49] [Server thread/INFO]: [MVP+]Devil : 就到10000000万了
-2017-09-13 [12:45:51] [Server thread/INFO]: [掘地矿工]GHD : 213
-2017-09-13 [12:45:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [12:45:53] [Server thread/INFO]: [-老司机-]2136131645 : 五千个
-2017-09-13 [12:45:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [12:46:02] [Server thread/INFO]: hello : 咋圈地啊
-2017-09-13 [12:46:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [12:46:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [12:46:04] [Server thread/INFO]: [千金大小姐]xiaochuyin : 我也要
-2017-09-13 [12:46:11] [Server thread/INFO]: [-老司机-]2136131645 : 傻了吧
-2017-09-13 [12:46:12] [Server thread/INFO]: [MVP+]Devil : 奸商
-2017-09-13 [12:46:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:46:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:46:28] [Server thread/INFO]: [MVP+]Devil : 你这个奸商
-2017-09-13 [12:46:37] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:46:48] [Server thread/INFO]: [掘地矿工]GHD : 213
-2017-09-13 [12:46:50] [Server thread/INFO]: 213613164 was slain by Devil
-2017-09-13 [12:46:53] [Server thread/INFO]: Steve[/120.229.222.178:11323] [ClientID: -3681435475332659664] logged in with entity id 4514 at (world, 289.4535, 55.2, 31.3379)
-2017-09-13 [12:46:59] [Server thread/INFO]: [掘地矿工]GHD : 弄一些给我
-2017-09-13 [12:47:00] [Server thread/INFO]: Steve joined the game
-2017-09-13 [12:47:08] [Server thread/INFO]: [MVP+]Devil : 5000一个钻石
-2017-09-13 [12:47:10] [Server thread/INFO]: hello : 咋圈地啊啊啊啊啊啊
-2017-09-13 [12:47:14] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:47:15] [Server thread/INFO]: [MVP+]Devil : 你想钱想疯了
-2017-09-13 [12:47:22] [Server thread/INFO]: [掘地矿工]GHD : 主城不是有吗
-2017-09-13 [12:47:31] [Server thread/INFO]: hello : 有啥
-2017-09-13 [12:48:13] [Server thread/INFO]: [掘地矿工]GHD : 再说了你的房子辣么帅谁要啊
-2017-09-13 [12:48:21] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:48:23] [Server thread/INFO]: hello : 我要啊
-2017-09-13 [12:48:24] [Server thread/INFO]: Steve left the game
-2017-09-13 [12:48:24] [Server thread/INFO]: Steve[/120.229.222.178:11323] logged out due to client disconnect
-2017-09-13 [12:48:24] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:48:44] [Server thread/INFO]: sunjiahao520[/123.185.3.152:8069] [ClientID: -8457617145591283919] logged in with entity id 4529 at (th, -17.6605, 67, 0.895)
-2017-09-13 [12:48:46] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [12:48:55] [Server thread/INFO]: [掘地矿工]GHD : 服务器已经有重大的事情发生了
-2017-09-13 [12:49:14] [Server thread/INFO]: [帅哥]sunjiahao520 : ，什么事情
-2017-09-13 [12:49:23] [Server thread/INFO]: [掘地矿工]GHD : 去主城看
-2017-09-13 [12:49:32] [Server thread/INFO]: [掘地矿工]GHD : 出生点
-2017-09-13 [12:49:41] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:49:44] [Server thread/INFO]: Steve[/27.189.224.116:16534] [ClientID: 9220277741915257440] logged in with entity id 4538 at (world, 289.4535, 55.4, 31.3379)
-2017-09-13 [12:49:47] [Server thread/INFO]: Steve joined the game
-2017-09-13 [12:49:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:49:50] [Server thread/INFO]: hello : 咋设个点啊
-2017-09-13 [12:49:54] [Server thread/INFO]: [MVP+]Devil : 太少了
-2017-09-13 [12:49:54] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:49:55] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:50:00] [Server thread/INFO]: [MVP+]Devil : 才1000个
-2017-09-13 [12:50:03] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:50:08] [Server thread/INFO]: [帅哥]sunjiahao520 : 没有事情
-2017-09-13 [12:50:15] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:50:20] [Server thread/INFO]: [MVP+]Devil : GHD要钻石还是钻石块
-2017-09-13 [12:50:21] [Server thread/INFO]: Steve left the game
-2017-09-13 [12:50:21] [Server thread/INFO]: Steve[/27.189.224.116:16534] logged out due to timeout
-2017-09-13 [12:50:29] [Server thread/INFO]: [掘地矿工]GHD : 不需要
-2017-09-13 [12:50:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [12:50:43] [Server thread/INFO]: [掘地矿工]GHD : 需要木头
-2017-09-13 [12:50:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [12:50:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [12:50:58] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:50:58] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:51:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [12:51:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [12:51:05] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:51:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 我
-2017-09-13 [12:51:14] [Server thread/INFO]:     [/117.136.79.176:15462] logged out due to Invalid name!
-2017-09-13 [12:51:27] [Server thread/INFO]: [帅哥]sunjiahao520 : 通水
-2017-09-13 [12:51:29] [Server thread/INFO]: [MVP+]Devil : 2136
-2017-09-13 [12:51:29] [Server thread/INFO]: [-老司机-]2136131645 : 我又穷了
-2017-09-13 [12:51:30] [Server thread/INFO]:     [/117.136.79.176:15462] logged out due to Invalid name!
-2017-09-13 [12:51:34] [Server thread/INFO]: [MVP+]Devil : 还有吗
-2017-09-13 [12:51:38] [Server thread/INFO]: [MVP+]Devil : 我还要秒杀
-2017-09-13 [12:51:41] [Server thread/INFO]: [-老司机-]2136131645 : 没了滚
-2017-09-13 [12:51:47] [Server thread/INFO]:     [/117.136.79.176:15462] logged out due to Invalid name!
-2017-09-13 [12:51:58] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:51:59] [Server thread/INFO]: [MVP+]Devil : 没事 反正你可以刷
-2017-09-13 [12:52:05] [Server thread/INFO]: [-老司机-]2136131645 : 默默打开了我的小金库
-2017-09-13 [12:52:11] [Server thread/INFO]: [帅哥]sunjiahao520 : 这个服务器能结婚
-2017-09-13 [12:52:24] [Server thread/INFO]: [帅哥]sunjiahao520 : 有人 v 的吗
-2017-09-13 [12:52:34] [Server thread/INFO]: [-老司机-]2136131645 : 我已经结了
-2017-09-13 [12:52:40] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么结婚
-2017-09-13 [12:52:48] [Server thread/INFO]: hello : 我宁单身
-2017-09-13 [12:52:55] [Server thread/INFO]: [-老司机-]2136131645 : 输入/结婚
-2017-09-13 [12:52:57] [Server thread/INFO]: [MVP+]Devil : 赚了30万
-2017-09-13 [12:52:58] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:53:00] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:13] [Server thread/INFO]: [-老司机-]2136131645 : 那你很棒棒哦
-2017-09-13 [12:53:18] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:53:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:27] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:28] [Server thread/INFO]: [帅哥]sunjiahao520 : 谁要跟我打
-2017-09-13 [12:53:29] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:30] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:31] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:32] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:53:36] [Server thread/INFO]: [帅哥]sunjiahao520 : 我是无敌的
-2017-09-13 [12:53:49] [Server thread/INFO]: [-老司机-]2136131645 : 呵呵
-2017-09-13 [12:54:00] [Server thread/INFO]: [-老司机-]2136131645 : 无敌你个头
-2017-09-13 [12:54:05] [Server thread/INFO]: [帅哥]sunjiahao520 : 来
-2017-09-13 [12:54:08] [Server thread/INFO]: [帅哥]sunjiahao520 : 跟我打
-2017-09-13 [12:54:15] [Server thread/INFO]: [掘地矿工]GHD : 腐竹才是无敌的
-2017-09-13 [12:54:20] [Server thread/NOTICE]: Player data not found for "dost", creating new profile
-2017-09-13 [12:54:20] [Server thread/INFO]: dost[/14.116.68.249:16041] [ClientID: -2417788456366384400] logged in with entity id 4637 at (world, 128, 68, 128)
-2017-09-13 [12:54:21] [Server thread/INFO]: [-老司机-]2136131645 : 等我买药水先
-2017-09-13 [12:54:22] [Server thread/INFO]: dost joined the game
-2017-09-13 [12:54:25] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-13 [12:54:26] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-13 [12:54:31] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:54:39] [Server thread/INFO]: hello : 咋设点啊
-2017-09-13 [12:54:41] [Server thread/INFO]: [掘地矿工]GHD : hell不能tp别人
-2017-09-13 [12:54:47] [Server thread/INFO]: hello : 嗯
-2017-09-13 [12:54:56] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:54:56] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:55:06] [Server thread/INFO]: [-老司机-]2136131645 : 在哪呢
-2017-09-13 [12:55:08] [Server thread/INFO]: [帅哥]sunjiahao520 : 服务器里所有的药水我都有了
-2017-09-13 [12:55:18] [Server thread/INFO]: [帅哥]sunjiahao520 : 资源
-2017-09-13 [12:55:20] [Server thread/INFO]: LUCARIO[/106.114.15.75:26146] [ClientID: -4556700756342383912] logged in with entity id 4671 at (world, -255.7, 70, 189.1586)
-2017-09-13 [12:55:23] [Server thread/INFO]: LUCARIO joined the game
-2017-09-13 [12:55:31] [Server thread/INFO]: [-老司机-]2136131645 : 谁买不起似的
-2017-09-13 [12:55:33] [Server thread/INFO]: [帅哥]sunjiahao520 : 资源世界
-2017-09-13 [12:55:41] [Server thread/INFO]: [掘地矿工]GHD : y
-2017-09-13 [12:55:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [12:55:46] [Server thread/INFO]: [掘地矿工]GHD : 有
-2017-09-13 [12:55:51] [Server thread/INFO]: [掘地矿工]GHD : 我买不起
-2017-09-13 [12:55:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [12:55:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [12:56:01] [Server thread/INFO]: [帅哥]sunjiahao520 : 等一下
-2017-09-13 [12:56:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [12:56:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [12:56:08] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:56:14] [Server thread/INFO]: LUCARIO left the game
-2017-09-13 [12:56:14] [Server thread/INFO]: LUCARIO[/106.114.15.75:26146] logged out due to client disconnect
-2017-09-13 [12:56:21] [Server thread/INFO]: dost left the game
-2017-09-13 [12:56:21] [Server thread/INFO]: dost[/14.116.68.249:16041] logged out due to Failed to login in 120 seconds
-2017-09-13 [12:56:49] [Server thread/INFO]: [帅哥]sunjiahao520 : hi
-2017-09-13 [12:56:53] [Server thread/INFO]: [千金大小姐]xiaochuyin : 嗯
-2017-09-13 [12:56:55] [Server thread/INFO]: [帅哥]sunjiahao520 : 你好
-2017-09-13 [12:57:01] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:57:03] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:57:08] [Server thread/INFO]: hello : 咋设家啊
-2017-09-13 [12:57:10] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:57:13] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:57:15] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:57:25] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:57:25] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:57:26] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [12:57:33] [Server thread/INFO]: Steve[/27.189.224.116:17036] [ClientID: 9220277741915257440] logged in with entity id 4717 at (world, 289.4535, 55.6, 31.3379)
-2017-09-13 [12:57:35] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:57:35] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:57:35] [Server thread/INFO]: Steve joined the game
-2017-09-13 [12:57:43] [Server thread/INFO]: [-老司机-]2136131645 : 你脚下是虚空
-2017-09-13 [12:57:48] [Server thread/INFO]: [-老司机-]2136131645 : 小心
-2017-09-13 [12:57:52] [Server thread/INFO]: hello : 咋设家啊
-2017-09-13 [12:58:04] [Server thread/INFO]: Steve left the game
-2017-09-13 [12:58:04] [Server thread/INFO]: Steve[/27.189.224.116:17036] logged out due to client disconnect
-2017-09-13 [12:58:06] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [12:58:06] [Server thread/INFO]: sunjiahao520[/123.185.3.152:8069] logged out due to client disconnect
-2017-09-13 [12:58:07] [Server thread/INFO]: [MVP+]Devil : 初音
-2017-09-13 [12:58:12] [Server thread/INFO]: [千金大小姐]xiaochuyin : 干嘛
-2017-09-13 [12:58:14] [Server thread/INFO]: [MVP+]Devil : 那里还有铁锭
-2017-09-13 [12:58:15] [Server thread/INFO]: sunjiahao520[/123.185.3.152:8069] [ClientID: -8457617145591283919] logged in with entity id 4753 at (world, 148.3597, 70, 118.07)
-2017-09-13 [12:58:17] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [12:58:20] [Server thread/INFO]: [千金大小姐]xiaochuyin : 哪里
-2017-09-13 [12:58:22] [Server thread/INFO]: [MVP+]Devil : 可以赚利润100
-2017-09-13 [12:58:59] [Server thread/INFO]: [-老司机-]2136131645 : 来啊
-2017-09-13 [12:59:31] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:59:31] [Server thread/WARNING]: hello moved wrongly!
-2017-09-13 [12:59:32] [Server thread/INFO]: [MVP+]Devil : 有没有绿宝石卖啊 2136
-2017-09-13 [12:59:34] [Server thread/INFO]: dost[/14.116.68.249:16394] [ClientID: -2417788456366384400] logged in with entity id 4813 at (world, 128, 68.2, 128)
-2017-09-13 [12:59:35] [Server thread/INFO]: sunjiahao520 fell out of the world
-2017-09-13 [12:59:36] [Server thread/INFO]: dost joined the game
-2017-09-13 [12:59:43] [Server thread/INFO]: [帅哥]sunjiahao520 : 我操
-2017-09-13 [12:59:46] [Server thread/INFO]: [帅哥]sunjiahao520 : 尼玛的
-2017-09-13 [12:59:50] [Server thread/INFO]: [-老司机-]2136131645 : 嚣张不
-2017-09-13 [12:59:56] [Server thread/INFO]: [帅哥]sunjiahao520 : 2000000
-2017-09-13 [12:59:59] [Server thread/INFO]: [帅哥]sunjiahao520 : 没了
-2017-09-13 [13:00:00] [Server thread/INFO]: hello left the game
-2017-09-13 [13:00:00] [Server thread/INFO]: hello[/49.221.62.213:19887] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:00:05] [Server thread/INFO]: [帅哥]sunjiahao520 : 赔
-2017-09-13 [13:00:23] [Server thread/INFO]: [-老司机-]2136131645 : 自没脑子怪我咯
-2017-09-13 [13:00:36] [Server thread/INFO]: [帅哥]sunjiahao520 : 你
-2017-09-13 [13:00:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:00:45] [Server thread/INFO]: [帅哥]sunjiahao520 : 2000000
-2017-09-13 [13:00:48] [Server thread/INFO]: [帅哥]sunjiahao520 : 2000000
-2017-09-13 [13:00:51] [Server thread/INFO]: [帅哥]sunjiahao520 : 2000000
-2017-09-13 [13:00:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:00:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:00:58] [Server thread/INFO]: [-老司机-]2136131645 : 你刷屏也没用
-2017-09-13 [13:00:58] [Server thread/INFO]: [帅哥]sunjiahao520 : 还我
-2017-09-13 [13:01:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:01:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:01:10] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:01:12] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:12] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:12] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:13] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:13] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:13] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:13] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:14] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:14] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:14] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:15] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:15] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:15] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:16] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:16] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:16] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:16] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:17] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:01:17] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:01:17] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:01:18] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:01:18] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:01:35] [Server thread/INFO]: dost left the game
-2017-09-13 [13:01:35] [Server thread/INFO]: dost[/14.116.68.249:16394] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:01:51] [Server thread/INFO]: [-老司机-]2136131645 : 怼谁谁怀孕
-2017-09-13 [13:01:53] [Server thread/INFO]: dost[/14.116.68.249:16394] [ClientID: -2417788456366384400] logged in with entity id 4816 at (world, 128, 68.4, 128)
-2017-09-13 [13:01:55] [Server thread/INFO]: dost joined the game
-2017-09-13 [13:02:11] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:02:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:02:15] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:02:17] [Server thread/INFO]: [-老司机-]2136131645 : 小学生
-2017-09-13 [13:02:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:02:18] [Server thread/INFO]: [帅哥]sunjiahao520 : 我要找OP
-2017-09-13 [13:02:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:02:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:02:27] [Server thread/INFO]: dost left the game
-2017-09-13 [13:02:27] [Server thread/INFO]: dost[/14.116.68.249:16394] logged out due to timeout
-2017-09-13 [13:02:30] [Server thread/WARNING]: GHD moved too fast, reverting movement
-2017-09-13 [13:02:33] [Server thread/INFO]: [-老司机-]2136131645 : 自己笨怪我？
-2017-09-13 [13:02:36] [Server thread/INFO]: [帅哥]sunjiahao520 : 你在哪
-2017-09-13 [13:02:38] [Server thread/WARNING]: GHD moved too fast, reverting movement
-2017-09-13 [13:02:43] [Server thread/INFO]: [帅哥]sunjiahao520 : 我找你
-2017-09-13 [13:02:44] [Server thread/INFO]: [-老司机-]2136131645 : op会理你？
-2017-09-13 [13:02:48] [Server thread/INFO]: [-老司机-]2136131645 : 我在我家
-2017-09-13 [13:02:52] [Server thread/INFO]: [掘地矿工]GHD : plcmd
-2017-09-13 [13:03:04] [Server thread/INFO]: dost[/14.116.68.249:16526] [ClientID: -2417788456366384400] logged in with entity id 4817 at (world, 124.5667, 64, 131.0757)
-2017-09-13 [13:03:05] [Server thread/INFO]: dost joined the game
-2017-09-13 [13:03:09] [Server thread/INFO]: [MVP+]Devil : 800万了
-2017-09-13 [13:03:18] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:03:30] [Server thread/INFO]: [MVP+]Devil : 没毛病
-2017-09-13 [13:03:45] [Server thread/INFO]: [MVP+]Devil : hey
-2017-09-13 [13:03:47] [Server thread/INFO]: [MVP+]Devil : 老板
-2017-09-13 [13:03:50] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:03:50] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:03:50] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:03:51] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:03:51] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:03:51] [Server thread/INFO]: * 2136131645 1234567890abce
-2017-09-13 [13:03:52] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:03:52] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:03:52] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:03:53] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
-2017-09-13 [13:03:53] [Server thread/INFO]: [MVP+]Devil : 东西卖完了
-2017-09-13 [13:03:58] [Server thread/INFO]: [MVP+]Devil : 来补货
-2017-09-13 [13:04:08] [Server thread/INFO]: Steve[/183.198.59.127:13665] [ClientID: 7154611009966448631] logged in with entity id 4822 at (world, 289.4535, 55.8, 31.3379)
-2017-09-13 [13:04:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 20000
-2017-09-13 [13:04:10] [Server thread/INFO]: Steve joined the game
-2017-09-13 [13:04:15] [Server thread/INFO]: [帅哥]sunjiahao520 : 200000
-2017-09-13 [13:04:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:04:22] [Server thread/INFO]: [帅哥]sunjiahao520 : 就这样没了
-2017-09-13 [13:05:04] [Server thread/INFO]: Steve left the game
-2017-09-13 [13:05:04] [Server thread/INFO]: Steve[/183.198.59.127:13665] logged out due to client disconnect
-2017-09-13 [13:05:08] [Server thread/INFO]: [帅哥]sunjiahao520 : liuliu2008再给我500000
-2017-09-13 [13:05:25] [Server thread/INFO]: GHD left the game
-2017-09-13 [13:05:25] [Server thread/INFO]: GHD[/113.117.7.179:54510] logged out due to client disconnect
-2017-09-13 [13:05:35] [Server thread/INFO]: [-老司机-]2136131645 : 够了吧小学生
-2017-09-13 [13:05:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:05:51] [Server thread/INFO]: GHD[/113.117.7.179:54510] [ClientID: -6009527916499289536] logged in with entity id 4831 at (th, -9735.4629, 65, 3963.4712)
-2017-09-13 [13:05:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:05:53] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-13 [13:05:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:05:58] [Server thread/INFO]: GHD joined the game
-2017-09-13 [13:06:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:06:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:06:11] [Server thread/INFO]: dost left the game
-2017-09-13 [13:06:11] [Server thread/INFO]: dost[/14.116.68.249:16526] logged out due to timeout
-2017-09-13 [13:06:31] [Server thread/INFO]: [MVP+]Devil : 2136你不上学啊
-2017-09-13 [13:06:40] [Server thread/INFO]: [-老司机-]2136131645 : 不上
-2017-09-13 [13:06:54] [Server thread/INFO]: [帅哥]sunjiahao520 : 我才不是小学生
-2017-09-13 [13:07:29] [Server thread/INFO]: [-老司机-]2136131645 : 我这个号五十卖了谁要
-2017-09-13 [13:07:38] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [13:07:45] [Server thread/WARNING]: GHD moved too fast, reverting movement
-2017-09-13 [13:07:50] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:07:56] [Server thread/INFO]: [-老司机-]2136131645 : 几千组钻石块的号
-2017-09-13 [13:08:09] [Server thread/INFO]: [千金大小姐]xiaochuyin : 我还有
-2017-09-13 [13:08:13] [Server thread/INFO]: [千金大小姐]xiaochuyin : 要
-2017-09-13 [13:08:21] [Server thread/INFO]: [掘地矿工]GHD : placed
-2017-09-13 [13:08:26] [Server thread/INFO]: [千金大小姐]xiaochuyin : 差一点就整了
-2017-09-13 [13:09:10] [Server thread/INFO]: [千金大小姐]xiaochuyin : 谢谢
-2017-09-13 [13:09:12] [Server thread/INFO]: [-老司机-]2136131645 : 没了
-2017-09-13 [13:09:20] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:09:22] [Server thread/INFO]: [MVP+]Devil : ……
-2017-09-13 [13:10:01] [Server thread/INFO]: [帅哥]sunjiahao520 : 不够
-2017-09-13 [13:10:05] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:10:05] [Server thread/INFO]: sunjiahao520[/123.185.3.152:8069] logged out due to client disconnect
-2017-09-13 [13:10:06] [Server thread/INFO]: 2136131645 has just earned the achievement Time to Farm!
-2017-09-13 [13:10:13] [Server thread/INFO]: sunjiahao520[/123.185.3.152:8069] [ClientID: -8457617145591283919] logged in with entity id 4844 at (world, 146.2067, 70, 117.554)
-2017-09-13 [13:10:14] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [13:10:42] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:10:42] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:10:52] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:10:52] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:10:57] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:49360] [ClientID: -308776663400809635] logged in with entity id 4848 at (world, 97.7081, 71, 164.5089)
-2017-09-13 [13:10:57] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:10:59] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-13 [13:11:01] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:11:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:11:02] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:11:03] [Server thread/INFO]: [MVP+]Devil : 为什么打我
-2017-09-13 [13:11:07] [Server thread/INFO]: [帅哥]sunjiahao520 : 还有吗
-2017-09-13 [13:11:14] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:11:15] [Server thread/INFO]: [-老司机-]2136131645 : 哟大佬回来了
-2017-09-13 [13:11:17] [Server thread/WARNING]: GHD moved wrongly!
-2017-09-13 [13:11:22] [Server thread/INFO]: [MVP+]Devil : 都在这卖钻石呢
-2017-09-13 [13:11:30] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [13:11:48] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你们干嘛啊
-2017-09-13 [13:11:53] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 撸牌子
-2017-09-13 [13:12:00] [Server thread/INFO]: [MVP+]Devil : 2136给我们发钻石块
-2017-09-13 [13:12:05] [Server thread/INFO]: [aa]213613164 : l来参观我家啊
-2017-09-13 [13:12:09] [Server thread/INFO]: [aa]213613164 : All
-2017-09-13 [13:12:12] [Server thread/INFO]: [MVP+]Devil : 我们在换钱
-2017-09-13 [13:12:16] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 额
-2017-09-13 [13:12:25] [Server thread/INFO]: [AllHELLOaaa1227: Reloading server...]
-2017-09-13 [13:12:25] [Server thread/INFO]: Saving levels...
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling db v1.0.0
-2017-09-13 [13:12:25] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling Asign v1.4
-2017-09-13 [13:12:25] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-09-13 [13:12:25] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-09-13 [13:12:25] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-09-13 [13:12:25] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling BanItem v2.2
-2017-09-13 [13:12:25] [Server thread/INFO]: Disabling ld v流星优化
-2017-09-13 [13:12:25] [Server thread/INFO]: Reloading properties...
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading db v1.0.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-09-13 [13:12:25] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading Asign v1.4
-2017-09-13 [13:12:25] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
-2017-09-13 [13:12:26] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading BanItem v2.2
-2017-09-13 [13:12:26] [Server thread/INFO]: Loading ld v流星优化
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling db v1.0.0
-2017-09-13 [13:12:26] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-09-13 [13:12:26] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-09-13 [13:12:26] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-09-13 [13:12:26] [Server thread/INFO]: SWorld loaded!
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling Asign v1.4
-2017-09-13 [13:12:26] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-09-13 [13:12:26] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-09-13 [13:12:26] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-09-13 [13:12:26] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-09-13 [13:12:26] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-09-13 [13:12:26] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-09-13 [13:12:26] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-09-13 [13:12:26] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-09-13 [13:12:26] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-09-13 [13:12:26] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-09-13 [13:12:26] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-09-13 [13:12:28] [Server thread/INFO]: Enabling BanItem v2.2
-2017-09-13 [13:12:28] [Server thread/INFO]: Enabling ld v流星优化
-2017-09-13 [13:12:29] [Server thread/INFO]: [AllHELLOaaa1227: Reload complete.]
-2017-09-13 [13:12:46] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈
-2017-09-13 [13:12:52] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:12:52] [Server thread/INFO]: sunjiahao520[/123.185.3.152:8069] logged out due to client disconnect
-2017-09-13 [13:13:02] [Server thread/INFO]: GHD left the game
-2017-09-13 [13:13:02] [Server thread/INFO]: GHD[/113.117.7.179:54510] logged out due to client disconnect
-2017-09-13 [13:13:09] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 腐竹的号被盗了
-2017-09-13 [13:13:13] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] [ClientID: -8457617145591283919] logged in with entity id 4851 at (world, 144.7332, 70, 117.4191)
-2017-09-13 [13:13:15] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [13:13:21] [Server thread/INFO]: [千金大小姐]xiaochuyin : 对啊
-2017-09-13 [13:13:22] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 要不要我帮他重置密码
-2017-09-13 [13:13:30] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 嘿嘿嘿
-2017-09-13 [13:13:34] [Server thread/INFO]: [MVP+]Devil : 我觉得OK
-2017-09-13 [13:13:34] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:45166] [ClientID: 3036730296650954731] logged in with entity id 4852 at (th, 266.1571, 83, -274.268)
-2017-09-13 [13:13:36] [Server thread/INFO]: Alex[/176.205.74.254:60094] [ClientID: 7240991689471645163] logged in with entity id 4853 at (th, -64.4369, 65.6, 271.5544)
-2017-09-13 [13:13:37] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-13 [13:13:38] [Server thread/INFO]: Alex joined the game
-2017-09-13 [13:13:44] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我会被腐竹打死的
-2017-09-13 [13:13:52] [Server thread/INFO]: [aa]213613164 : 还是别多管闲事吧
-2017-09-13 [13:13:55] [Server thread/INFO]: [MVP+]Devil : 还差150万就到1000万了
-2017-09-13 [13:14:00] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [13:14:04] [Server thread/INFO]: [帅哥]sunjiahao520 : 我不够钱
-2017-09-13 [13:14:07] [Server thread/INFO]: [帅哥]sunjiahao520 : 还我
-2017-09-13 [13:14:22] [Server thread/INFO]: [aa]213613164 : 滚！没有了
-2017-09-13 [13:14:22] [Server thread/INFO]: [MVP+]Devil : 又不是我杀得你
-2017-09-13 [13:14:30] [Server thread/INFO]: 2136131645 left the game
-2017-09-13 [13:14:30] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:14:37] [Server thread/INFO]: Alex left the game
-2017-09-13 [13:14:37] [Server thread/INFO]: Alex[/176.205.74.254:60094] logged out due to timeout
-2017-09-13 [13:14:40] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 213613164]
-2017-09-13 [13:14:46] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : Devil
-2017-09-13 [13:14:48] [Server thread/INFO]: [MVP+]Devil : 你怕了丫
-2017-09-13 [13:14:49] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:14:49] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] logged out due to client disconnect
-2017-09-13 [13:14:56] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 那个什么俱乐部
-2017-09-13 [13:14:57] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] [ClientID: -8457617145591283919] logged in with entity id 4855 at (world, 153.9714, 65, 114.0321)
-2017-09-13 [13:14:59] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [13:15:01] [Server thread/INFO]: [aa]213613164 : 不是给你的
-2017-09-13 [13:15:05] [Server thread/INFO]: [MVP+]Devil : 其实都行
-2017-09-13 [13:15:16] [Server thread/INFO]: [aa]213613164 : 呵呵
-2017-09-13 [13:15:18] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 你有时间的话就按你想的去建
-2017-09-13 [13:15:24] [Server thread/INFO]: [千金大小姐]xiaochuyin : 谢谢啊
-2017-09-13 [13:15:29] [Server thread/INFO]: [MVP+]Devil : 好的
-2017-09-13 [13:15:42] [Server thread/INFO]: * 213613164 服务器一分钟后重启
-2017-09-13 [13:15:45] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:15:46] [Server thread/WARNING]: xiaochuyin moved wrongly!
-2017-09-13 [13:15:51] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我觉得哪不好的话事后再修改
-2017-09-13 [13:15:57] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 还有
-2017-09-13 [13:16:02] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:16:03] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to 3000, 80, 2000]
-2017-09-13 [13:16:05] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:05] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:05] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:06] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:06] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:06] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:06] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:06] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:06] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:07] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:07] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:07] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:07] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:07] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:07] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:08] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:08] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:08] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:08] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:08] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:08] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:09] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:09] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:09] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:09] [Server thread/INFO]: [AllHELLOaaa1227] 服务器将在1分钟后重启
-2017-09-13 [13:16:09] [Server thread/INFO]: [千金大小姐]xiaochuyin : 逐梦我去你那看看
-2017-09-13 [13:16:10] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:16:11] [Server thread/INFO]: * 213613164 服务器一分钟后重启
-2017-09-13 [13:16:11] [Server thread/INFO]: * 213613164 服务器一分钟后重启
-2017-09-13 [13:16:11] [Server thread/INFO]: * 213613164 服务器一分钟后重启
-2017-09-13 [13:16:12] [Server thread/INFO]: * 213613164 服务器一分钟后重启
-2017-09-13 [13:16:14] [Server thread/INFO]: * 213613164 服务器一分钟后重启
-2017-09-13 [13:16:14] [Server thread/INFO]: [AllHELLOaaa1227: Stopping the server]
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling db v1.0.0
-2017-09-13 [13:16:14] [Server thread/INFO]: [db] [底部信息系统]底部信息关闭，谢谢您的使用！
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling MagicWE v0.2.7
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling QituShop v1.2.0
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling ChestLocker v1.2
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling Opaving v1.0.0
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling SWorld v1.1.0
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling Asign v1.4
-2017-09-13 [13:16:14] [Server thread/INFO]: [Asign] |---Bye,bye---|
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling essentialsTP v1.0.9
-2017-09-13 [13:16:14] [Server thread/INFO]: [essentialsTP] essentialsTP+ 关闭
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling AshMan v1.0.1
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling SimpleMarry v1.3.0
-2017-09-13 [13:16:14] [Server thread/INFO]: [SimpleMarry] [结婚] 成功卸载 ！
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling MagicTelePortal v1.3.2 didou汉化
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling HereAuth v1.0-Dev#39
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling DisableFlow v1.0.0
-2017-09-13 [13:16:14] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动关闭
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling EconomyAPI v2.0.9
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling BanItem v2.2
-2017-09-13 [13:16:14] [Server thread/INFO]: Disabling ld v流星优化
-2017-09-13 [13:16:14] [Server thread/INFO]: 213613164 left the game
-2017-09-13 [13:16:14] [Server thread/INFO]: 213613164[/117.90.41.59:2172] logged out due to Server closed
-2017-09-13 [13:16:14] [Server thread/INFO]: xiaochuyin left the game
-2017-09-13 [13:16:14] [Server thread/INFO]: xiaochuyin[/218.17.75.168:7046] logged out due to Server closed
-2017-09-13 [13:16:14] [Server thread/INFO]: Devil left the game
-2017-09-13 [13:16:14] [Server thread/INFO]: Devil[/124.228.58.9:29961] logged out due to Server closed
-2017-09-13 [13:16:14] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-13 [13:16:14] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:49360] logged out due to Server closed
-2017-09-13 [13:16:14] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-13 [13:16:14] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:45166] logged out due to Server closed
-2017-09-13 [13:16:14] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:16:14] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] logged out due to Server closed
-2017-09-13 [13:16:14] [Server thread/INFO]: Unloading level "world"
-2017-09-13 [13:16:15] [Server thread/INFO]: Unloading level "nether"
-2017-09-13 [13:16:15] [Server thread/INFO]: Unloading level "ender"
-2017-09-13 [13:16:15] [Server thread/INFO]: Unloading level "world"
-2017-09-13 [13:16:15] [Server thread/INFO]: Unloading level "th"
-2017-09-13 [13:16:19] [Server thread/INFO]: Stopping other threads
-2017-09-13 [05:16:20] [Server thread/INFO]: 
-
-  _____            _               _____
- / ____|          (_)             |  __ \
-| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
-| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
-| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
- \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
-                          __/ |
-                         |___/
-
-	Version: 1.1dev (5437e0f)
-	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5
-	PHP Version: 7.0.9
-	OS: Linux
-	This core is maintained by GenisysPro (https://github.com/GenisysPro)
-	Discord Group chat: https://discord.gg/WrKzRNn 
-	Chatroom on QQ: 559301590 
-	Welcome to donate us on QQ: 1912003473
-	
-2017-09-13 [05:16:20] [Server thread/INFO]: Loading properties and configuration...
-2017-09-13 [05:16:20] [Server thread/WARNING]: OpenSSL extension not found
-2017-09-13 [05:16:20] [Server thread/WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
-2017-09-13 [05:16:20] [Server thread/INFO]: Selected English (eng) as the base language
-2017-09-13 [05:16:20] [Server thread/INFO]: Opening server on 0.0.0.0:19132
-2017-09-13 [05:16:20] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading recipes...
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading resource packs...
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading db v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading MagicWE v0.2.7
-2017-09-13 [05:16:21] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading QituShop v1.2.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading ChestLocker v1.2
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading Opaving v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading SWorld v1.1.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading Asign v1.4
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading essentialsTP v1.0.9
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading AshMan v1.0.1
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading SmartSign_by腐竹CrainL v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading SimpleMarry v1.3.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading MagicTelePortal v1.3.2 didou汉化
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading HereAuth v1.0-Dev#39
-2017-09-13 [05:16:21] [Server thread/WARNING]: [HereAuth] HereAuth uses a sophisticated threading mechanism. It has not been tested on GenisysPro. It may have errors or even make other plugins misbehave if used on GenisysPro.
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading DisableFlow v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading EconomyAPI v2.0.9
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading BanItem v2.2
-2017-09-13 [05:16:21] [Server thread/INFO]: Loading ld v流星优化
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling db v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: [db] [底部信息系统]底部信息开启！
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling MagicWE v0.2.7
-2017-09-13 [05:16:21] [Server thread/INFO]: [MagicWE] MagicWE enabled!
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling ChestLocker v1.2
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling AshMan v1.0.1
-2017-09-13 [05:16:21] [Server thread/INFO]: Preparing level "world"
-2017-09-13 [05:16:21] [Server thread/INFO]: Preparing level "nether"
-2017-09-13 [05:16:21] [Server thread/INFO]: Preparing level "ender"
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling QituShop v1.2.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling Opaving v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: [Opaving] 作者:橘子
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling SWorld v1.1.0
-2017-09-13 [05:16:21] [Server thread/INFO]: SWorld loaded!
-2017-09-13 [05:16:21] [Server thread/INFO]: [SWorld] 正在加载世界：zy
-2017-09-13 [05:16:21] [Server thread/INFO]: Preparing level "world"
-2017-09-13 [05:16:21] [Server thread/INFO]: [SWorld] [温馨提示] 您加载的地图 zy 的文件夹名与地图名 world 不符，可能会出现无法记录玩家位置的bug！
-2017-09-13 [05:16:21] [Server thread/INFO]: [SWorld] 正在加载世界：th
-2017-09-13 [05:16:21] [Server thread/INFO]: Preparing level "th"
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling Asign v1.4
-2017-09-13 [05:16:21] [Server thread/INFO]: [Asign] Hello!It's Sgien.Vebot
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling essentialsTP v1.0.9
-2017-09-13 [05:16:21] [Server thread/INFO]: [essentialsTP] essentialsTP+ 加载...
-2017-09-13 [05:16:21] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml]....
-2017-09-13 [05:16:21] [Server thread/INFO]: [essentialsTP] [INFO] 加载 [config.yml] 成功
-2017-09-13 [05:16:21] [Server thread/INFO]: [essentialsTP] essentialsTP+ 开启!
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling SmartSign_by腐竹CrainL v1.0.0
-2017-09-13 [05:16:21] [Server thread/INFO]: Enabling SimpleMarry v1.3.0
-2017-09-13 [13:16:21] [Server thread/INFO]: [SimpleMarry] [结婚] V1.3.0 成功加载 ！作者 ： Him188
-2017-09-13 [13:16:21] [Server thread/INFO]: Enabling MagicTelePortal v1.3.2 didou汉化
-2017-09-13 [13:16:21] [Server thread/INFO]: [MagicTelePortal] 星门插件已启用，by:萌萌哒的didou汉化
-2017-09-13 [13:16:21] [Server thread/INFO]: Enabling HereAuth v1.0-Dev#39
-2017-09-13 [13:16:21] [Server thread/INFO]: Enabling DisableFlow v1.0.0
-2017-09-13 [13:16:21] [Server thread/INFO]: [DisableFlow] [DisableFlow] 禁止水和岩浆流动开启
-2017-09-13 [13:16:21] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
-2017-09-13 [13:16:21] [Server thread/NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
-2017-09-13 [13:16:21] [Server thread/INFO]: [EconomyAPI] Checking for updates... It may be take some while.
-2017-09-13 [13:16:22] [Server thread/INFO]: Enabling BanItem v2.2
-2017-09-13 [13:16:22] [Server thread/INFO]: Enabling ld v流星优化
-2017-09-13 [13:16:22] [Server thread/INFO]: Starting GS4 status listener
-2017-09-13 [13:16:22] [Server thread/INFO]: Setting query port to 19132
-2017-09-13 [13:16:22] [Server thread/INFO]: Query running on 0.0.0.0:19132
-2017-09-13 [13:16:22] [Server thread/INFO]: Default game type: Survival Mode
-2017-09-13 [13:16:22] [Server thread/INFO]: Done (1.312s)! For help, type "help" or "?"
-2017-09-13 [13:16:35] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] [ClientID: -8457617145591283919] logged in with entity id 1 at (world, 126.6624, 65, 112.3016)
-2017-09-13 [13:16:36] [Server thread/INFO]: xiaochuyin[/218.17.75.168:7046] [ClientID: 3536275204857610160] logged in with entity id 2 at (world, 140.4923, 70, 124.088)
-2017-09-13 [13:16:37] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:45166] [ClientID: 3036730296650954731] logged in with entity id 3 at (th, 265.9264, 83, -276.4395)
-2017-09-13 [13:16:37] [Server thread/INFO]: Devil[/124.228.58.9:29961] [ClientID: -718125915298570028] logged in with entity id 4 at (th, -330.7, 65, 171.4765)
-2017-09-13 [13:16:37] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [13:16:39] [Server thread/INFO]: xiaochuyin joined the game
-2017-09-13 [13:16:39] [Server thread/INFO]: zhumengzhiying joined the game
-2017-09-13 [13:16:39] [Server thread/INFO]: Devil joined the game
-2017-09-13 [13:16:47] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:49360] [ClientID: -308776663400809635] logged in with entity id 5 at (world, 3002.9197, 80, 2008.6986)
-2017-09-13 [13:16:48] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-13 [13:16:50] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] [ClientID: 3605837626884141308] logged in with entity id 6 at (world, 144.1672, 70, 116.1153)
-2017-09-13 [13:16:51] [Server thread/INFO]: [千金大小姐]xiaochuyin : 怎么回事
-2017-09-13 [13:16:52] [Server thread/INFO]: 2136131645 joined the game
-2017-09-13 [13:17:03] [Server thread/INFO]: [AllHELLOaaa1227: Set the time to 6000]
-2017-09-13 [13:17:06] [Server thread/INFO]: [-老司机-]2136131645 : 服务器重启了
-2017-09-13 [13:17:11] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : GHD那边的村子就不要去开发了
-2017-09-13 [13:17:20] [Server thread/INFO]: * zhumengzhiying 我代表逐梦集团承诺
-2017-09-13 [13:17:20] [Server thread/INFO]: * zhumengzhiying 不对新人雪地村庄-进行开发
-2017-09-13 [13:17:20] [Server thread/INFO]: * zhumengzhiying 保证村庄的祥和安宁
-2017-09-13 [13:17:38] [Server thread/INFO]: [千金大小姐]xiaochuyin : 我去你那度假 逐梦
-2017-09-13 [13:17:53] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 额
-2017-09-13 [13:18:01] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 我待会下线了
-2017-09-13 [13:18:06] [Server thread/INFO]: [帅哥]sunjiahao520 : 还我钱
-2017-09-13 [13:18:18] [Server thread/INFO]: [-老司机-]2136131645 : 烦不烦啊你
-2017-09-13 [13:18:21] [Server thread/INFO]: [-老司机-]2136131645 : 有完没完
-2017-09-13 [13:18:23] [Server thread/INFO]: [MVP+]Devil : 这怎么会有个飞机啊
-2017-09-13 [13:18:27] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 为什么op的公告要拆啊
-2017-09-13 [13:18:34] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 那个别管他
-2017-09-13 [13:18:41] [Server thread/INFO]: [逐梦集团的女董事长]zhumengzhiying : 拜拜我下了
-2017-09-13 [13:18:46] [Server thread/INFO]: zhumengzhiying left the game
-2017-09-13 [13:18:46] [Server thread/INFO]: zhumengzhiying[/180.143.246.68:45166] logged out due to client disconnect
-2017-09-13 [13:18:51] [Server thread/INFO]: [帅哥]sunjiahao520 : 还我钱
-2017-09-13 [13:19:00] [Server thread/INFO]: [-老司机-]2136131645 : 他闲的蛋疼
-2017-09-13 [13:19:04] [Server thread/INFO]: [AllHELLOaaa1227: De-opped green_sky]
-2017-09-13 [13:19:13] [Server thread/INFO]: [帅哥]sunjiahao520 : 100000
-2017-09-13 [13:19:24] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [13:19:44] [Server thread/INFO]: [-老司机-]2136131645 : 因为power被禁了
-2017-09-13 [13:19:45] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:19:56] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 不是腐竹紧的吗
-2017-09-13 [13:20:02] [Server thread/INFO]: [帅哥]sunjiahao520 : 还钱
-2017-09-13 [13:20:13] [Server thread/INFO]: [-老司机-]2136131645 : 对昨天晚上还好好的
-2017-09-13 [13:20:24] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-13 [13:20:30] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [13:20:35] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-13 [13:20:43] [Server thread/INFO]: [AllHELLOaaa1227: Opped Devil]
-2017-09-13 [13:20:54] [Server thread/INFO]: [AllHELLOaaa1227: De-opped Devil]
-2017-09-13 [13:20:57] [Server thread/WARNING]: 2136131645 moved too fast, reverting movement
-2017-09-13 [13:21:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:21:04] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-13 [13:21:04] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:49360] logged out due to client disconnect
-2017-09-13 [13:21:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:21:25] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:21:34] [Server thread/INFO]: * xiaochuyin 新店开张，半价优惠
-2017-09-13 [13:21:51] [Server thread/WARNING]: 2136131645 moved wrongly!
-2017-09-13 [13:22:44] [Server thread/INFO]: [帅哥]sunjiahao520 : 谁给我钱
-2017-09-13 [13:22:56] [Server thread/INFO]: [-老司机-]2136131645 : 别给他
-2017-09-13 [13:22:58] [Server thread/INFO]: [-老司机-]2136131645 : 烦死了
-2017-09-13 [13:23:04] [Server thread/INFO]: [帅哥]sunjiahao520 : 我的钱
-2017-09-13 [13:23:08] [Server thread/INFO]: [帅哥]sunjiahao520 : 被你坑了
-2017-09-13 [13:23:12] [Server thread/INFO]: [帅哥]sunjiahao520 : 好差
-2017-09-13 [13:23:17] [Server thread/INFO]: [-老司机-]2136131645 : 自己没脑子
-2017-09-13 [13:23:17] [Server thread/INFO]: [帅哥]sunjiahao520 : 7000
-2017-09-13 [13:23:21] [Server thread/INFO]: [MVP+]Devil : 商店有些东西都买不了了
-2017-09-13 [13:23:23] [Server thread/INFO]: xiaochuyin left the game
-2017-09-13 [13:23:23] [Server thread/INFO]: xiaochuyin[/218.17.75.168:7046] logged out due to client disconnect
-2017-09-13 [13:23:45] [Server thread/INFO]: [-老司机-]2136131645 : 我要我矿了
-2017-09-13 [13:24:24] [Server thread/INFO]: [-老司机-]2136131645 : 不
-2017-09-13 [13:24:28] [Server thread/INFO]: [-老司机-]2136131645 : 我懒
-2017-09-13 [13:24:30] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:24:39] [Server thread/INFO]: [MVP+]Devil : 我建
-2017-09-13 [13:24:49] [Server thread/INFO]: Steve[/182.120.69.111:56052] [ClientID: 6994619841885211643] logged in with entity id 115 at (world, 289.4535, 56, 31.3379)
-2017-09-13 [13:24:51] [Server thread/INFO]: Steve joined the game
-2017-09-13 [13:24:55] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [13:24:58] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [13:25:54] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:25:54] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:26:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:26:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:26:19] [Server thread/INFO]: KLPIFU[/123.174.61.60:9486] [ClientID: 7797564552921079862] logged in with entity id 208 at (th, -267.4056, 0.2, 146.5875)
-2017-09-13 [13:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:26:22] [Server thread/INFO]: KLPIFU joined the game
-2017-09-13 [13:26:35] [Server thread/INFO]: [-老司机-]2136131645 : 哟KLP回来了
-2017-09-13 [13:26:38] [Server thread/INFO]: [MVP+]Devil : 哎呀 klp
-2017-09-13 [13:26:39] [Server thread/INFO]: [伪高压酱]KLPIFU : 嗯的
-2017-09-13 [13:26:43] [Server thread/INFO]: [伪高压酱]KLPIFU : 昨天我没死
-2017-09-13 [13:26:45] [Server thread/INFO]: [伪高压酱]KLPIFU : 哈哈
-2017-09-13 [13:26:49] [Server thread/INFO]: [-老司机-]2136131645 : 昨天被我坑的怎么样
-2017-09-13 [13:26:50] [Server thread/INFO]: Steve left the game
-2017-09-13 [13:26:50] [Server thread/INFO]: Steve[/182.120.69.111:56052] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:26:51] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:26:52] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:26:55] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:26:55] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:26:56] [Server thread/INFO]: [伪高压酱]KLPIFU : 不怎么样
-2017-09-13 [13:26:59] [Server thread/INFO]: [伪高压酱]KLPIFU : 没死
-2017-09-13 [13:27:00] [Server thread/INFO]: [伪高压酱]KLPIFU : 哈哈哈
-2017-09-13 [13:27:09] [Server thread/INFO]: [-老司机-]2136131645 : 连骗两次
-2017-09-13 [13:27:10] [Server thread/INFO]: [伪高压酱]KLPIFU : 技术不行嘛
-2017-09-13 [13:27:14] [Server thread/INFO]: [伪高压酱]KLPIFU : 一次
-2017-09-13 [13:27:18] [Server thread/INFO]: [伪高压酱]KLPIFU : 什么两次
-2017-09-13 [13:27:33] [Server thread/INFO]: [-老司机-]2136131645 : 第二次没死
-2017-09-13 [13:27:39] [Server thread/INFO]: [伪高压酱]KLPIFU : 嗯的
-2017-09-13 [13:27:55] [Server thread/INFO]: [帅哥]sunjiahao520 : 我挖到了
-2017-09-13 [13:27:57] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [13:28:02] [Server thread/INFO]: [-老司机-]2136131645 : 吓得一晚上不敢上线
-2017-09-13 [13:28:24] [Server thread/NOTICE]: Player data not found for "joloplayz", creating new profile
-2017-09-13 [13:28:24] [Server thread/INFO]: joloplayz[/112.198.73.153:53888] [ClientID: 1530874176124311863] logged in with entity id 289 at (world, 128, 68, 128)
-2017-09-13 [13:28:25] [Server thread/INFO]: StraitCrown235[/14.204.173.99:41283] [ClientID: -4371293242514253922] logged in with entity id 290 at (world, 47.3396, 58, -8.5275)
-2017-09-13 [13:28:28] [Server thread/INFO]: StraitCrown235 joined the game
-2017-09-13 [13:28:41] [Server thread/INFO]: joloplayz joined the game
-2017-09-13 [13:28:57] [Server thread/INFO]: [伪高压酱]KLPIFU : 哎
-2017-09-13 [13:29:03] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:04] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:04] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:04] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:04] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:04] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:04] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:05] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:05] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:05] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:05] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:05] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:05] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:06] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:06] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:06] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:06] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:06] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:07] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:07] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:07] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:07] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:07] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:07] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:08] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:29:09] [Server thread/INFO]: [伪高压酱]KLPIFU : 创造有指令
-2017-09-13 [13:29:17] [Server thread/INFO]: [伪高压酱]KLPIFU : 你直接强制tp就得了
-2017-09-13 [13:29:30] [Server thread/WARNING]: StraitCrown235 moved wrongly!
-2017-09-13 [13:29:36] [Server thread/INFO]: [MVP+]Devil : ？
-2017-09-13 [13:29:39] [Server thread/INFO]: [-老司机-]2136131645 : 你来呀
-2017-09-13 [13:29:48] [Server thread/INFO]: [伪高压酱]KLPIFU : 213让我tp他
-2017-09-13 [13:30:06] [Server thread/INFO]: [伪高压酱]KLPIFU : 为什么
-2017-09-13 [13:30:09] [Server thread/INFO]: [-老司机-]2136131645 : 吓的不敢来了
-2017-09-13 [13:30:11] [Server thread/INFO]: [伪高压酱]KLPIFU : 说个理由阿
-2017-09-13 [13:30:14] [Server thread/INFO]: [伪高压酱]KLPIFU : 为什么
-2017-09-13 [13:30:14] [Server thread/INFO]: [-老司机-]2136131645 : 哈哈哈
-2017-09-13 [13:30:21] [Server thread/INFO]: [伪高压酱]KLPIFU : 谁
-2017-09-13 [13:30:25] [Server thread/INFO]: joloplayz left the game
-2017-09-13 [13:30:25] [Server thread/INFO]: joloplayz[/112.198.73.153:53888] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:30:26] [Server thread/INFO]: [-老司机-]2136131645 : 你呗
-2017-09-13 [13:30:31] [Server thread/INFO]: [伪高压酱]KLPIFU : 咋地了
-2017-09-13 [13:30:35] [Server thread/INFO]: StraitCrown235 : tp xue_hua
-2017-09-13 [13:30:38] [Server thread/INFO]: [伪高压酱]KLPIFU : 哦
-2017-09-13 [13:30:44] [Server thread/INFO]: [伪高压酱]KLPIFU : 我先下了
-2017-09-13 [13:30:47] [Server thread/INFO]: [伪高压酱]KLPIFU : 晚上人多
-2017-09-13 [13:30:51] [Server thread/INFO]: [伪高压酱]KLPIFU : 我晚上玩
-2017-09-13 [13:30:55] [Server thread/INFO]: [-老司机-]2136131645 : 怕了吧
-2017-09-13 [13:30:57] [Server thread/INFO]: [伪高压酱]KLPIFU : 中午小游戏
-2017-09-13 [13:30:57] [Server thread/INFO]: [-老司机-]2136131645 : 呵呵
-2017-09-13 [13:31:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:31:02] [Server thread/INFO]: [伪高压酱]KLPIFU : 为什么怕
-2017-09-13 [13:31:10] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:31:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:31:14] [Server thread/INFO]: [伪高压酱]KLPIFU : 反正掉虚空
-2017-09-13 [13:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:31:18] [Server thread/INFO]: StraitCrown235 left the game
-2017-09-13 [13:31:18] [Server thread/INFO]: StraitCrown235[/14.204.173.99:41283] logged out due to timeout
-2017-09-13 [13:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:31:23] [Server thread/INFO]: [-老司机-]2136131645 : 那你为什么不敢了来
-2017-09-13 [13:31:24] [Server thread/INFO]: [伪高压酱]KLPIFU : 退一次不就行了
-2017-09-13 [13:31:28] [Server thread/INFO]: [伪高压酱]KLPIFU : 小傻瓜
-2017-09-13 [13:31:33] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:33] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:33] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:33] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:33] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:34] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:34] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:34] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:34] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:34] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:35] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:35] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:35] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:35] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:35] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:35] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:36] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:36] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:36] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:36] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:36] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:37] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:37] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:37] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:37] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:37] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:37] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:38] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:38] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:38] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:38] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:38] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:39] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:39] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:39] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:39] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:39] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:40] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:40] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:40] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:40] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:40] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:40] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:41] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:41] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:41] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:42] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:42] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:42] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:42] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:42] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:43] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:43] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:43] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:43] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:43] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:43] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:44] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:44] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:44] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:44] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:44] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:45] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:45] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:45] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:45] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:45] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:46] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:46] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:46] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:46] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:46] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:47] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:47] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:47] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:47] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:47] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:47] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:48] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:48] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:48] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:48] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:48] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:49] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:49] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:49] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:49] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:49] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:49] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:50] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:50] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:50] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:50] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:50] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:51] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:51] [Server thread/INFO]: [-老司机-]2136131645 : 那你就来啊
-2017-09-13 [13:31:51] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:51] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:51] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:51] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:52] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:52] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:31:55] [Server thread/INFO]: [伪高压酱]KLPIFU : 我先玩小游戏
-2017-09-13 [13:32:02] [Server thread/INFO]: [帅哥]sunjiahao520 : 哪里
-2017-09-13 [13:32:05] [Server thread/INFO]: [伪高压酱]KLPIFU : 晚上上线
-2017-09-13 [13:32:06] [Server thread/INFO]: [伪高压酱]KLPIFU : 拜拜
-2017-09-13 [13:32:08] [Server thread/INFO]: KLPIFU left the game
-2017-09-13 [13:32:08] [Server thread/INFO]: KLPIFU[/123.174.61.60:9486] logged out due to client disconnect
-2017-09-13 [13:32:08] [Server thread/INFO]: [帅哥]sunjiahao520 : woya
-2017-09-13 [13:32:14] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:14] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:15] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:15] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:15] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:15] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:15] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:16] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:16] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:16] [Server thread/INFO]: * sunjiahao520 OPU878787大sb！！！
-2017-09-13 [13:32:30] [Server thread/INFO]: [MVP+]Devil : 2136
-2017-09-13 [13:33:19] [Server thread/INFO]: [MVP+]Devil : 为什么你用修改器都不会被ban啊 我昨天用我那平板一修改创造然后就直接弹出来
-2017-09-13 [13:33:26] [Server thread/INFO]: [帅哥]sunjiahao520 : 我不去
-2017-09-13 [13:33:32] [Server thread/INFO]: [MVP+]Devil : 就进不去了
-2017-09-13 [13:33:44] [Server thread/INFO]: [-老司机-]2136131645 : 我说了不能改创造
-2017-09-13 [13:33:47] [Server thread/INFO]: [-老司机-]2136131645 : 改不了
-2017-09-13 [13:33:48] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [13:33:57] [Server thread/INFO]: [MVP+]Devil : 就是能飞天
-2017-09-13 [13:34:11] [Server thread/INFO]: [-老司机-]2136131645 : 你上天还差不多
-2017-09-13 [13:34:13] [Server thread/INFO]: [MVP+]Devil : 我改了飞天才弹的
-2017-09-13 [13:34:54] [Server thread/INFO]: Steve[/220.164.80.161:17353] [ClientID: -7304252722090467190] logged in with entity id 346 at (world, 289.4535, 55.2, 31.3379)
-2017-09-13 [13:34:57] [Server thread/INFO]: [-老司机-]2136131645 : 不能
-2017-09-13 [13:35:16] [Server thread/INFO]: [MVP+]Devil : 那你的钻石块怎么来的啊
-2017-09-13 [13:35:23] [Server thread/INFO]: [MVP+]Devil : 不添加怎么会有这么多
-2017-09-13 [13:35:29] [Server thread/INFO]: [-老司机-]2136131645 : 你不知道我是创造吗？
-2017-09-13 [13:35:35] [Server thread/INFO]: [帅哥]sunjiahao520 : 给我
-2017-09-13 [13:35:43] [Server thread/INFO]: [-老司机-]2136131645 : 你恐怕石乐志
-2017-09-13 [13:35:45] [Server thread/INFO]: [MVP+]Devil : 那我怎么改不了啊
-2017-09-13 [13:36:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:36:12] [Server thread/INFO]: Steve[/220.164.80.161:17353] logged out due to client disconnect
-2017-09-13 [13:36:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:36:27] [Server thread/INFO]: Steve[/220.164.80.161:17353] [ClientID: -7304252722090467190] logged in with entity id 355 at (world, 289.4535, 55.2, 31.3379)
-2017-09-13 [13:36:29] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [13:36:35] [Server thread/INFO]: Steve[/220.164.80.161:17353] logged out due to client disconnect
-2017-09-13 [13:36:43] [Server thread/INFO]: Devil left the game
-2017-09-13 [13:36:43] [Server thread/INFO]: Devil[/124.228.58.9:29961] logged out due to client disconnect
-2017-09-13 [13:38:06] [Server thread/INFO]: [-老司机-]2136131645 : 你过来给你钻石
-2017-09-13 [13:38:32] [Server thread/INFO]: sunjiahao520 fell out of the world
-2017-09-13 [13:38:38] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:38:45] [Server thread/INFO]: [帅哥]sunjiahao520 : 有病
-2017-09-13 [13:38:55] [Server thread/INFO]: [-老司机-]2136131645 : 拜拜你自己玩吧
-2017-09-13 [13:38:59] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:39:03] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:39:05] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:39:07] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:39:09] [Server thread/INFO]: [-老司机-]2136131645 : 哈哈哈哈
-2017-09-13 [13:39:10] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:39:12] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:39:15] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:40:00] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:40:00] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] logged out due to client disconnect
-2017-09-13 [13:40:13] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:14] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:15] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:15] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:15] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:15] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:15] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:15] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:16] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:16] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:16] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:16] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:16] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:16] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:17] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:17] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:17] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:17] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:17] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:18] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:18] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:18] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:18] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:18] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:19] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:19] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:19] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:19] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:19] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:19] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:20] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:20] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:20] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:20] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:20] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:20] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:21] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:21] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:21] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:21] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:21] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:21] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:22] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:23] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:23] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:23] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:23] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:23] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:23] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:24] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:24] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:24] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:24] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:24] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:24] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:25] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:26] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:26] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:26] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:26] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:26] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:29] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:29] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:29] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:29] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:29] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:29] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:30] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:30] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:30] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:30] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:30] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:30] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:31] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:31] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:31] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:31] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:31] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:32] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:32] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:32] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:32] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:32] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:32] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:33] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:33] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:33] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:33] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:33] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:33] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:34] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:34] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:34] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:34] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:34] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:44] [Server thread/INFO]: * 2136131645 sunjiahao520大傻逼
-2017-09-13 [13:40:46] [Server thread/INFO]: 2136131645 left the game
-2017-09-13 [13:40:46] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] logged out due to client disconnect
-2017-09-13 [13:41:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:41:11] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] [ClientID: -8457617145591283919] logged in with entity id 411 at (world, 121.2928, 64, 115.765)
-2017-09-13 [13:41:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:41:15] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [13:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理6个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:41:50] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼傻逼傻逼傻逼傻逼傻逼
-2017-09-13 [13:41:53] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼
-2017-09-13 [13:41:57] [Server thread/INFO]: [帅哥]sunjiahao520 : 傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼
-2017-09-13 [13:42:26] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:42:26] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6733] logged out due to client disconnect
-2017-09-13 [13:43:54] [Server thread/INFO]: Steve[/220.164.80.161:13650] [ClientID: -7304252722090467190] logged in with entity id 412 at (world, 289.4535, 55.2, 31.3379)
-2017-09-13 [13:44:59] [Server thread/NOTICE]: Player data not found for "lemonlearner475", creating new profile
-2017-09-13 [13:44:59] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15465] [ClientID: 5810197160121274567] logged in with entity id 413 at (world, 128, 68, 128)
-2017-09-13 [13:45:02] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [13:45:04] [Server thread/INFO]: Steve[/220.164.80.161:13650] logged out due to client disconnect
-2017-09-13 [13:45:35] [Server thread/INFO]: KLPIFU[/123.174.61.60:9943] [ClientID: 7797564552921079862] logged in with entity id 414 at (th, 113.1494, 65, 105.8354)
-2017-09-13 [13:45:37] [Server thread/INFO]: KLPIFU joined the game
-2017-09-13 [13:46:01] [Server thread/INFO]: sunjiahao520[/123.185.3.152:5122] [ClientID: -8457617145591283919] logged in with entity id 415 at (world, 136.4641, 64, 109.0413)
-2017-09-13 [13:46:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:46:03] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [13:46:04] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [13:46:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:46:13] [Server thread/INFO]: LemonLearner475 : 有人吗
-2017-09-13 [13:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:46:18] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [13:46:18] [Server thread/INFO]: sunjiahao520[/123.185.3.152:5122] logged out due to client disconnect
-2017-09-13 [13:46:18] [Server thread/INFO]: [伪高压酱]KLPIFU : 跟大家说个秘密
-2017-09-13 [13:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:46:26] [Server thread/INFO]: LemonLearner475 : 干啥
-2017-09-13 [13:46:38] [Server thread/INFO]: [伪高压酱]KLPIFU : 213是开了什么器
-2017-09-13 [13:46:43] [Server thread/INFO]: [伪高压酱]KLPIFU : 可以变成创造
-2017-09-13 [13:47:12] [Server thread/INFO]: [伪高压酱]KLPIFU : De已经向副腐竹举报了
-2017-09-13 [13:47:19] [Server thread/INFO]: [伪高压酱]KLPIFU : 但是副腐竹不ban他
-2017-09-13 [13:47:37] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [13:47:37] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15465] logged out due to client disconnect
-2017-09-13 [13:48:02] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15465] logged out due to timeout
-2017-09-13 [13:48:07] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [13:48:07] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [13:48:18] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [13:49:01] [Server thread/INFO]: [伪高压酱]KLPIFU :  /w zy
-2017-09-13 [13:49:27] [Server thread/INFO]: KLPIFU left the game
-2017-09-13 [13:49:27] [Server thread/INFO]: KLPIFU[/123.174.61.60:9943] logged out due to client disconnect
-2017-09-13 [13:49:48] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:58700] [ClientID: -308776663400809635] logged in with entity id 427 at (th, 157.353, 67.1633, -189.23)
-2017-09-13 [13:49:50] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-13 [13:50:12] [Server thread/INFO]: [AllHELLOaaa1227: De-opped lihaoyy]
-2017-09-13 [13:50:50] [Server thread/INFO]: [AllHELLOaaa1227: Banned CID power777888]
-2017-09-13 [13:51:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:51:05] [Server thread/INFO]: Steve[/124.13.56.238:63226] [ClientID: 253047116214698898] logged in with entity id 428 at (world, 289.4535, 55.2, 31.3379)
-2017-09-13 [13:51:08] [Server thread/INFO]: Steve joined the game
-2017-09-13 [13:51:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:51:17] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Steve]
-2017-09-13 [13:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:52:23] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 去改名
-2017-09-13 [13:53:05] [Server thread/INFO]: Steve left the game
-2017-09-13 [13:53:05] [Server thread/INFO]: Steve[/124.13.56.238:63226] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:53:08] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15469] [ClientID: 5810197160121274567] logged in with entity id 429 at (world, 128, 68, 128)
-2017-09-13 [13:53:10] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [13:53:32] [Server thread/INFO]: Steve[/124.13.56.238:63226] [ClientID: 253047116214698898] logged in with entity id 430 at (world, 289.4535, 55.4, 31.3379)
-2017-09-13 [13:53:35] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to LemonLearner475]
-2017-09-13 [13:53:35] [Server thread/INFO]: Steve joined the game
-2017-09-13 [13:53:47] [Server thread/INFO]: Steve left the game
-2017-09-13 [13:53:47] [Server thread/INFO]: Steve[/124.13.56.238:63226] logged out due to timeout
-2017-09-13 [13:53:50] [Server thread/INFO]: LemonLearner475 : 是你吗
-2017-09-13 [13:53:55] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : ？
-2017-09-13 [13:54:05] [Server thread/INFO]: LemonLearner475 : 你是妹子吗
-2017-09-13 [13:54:10] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 不是
-2017-09-13 [13:54:29] [Server thread/INFO]: LemonLearner475 : 为什么你是创造
-2017-09-13 [13:54:39] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 因为我是op
-2017-09-13 [13:54:55] [Server thread/INFO]: LemonLearner475 : 给我装备可以吗
-2017-09-13 [13:55:00] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 不行
-2017-09-13 [13:55:07] [Server thread/INFO]: LemonLearner475 : 为啥
-2017-09-13 [13:55:25] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 腐竹说不能给别人东西
-2017-09-13 [13:55:37] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [13:55:37] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15469] logged out due to timeout
-2017-09-13 [13:55:39] [Server thread/INFO]: Devil[/124.228.58.9:33743] [ClientID: -718125915298570028] logged in with entity id 440 at (world, 133.0606, 65, 132.9253)
-2017-09-13 [13:55:41] [Server thread/INFO]: Devil joined the game
-2017-09-13 [13:55:43] [Server thread/INFO]: KLPIFU[/123.174.61.60:9943] [ClientID: 7797564552921079862] logged in with entity id 441 at (world, 121.3169, 70, 129.8192)
-2017-09-13 [13:55:45] [Server thread/INFO]: KLPIFU joined the game
-2017-09-13 [13:55:55] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [13:56:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [13:56:03] [Server thread/INFO]: [MVP+]Devil : HELLO
-2017-09-13 [13:56:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [13:56:15] [Server thread/INFO]: [MVP+]Devil : 能买创造不
-2017-09-13 [13:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [13:56:21] [Server thread/INFO]: [MVP+]Devil : 15块钱
-2017-09-13 [13:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [13:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [13:56:23] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你去问腐竹
-2017-09-13 [13:56:28] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15751] [ClientID: 5810197160121274567] logged in with entity id 442 at (world, 138.4923, 66.0244, 132.0658)
-2017-09-13 [13:56:31] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [13:56:36] [Server thread/INFO]: Steve[/174.222.137.204:4661] [ClientID: 2799053674766764470] logged in with entity id 443 at (world, 289.4535, 55.6, 31.3379)
-2017-09-13 [13:56:36] [Server thread/INFO]: NANAzk33[/119.179.99.6:30749] [ClientID: -8861141070204933451] logged in with entity id 444 at (world, 115.9915, 64, 139.7639)
-2017-09-13 [13:56:37] [Server thread/INFO]: NANAzk33 joined the game
-2017-09-13 [13:56:38] [Server thread/INFO]: Steve joined the game
-2017-09-13 [13:56:43] [Server thread/INFO]: ToedCapybara999[/182.40.178.179:61184] [ClientID: 8599361645696081512] logged in with entity id 445 at (world, -44.7, 12, -251.872)
-2017-09-13 [13:56:44] [Server thread/INFO]: [MVP+]Devil : 那个数字呢
-2017-09-13 [13:56:45] [Server thread/INFO]: ToedCapybara999 joined the game
-2017-09-13 [13:56:51] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 怎么一下子这么多人
-2017-09-13 [13:56:51] [Server thread/INFO]: [MVP+]Devil : 我大哥
-2017-09-13 [13:56:54] [Server thread/INFO]: LemonLearner475 : 你在哪
-2017-09-13 [13:57:09] [Server thread/INFO]: ToedCapybara999 left the game
-2017-09-13 [13:57:09] [Server thread/INFO]: ToedCapybara999[/182.40.178.179:61184] logged out due to client disconnect
-2017-09-13 [13:57:16] [Server thread/INFO]: qaq[/220.133.90.161:64577] [ClientID: 1630300853440506382] logged in with entity id 452 at (world, 115.7, 65, 131.4589)
-2017-09-13 [13:57:19] [Server thread/INFO]: qaq joined the game
-2017-09-13 [13:57:20] [Server thread/INFO]: [MVP+]Devil : hello
-2017-09-13 [13:57:28] [Server thread/INFO]: LemonLearner475 : 就是你
-2017-09-13 [13:57:33] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : ？
-2017-09-13 [13:57:37] [Server thread/INFO]: [MVP+]Devil : 嗯？
-2017-09-13 [13:57:45] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [13:57:46] [Server thread/INFO]: [MVP+]Devil : what
-2017-09-13 [13:57:54] [Server thread/INFO]: LemonLearner475 : 你是那个妹子吗
-2017-09-13 [13:57:56] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [13:57:58] [Server thread/INFO]: [MVP+]Devil : 不是
-2017-09-13 [13:58:00] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈
-2017-09-13 [13:58:08] [Server thread/INFO]: LemonLearner475 : ....
-2017-09-13 [13:58:08] [Server thread/INFO]: NANAzk33 : 在这儿
-2017-09-13 [13:58:15] [Server thread/WARNING]: NANAzk33 moved wrongly!
-2017-09-13 [13:58:19] [Server thread/INFO]: LemonLearner475 : 哪？
-2017-09-13 [13:58:36] [Server thread/INFO]: Steve left the game
-2017-09-13 [13:58:36] [Server thread/INFO]: Steve[/174.222.137.204:4661] logged out due to Failed to login in 120 seconds
-2017-09-13 [13:58:37] [Server thread/INFO]: [MVP+]Devil : 我皮肤怎么样
-2017-09-13 [13:58:42] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 好
-2017-09-13 [13:58:44] [Server thread/INFO]: NANAzk33 : 水池这儿
-2017-09-13 [13:59:03] [Server thread/INFO]: LemonLearner475 : 我来了
-2017-09-13 [13:59:08] [Server thread/INFO]: [MVP+]Devil : 你皮肤这么黑换一个吧
-2017-09-13 [13:59:18] [Server thread/INFO]: [MVP+]Devil : 人家妹子看到你都怕
-2017-09-13 [13:59:25] [Server thread/INFO]: [MVP+]Devil : 看我多帅
-2017-09-13 [13:59:29] [Server thread/INFO]: qaq was shot by KLPIFU
-2017-09-13 [13:59:30] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [13:59:30] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15751] logged out due to timeout
-2017-09-13 [13:59:31] [Server thread/INFO]: NANAzk33 : 我怕你们打我
-2017-09-13 [13:59:37] [Server thread/INFO]: [伪高压酱]KLPIFU : 谢谢了
-2017-09-13 [13:59:40] [Server thread/INFO]: [MVP+]Devil : 不会不会
-2017-09-13 [13:59:58] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:00:06] [Server thread/INFO]: [MVP+]Devil : 我在壁咚
-2017-09-13 [14:00:17] [Server thread/INFO]: NANAzk33 : 这里面真是每次都不一样
-2017-09-13 [14:00:19] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [14:00:24] [Server thread/INFO]: NANAzk33 : 哈哈
-2017-09-13 [14:00:25] [Server thread/INFO]: [MVP+]Devil : 怎么了
-2017-09-13 [14:00:39] [Server thread/INFO]: NANAzk33 died
-2017-09-13 [14:00:39] [Server thread/INFO]: [AllHELLOaaa1227: Killed NANAzk33]
-2017-09-13 [14:00:46] [Server thread/INFO]: [MVP+]Devil : 是不是你
-2017-09-13 [14:00:52] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:00:52] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:00:54] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你们有意思嘛
-2017-09-13 [14:00:57] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:01:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [14:01:04] [Server thread/INFO]: [MVP+]Devil : 就是无聊啊
-2017-09-13 [14:01:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [14:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [14:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [14:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [14:01:22] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [14:01:25] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:01:40] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6606] [ClientID: -8457617145591283919] logged in with entity id 485 at (world, 136.4641, 64.2, 109.0413)
-2017-09-13 [14:01:43] [Server thread/INFO]: sunjiahao520 joined the game
-2017-09-13 [14:01:51] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:02:28] [Server thread/INFO]: NANAzk33 : 这咋样玩
-2017-09-13 [14:02:31] [Server thread/INFO]: qaq was shot by KLPIFU
-2017-09-13 [14:02:34] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:02:37] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:02:40] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:02:41] [Server thread/INFO]: [AllHELLOaaa1227: Opped liahoyy]
-2017-09-13 [14:02:46] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:02:52] [Server thread/INFO]: [AllHELLOaaa1227: De-opped liehoyy]
-2017-09-13 [14:02:58] [Server thread/INFO]: [帅哥]sunjiahao520 : OP
-2017-09-13 [14:03:00] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:03:02] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:03:04] [Server thread/INFO]: [AllHELLOaaa1227: De-opped liahoyy]
-2017-09-13 [14:03:04] [Server thread/INFO]: [MVP+]Devil : 接受
-2017-09-13 [14:03:14] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [14:03:16] [Server thread/INFO]: [AllHELLOaaa1227: Opped lihaoyy]
-2017-09-13 [14:03:38] [Server thread/INFO]: [/117.136.79.176:15755] logged out due to timeout
-2017-09-13 [14:03:38] [Server thread/INFO]: [伪高压酱]KLPIFU : 你俩在干哈
-2017-09-13 [14:03:46] [Server thread/INFO]: [MVP+]Devil : 我在求婚
-2017-09-13 [14:03:52] [Server thread/INFO]: [伪高压酱]KLPIFU : 我日
-2017-09-13 [14:03:52] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 妈耶！！
-2017-09-13 [14:03:56] [Server thread/INFO]: NANAzk33 : 这么接受
-2017-09-13 [14:04:05] [Server thread/INFO]: [/117.136.79.176:15758] logged out due to client disconnect
-2017-09-13 [14:04:09] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : kill你哦~
-2017-09-13 [14:04:12] [Server thread/INFO]: [MVP+]Devil : 输入/结婚 接受
-2017-09-13 [14:04:23] [Server thread/INFO]: [MVP+]Devil : kill我要赔钱的
-2017-09-13 [14:04:44] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我可以强制结婚哈哈哈哈哈哈哈哈
-2017-09-13 [14:04:56] [Server thread/INFO]: [MVP+]Devil : 你这个强盗
-2017-09-13 [14:04:59] [Server thread/INFO]: NANAzk33 : 好吧
-2017-09-13 [14:05:04] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:05:05] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:05:06] [Server thread/INFO]: [MVP+]Devil : 强抢民女
-2017-09-13 [14:05:14] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:05:15] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:05:19] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [14:05:19] [Server thread/WARNING]: KLPIFU moved wrongly!
-2017-09-13 [14:05:26] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-13 [14:05:26] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:58700] logged out due to client disconnect
-2017-09-13 [14:05:35] [Server thread/INFO]: KLPIFU left the game
-2017-09-13 [14:05:35] [Server thread/INFO]: KLPIFU[/123.174.61.60:9943] logged out due to client disconnect
-2017-09-13 [14:05:56] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:05:59] [Server thread/INFO]: [MVP+]Devil : 你后面
-2017-09-13 [14:06:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [14:06:05] [Server thread/INFO]: [/117.136.79.176:15761] logged out due to timeout
-2017-09-13 [14:06:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [14:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [14:06:18] [Server thread/INFO]: NANAzk33 : 哇塞
-2017-09-13 [14:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [14:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [14:06:22] [Server thread/INFO]: [MVP+]Devil : 跟我来
-2017-09-13 [14:06:41] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:06:45] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:06:52] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:06:57] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:07:02] [Server thread/INFO]: [/117.136.79.176:15765] logged out due to client disconnect
-2017-09-13 [14:07:09] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:07:17] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:58700] [ClientID: -308776663400809635] logged in with entity id 542 at (world, 124.9614, 64.0625, 146.2256)
-2017-09-13 [14:07:19] [Server thread/INFO]: AllHELLOaaa1227 joined the game
-2017-09-13 [14:07:20] [Server thread/INFO]: [MVP+]Devil : 后面
-2017-09-13 [14:07:36] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你们结婚了吗
-2017-09-13 [14:07:46] [Server thread/INFO]: [MVP+]Devil : 没有
-2017-09-13 [14:07:47] [Server thread/WARNING]: NANAzk33 moved wrongly!
-2017-09-13 [14:07:47] [Server thread/WARNING]: NANAzk33 moved wrongly!
-2017-09-13 [14:07:55] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [14:08:12] [Server thread/INFO]: [MVP+]Devil : NANA
-2017-09-13 [14:08:26] [Server thread/INFO]: ------------------------
-2017-09-13 [14:08:26] [Server thread/INFO]: 恭喜 [ Devil ] 与 [ NANAzk33 ] 成功夫妻 ！
-2017-09-13 [14:08:26] [Server thread/INFO]: ------------------------
-2017-09-13 [14:08:30] [Server thread/INFO]: NANAzk33 : 啊
-2017-09-13 [14:08:31] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈
-2017-09-13 [14:08:34] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈
-2017-09-13 [14:08:34] [Server thread/INFO]: NANAzk33 : 。。。。。
-2017-09-13 [14:08:36] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈
-2017-09-13 [14:08:38] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈
-2017-09-13 [14:08:40] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈
-2017-09-13 [14:08:41] [Server thread/INFO]: [MVP+]Devil : 哈哈
-2017-09-13 [14:08:44] [Server thread/INFO]: [MVP+]Devil : 呵呵红红火火
-2017-09-13 [14:08:55] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:09:12] [Server thread/INFO]: NANAzk33 : 居然还能结婚
-2017-09-13 [14:09:14] [Server thread/INFO]: [MVP+]Devil : 没毛病
-2017-09-13 [14:09:22] [Server thread/INFO]: [帅哥]sunjiahao520 : 多啊
-2017-09-13 [14:09:23] [Server thread/INFO]: [MVP+]Devil : 你现在是我妻子了
-2017-09-13 [14:09:24] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 强制结婚哈哈哈
-2017-09-13 [14:09:27] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哈哈哈哈哈哈哈哈
-2017-09-13 [14:09:31] [Server thread/INFO]: [帅哥]sunjiahao520 : 可以离婚
-2017-09-13 [14:09:33] [Server thread/INFO]: [MVP+]Devil : 和我来
-2017-09-13 [14:09:38] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : Devil给我多少钱啊？？？
-2017-09-13 [14:10:04] [Server thread/INFO]: [帅哥]sunjiahao520 : 输入/结婚 离婚
-2017-09-13 [14:10:07] [Server thread/INFO]: [/117.136.79.176:15770] logged out due to client disconnect
-2017-09-13 [14:10:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 就行了
-2017-09-13 [14:10:11] [Server thread/INFO]: [MVP+]Devil : 别瞎搞
-2017-09-13 [14:10:17] [Server thread/INFO]: [帅哥]sunjiahao520 : 我知道
-2017-09-13 [14:10:23] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [14:10:28] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [14:10:43] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [14:10:43] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:10:48] [Server thread/INFO]: [帅哥]sunjiahao520 : 强制离婚/结婚 离婚
-2017-09-13 [14:10:49] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:10:50] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:10:53] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:10:56] [Server thread/INFO]: [AllHELLOaaa1227: Teleported AllHELLOaaa1227 to Devil]
-2017-09-13 [14:10:56] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:10:57] [Server thread/INFO]: [帅哥]sunjiahao520 : 就可以离婚了
-2017-09-13 [14:11:00] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:11:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [14:11:04] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [14:11:06] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:11:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [14:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [14:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [14:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [14:11:26] [Server thread/INFO]: NANAzk33 : 所噶   我去溜达溜达
-2017-09-13 [14:11:41] [Server thread/INFO]: [MVP+]Devil : 穿上衣服
-2017-09-13 [14:11:59] [Server thread/WARNING]: sunjiahao520 moved wrongly!
-2017-09-13 [14:12:13] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:12:14] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:12:21] [Server thread/INFO]: sunjiahao520 left the game
-2017-09-13 [14:12:21] [Server thread/INFO]: sunjiahao520[/123.185.3.152:6606] logged out due to client disconnect
-2017-09-13 [14:12:27] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:12:27] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:12:39] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我一斧子下去你就死了
-2017-09-13 [14:12:52] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 嘿嘿嘿个
-2017-09-13 [14:12:54] [Server thread/INFO]: NANAzk33 : 我只有裤衩
-2017-09-13 [14:12:57] [Server thread/INFO]: [MVP+]Devil : 还有一件衣服呢
-2017-09-13 [14:13:18] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:13:21] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:13:29] [Server thread/INFO]: NANAzk33 : 粉色都没有了
-2017-09-13 [14:13:41] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:13:42] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 哎你怎么没死
-2017-09-13 [14:13:53] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:13:55] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:14:00] [Server thread/INFO]: [MVP+]Devil : 你还真想搞死我啊
-2017-09-13 [14:14:03] [Server thread/INFO]: [MVP+]Devil : 要赔钱
-2017-09-13 [14:14:08] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 嘿嘿嘿
-2017-09-13 [14:14:17] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 你都有这么多了
-2017-09-13 [14:14:18] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:14:20] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 还要
-2017-09-13 [14:14:27] [Server thread/INFO]: [MVP+]Devil : 不能浪费
-2017-09-13 [14:14:27] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 人心不足蛇吞象
-2017-09-13 [14:14:38] [Server thread/INFO]: [MVP+]Devil : 不是这个意思
-2017-09-13 [14:14:46] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我知道
-2017-09-13 [14:14:49] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我先走了
-2017-09-13 [14:14:51] [Server thread/INFO]: [MVP+]Devil : 你这kill我 相当于坑我啊
-2017-09-13 [14:14:54] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:15:21] [Server thread/INFO]: ------------------------
-2017-09-13 [14:15:21] [Server thread/INFO]: [ Devil ] 与 [ nanazk33 ] 离婚了 ！
-2017-09-13 [14:15:21] [Server thread/INFO]: ------------------------
-2017-09-13 [14:15:30] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:15:33] [Server thread/INFO]: [MVP+]Devil : 没毛病啊
-2017-09-13 [14:15:44] [Server thread/INFO]: ------------------------
-2017-09-13 [14:15:44] [Server thread/INFO]: 恭喜 [ Devil ] 与 [ NANAzk33 ] 成功夫妻 ！
-2017-09-13 [14:15:44] [Server thread/INFO]: ------------------------
-2017-09-13 [14:15:45] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:15:46] [Server thread/INFO]: NANAzk33 : 这么快就把我甩了
-2017-09-13 [14:15:56] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我搞得
-2017-09-13 [14:16:01] [Server thread/INFO]: [MVP+]Devil : 是他在搞
-2017-09-13 [14:16:02] [Server thread/INFO]: [MVP+]AllHELLOaaa1227 : 我走了
-2017-09-13 [14:16:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [14:16:05] [Server thread/INFO]: AllHELLOaaa1227 left the game
-2017-09-13 [14:16:05] [Server thread/INFO]: AllHELLOaaa1227[/182.88.127.208:58700] logged out due to client disconnect
-2017-09-13 [14:16:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [14:16:15] [Server thread/INFO]: [MVP+]Devil : 你在哪去了
-2017-09-13 [14:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [14:16:18] [Server thread/INFO]: [MVP+]Devil : 我来找你
-2017-09-13 [14:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [14:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [14:16:25] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15774] [ClientID: 5810197160121274567] logged in with entity id 715 at (world, 128.8055, 64, 150.8974)
-2017-09-13 [14:16:26] [Server thread/INFO]: NANAzk33 : 搞了就走
-2017-09-13 [14:16:28] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [14:16:40] [Server thread/INFO]: [MVP+]Devil : 没 又重新结婚了
-2017-09-13 [14:17:03] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [14:17:03] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15774] logged out due to client disconnect
-2017-09-13 [14:17:10] [Server thread/INFO]: NANAzk33 : 。。。。。
-2017-09-13 [14:17:13] [Server thread/INFO]: NANAzk33 : 哈哈
-2017-09-13 [14:17:18] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15774] [ClientID: 5810197160121274567] logged in with entity id 716 at (world, 128.8055, 64.2, 150.8974)
-2017-09-13 [14:17:19] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:17:20] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [14:17:30] [Server thread/INFO]: LemonLearner475 : 我来了
-2017-09-13 [14:17:31] [Server thread/INFO]: NANAzk33 : 带我去刚刚那个水池吧
-2017-09-13 [14:17:34] [Server thread/INFO]: [MVP+]Devil : 给你买包包买吃的
-2017-09-13 [14:17:57] [Server thread/INFO]: NANAzk33 : 还有包包？
-2017-09-13 [14:18:09] [Server thread/INFO]: [MVP+]Devil : 去水池那干什么
-2017-09-13 [14:18:15] [Server thread/INFO]: [MVP+]Devil : 回我的酒店吧
-2017-09-13 [14:18:20] [Server thread/INFO]: NANAzk33 : 哈哈
-2017-09-13 [14:18:20] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:21] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:21] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:22] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:22] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:23] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:23] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:24] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:24] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:28] [Server thread/INFO]: NANAzk33 : 我去找个人
-2017-09-13 [14:18:39] [Server thread/INFO]: [MVP+]Devil : 那个黑人吗
-2017-09-13 [14:18:45] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:18:48] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:19:04] [Server thread/INFO]: * Devil 欢迎来到逐梦酒店
-2017-09-13 [14:19:09] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:19:16] [Server thread/INFO]: * Devil Devil为逐梦酒店负责人
-2017-09-13 [14:19:16] [Server thread/INFO]: * Devil Devil有权对酒店进-行良性改造
-2017-09-13 [14:19:18] [Server thread/INFO]: * Devil 本酒店隶属于逐梦集团
-2017-09-13 [14:19:19] [Server thread/INFO]: * Devil 本酒店隶属于逐梦集团
-2017-09-13 [14:19:20] [Server thread/INFO]: * Devil 逐梦酒店坐标为X18-8Y65Z-237欢迎入住
-2017-09-13 [14:19:21] [Server thread/INFO]: * Devil 本酒店提供住宿与-食物购买
-2017-09-13 [14:19:24] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [14:19:24] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15774] logged out due to timeout
-2017-09-13 [14:19:24] [Server thread/INFO]: NANAzk33 : 我
-2017-09-13 [14:19:25] [Server thread/INFO]: * Devil Devil为逐梦酒店负责人
-2017-09-13 [14:19:25] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:19:25] [Server thread/INFO]: * Devil Devil为逐梦酒店负责人
-2017-09-13 [14:19:26] [Server thread/INFO]: * Devil Devil为逐梦酒店负责人
-2017-09-13 [14:19:31] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:19:34] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:19:44] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:19:51] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15778] [ClientID: 5810197160121274567] logged in with entity id 717 at (world, 146.5105, 64, 155.3548)
-2017-09-13 [14:19:53] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [14:20:04] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:20:05] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:20:24] [Server thread/INFO]: LemonLearner475 : 人呢？
-2017-09-13 [14:20:36] [Server thread/INFO]: NANAzk33 : 在
-2017-09-13 [14:20:39] [Server thread/INFO]: [MVP+]Devil : 今天你就睡7楼吧
-2017-09-13 [14:20:47] [Server thread/INFO]: NANAzk33 : 我不晓得这4哪儿
-2017-09-13 [14:20:53] [Server thread/INFO]: [MVP+]Devil : 是豪华套房
-2017-09-13 [14:20:58] [Server thread/INFO]: LemonLearner475 : 呃
-2017-09-13 [14:21:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [14:21:09] [Server thread/WARNING]: LemonLearner475 moved wrongly!
-2017-09-13 [14:21:09] [Server thread/WARNING]: LemonLearner475 moved wrongly!
-2017-09-13 [14:21:09] [Server thread/INFO]: NANAzk33 : 应该先带宝宝去找人
-2017-09-13 [14:21:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [14:21:13] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:21:14] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:21:14] [Server thread/INFO]: [MVP+]Devil : 好吧
-2017-09-13 [14:21:16] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [14:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [14:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [14:21:35] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:21:44] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:22:00] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:22:00] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:22:03] [Server thread/INFO]: NANAzk33 : 好粉
-2017-09-13 [14:22:09] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:22:14] [Server thread/INFO]: [MVP+]Devil : 没 不会打你
-2017-09-13 [14:22:15] [Server thread/INFO]: LemonLearner475 : 很骚
-2017-09-13 [14:22:18] [Server thread/INFO]: [MVP+]Devil : 我是失误
-2017-09-13 [14:22:43] [Server thread/INFO]: [MVP+]Devil : 你们什么关系啊
-2017-09-13 [14:22:49] [Server thread/INFO]: NANAzk33 : 这老公真是大气
-2017-09-13 [14:22:55] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [14:22:55] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15778] logged out due to timeout
-2017-09-13 [14:23:02] [Server thread/INFO]: NANAzk33 : 没关系的
-2017-09-13 [14:23:09] [Server thread/INFO]: [MVP+]Devil : 是吗 嘻嘻
-2017-09-13 [14:23:11] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:23:18] [Server thread/INFO]: NANAzk33 : 群里的  说一起耍
-2017-09-13 [14:23:21] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15875] [ClientID: 5810197160121274567] logged in with entity id 720 at (world, 126.4574, 64, 143.5177)
-2017-09-13 [14:23:23] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [14:23:25] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:23:27] [Server thread/INFO]: [MVP+]Devil :  你自己玩吧 我还有事下了哈
-2017-09-13 [14:23:35] [Server thread/INFO]: [MVP+]Devil : 那你在群里叫什么名字啊
-2017-09-13 [14:23:39] [Server thread/INFO]: [MVP+]Devil : 我加你QQ
-2017-09-13 [14:23:44] [Server thread/INFO]: LemonLearner475 : 不稳定呀
-2017-09-13 [14:23:44] [Server thread/INFO]: NANAzk33 : 你是不是有点卡
-2017-09-13 [14:23:53] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:24:00] [Server thread/INFO]: LemonLearner475 : 不卡
-2017-09-13 [14:24:07] [Server thread/INFO]: [MVP+]Devil : 你需要手动输入IP
-2017-09-13 [14:24:10] [Server thread/INFO]: NANAzk33 : 日文那个
-2017-09-13 [14:24:15] [Server thread/INFO]: [MVP+]Devil : 不然你只能玩三分钟
-2017-09-13 [14:24:23] [Server thread/INFO]: LemonLearner475 : 什么IP
-2017-09-13 [14:24:36] [Server thread/INFO]: NANAzk33 : 群文件有操作步骤
-2017-09-13 [14:24:41] [Server thread/INFO]: [MVP+]Devil : 手动添加一下这个服务器的ip
-2017-09-13 [14:25:05] [Server thread/NOTICE]: Player data not found for "hashim", creating new profile
-2017-09-13 [14:25:05] [Server thread/INFO]: hashim[/77.31.74.115:62416] [ClientID: -2820025784811790180] logged in with entity id 721 at (world, 128, 68, 128)
-2017-09-13 [14:25:12] [Server thread/INFO]: hashim joined the game
-2017-09-13 [14:25:16] [Server thread/INFO]: LemonLearner475 : 不是自己添加的吗
-2017-09-13 [14:25:31] [Server thread/INFO]: [MVP+]Devil : 要自己手动添加一下
-2017-09-13 [14:25:36] [Server thread/INFO]: NANAzk33 : 我是自己添加啊
-2017-09-13 [14:25:43] [Server thread/INFO]: hashim left the game
-2017-09-13 [14:25:43] [Server thread/INFO]: hashim[/77.31.74.115:62416] logged out due to timeout
-2017-09-13 [14:25:50] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:25:55] [Server thread/INFO]: LemonLearner475 : 哦
-2017-09-13 [14:26:01] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:26:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
-2017-09-13 [14:26:03] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:26:09] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:26:10] [Server thread/INFO]: LemonLearner475 : ID是什么
-2017-09-13 [14:26:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
-2017-09-13 [14:26:13] [Server thread/WARNING]: Devil moved wrongly!
-2017-09-13 [14:26:16] [Server thread/NOTICE]: Player data not found for "heroslayer", creating new profile
-2017-09-13 [14:26:16] [Server thread/INFO]: heroslayer[/124.190.7.184:62997] [ClientID: -685504353836108182] logged in with entity id 726 at (world, 128, 68, 128)
-2017-09-13 [14:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
-2017-09-13 [14:26:18] [Server thread/INFO]: NANAzk33 : 。。。
-2017-09-13 [14:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
-2017-09-13 [14:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
-2017-09-13 [14:26:24] [Server thread/INFO]: LemonLearner475 left the game
-2017-09-13 [14:26:24] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15875] logged out due to timeout
-2017-09-13 [14:26:48] [Server thread/INFO]: heroslayer joined the game
-2017-09-13 [14:27:03] [Server thread/INFO]: heroslayer left the game
-2017-09-13 [14:27:03] [Server thread/INFO]: heroslayer[/124.190.7.184:62997] logged out due to timeout
-2017-09-13 [14:27:15] [Server thread/INFO]: Steve[/176.45.233.214:61080] [ClientID: 6171340746319941797] logged in with entity id 727 at (world, 289.4535, 55.8, 31.3379)
-2017-09-13 [14:27:18] [Server thread/INFO]: Steve joined the game
-2017-09-13 [14:27:41] [Server thread/INFO]: [MVP+]Devil : 有谁欺负你就告诉我
-2017-09-13 [14:27:54] [Server thread/INFO]: [MVP+]Devil : 我下了 拜拜
-2017-09-13 [14:27:54] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15879] [ClientID: 5810197160121274567] logged in with entity id 728 at (world, 125.144, 64.0585, 143.5575)
-2017-09-13 [14:27:57] [Server thread/INFO]: LemonLearner475 joined the game
-2017-09-13 [14:28:06] [Server thread/INFO]: NANAzk33 : 名字那么长
-2017-09-13 [14:28:10] [Server thread/INFO]: [MVP+]Devil : 我等会加你QQ
-2017-09-13 [14:28:12] [Server thread/INFO]: LemonLearner475 : 可以了
-2017-09-13 [14:28:12] [Server thread/INFO]: NANAzk33 : 好吧?
-2017-09-13 [14:28:13] [Server thread/INFO]: Steve left the game
-2017-09-13 [14:28:13] [Server thread/INFO]: Steve[/176.45.233.214:61080] logged out due to client disconnect
-2017-09-13 [14:28:17] [Server thread/INFO]: Devil left the game
-2017-09-13 [14:28:17] [Server thread/INFO]: Devil[/124.228.58.9:33743] logged out due to client disconnect
-2017-09-13 [14:28:24] [Server thread/WARNING]: LemonLearner475 moved wrongly!
-2017-09-13 [14:28:39] [Server thread/INFO]: NANAzk33 : 去干个啥
-2017-09-13 [14:28:50] [Server thread/INFO]: LemonLearner475 : 不知
-2017-09-13 [14:28:54] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:29:08] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:29:12] [Server thread/INFO]: LemonLearner475 : 呃，你说
-2017-09-13 [14:29:20] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:29:24] [Server thread/INFO]: NANAzk33 : 我也不晓得?︿?
-2017-09-13 [14:29:24] [Server thread/WARNING]: qaq moved wrongly!
-2017-09-13 [14:29:34] [Server thread/INFO]: LemonLearner475 : 跑酷
-2017-09-13 [14:29:57] [Server thread/INFO]: NANAzk33 : 不是很会
-2017-09-13 [14:30:02] [Server thread/INFO]: Devil[/124.228.58.9:33743] [ClientID: -718125915298570028] logged in with entity id 734 at (world, 122.9454, 69, 104.1481)
-2017-09-13 [14:30:03] [Server thread/INFO]: qaq was shot by qaq
-2017-09-13 [14:30:04] [Server thread/INFO]: Devil joined the game
-2017-09-13 [14:30:05] [Server thread/INFO]: LemonLearner475 : 呃
-2017-09-13 [14:30:19] [Server thread/INFO]: LemonLearner475 : 这人什么鬼
-2017-09-13 [14:30:20] [Server thread/INFO]: NANAzk33 : 从哪儿开始跑
-2017-09-13 [14:30:25] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:31:45] [Server thread/INFO]: summertimes332[/77.100.142.100:55245] logged out due to client disconnect
+2017-09-13 [14:31:50] [Server thread/INFO]: LemonLearner475 : 我的哥
+2017-09-13 [14:31:53] [Server thread/INFO]: NANAzk33 : 我又不是熊孩子
+2017-09-13 [14:31:57] [Server thread/INFO]: qaq suffocated in a wall
+2017-09-13 [14:32:13] [Server thread/INFO]: [MVP+]Devil : 没房子睡的 来我死人豪宅
+2017-09-13 [14:32:23] [Server thread/INFO]: NANAzk33 : 不敢
+2017-09-13 [14:32:28] [Server thread/INFO]: NANAzk33 : 太恐怖
+2017-09-13 [14:32:32] [Server thread/INFO]: [MVP+]Devil : 说错了 私人
+2017-09-13 [14:32:37] [Server thread/INFO]: [MVP+]Devil : 输入法的错
+2017-09-13 [14:32:42] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:32:47] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:32:56] [Server thread/INFO]: qaq was pricked to death
+2017-09-13 [14:33:04] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:33:29] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:33:30] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:33:33] [Server thread/INFO]: NANAzk33 : 怎么过去的
+2017-09-13 [14:33:36] [Server thread/INFO]: [MVP+]Devil : 我给你们拿点西瓜来了
+2017-09-13 [14:33:41] [Server thread/INFO]: LemonLearner475 : 好n呀
+2017-09-13 [14:34:02] [Server thread/INFO]: LemonLearner475 : 吃不了
+2017-09-13 [14:34:11] [Server thread/NOTICE]: Player data not found for "frankwalker", creating new profile
+2017-09-13 [14:34:11] [Server thread/INFO]: frankwalker[/112.28.133.60:39349] [ClientID: -5821929928127027828] logged in with entity id 745 at (world, 128, 68, 128)
+2017-09-13 [14:34:12] [Server thread/INFO]: frankwalker joined the game
+2017-09-13 [14:34:22] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:34:53] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:35:13] [Server thread/INFO]: NANAzk33 : 我不会是个傻子吧
+2017-09-13 [14:35:20] [Server thread/INFO]: LemonLearner475 : 呃
+2017-09-13 [14:35:25] [Server thread/INFO]: [MVP+]Devil : 看我的
+2017-09-13 [14:35:27] [Server thread/INFO]: qaq fell from a high place
+2017-09-13 [14:35:40] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:35:45] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:36:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [14:36:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [14:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [14:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [14:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [14:36:23] [Server thread/INFO]: frankwalker : 先干什么
+2017-09-13 [14:37:01] [Server thread/INFO]: LemonLearner475 : 要按加速
+2017-09-13 [14:37:10] [Server thread/INFO]: frankwalker left the game
+2017-09-13 [14:37:10] [Server thread/INFO]: frankwalker[/112.28.133.60:39349] logged out due to timeout
+2017-09-13 [14:37:11] [Server thread/NOTICE]: Player data not found for "gaku", creating new profile
+2017-09-13 [14:37:11] [Server thread/INFO]: GAKU[/27.139.2.70:59255] [ClientID: 687626828435907397] logged in with entity id 753 at (world, 128, 68, 128)
+2017-09-13 [14:37:13] [Server thread/INFO]: GAKU joined the game
+2017-09-13 [14:37:25] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:37:34] [Server thread/INFO]: NANAzk33 : 俺两次？
+2017-09-13 [14:37:43] [Server thread/INFO]: GAKU left the game
+2017-09-13 [14:37:43] [Server thread/INFO]: GAKU[/27.139.2.70:59255] logged out due to client disconnect
+2017-09-13 [14:37:48] [Server thread/INFO]: LemonLearner475 : 呃
+2017-09-13 [14:37:49] [Server thread/INFO]: frankwalker[/112.28.133.60:39357] [ClientID: -5821929928127027828] logged in with entity id 754 at (world, 135.6368, 65, 127.8774)
+2017-09-13 [14:37:50] [Server thread/INFO]: frankwalker joined the game
+2017-09-13 [14:38:12] [Server thread/WARNING]: LemonLearner475 moved wrongly!
+2017-09-13 [14:38:21] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:38:22] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:38:36] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:38:37] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:38:39] [Server thread/INFO]: LemonLearner475 : 你可以的
+2017-09-13 [14:38:43] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:38:46] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:38:51] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:38:53] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:38:57] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:05] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] [ClientID: 3605837626884141308] logged in with entity id 758 at (th, -329.3872, 65, 171.8509)
+2017-09-13 [14:39:07] [Server thread/INFO]: 2136131645 joined the game
+2017-09-13 [14:39:09] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:39:17] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:25] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:32] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:32] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:34] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:34] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:41] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:45] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:46] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:48] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:48] [Server thread/WARNING]: Devil moved wrongly!
+2017-09-13 [14:39:55] [Server thread/INFO]: LemonLearner475 : 还是干其他事情吧
+2017-09-13 [14:40:00] [Server thread/INFO]: [-老司机-]2136131645 : 哇啊
+2017-09-13 [14:40:04] [Server thread/INFO]: NANAzk33 : 哈哈哈
+2017-09-13 [14:40:08] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:09] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:10] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:10] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:11] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:17] [Server thread/INFO]: NANAzk33 : 好难啊
+2017-09-13 [14:40:20] [Server thread/INFO]: Devil left the game
+2017-09-13 [14:40:20] [Server thread/INFO]: Devil[/124.228.58.9:33743] logged out due to client disconnect
+2017-09-13 [14:40:27] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:27] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:38] [Server thread/INFO]: LemonLearner475 : 要走位风骚的
+2017-09-13 [14:40:51] [Server thread/INFO]: frankwalker left the game
+2017-09-13 [14:40:51] [Server thread/INFO]: frankwalker[/112.28.133.60:39357] logged out due to timeout
+2017-09-13 [14:40:55] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:55] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:56] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:40:57] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:41:01] [Server thread/INFO]: NANAzk33 : 那也还厉害了
+2017-09-13 [14:41:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [14:41:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [14:41:16] [Server thread/INFO]: LemonLearner475 : 对呀
+2017-09-13 [14:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [14:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [14:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [14:41:24] [Server thread/INFO]: NANAzk33 : 平时都是自生自灭
+2017-09-13 [14:41:35] [Server thread/INFO]: LemonLearner475 : 哈
+2017-09-13 [14:41:37] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:41:38] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:41:40] [Server thread/INFO]: NANAzk33 : 现在s什么都有了
+2017-09-13 [14:41:51] [Server thread/INFO]: NANAzk33 : 就不知道干嘛了
+2017-09-13 [14:41:51] [Server thread/INFO]: LemonLearner475 : 呃
+2017-09-13 [14:42:11] [Server thread/INFO]: [-老司机-]2136131645 : NASA
+2017-09-13 [14:42:14] [Server thread/WARNING]: LemonLearner475 moved wrongly!
+2017-09-13 [14:42:19] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:42:32] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:42:33] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:42:34] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:42:46] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [14:43:02] [Server thread/INFO]: NANAzk33 : 太远了
+2017-09-13 [14:43:08] [Server thread/INFO]: LemonLearner475 : 嗯
+2017-09-13 [14:43:33] [Server thread/INFO]: LemonLearner475 : 去哪
+2017-09-13 [14:43:41] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:43:43] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:43:58] [Server thread/INFO]: qaq drowned
+2017-09-13 [14:44:28] [Server thread/INFO]: NANAzk33 : 。。。。。
+2017-09-13 [14:44:38] [Server thread/INFO]: LemonLearner475 : 啊？
+2017-09-13 [14:44:43] [Server thread/INFO]: NANAzk33 : 我也很迷茫
+2017-09-13 [14:44:48] [Server thread/INFO]: LemonLearner475 : 嗯
+2017-09-13 [14:44:50] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:46:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [14:46:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [14:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [14:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [14:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [14:46:37] [Server thread/INFO]: NANAzk33 : 那个城镇呢
+2017-09-13 [14:46:42] [Server thread/INFO]: qaq left the game
+2017-09-13 [14:46:42] [Server thread/INFO]: qaq[/220.133.90.161:64577] logged out due to client disconnect
+2017-09-13 [14:46:43] [Server thread/INFO]: LemonLearner475 : 不知道
+2017-09-13 [14:47:40] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:48:04] [Server thread/INFO]: NANAzk33 : 怎么进去的
+2017-09-13 [14:48:11] [Server thread/INFO]: LemonLearner475 : 很6
+2017-09-13 [14:48:29] [Server thread/INFO]: NANAzk33 : 你是鬼嘛
+2017-09-13 [14:48:31] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:48:31] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:49:05] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:49:21] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:49:51] [Server thread/INFO]: NANAzk33 : 感觉来到了郊区
+2017-09-13 [14:49:58] [Server thread/INFO]: LemonLearner475 : 嗯
+2017-09-13 [14:50:07] [Server thread/WARNING]: LemonLearner475 moved wrongly!
+2017-09-13 [14:50:25] [Server thread/INFO]:  Bonnie_is_87[/123.241.148.132:56305] logged out due to Invalid name!
+2017-09-13 [14:50:30] [Server thread/INFO]: NANAzk33 : 我也想要一块地
+2017-09-13 [14:50:39] [Server thread/INFO]: LemonLearner475 : 我也想
+2017-09-13 [14:50:47] [Server thread/INFO]:  Bonnie_is_87[/123.241.148.132:62660] logged out due to Invalid name!
+2017-09-13 [14:50:54] [Server thread/INFO]: LemonLearner475 : 要钱的
+2017-09-13 [14:50:57] [Server thread/INFO]: NANAzk33 : 要钱？
+2017-09-13 [14:51:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [14:51:05] [Server thread/INFO]: [-老司机-]2136131645 : 你们来我家
+2017-09-13 [14:51:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [14:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [14:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [14:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理2个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [14:51:30] [Server thread/INFO]: Steve[/123.245.52.27:21689] [ClientID: 3490321544315363603] logged in with entity id 808 at (world, 289.4535, 56, 31.3379)
+2017-09-13 [14:51:31] [Server thread/INFO]: LemonLearner475 : 人呢
+2017-09-13 [14:51:36] [Server thread/INFO]: Steve joined the game
+2017-09-13 [14:51:49] [Server thread/INFO]: NANAzk33 : 他回家了
+2017-09-13 [14:51:56] [Server thread/INFO]: LemonLearner475 : 不要吓我
+2017-09-13 [14:52:15] [Server thread/INFO]: NANAzk33 : 哈哈
+2017-09-13 [14:53:00] [Server thread/INFO]: Steve left the game
+2017-09-13 [14:53:00] [Server thread/INFO]: Steve[/123.245.52.27:21689] logged out due to client disconnect
+2017-09-13 [14:53:01] [Server thread/INFO]: LemonLearner475 : 你人呢
+2017-09-13 [14:53:02] [Server thread/INFO]:  Bonnie_is_87[/123.241.148.132:50169] logged out due to Invalid name!
+2017-09-13 [14:53:12] [Server thread/INFO]: NANAzk33 : 怎么邀请他
+2017-09-13 [14:53:37] [Server thread/INFO]: NANAzk33 : 被传送过来了
+2017-09-13 [14:53:44] [Server thread/INFO]: [-老司机-]2136131645 : 她id好长
+2017-09-13 [14:53:47] [Server thread/INFO]: [-老司机-]2136131645 : 记不住
+2017-09-13 [14:53:49] [Server thread/INFO]:  Bonnie_is_87[/123.241.148.132:56305] logged out due to Invalid name!
+2017-09-13 [14:53:51] [Server thread/INFO]: [-老司机-]2136131645 : QAQ
+2017-09-13 [14:53:59] [Server thread/INFO]: LemonLearner475 : 你等一下
+2017-09-13 [14:54:13] [Server thread/INFO]: [-老司机-]2136131645 : 你来找我们吧
+2017-09-13 [14:54:28] [Server thread/INFO]: LemonLearner475 : 这~
+2017-09-13 [14:54:32] [Server thread/INFO]: [-老司机-]2136131645 : 输入/找人 NANAZK33
+2017-09-13 [14:54:47] [Server thread/INFO]: LemonLearner475 left the game
+2017-09-13 [14:54:47] [Server thread/INFO]: LemonLearner475[/117.136.79.176:15879] logged out due to client disconnect
+2017-09-13 [14:55:00] [Server thread/INFO]: [-老司机-]2136131645 : 唔
+2017-09-13 [14:55:05] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:55:16] [Server thread/INFO]: NANAzk33 : 为什么我会冒泡泡
+2017-09-13 [14:55:31] [Server thread/INFO]: [-老司机-]2136131645 : 因为你有药水buff啊
+2017-09-13 [14:55:34] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [14:55:51] [Server thread/INFO]: NANAzk33 : 就是你刚刚给我的那个？
+2017-09-13 [14:56:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [14:56:04] [Server thread/INFO]: [-老司机-]2136131645 : 这里的信标
+2017-09-13 [14:56:05] [Server thread/INFO]: NANAzk33 : 这什么buff
+2017-09-13 [14:56:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [14:56:13] [Server thread/INFO]: [-老司机-]2136131645 : 给你的
+2017-09-13 [14:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [14:56:18] [Server thread/INFO]: NANAzk33 : 说啥
+2017-09-13 [14:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [14:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [14:56:22] [Server thread/INFO]: NANAzk33 : 所噶
+2017-09-13 [14:57:09] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [14:58:25] [Server thread/INFO]: NANAzk33 : 那个就是钱？
+2017-09-13 [14:58:40] [Server thread/INFO]: [-老司机-]2136131645 : 钻石要换成钱
+2017-09-13 [14:58:52] [Server thread/INFO]: NANAzk33 : 怎么换
+2017-09-13 [14:59:14] [Server thread/INFO]: [-老司机-]2136131645 : 跟我来
+2017-09-13 [14:59:33] [Server thread/INFO]: [-老司机-]2136131645 : 去资源
+2017-09-13 [14:59:56] [Server thread/NOTICE]: Player data not found for "staldc123", creating new profile
+2017-09-13 [14:59:56] [Server thread/INFO]: Staldc123[/117.136.79.176:15883] [ClientID: 5810197160121274567] logged in with entity id 812 at (world, 128, 68, 128)
+2017-09-13 [14:59:58] [Server thread/INFO]: Staldc123 joined the game
+2017-09-13 [15:00:02] [Server thread/INFO]: NANAzk33 : 怎么还是你的领地
+2017-09-13 [15:00:10] [Server thread/INFO]: [-老司机-]2136131645 : 不是我的
+2017-09-13 [15:00:26] [Server thread/INFO]: [-老司机-]2136131645 : 点钻石牌子
+2017-09-13 [15:00:26] [Server thread/INFO]: Staldc123 : 0.0
+2017-09-13 [15:01:01] [Server thread/INFO]: Staldc123 : 快点传送我
+2017-09-13 [15:01:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:01:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:01:37] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:01:43] [Server thread/INFO]: [-老司机-]2136131645 : 点他就可以换成钱了
+2017-09-13 [15:01:53] [Server thread/INFO]: NANAzk33 : 点了
+2017-09-13 [15:02:00] [Server thread/INFO]: NANAzk33 : 要钱干嘛
+2017-09-13 [15:02:00] [Server thread/INFO]: Staldc123 : 传送我
+2017-09-13 [15:02:10] [Server thread/INFO]: Staldc123 : 我改完了
+2017-09-13 [15:02:10] [Server thread/INFO]: NANAzk33 : 鬼？
+2017-09-13 [15:02:16] [Server thread/INFO]: [-老司机-]2136131645 : 买地皮和其他东西
+2017-09-13 [15:02:16] [Server thread/INFO]: Staldc123 : 嗯
+2017-09-13 [15:02:29] [Server thread/INFO]: NANAzk33 : 老司机  传吧
+2017-09-13 [15:02:34] [Server thread/INFO]: NANAzk33 : 我不会
+2017-09-13 [15:02:38] [Server thread/INFO]: Staldc123 : 我就是鬼
+2017-09-13 [15:02:39] [Server thread/INFO]: [-老司机-]2136131645 : 去哪
+2017-09-13 [15:02:47] [Server thread/INFO]: NANAzk33 : 地皮好多钱
+2017-09-13 [15:02:54] [Server thread/INFO]: NANAzk33 : 把他带来
+2017-09-13 [15:02:57] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:02:58] [Server thread/INFO]: [-老司机-]2136131645 : 要看你要多大的
+2017-09-13 [15:03:11] [Server thread/INFO]: NANAzk33 : 什么价位
+2017-09-13 [15:03:14] [Server thread/INFO]: NANAzk33 : 哈啊
+2017-09-13 [15:03:18] [Server thread/INFO]: [-老司机-]2136131645 : emmm
+2017-09-13 [15:03:23] [Server thread/INFO]: NANAzk33 : 感觉好像买房子
+2017-09-13 [15:03:28] [Server thread/INFO]: [-老司机-]2136131645 : 差不多
+2017-09-13 [15:03:40] [Server thread/INFO]: NANAzk33 : 我怎么传送他
+2017-09-13 [15:03:40] [Server thread/INFO]: [-老司机-]2136131645 : 但房子要你自己建
+2017-09-13 [15:03:49] [Server thread/INFO]: NANAzk33 : 没材料
+2017-09-13 [15:04:11] [Server thread/INFO]: [-老司机-]2136131645 : 这里有木头木头下面是石头
+2017-09-13 [15:04:40] [Server thread/INFO]: NANAzk33 : 你当房子好多钱
+2017-09-13 [15:04:41] [Server thread/INFO]: [-老司机-]2136131645 : 可以挖到很多矿
+2017-09-13 [15:04:50] [Server thread/INFO]: NANAzk33 : 所噶
+2017-09-13 [15:05:03] [Server thread/INFO]: NANAzk33 : 我们去找他吧
+2017-09-13 [15:05:10] [Server thread/INFO]: [-老司机-]2136131645 : 这里是保护区域
+2017-09-13 [15:05:11] [Server thread/INFO]: NANAzk33 : 卖完了
+2017-09-13 [15:05:17] [Server thread/INFO]: [-老司机-]2136131645 : 找谁
+2017-09-13 [15:05:28] [Server thread/INFO]: NANAzk33 : 粉色男孩
+2017-09-13 [15:06:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:06:02] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:06:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:06:22] [Server thread/INFO]: Staldc123 : 我会了
+2017-09-13 [15:06:39] [Server thread/INFO]: NANAzk33 : 你就谷会了
+2017-09-13 [15:07:09] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:07:45] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:07:46] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:08:40] [Server thread/INFO]: NANAzk33 : 带我挖矿吧
+2017-09-13 [15:08:43] [Server thread/INFO]: Staldc123 : 去外服
+2017-09-13 [15:09:01] [Server thread/INFO]: NANAzk33 : 不会英文
+2017-09-13 [15:09:08] [Server thread/INFO]: Staldc123 : 我也不会
+2017-09-13 [15:09:11] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:09:20] [Server thread/INFO]: [-老司机-]2136131645 : 资源
+2017-09-13 [15:09:21] [Server thread/INFO]: [-老司机-]2136131645 : 世界
+2017-09-13 [15:10:12] [Server thread/INFO]: Staldc123 has just earned the achievement Getting Wood
+2017-09-13 [15:10:28] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:10:51] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:11:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:11:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:11:27] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:12:19] [Server thread/NOTICE]: Player data not found for "steven131", creating new profile
+2017-09-13 [15:12:19] [Server thread/INFO]: Steven131[/123.245.52.27:22708] [ClientID: 3490321544315363603] logged in with entity id 915 at (world, 128, 68, 128)
+2017-09-13 [15:12:23] [Server thread/INFO]: Steven131 joined the game
+2017-09-13 [15:12:37] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:12:55] [Server thread/INFO]: Steven131 left the game
+2017-09-13 [15:12:55] [Server thread/INFO]: Steven131[/123.245.52.27:22708] logged out due to client disconnect
+2017-09-13 [15:14:43] [Server thread/INFO]: Staldc123 : 挖什么
+2017-09-13 [15:14:51] [Server thread/INFO]: NANAzk33 : 矿
+2017-09-13 [15:15:31] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:16:00] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:16:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:16:02] [Server thread/INFO]: Staldc123 : 好多石头
+2017-09-13 [15:16:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理8个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:18:19] [Server thread/INFO]: 2136131645 died
+2017-09-13 [15:19:19] [Server thread/INFO]: Staldc123 : 你娃到什么了
+2017-09-13 [15:19:25] [Server thread/INFO]: 2136131645 died
+2017-09-13 [15:19:37] [Server thread/INFO]: NANAzk33 : 铁和霉
+2017-09-13 [15:19:45] [Server thread/INFO]: NANAzk33 : 就一点
+2017-09-13 [15:19:51] [Server thread/INFO]: Staldc123 : .......
+2017-09-13 [15:20:53] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:21:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:21:02] [Server thread/INFO]: NANAzk33 : 钻石块能拆了？
+2017-09-13 [15:21:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理18个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:22:50] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:23:24] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:23:25] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:23:25] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:23:26] [Server thread/INFO]: 2136131645 left the game
+2017-09-13 [15:23:26] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] logged out due to client disconnect
+2017-09-13 [15:23:26] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:23:52] [Server thread/INFO]: 2136131645[/117.90.41.59:2857] [ClientID: 3605837626884141308] logged in with entity id 1561 at (world, 103.9758, 51, 249.3446)
+2017-09-13 [15:23:54] [Server thread/INFO]: 2136131645 joined the game
+2017-09-13 [15:24:25] [Server thread/INFO]: sunjiahao520[/123.185.3.152:9093] [ClientID: 1063107769292482471] logged in with entity id 1572 at (th, 51.378, 13, 72.6173)
+2017-09-13 [15:24:26] [Server thread/INFO]: sunjiahao520 joined the game
+2017-09-13 [15:24:30] [Server thread/INFO]: yukozh[/125.54.27.121:63887] [ClientID: 6797555042684619036] logged in with entity id 1573 at (th, -237.2663, 63, -172.0444)
+2017-09-13 [15:24:33] [Server thread/INFO]: yukozh joined the game
+2017-09-13 [15:24:36] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:24:36] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:24:47] [Server thread/INFO]: NANAzk33 has just earned the achievement Getting an Upgrade
+2017-09-13 [15:24:52] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:25:46] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-13 [15:26:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:26:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:26:20] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:27:17] [Server thread/INFO]: Staldc123 : 怎么获得钱
+2017-09-13 [15:27:20] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:27:24] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:27:35] [Server thread/INFO]: [帅哥]sunjiahao520 : 谁能给我钱
+2017-09-13 [15:27:43] [Server thread/INFO]: [MVP+]yukozh : 我
+2017-09-13 [15:27:44] [Server thread/INFO]: NANAzk33 : 卖石头啊霉啊铁啊等等
+2017-09-13 [15:27:45] [Server thread/INFO]: [-老司机-]2136131645 : 给你个头
+2017-09-13 [15:27:51] [Server thread/INFO]: [MVP+]yukozh : 我
+2017-09-13 [15:27:58] [Server thread/INFO]: [帅哥]sunjiahao520 : 给我
+2017-09-13 [15:28:07] [Server thread/INFO]: [MVP+]yukozh : 指令
+2017-09-13 [15:28:14] [Server thread/INFO]: [MVP+]yukozh : 我忘啦
+2017-09-13 [15:28:17] [Server thread/INFO]: [帅哥]sunjiahao520 : 100000
+2017-09-13 [15:28:24] [Server thread/INFO]: [帅哥]sunjiahao520 : 行吗
+2017-09-13 [15:28:31] [Server thread/INFO]: [MVP+]yukozh : 可以
+2017-09-13 [15:28:36] [Server thread/INFO]: [-老司机-]2136131645 : 你还真是不要脸啊
+2017-09-13 [15:28:38] [Server thread/INFO]: [MVP+]yukozh : 指令
+2017-09-13 [15:28:40] [Server thread/INFO]: Staldc123 : 骗人
+2017-09-13 [15:28:54] [Server thread/INFO]: [帅哥]sunjiahao520 : 输入/pay sunjiahao520 100000
+2017-09-13 [15:28:56] [Server thread/INFO]: [-老司机-]2136131645 : 孙狗蛋
+2017-09-13 [15:29:28] [Server thread/INFO]: Staldc123 : 我要钱
+2017-09-13 [15:29:36] [Server thread/INFO]: Staldc123 : 钱~~-
+2017-09-13 [15:29:37] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:29:40] [Server thread/INFO]: NANAzk33 : 真的
+2017-09-13 [15:29:42] [Server thread/INFO]: [MVP+]yukozh : 多少
+2017-09-13 [15:29:53] [Server thread/INFO]: NANAzk33 : 刚刚我去卖了的
+2017-09-13 [15:29:54] [Server thread/INFO]: Staldc123 : 1000
+2017-09-13 [15:30:05] [Server thread/INFO]: [MVP+]yukozh : 好
+2017-09-13 [15:30:17] [Server thread/INFO]: NANAzk33 : 能不能要多点
+2017-09-13 [15:30:22] [Server thread/INFO]: [-老司机-]2136131645 : 好你个头
+2017-09-13 [15:30:30] [Server thread/INFO]: [-老司机-]2136131645 : 多给点
+2017-09-13 [15:30:30] [Server thread/INFO]: [帅哥]sunjiahao520 : w猪再给我40000
+2017-09-13 [15:30:35] [Server thread/INFO]: [帅哥]sunjiahao520 : 再给我
+2017-09-13 [15:30:40] [Server thread/INFO]: [帅哥]sunjiahao520 : 400000
+2017-09-13 [15:30:48] [Server thread/INFO]: Staldc123 : 真给我了吗
+2017-09-13 [15:30:49] [Server thread/INFO]: [帅哥]sunjiahao520 : 老司机你有病
+2017-09-13 [15:30:53] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:30:53] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:30:59] [Server thread/INFO]: Steve[/153.229.83.83:63933] [ClientID: -584388582282967824] logged in with entity id 1994 at (world, 289.4535, 55.2, 31.3379)
+2017-09-13 [15:31:00] [Server thread/INFO]: Steve joined the game
+2017-09-13 [15:31:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:31:02] [Server thread/INFO]: [-老司机-]2136131645 : 你个小学生滚一边去
+2017-09-13 [15:31:03] [Server thread/INFO]: [MVP+]yukozh : 没事
+2017-09-13 [15:31:09] [Server thread/INFO]: [帅哥]sunjiahao520 : 400000
+2017-09-13 [15:31:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:31:14] [Server thread/INFO]: [-老司机-]2136131645 : 40
+2017-09-13 [15:31:16] [Server thread/INFO]: [帅哥]sunjiahao520 : 少了
+2017-09-13 [15:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:31:18] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:31:20] [Server thread/INFO]: [帅哥]sunjiahao520 : 一个零
+2017-09-13 [15:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理11个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:31:22] [Server thread/INFO]: [-老司机-]2136131645 : 你就值40
+2017-09-13 [15:31:25] [Server thread/INFO]: Steve left the game
+2017-09-13 [15:31:25] [Server thread/INFO]: Steve[/153.229.83.83:63933] logged out due to client disconnect
+2017-09-13 [15:31:32] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:31:39] [Server thread/INFO]: [帅哥]sunjiahao520 : 给我400000
+2017-09-13 [15:31:58] [Server thread/INFO]: [帅哥]sunjiahao520 : 好了
+2017-09-13 [15:32:12] [Server thread/INFO]: [帅哥]sunjiahao520 : 200000
+2017-09-13 [15:32:17] [Server thread/INFO]: Staldc123 : 可以再给我一点吗
+2017-09-13 [15:32:24] [Server thread/INFO]: [MVP+]yukozh : 可以
+2017-09-13 [15:32:34] [Server thread/INFO]: [帅哥]sunjiahao520 : 100000
+2017-09-13 [15:32:38] [Server thread/INFO]: Staldc123 : 我要10000000
+2017-09-13 [15:32:44] [Server thread/INFO]: Steve[/153.229.83.83:60692] [ClientID: -584388582282967824] logged in with entity id 2100 at (world, 289.4535, 55.4, 31.3379)
+2017-09-13 [15:32:45] [Server thread/INFO]: Staldc123 : 不多吧
+2017-09-13 [15:32:45] [Server thread/INFO]: [-老司机-]2136131645 : emmm
+2017-09-13 [15:32:48] [Server thread/INFO]: NANAzk33 : 。。。。。。
+2017-09-13 [15:32:50] [Server thread/INFO]: [帅哥]sunjiahao520 : 我草
+2017-09-13 [15:32:50] [Server thread/INFO]: Steve[/153.229.83.83:60692] logged out due to client disconnect
+2017-09-13 [15:32:53] [Server thread/INFO]: [帅哥]sunjiahao520 : 怎么
+2017-09-13 [15:33:02] [Server thread/INFO]: NANAzk33 : 谢了
+2017-09-13 [15:33:11] [Server thread/INFO]: [帅哥]sunjiahao520 : 给我200000
+2017-09-13 [15:33:16] [Server thread/INFO]: [帅哥]sunjiahao520 : 谢谢
+2017-09-13 [15:33:19] [Server thread/INFO]: [帅哥]sunjiahao520 : 求你了
+2017-09-13 [15:33:23] [Server thread/INFO]: [-老司机-]2136131645 : 一百万不多
+2017-09-13 [15:33:30] [Server thread/INFO]: Staldc123 : 谢了
+2017-09-13 [15:33:36] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:33:48] [Server thread/INFO]: Staldc123 : 我有钱了
+2017-09-13 [15:34:04] [Server thread/INFO]: [帅哥]sunjiahao520 : 谢谢
+2017-09-13 [15:34:05] [Server thread/INFO]: NANAzk33 : 能买房子了嘛
+2017-09-13 [15:34:12] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 哈哈
+2017-09-13 [15:34:19] [Server thread/INFO]: [-老司机-]2136131645 : 只能买地皮
+2017-09-13 [15:34:19] [Server thread/INFO]: Staldc123 : ....
+2017-09-13 [15:34:21] [Server thread/INFO]: john[/193.235.33.112:10400] [ClientID: -6591010991471621756] logged in with entity id 2192 at (world, 128, 28, 128)
+2017-09-13 [15:34:23] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:34:25] [Server thread/INFO]: john joined the game
+2017-09-13 [15:34:28] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 老司机
+2017-09-13 [15:34:31] [Server thread/INFO]: Staldc123 : 66
+2017-09-13 [15:34:34] [Server thread/INFO]: [-老司机-]2136131645 : 房子要自己建
+2017-09-13 [15:34:36] [Server thread/INFO]: Steve[/153.229.83.83:60692] [ClientID: -584388582282967824] logged in with entity id 2193 at (world, 289.4535, 55.4, 31.3379)
+2017-09-13 [15:34:37] [Server thread/INFO]: Steve joined the game
+2017-09-13 [15:34:42] [Server thread/INFO]: NANAzk33 : 好吧
+2017-09-13 [15:34:43] [Server thread/INFO]: [-老司机-]2136131645 : 叫我干嘛
+2017-09-13 [15:34:44] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 我要杀了老司机
+2017-09-13 [15:34:53] [Server thread/INFO]: Staldc123 : 房子
+2017-09-13 [15:34:58] [Server thread/INFO]: NANAzk33 : 能买地皮了嘛？
+2017-09-13 [15:35:00] [Server thread/INFO]: [MVP+]yukozh : 。
+2017-09-13 [15:35:00] [Server thread/INFO]: [-老司机-]2136131645 : 小学生你来呀
+2017-09-13 [15:35:03] [Server thread/INFO]: Steve left the game
+2017-09-13 [15:35:03] [Server thread/INFO]: Steve[/153.229.83.83:60692] logged out due to client disconnect
+2017-09-13 [15:35:07] [Server thread/INFO]: Staldc123 : 我要房子
+2017-09-13 [15:35:26] [Server thread/INFO]: john left the game
+2017-09-13 [15:35:26] [Server thread/INFO]: john[/193.235.33.112:10400] logged out due to client disconnect
+2017-09-13 [15:35:29] [Server thread/INFO]: [MVP+]yukozh : 然后呢
+2017-09-13 [15:35:33] [Server thread/INFO]: NANAzk33 : 好黑啊
+2017-09-13 [15:35:37] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 谁他妈是小学生
+2017-09-13 [15:35:40] [Server thread/INFO]: Staldc123 : 为什么你有怎么多钱
+2017-09-13 [15:35:45] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:35:48] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 创造
+2017-09-13 [15:35:48] [Server thread/INFO]: [-老司机-]2136131645 : 你啊小学生
+2017-09-13 [15:35:54] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:35:58] [Server thread/INFO]: [MVP+]yukozh : 无限金币
+2017-09-13 [15:36:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:36:02] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 你逼逼什么
+2017-09-13 [15:36:07] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 老司机
+2017-09-13 [15:36:11] [Server thread/INFO]: [-老司机-]2136131645 : 来打我啊
+2017-09-13 [15:36:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:36:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:36:17] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 再给我10000000
+2017-09-13 [15:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:36:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:36:26] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:36:31] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 求你了3
+2017-09-13 [15:36:40] [Server thread/INFO]: [-老司机-]2136131645 : yu你别惯着那个小学生
+2017-09-13 [15:36:44] [Server thread/INFO]: [MVP+]yukozh : なんで
+2017-09-13 [15:36:54] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 给我100000
+2017-09-13 [15:36:55] [Server thread/INFO]: Staldc123 : 那个人呢
+2017-09-13 [15:37:00] [Server thread/INFO]: [-老司机-]2136131645 : 刚才还骂人闲现在又卖萌
+2017-09-13 [15:37:02] [Server thread/INFO]: [MVP+]yukozh : なんで
+2017-09-13 [15:37:06] [Server thread/INFO]: [-老司机-]2136131645 : 跟弱智一样
+2017-09-13 [15:37:13] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 日语
+2017-09-13 [15:37:16] [Server thread/INFO]: Staldc123 : 我还要
+2017-09-13 [15:37:17] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-13 [15:37:23] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 我也是
+2017-09-13 [15:37:30] [Server thread/INFO]: Staldc123 : 我要买房子
+2017-09-13 [15:37:38] [Server thread/INFO]: Staldc123 : 别墅
+2017-09-13 [15:37:43] [Server thread/INFO]: [MVP+]yukozh : 多少
+2017-09-13 [15:37:46] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:37:51] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 130000
+2017-09-13 [15:37:53] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:37:55] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-13 [15:38:15] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 我要130000
+2017-09-13 [15:38:15] [Server thread/INFO]: [MVP+]yukozh : staldc多少
+2017-09-13 [15:38:18] [Server thread/INFO]: NANAzk33 : 看到你们这样   我就没心思挖矿了
+2017-09-13 [15:38:26] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-13 [15:38:26] [Server thread/WARNING]: sunjiahao520 moved wrongly!
+2017-09-13 [15:38:28] [Server thread/INFO]: Staldc123 : 别墅要多少钱
+2017-09-13 [15:38:35] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 100000
+2017-09-13 [15:38:45] [Server thread/INFO]: [MVP+]yukozh : 看你造多大
+2017-09-13 [15:38:57] [Server thread/INFO]: Staldc123 : 我只要别墅
+2017-09-13 [15:39:01] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:39:10] [Server thread/INFO]: [MVP+]yukozh : 那够了
+2017-09-13 [15:39:12] [Server thread/INFO]: [¥富豪$]sunjiahao520 : g给我150000大哥
+2017-09-13 [15:39:15] [Server thread/INFO]: NANAzk33 : 材料怎么来
+2017-09-13 [15:39:21] [Server thread/INFO]: [MVP+]yukozh : 你有10000000
+2017-09-13 [15:39:27] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 没
+2017-09-13 [15:39:27] [Server thread/INFO]: [-老司机-]2136131645 : 你要哪些材料
+2017-09-13 [15:39:31] [Server thread/INFO]: [MVP+]yukozh : 多钱了
+2017-09-13 [15:39:33] [Server thread/INFO]: Staldc123 : 用完了
+2017-09-13 [15:39:40] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:39:41] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 给我
+2017-09-13 [15:39:44] [Server thread/INFO]: NANAzk33 : 不晓得哦
+2017-09-13 [15:39:54] [Server thread/INFO]: [MVP+]yukozh : 买了什么
+2017-09-13 [15:39:57] [Server thread/INFO]: NANAzk33 : 要去买嘛
+2017-09-13 [15:40:04] [Server thread/INFO]: [-老司机-]2136131645 : 要不你跟我住吧
+2017-09-13 [15:40:05] [Server thread/INFO]: Staldc123 : 不知道
+2017-09-13 [15:40:05] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 无敌
+2017-09-13 [15:40:10] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:40:13] [Server thread/INFO]: Staldc123 : 是英语
+2017-09-13 [15:40:14] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 我破产了
+2017-09-13 [15:40:15] [Server thread/INFO]: NANAzk33 : 哈哈
+2017-09-13 [15:40:28] [Server thread/INFO]: [MVP+]yukozh : 什么叫不知道
+2017-09-13 [15:40:29] [Server thread/INFO]: [-老司机-]2136131645 : ´_>`
+2017-09-13 [15:40:41] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 大哥
+2017-09-13 [15:40:44] [Server thread/INFO]: [MVP+]yukozh : 还有这种操作
+2017-09-13 [15:40:46] [Server thread/INFO]: [-老司机-]2136131645 : 好吗
+2017-09-13 [15:41:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:41:10] [Server thread/INFO]: NANAzk33 : 还能回去嘛   这么深
+2017-09-13 [15:41:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:41:12] [Server thread/INFO]: [VIP+]Staldc123 : 我什么都买了
+2017-09-13 [15:41:13] [Server thread/INFO]: [MVP+]yukozh : ？
+2017-09-13 [15:41:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:41:20] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 给我
+2017-09-13 [15:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:41:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理4个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:41:24] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:41:30] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 500000
+2017-09-13 [15:41:32] [Server thread/INFO]: [MVP+]yukozh : 那再给你100000
+2017-09-13 [15:41:51] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 500000
+2017-09-13 [15:42:23] [Server thread/INFO]: [-老司机-]2136131645 : 你先设置个家
+2017-09-13 [15:42:35] [Server thread/INFO]: NANAzk33 : 怎么设置
+2017-09-13 [15:42:36] [Server thread/INFO]: [MVP+]Staldc123 : 这个加速好烦
+2017-09-13 [15:42:39] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 好了吗
+2017-09-13 [15:42:44] [Server thread/INFO]: [¥富豪$]sunjiahao520 : 500000
+2017-09-13 [15:42:46] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:42:52] [Server thread/INFO]: [MVP+]yukozh : 不是给你
+2017-09-13 [15:42:54] [Server thread/INFO]: [-老司机-]2136131645 : 输入/安家 后面随便一个名字都可以
+2017-09-13 [15:43:16] [Server thread/INFO]: [MVP+]Staldc123 : 加速好烦
+2017-09-13 [15:43:17] [Server thread/INFO]: sunjiahao520 left the game
+2017-09-13 [15:43:17] [Server thread/INFO]: sunjiahao520[/123.185.3.152:9093] logged out due to client disconnect
+2017-09-13 [15:43:40] [Server thread/INFO]: [MVP+]Staldc123 : 我不要这个加速
+2017-09-13 [15:43:47] [Server thread/INFO]: Steve[/180.31.25.17:59842] [ClientID: 2582742513599528163] logged in with entity id 2544 at (world, 289.4535, 55.6, 31.3379)
+2017-09-13 [15:43:51] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:43:51] [Server thread/INFO]: Steve joined the game
+2017-09-13 [15:44:00] [Server thread/INFO]: [MVP+]Staldc123 : 怎么取消
+2017-09-13 [15:44:02] [Server thread/INFO]: Steve left the game
+2017-09-13 [15:44:02] [Server thread/INFO]: Steve[/180.31.25.17:59842] logged out due to timeout
+2017-09-13 [15:44:09] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:44:14] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:44:17] [Server thread/INFO]: [MVP+]yukozh : 还有几分钟
+2017-09-13 [15:44:29] [Server thread/INFO]: [MVP+]Staldc123 : 没有秒呀
+2017-09-13 [15:44:32] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:44:42] [Server thread/INFO]: [MVP+]Staldc123 : xx;xx
+2017-09-13 [15:44:52] [Server thread/INFO]: [MVP+]Staldc123 : 就是这个
+2017-09-13 [15:44:53] [Server thread/INFO]: [MVP+]yukozh : 是永久的
+2017-09-13 [15:45:36] [Server thread/INFO]: [MVP+]yukozh : 我问一下副腐竹能取消掉么
+2017-09-13 [15:45:38] [Server thread/INFO]: [MVP+]Staldc123 : 弄的我手机卡
+2017-09-13 [15:46:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:46:06] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [15:46:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:46:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:46:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:46:23] [Server thread/INFO]: [MVP+]yukozh : 你别下线
+2017-09-13 [15:46:32] [Server thread/INFO]: [MVP+]yukozh : 我出去一下
+2017-09-13 [15:46:43] [Server thread/INFO]: Staldc123 left the game
+2017-09-13 [15:46:43] [Server thread/INFO]: Staldc123[/117.136.79.176:15883] logged out due to client disconnect
+2017-09-13 [15:46:50] [Server thread/INFO]: yukozh left the game
+2017-09-13 [15:46:50] [Server thread/INFO]: yukozh[/125.54.27.121:63887] logged out due to timeout
+2017-09-13 [15:47:25] [Server thread/INFO]: [-老司机-]2136131645 : 好了吗
+2017-09-13 [15:47:50] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:47:52] [Server thread/INFO]: yukozh[/125.54.27.121:63887] [ClientID: 6797555042684619036] logged in with entity id 2546 at (world, 122.6968, 64, 104.8601)
+2017-09-13 [15:47:54] [Server thread/INFO]: yukozh joined the game
+2017-09-13 [15:49:04] [Server thread/INFO]: Staldc123[/117.136.79.176:15887] [ClientID: 5810197160121274567] logged in with entity id 2553 at (world, 126.3, 64, 120.6913)
+2017-09-13 [15:49:06] [Server thread/INFO]: Staldc123 joined the game
+2017-09-13 [15:49:16] [Server thread/INFO]: [MVP+]yukozh : 他没回我
+2017-09-13 [15:49:24] [Server thread/INFO]: [MVP+]yukozh : 不在线
+2017-09-13 [15:49:32] [Server thread/INFO]: [MVP+]Staldc123 : 啊？
+2017-09-13 [15:49:41] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:49:54] [Server thread/INFO]: [MVP+]yukozh : 不在线
+2017-09-13 [15:50:19] [Server thread/INFO]: [MVP+]yukozh : 还有么
+2017-09-13 [15:50:26] [Server thread/INFO]: [MVP+]Staldc123 : 有
+2017-09-13 [15:50:33] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:50:34] [Server thread/INFO]: [MVP+]yukozh : 是永久的？
+2017-09-13 [15:50:46] [Server thread/INFO]: [MVP+]Staldc123 : 好像是吧
+2017-09-13 [15:50:58] [Server thread/INFO]: [MVP+]yukozh : 有时间么
+2017-09-13 [15:51:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:51:07] [Server thread/INFO]: [MVP+]Staldc123 : 没有
+2017-09-13 [15:51:11] [Server thread/INFO]: [-老司机-]2136131645 : 你在这干嘛呢
+2017-09-13 [15:51:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:51:13] [Server thread/INFO]: NANAzk33 : 。。。
+2017-09-13 [15:51:13] [Server thread/INFO]: [MVP+]yukozh : 。。。
+2017-09-13 [15:51:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:51:19] [Server thread/WARNING]: Staldc123 moved wrongly!
+2017-09-13 [15:51:20] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:51:21] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:51:21] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:51:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:51:25] [Server thread/INFO]: NANAzk33 : 找一个酒店
+2017-09-13 [15:51:32] [Server thread/INFO]: [MVP+]yukozh : 覆盖不掉
+2017-09-13 [15:51:42] [Server thread/INFO]: [-老司机-]2136131645 : 不是说住我家的嘛
+2017-09-13 [15:51:44] [Server thread/INFO]: [MVP+]Staldc123 : .
+2017-09-13 [15:51:54] [Server thread/INFO]: [-老司机-]2136131645 : 而且这没酒店
+2017-09-13 [15:51:55] [Server thread/INFO]: NANAzk33 : 我知道(?-?)?
+2017-09-13 [15:52:09] [Server thread/INFO]: [MVP+]yukozh : 那先造家把
+2017-09-13 [15:52:16] [Server thread/INFO]: [MVP+]Staldc123 : 哦
+2017-09-13 [15:52:20] [Server thread/INFO]: NANAzk33 : 有一个四星级那个
+2017-09-13 [15:52:35] [Server thread/INFO]: [MVP+]yukozh : 等会tp我
+2017-09-13 [15:52:37] [Server thread/INFO]: NANAzk33 : 不晓得在哪儿
+2017-09-13 [15:52:48] [Server thread/INFO]: [MVP+]Staldc123 : 什么tp
+2017-09-13 [15:53:04] [Server thread/INFO]: [MVP+]yukozh : tp我把
+2017-09-13 [15:53:16] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:53:25] [Server thread/INFO]: [MVP+]Staldc123 : 谁呀
+2017-09-13 [15:53:34] [Server thread/INFO]: [MVP+]yukozh : 找人 名字 前面打个/
+2017-09-13 [15:53:51] [Server thread/INFO]: [MVP+]yukozh : tp我
+2017-09-13 [15:53:57] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:54:52] [Server thread/INFO]: [MVP+]yukozh : 就这里了
+2017-09-13 [15:54:53] [Server thread/INFO]: [MVP+]Staldc123 : 接下来干啥
+2017-09-13 [15:54:57] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:55:08] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:55:09] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [15:55:19] [Server thread/INFO]: [MVP+]yukozh : 造家
+2017-09-13 [15:55:24] [Server thread/INFO]: [MVP+]Staldc123 : 哦
+2017-09-13 [15:55:41] [Server thread/INFO]: krepir op zvx[/37.237.80.61:8555] logged out due to Invalid name!
+2017-09-13 [15:55:49] [Server thread/INFO]: Steve[/37.237.80.61:8104] [ClientID: 5965351063295555178] logged in with entity id 2589 at (world, 289.4535, 55.8, 31.3379)
+2017-09-13 [15:56:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [15:56:10] [Server thread/INFO]: krepir op zvx[/37.237.80.61:8555] logged out due to Invalid name!
+2017-09-13 [15:56:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [15:56:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [15:56:20] [Server thread/INFO]: Steve[/37.237.80.61:8104] logged out due to client disconnect
+2017-09-13 [15:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [15:56:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理1个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [15:56:36] [Server thread/INFO]: [MVP+]yukozh : 造啊
+2017-09-13 [15:56:43] [Server thread/INFO]: [MVP+]yukozh : 没方块？
+2017-09-13 [15:56:43] [Server thread/INFO]: NANAzk33 : 怎么回家
+2017-09-13 [15:56:57] [Server thread/INFO]: [MVP+]Staldc123 : 这....
+2017-09-13 [15:56:59] [Server thread/INFO]: [-老司机-]2136131645 : 你设置家了吗
+2017-09-13 [15:57:04] [Server thread/INFO]: NANAzk33 : 嗯嗯
+2017-09-13 [15:57:08] [Server thread/INFO]: NANAzk33 : yyy
+2017-09-13 [15:57:21] [Server thread/INFO]: [MVP+]yukozh : 何
+2017-09-13 [15:57:21] [Server thread/INFO]: [-老司机-]2136131645 : 输入/回家 家的名字
+2017-09-13 [15:57:25] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [15:57:42] [Server thread/INFO]: [MVP+]Staldc123 : 没方块
+2017-09-13 [15:58:12] [Server thread/INFO]: NANAzk33 : 进趟成真不容易
+2017-09-13 [15:58:40] [Server thread/INFO]: [MVP+]yukozh : 你喜欢圣马颜色
+2017-09-13 [15:58:43] [Server thread/INFO]: [-老司机-]2136131645 : 那些不要了
+2017-09-13 [15:58:55] [Server thread/INFO]: [MVP+]Staldc123 : 什么都可以
+2017-09-13 [15:58:59] [Server thread/INFO]: [MVP+]yukozh : 我帮你造
+2017-09-13 [15:59:12] [Server thread/INFO]: NANAzk33 : 粉色
+2017-09-13 [15:59:34] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [16:00:36] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:36] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:37] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:37] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:37] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:38] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:44] [Server thread/INFO]: [MVP+]Staldc123 : ....
+2017-09-13 [16:00:48] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:49] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:49] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:49] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:49] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:50] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:50] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:50] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:51] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:51] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:51] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:52] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:53] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:53] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:53] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:54] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:54] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:54] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:55] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:55] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:55] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:55] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:56] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:00:56] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:00:57] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:00:57] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:57] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:57] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:58] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:58] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:00:58] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:00:59] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:00:59] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:00:59] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:01:00] [Server thread/INFO]: * 2136131645 服务器一分钟后重启
+2017-09-13 [16:01:00] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:01:01] [Server thread/INFO]: * 2136131645 1234567890abce
+2017-09-13 [16:01:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:01:03] [Server thread/INFO]: 2136131645 died
+2017-09-13 [16:01:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:01:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:01:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [16:02:04] [Server thread/WARNING]: NANAzk33 moved wrongly!
+2017-09-13 [16:02:27] [Server thread/INFO]: [MVP+]Staldc123 : 你有红石吗
+2017-09-13 [16:02:52] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [16:02:55] [Server thread/WARNING]: 2136131645 moved wrongly!
+2017-09-13 [16:03:07] [Server thread/INFO]: [MVP+]yukozh : 有
+2017-09-13 [16:03:17] [Server thread/INFO]: [MVP+]Staldc123 : 给我一组
+2017-09-13 [16:03:27] [Server thread/INFO]: [MVP+]yukozh : 有
+2017-09-13 [16:03:36] [Server thread/INFO]: [MVP+]Staldc123 : 我要弄红石们
+2017-09-13 [16:04:05] [Server thread/INFO]: NANAzk33 : 我怎么找你们
+2017-09-13 [16:04:13] [Server thread/INFO]: [MVP+]yukozh : 自己拿
+2017-09-13 [16:04:38] [Server thread/INFO]: [MVP+]Staldc123 : 可以了
+2017-09-13 [16:04:42] [Server thread/INFO]: [-老司机-]2136131645 : 输入/找人 id
+2017-09-13 [16:04:46] [Server thread/INFO]: [MVP+]yukozh : 你有钱么
+2017-09-13 [16:04:53] [Server thread/INFO]: [MVP+]Staldc123 : 有没有活塞
+2017-09-13 [16:05:00] [Server thread/INFO]: [MVP+]yukozh : 没有
+2017-09-13 [16:05:05] [Server thread/INFO]: [MVP+]Staldc123 : ....
+2017-09-13 [16:05:14] [Server thread/INFO]: [MVP+]yukozh : 弄下领地
+2017-09-13 [16:05:33] [Server thread/INFO]: [MVP+]yukozh : 钱弄领地
+2017-09-13 [16:05:40] [Server thread/INFO]: [MVP+]Staldc123 : 等一下我
+2017-09-13 [16:06:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:06:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:06:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:06:22] [Server thread/INFO]: Staldc123 left the game
+2017-09-13 [16:06:22] [Server thread/INFO]: Staldc123[/117.136.79.176:15887] logged out due to client disconnect
+2017-09-13 [16:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:06:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理5个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [16:07:59] [Server thread/INFO]: NANAzk33 : 。。。。。
+2017-09-13 [16:08:07] [Server thread/INFO]: NANAzk33 : 怎么都不在
+2017-09-13 [16:08:17] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [16:08:19] [Server thread/INFO]: Steve[/210.6.140.234:54535] [ClientID: -12184414918480615] logged in with entity id 2658 at (world, 289.4535, 55.8, 31.3379)
+2017-09-13 [16:08:21] [Server thread/INFO]: Staldc123[/117.136.79.176:15890] [ClientID: 5810197160121274567] logged in with entity id 2659 at (world, 57.7828, 67, -371.2309)
+2017-09-13 [16:08:21] [Server thread/INFO]: Steve joined the game
+2017-09-13 [16:08:22] [Server thread/INFO]: Staldc123 joined the game
+2017-09-13 [16:08:30] [Server thread/INFO]: RoyBlahBlah[/39.109.169.80:61470] [ClientID: 6445752726955809211] logged in with entity id 2660 at (th, 82.6061, 73.3747, 234.0528)
+2017-09-13 [16:08:32] [Server thread/INFO]: RoyBlahBlah joined the game
+2017-09-13 [16:08:34] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [16:08:35] [Server thread/INFO]: [MVP+]Staldc123 : 好了
+2017-09-13 [16:08:42] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-13 [16:08:48] [Server thread/INFO]: [MVP+]Staldc123 : 什么鬼
+2017-09-13 [16:09:04] [Server thread/INFO]: Steve left the game
+2017-09-13 [16:09:04] [Server thread/INFO]: Steve[/210.6.140.234:54535] logged out due to client disconnect
+2017-09-13 [16:09:04] [Server thread/INFO]: [MVP+]yukozh : 龙头
+2017-09-13 [16:09:17] [Server thread/INFO]: [MVP+]RoyBlahBlah : 就想问一下我们服有几个mvp＋……
+2017-09-13 [16:09:28] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [16:09:28] [Server thread/INFO]: [MVP+]Staldc123 : ....
+2017-09-13 [16:09:31] [Server thread/INFO]: OPU[/59.149.50.144:52259] logged out due to You are banned
+2017-09-13 [16:09:39] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-13 [16:10:07] [Server thread/INFO]: [MVP+]RoyBlahBlah : 我还是去自定义称号吧……
+2017-09-13 [16:10:53] [Server thread/INFO]: [MVP+]yukozh : 有钱么圈领地
+2017-09-13 [16:10:59] [Server thread/INFO]: [MVP+]Staldc123 : 有
+2017-09-13 [16:11:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:11:11] [Server thread/INFO]: [MVP+]yukozh : 跟我来
+2017-09-13 [16:11:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:11:15] [Server thread/INFO]: [MVP+]Staldc123 : 哦
+2017-09-13 [16:11:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:11:19] [Server thread/INFO]: NANAzk33 : 你咋弄这么远
+2017-09-13 [16:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:11:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [16:11:24] [Server thread/INFO]: NANAzk33 : 我嘛？
+2017-09-13 [16:11:27] [Server thread/INFO]: [MVP+]Staldc123 : 不知道
+2017-09-13 [16:11:27] [Server thread/INFO]: [MVP+]RoyBlahBlah : 一共就五个人三个大佬
+2017-09-13 [16:11:28] [Server thread/INFO]: [MVP+]yukozh : 在这里
+2017-09-13 [16:11:30] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-13 [16:11:33] [Server thread/INFO]: [MVP+]yukozh : 打
+2017-09-13 [16:11:55] [Server thread/INFO]: [MVP+]yukozh : 打/startp
+2017-09-13 [16:12:08] [Server thread/INFO]: [MVP+]RoyBlahBlah : yukozh
+2017-09-13 [16:12:21] [Server thread/INFO]: [MVP+]RoyBlahBlah : 你知道城堡在那么？？
+2017-09-13 [16:12:22] [Server thread/INFO]: [MVP+]yukozh : 好了么
+2017-09-13 [16:12:35] [Server thread/INFO]: [/59.86.8.210:56299] logged out due to client disconnect
+2017-09-13 [16:12:48] [Server thread/INFO]: [MVP+]Staldc123 : 好了
+2017-09-13 [16:12:54] [Server thread/INFO]: [/59.86.8.210:56299] logged out due to client disconnect
+2017-09-13 [16:12:55] [Server thread/INFO]: [MVP+]yukozh : 在这里
+2017-09-13 [16:13:15] [Server thread/INFO]: [MVP+]yukozh : 打/endp
+2017-09-13 [16:13:16] [Server thread/INFO]: NANAzk33 : 能把我弄在大道边嘛
+2017-09-13 [16:13:21] [Server thread/INFO]: [MVP+]yukozh : 我这
+2017-09-13 [16:13:37] [Server thread/INFO]: [MVP+]yukozh : 好了么
+2017-09-13 [16:14:12] [Server thread/INFO]: [MVP+]Staldc123 : 好了
+2017-09-13 [16:14:13] [Server thread/INFO]: [MVP+]yukozh : 。。
+2017-09-13 [16:14:38] [Server thread/INFO]: [MVP+]yukozh : 点牌子
+2017-09-13 [16:14:49] [Server thread/INFO]: [MVP+]Staldc123 : 好了
+2017-09-13 [16:14:56] [Server thread/INFO]: [MVP+]yukozh : 你的领地了
+2017-09-13 [16:14:56] [Server thread/INFO]: qaq[/220.133.90.161:58346] [ClientID: 1630300853440506382] logged in with entity id 2668 at (world, 142.3242, 70, 121.8367)
+2017-09-13 [16:14:59] [Server thread/INFO]: qaq joined the game
+2017-09-13 [16:15:13] [Server thread/INFO]: [MVP+]Staldc123 : 我也要领地了
+2017-09-13 [16:15:14] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:15:16] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:15:27] [Server thread/INFO]: [MVP+]Staldc123 : 我也有领域了
+2017-09-13 [16:15:35] [Server thread/INFO]: [MVP+]yukozh : 把我拉进来么
+2017-09-13 [16:15:38] [Server thread/INFO]: NANAzk33 : 喝彩
+2017-09-13 [16:15:39] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-13 [16:15:40] [Server thread/INFO]: qaq left the game
+2017-09-13 [16:15:40] [Server thread/INFO]: qaq[/220.133.90.161:58346] logged out due to timeout
+2017-09-13 [16:15:53] [Server thread/INFO]: qaq[/220.133.90.161:60259] [ClientID: 1630300853440506382] logged in with entity id 2669 at (world, 2798.8997, 70, 1867.5511)
+2017-09-13 [16:15:57] [Server thread/INFO]: qaq joined the game
+2017-09-13 [16:15:59] [Server thread/INFO]: [MVP+]Staldc123 : 昨弄
+2017-09-13 [16:16:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:16:05] [Server thread/INFO]: [MVP+]yukozh : 等我
+2017-09-13 [16:16:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:16:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:16:19] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:19] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:16:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理3个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [16:16:23] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:23] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:25] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:26] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:33] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:33] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:36] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:36] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:38] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:38] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:40] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:40] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:43] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:43] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:45] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:45] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:48] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:48] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:50] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:50] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:54] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:54] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:57] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:57] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:59] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:16:59] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:02] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:02] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:04] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:04] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:07] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:07] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:09] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:09] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:13] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:13] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:15] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:15] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:17] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:17] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:19] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:19] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:22] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:22] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:23] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:23] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:27] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:27] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:30] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:30] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:32] [Server thread/INFO]: [MVP+]RoyBlahBlah : 好卡……
+2017-09-13 [16:17:35] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:17:35] [Server thread/INFO]: qaq suffocated in a wall
+2017-09-13 [16:18:02] [Server thread/INFO]: [MVP+]yukozh : 点牌子
+2017-09-13 [16:18:07] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:18:07] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:18:07] [Server thread/INFO]: [MVP+]Staldc123 : 哦
+2017-09-13 [16:18:17] [Server thread/INFO]: [MVP+]yukozh : 打错了
+2017-09-13 [16:18:28] [Server thread/INFO]: [MVP+]Staldc123 : ...
+2017-09-13 [16:19:08] [Server thread/INFO]: [MVP+]yukozh : 点牌子
+2017-09-13 [16:19:14] [Server thread/INFO]: [港澳同胞]qaq : '
+2017-09-13 [16:19:19] [Server thread/INFO]: yukozh left the game
+2017-09-13 [16:19:19] [Server thread/INFO]: yukozh[/125.54.27.121:63887] logged out due to timeout
+2017-09-13 [16:19:21] [Server thread/INFO]: [帅哥]qaq : '
+2017-09-13 [16:19:32] [Server thread/INFO]: yukozh[/125.54.27.121:57731] [ClientID: 6797555042684619036] logged in with entity id 2676 at (world, 56.3588, 70, -374.243)
+2017-09-13 [16:19:34] [Server thread/INFO]: yukozh joined the game
+2017-09-13 [16:19:42] [Server thread/INFO]: [MVP+]Staldc123 : 点了
+2017-09-13 [16:20:07] [Server thread/INFO]: yukozh left the game
+2017-09-13 [16:20:07] [Server thread/INFO]: yukozh[/125.54.27.121:57731] logged out due to client disconnect
+2017-09-13 [16:20:16] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:17] [Server thread/INFO]: yukozh[/125.54.27.121:57731] [ClientID: 6797555042684619036] logged in with entity id 2677 at (world, 60.1293, 70.554, -374.5395)
+2017-09-13 [16:20:18] [Server thread/INFO]: yukozh joined the game
+2017-09-13 [16:20:21] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:21] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:22] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:23] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:24] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:27] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:28] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:44] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:45] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:45] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:46] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:46] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:46] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:47] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:20:47] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:21:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:21:04] [Server thread/INFO]: NANAzk33 left the game
+2017-09-13 [16:21:04] [Server thread/INFO]: NANAzk33[/119.179.99.6:30749] logged out due to client disconnect
+2017-09-13 [16:21:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:21:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:21:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [16:21:37] [Server thread/INFO]: [MVP+]yukozh : 那为什么我没权限
+2017-09-13 [16:21:46] [Server thread/INFO]: [MVP+]Staldc123 : 不知道
+2017-09-13 [16:22:24] [Server thread/INFO]: [MVP+]yukozh : 那就奇怪了
+2017-09-13 [16:22:37] [Server thread/INFO]: [MVP+]yukozh : 我再打一次
+2017-09-13 [16:22:50] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:22:51] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:23:19] [Server thread/INFO]: [MVP+]yukozh : 点牌子
+2017-09-13 [16:23:46] [Server thread/INFO]: [MVP+]Staldc123 : 点了
+2017-09-13 [16:25:05] [Server thread/INFO]: Staldc123 left the game
+2017-09-13 [16:25:05] [Server thread/INFO]: Staldc123[/117.136.79.176:15890] logged out due to client disconnect
+2017-09-13 [16:25:12] [Server thread/INFO]: qaq fell out of the world
+2017-09-13 [16:25:46] [Server thread/INFO]: [帅哥]qaq : 你們在哪
+2017-09-13 [16:26:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:26:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:26:15] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:26:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:26:18] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:26:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
+2017-09-13 [16:26:25] [Server thread/WARNING]: qaq moved wrongly!
+2017-09-13 [16:26:38] [Server thread/INFO]: qaq left the game
+2017-09-13 [16:26:38] [Server thread/INFO]: qaq[/220.133.90.161:60259] logged out due to client disconnect
+2017-09-13 [16:27:05] [Server thread/INFO]: [MVP+]yukozh : 。。。
+2017-09-13 [16:27:14] [Server thread/INFO]: [MVP+]yukozh : 没看到
+2017-09-13 [16:28:03] [Server thread/INFO]: [MVP+]yukozh : 怎么给权限
+2017-09-13 [16:28:08] [Server thread/INFO]: [MVP+]RoyBlahBlah : 额
+2017-09-13 [16:28:10] [Server thread/INFO]: [MVP+]yukozh : 你知道么
+2017-09-13 [16:28:12] [Server thread/INFO]: [MVP+]RoyBlahBlah : 立个牌子
+2017-09-13 [16:28:17] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-13 [16:28:19] [Server thread/INFO]: [MVP+]yukozh : 怎么打
+2017-09-13 [16:28:22] [Server thread/INFO]: [MVP+]RoyBlahBlah : ……
+2017-09-13 [16:28:25] [Server thread/INFO]: [MVP+]RoyBlahBlah : 来了
+2017-09-13 [16:29:00] [Server thread/INFO]: liuliu2008[/101.87.228.242:60731] [ClientID: 929010287539777749] logged in with entity id 2696 at (th, -15.7277, 85.5, -1.9131)
+2017-09-13 [16:29:01] [Server thread/INFO]: liuliu2008 joined the game
+2017-09-13 [16:29:11] [Server thread/INFO]: [MVP+]RoyBlahBlah : invit谁啊你么？？
+2017-09-13 [16:29:26] [Server thread/INFO]: [MVP+]RoyBlahBlah : invite
+2017-09-13 [16:29:35] [Server thread/INFO]: [MVP+]RoyBlahBlah : 你要给谁权限
+2017-09-13 [16:29:36] [Server thread/INFO]: [MVP+]yukozh : 这块地编号是553
+2017-09-13 [16:29:48] [Server thread/INFO]: [MVP+]yukozh : 给我
+2017-09-13 [16:30:12] [Server thread/INFO]: [MVP+]RoyBlahBlah : 你试一下
+2017-09-13 [16:30:29] [Server thread/INFO]: [MVP+]yukozh : 要让他上线
+2017-09-13 [16:30:34] [Server thread/INFO]: [MVP+]RoyBlahBlah : 好
+2017-09-13 [16:30:36] [Server thread/INFO]: [MVP+]RoyBlahBlah : 我走了
+2017-09-13 [16:30:40] [Server thread/INFO]: [MVP+]RoyBlahBlah : 应该是可以了
+2017-09-13 [16:30:47] [Server thread/INFO]: [MVP+]yukozh : 拜
+2017-09-13 [16:30:56] [Server thread/WARNING]: liuliu2008 moved too fast, reverting movement
+2017-09-13 [16:31:02] [Server thread/INFO]: [ 自由世界清洁工 ] 将在20秒后清除所有掉落物品和生物
+2017-09-13 [16:31:07] [Server thread/INFO]: * liuliu2008 说：繁华之星被服主-评价4星级
+2017-09-13 [16:31:12] [Server thread/INFO]: [ 自由世界清洁工 ] 将在10秒后清除所有掉落物品和生物
+2017-09-13 [16:31:17] [Server thread/INFO]: [ 自由世界清洁工 ] 将在5秒后清除所有掉落物品和生物
+2017-09-13 [16:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可爱的动物⊙﹏⊙
+2017-09-13 [16:31:22] [Server thread/INFO]: [ 自由世界清洁工 ] 共清理0个可怜的路人掉滴东西⊙▽⊙
