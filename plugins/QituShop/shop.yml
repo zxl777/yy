@@ -1039,7 +1039,7 @@
 181:67:-273:th:
   kind: C
   name: Devil
-  count: "59"
+  count: 49
   money: "45"
   if: 100
   id: "360"
@@ -1413,4 +1413,11 @@
   money: "400"
   if: 100
   id: "266"
+95:70:157:zy:
+  kind: C
+  name: "2136131645"
+  count: "1000"
+  money: "1"
+  if: 100
+  id: "57"
 ...
