@@ -4807,6 +4807,7 @@
     snowball0913: true
     kwkkwk123: true
     Acve: true
+    qiangpojun1: true
   expires: ~
 518:
   ID: 518
@@ -5128,7 +5129,12 @@
   price: 369000
   owner: qiangpojun1
   level: th
-  invitee: []
+  invitee:
+    xiaochuyin: true
+    RoyBlahBlah: true
+    mc_ROCK: true
+    OPU: true
+    Devil: true
   expires: ~
 548:
   ID: 548
@@ -5283,6 +5289,40 @@
   endZ: -293
   price: 569400
   owner: top_ray
+  level: th
+  invitee: []
+  expires: ~
+562:
+  ID: 562
+  startX: -220
+  endX: -146
+  startZ: -232
+  endZ: -158
+  price: 532900
+  owner: xiaochuyin
+  level: th
+  invitee:
+    qiangpojun1: true
+  expires: ~
+563:
+  ID: 563
+  startX: -193
+  endX: -167
+  startZ: -144
+  endZ: -118
+  price: 62500
+  owner: xiaochuyin
+  level: th
+  invitee: []
+  expires: ~
+564:
+  ID: 564
+  startX: -134
+  endX: -132
+  startZ: 280
+  endZ: 285
+  price: 400
+  owner: BINBIN
   level: th
   invitee: []
   expires: ~

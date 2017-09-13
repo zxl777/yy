@@ -856,31 +856,17 @@
 136:66:-91:th:
   kind: C
   name: mc_ROCK
-  count: 62
+  count: 60
   money: "90"
   if: 100
   id: "393"
 136:66:-90:th:
   kind: C
   name: mc_ROCK
-  count: "51"
+  count: 50
   money: "100"
   if: 100
   id: "297"
-136:66:-92:th:
-  kind: C
-  name: mc_ROCK
-  count: 63
-  money: "12000"
-  if: 100
-  id: "57"
-136:66:-93:th:
-  kind: C
-  name: mc_ROCK
-  count: 48
-  money: "12000"
-  if: 100
-  id: "57"
 -2321:66:274:th:
   kind: C
   name: top_ray
@@ -1025,7 +1011,7 @@
 208:65:-275:th:
   kind: C
   name: Devil
-  count: "50"
+  count: 49
   money: "1050"
   if: 100
   id: "264"
@@ -1143,7 +1129,7 @@
 -215:64:-184:th:
   kind: C
   name: xiaochuyin
-  count: 109
+  count: 0
   money: "100"
   if: 100
   id: "264"
@@ -1360,7 +1346,7 @@
 -311:57:183:th:
   kind: C
   name: "2136131645"
-  count: 999
+  count: 871
   money: "1"
   if: 100
   id: "57"
@@ -1389,6 +1375,370 @@
   kind: C
   name: "2136131645"
   count: 999
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-388:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-389:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-390:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-391:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-392:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-393:th:
+  kind: C
+  name: Come
+  count: "56"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-388:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-389:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-390:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-391:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-392:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-393:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-393:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-392:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-391:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-390:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-389:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-388:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-393:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-392:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-391:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-390:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-389:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-388:th:
+  kind: C
+  name: Come
+  count: 0
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-394:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-394:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-395:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-395:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-396:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-396:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-397:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-397:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-398:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-398:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-399:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-399:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-394:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+136:66:-92:th:
+  kind: C
+  name: mc_ROCK
+  count: "64"
+  money: "12000"
+  if: 100
+  id: "57"
+209:61:-394:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-395:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-395:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+136:66:-93:th:
+  kind: C
+  name: mc_ROCK
+  count: "64"
+  money: "12000"
+  if: 100
+  id: "57"
+209:62:-396:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+136:66:-96:th:
+  kind: C
+  name: mc_ROCK
+  count: "64"
+  money: "12000"
+  if: 100
+  id: "57"
+209:61:-396:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-397:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-397:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-398:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-398:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-399:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+136:66:-97:th:
+  kind: C
+  name: mc_ROCK
+  count: "64"
+  money: "12000"
+  if: 100
+  id: "57"
+209:61:-399:th:
+  kind: C
+  name: Come
+  count: "59"
   money: "1"
   if: 100
   id: "57"
