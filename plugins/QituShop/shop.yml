@@ -1018,7 +1018,7 @@
 181:67:-273:th:
   kind: C
   name: Devil
-  count: 49
+  count: 47
   money: "45"
   if: 100
   id: "360"
@@ -1735,4 +1735,32 @@
   money: "1"
   if: 100
   id: "57"
+182:67:-273:th:
+  kind: C
+  name: AllHELLOaaa1227
+  count: 99999999999993
+  money: "2017"
+  if: "35"
+  id: "57"
+183:67:-273:th:
+  kind: C
+  name: AllHELLOaaa1227
+  count: 99999999999997
+  money: "1949"
+  if: "50"
+  id: "41"
+184:67:-273:th:
+  kind: C
+  name: AllHELLOaaa1227
+  count: 99999999999998
+  money: "1840"
+  if: "85"
+  id: "42"
+185:67:-273:th:
+  kind: C
+  name: AllHELLOaaa1227
+  count: "99999999999999"
+  money: "100"
+  if: 100
+  id: "279"
 ...
