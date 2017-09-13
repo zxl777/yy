@@ -772,13 +772,6 @@
   kind: E
   name: §9港澳同胞
   money: "0"
-142:64:107:world:
-  kind: C
-  name: power777888
-  count: 0
-  money: "1000"
-  if: 100
-  id: "264"
 36:70:-78:world:
   kind: C
   name: xy520
@@ -1378,20 +1371,6 @@
   money: "1"
   if: 100
   id: "57"
-207:62:-388:th:
-  kind: C
-  name: Come
-  count: 0
-  money: "1"
-  if: 100
-  id: "57"
-207:62:-389:th:
-  kind: C
-  name: Come
-  count: 0
-  money: "1"
-  if: 100
-  id: "57"
 207:62:-390:th:
   kind: C
   name: Come
@@ -1420,17 +1399,10 @@
   money: "1"
   if: 100
   id: "57"
-207:61:-388:th:
-  kind: C
-  name: Come
-  count: 0
-  money: "1"
-  if: 100
-  id: "57"
 207:61:-389:th:
   kind: C
   name: Come
-  count: 0
+  count: "59"
   money: "1"
   if: 100
   id: "57"
@@ -1490,20 +1462,6 @@
   money: "1"
   if: 100
   id: "57"
-209:62:-389:th:
-  kind: C
-  name: Come
-  count: 0
-  money: "1"
-  if: 100
-  id: "57"
-209:62:-388:th:
-  kind: C
-  name: Come
-  count: 0
-  money: "1"
-  if: 100
-  id: "57"
 209:61:-393:th:
   kind: C
   name: Come
@@ -1529,20 +1487,6 @@
   kind: C
   name: Come
   count: "59"
-  money: "1"
-  if: 100
-  id: "57"
-209:61:-389:th:
-  kind: C
-  name: Come
-  count: 0
-  money: "1"
-  if: 100
-  id: "57"
-209:61:-388:th:
-  kind: C
-  name: Come
-  count: 0
   money: "1"
   if: 100
   id: "57"
@@ -1672,13 +1616,6 @@
   money: "12000"
   if: 100
   id: "57"
-209:62:-396:th:
-  kind: C
-  name: Come
-  count: "59"
-  money: "1"
-  if: 100
-  id: "57"
 136:66:-96:th:
   kind: C
   name: mc_ROCK
@@ -1736,6 +1673,62 @@
   if: 100
   id: "57"
 209:61:-399:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-388:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-388:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-388:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:62:-389:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+207:61:-388:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-389:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:61:-389:th:
+  kind: C
+  name: Come
+  count: "59"
+  money: "1"
+  if: 100
+  id: "57"
+209:62:-396:th:
   kind: C
   name: Come
   count: "59"

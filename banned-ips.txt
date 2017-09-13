@@ -1,0 +1,6 @@
+# Updated 09/13/17 21:19 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+113.117.7.179|2017-09-13 21:13:34 +0800|lihaoyy22|Forever|Banned by an operator.
+124.228.49.158|2017-09-13 21:17:04 +0800|Maker|Forever|Banned by an operator.
+116.230.187.39|2017-09-13 21:19:48 +0800|kkwwll|Forever|Banned by an operator.

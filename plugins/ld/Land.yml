@@ -3727,6 +3727,8 @@
   level: th
   invitee:
     hua_ji: true
+    xioachuyin: true
+    xiaochuyin: true
   expires: ~
 396:
   ID: 396
